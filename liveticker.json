@@ -631,5 +631,71 @@
     "tickertime": "07.02.2015 19:50",
     "minute": "61",
     "content": "Der agile Janse bricht rechts im Sechzehner durch und legt die Kugel in der Nähe der Grundlinie zurück in den Rückraum. Der heute bislang komplett unglücklich agierende Olić erreicht das Spielgerät nicht. Die Hannoveraner können klaren."
+  },
+  {
+    "id": "1308235",
+    "tickertime": "07.02.2015 19:51",
+    "minute": "63",
+    "content": "Hannover ist bemüht und auch weiterhin aktiv im Vorwärtsgang, erzeugt dabei aber insgesamt zu wenig Gefahr. Ändern soll das jetzt wohl Sobiech, der zur Einwechslung bereit steht."
+  },
+  {
+    "id": "1308236",
+    "event": {
+      "id": "15438086",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "14548",
+        "name": "Christian Schulz",
+        "firstname": "Christian",
+        "surname": "Schulz",
+        "fullname": "Christian Schulz",
+        "gender": "male",
+        "birthday": "01.04.1983",
+        "height": "185",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "63",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:51"
+    },
+    "tickertime": "07.02.2015 19:51",
+    "minute": "63",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Christian Schulz</span>"
+  },
+  {
+    "id": "1308238",
+    "event": {
+      "id": "15438089",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "132624",
+        "name": "Artur Sobiech",
+        "firstname": "Artur",
+        "surname": "Sobiech",
+        "fullname": "Artur Sobiech",
+        "gender": "male",
+        "birthday": "12.06.1990",
+        "height": "185",
+        "weight": "81"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "63",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:52"
+    },
+    "tickertime": "07.02.2015 19:52",
+    "minute": "63",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Artur Sobiech</span>"
   }
 ]
