@@ -949,5 +949,41 @@
     "tickertime": "07.02.2015 20:17",
     "minute": "89",
     "content": "Eckball von der rechten Seite für die Hannoveraner..."
+  },
+  {
+    "id": "1308377",
+    "tickertime": "07.02.2015 20:18",
+    "minute": "89",
+    "content": "... Stindls Ball landet bei Joselu am Elferpunkt, doch der kann die Kugel nicht kontrollieren. Trotzdem bleibt Hannover am Drücker..."
+  },
+  {
+    "id": "1308378",
+    "event": {
+      "id": "15438305",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "3189",
+        "name": "Marcell Jansen",
+        "firstname": "Marcell",
+        "surname": "Jansen",
+        "fullname": "Marcell Jansen",
+        "gender": "male",
+        "birthday": "04.11.1985",
+        "height": "191",
+        "weight": "89"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "07.02.2015 20:18"
+    },
+    "tickertime": "07.02.2015 20:18",
+    "minute": "90",
+    "content": "<b>Gelbe Karte für Marcell Jansen (Hamburger SV)</b> <br/>"
   }
 ]
