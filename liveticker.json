@@ -219,5 +219,35 @@
     "tickertime": "07.02.2015 18:55",
     "minute": "23",
     "content": "<b>Elfmeter verschossen von Joselu, Hannover 96</b> <br/>... Joselu vergibt leichtfertig! Der Stürmer joggt die paar Meter zum Ball und will ihn locker ins rechte Eck schieben. Drobný riecht den Braten, ist zur Stelle und wehrt den weder fest noch platziert genug geschossenen Strafstoß problemlos ab. Es bleibt beim 0:0."
+  },
+  {
+    "id": "1307990",
+    "event": {
+      "id": "15436855",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "22737",
+        "name": "Marcelo",
+        "firstname": "",
+        "surname": "Marcelo",
+        "fullname": "Marcelo Antônio Guedes Filho",
+        "gender": "male",
+        "birthday": "25.05.1987",
+        "height": "190",
+        "weight": "79"
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "own-goal",
+      "minute": "26",
+      "additional_person_id": "0",
+      "created": "07.02.2015 18:56"
+    },
+    "tickertime": "07.02.2015 18:56",
+    "minute": "26",
+    "content": "<b>Tooor für Hamburger SV, 1:0 durch Marcelo (Eigentor)</b> <br/>"
   }
 ]
