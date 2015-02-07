@@ -709,5 +709,41 @@
     "tickertime": "07.02.2015 19:52",
     "minute": "63",
     "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Artur Sobiech</span>"
+  },
+  {
+    "id": "1308257",
+    "tickertime": "07.02.2015 19:54",
+    "minute": "65",
+    "content": "Auf der Gegenseite brennt es lichterloh. Die Hamburger überbrücken nach einer Balleroberung schnell das Mittelfeld. Olić scheppert die Kugel flach und mit Wucht in den Sechzehner, wo Albornoz vor dem einschussbereiten Müller in höchster Not klärt."
+  },
+  {
+    "id": "1308260",
+    "event": {
+      "id": "15438114",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "132624",
+        "name": "Artur Sobiech",
+        "firstname": "Artur",
+        "surname": "Sobiech",
+        "fullname": "Artur Sobiech",
+        "gender": "male",
+        "birthday": "12.06.1990",
+        "height": "185",
+        "weight": "81"
+      },
+      "action": "goal",
+      "content": "2:1",
+      "kind": "head",
+      "minute": "66",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:55"
+    },
+    "tickertime": "07.02.2015 19:55",
+    "minute": "66",
+    "content": "<b>Tooor für Hannover 96, 2:1 durch Artur Sobiech</b> <br/>"
   }
 ]
