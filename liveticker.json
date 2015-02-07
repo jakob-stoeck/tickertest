@@ -775,5 +775,65 @@
     "tickertime": "07.02.2015 20:06",
     "minute": "76",
     "content": "Djourou trägt nach dem Seitenwechsel nicht nur die Kapitänsbinde, sondern hält den Laden hinten auch zusammen: Zum wiederholten Male klärt der Schweizer mit den ivorischen Wurzeln gut, in dieser Szene am Fünfer bei einem hohen Ball auf Sobiech. Der Pole sorgt mit seiner physischen Präsenz für einigen Betrieb seit seiner Hereinnahme und erzielte ja auch das so wichtige Anschlusstor."
+  },
+  {
+    "id": "1308312",
+    "event": {
+      "id": "15438226",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "259274",
+        "name": "Ronny Marcos",
+        "firstname": "Ronny",
+        "surname": "Marcos",
+        "fullname": "Ronny Marcos",
+        "gender": "male",
+        "birthday": "01.10.1993",
+        "height": "174",
+        "weight": "69"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "07.02.2015 20:06"
+    },
+    "tickertime": "07.02.2015 20:06",
+    "minute": "78",
+    "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Ronny Marcos</span>"
+  },
+  {
+    "id": "1308315",
+    "event": {
+      "id": "15438227",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "14948",
+        "name": "Gojko Kačar",
+        "firstname": "Gojko",
+        "surname": "Kačar",
+        "fullname": "Gojko Kačar",
+        "gender": "male",
+        "birthday": "26.01.1987",
+        "height": "185",
+        "weight": "84"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "07.02.2015 20:07"
+    },
+    "tickertime": "07.02.2015 20:07",
+    "minute": "78",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hamburger SV -> Gojko Kačar</span>"
   }
 ]
