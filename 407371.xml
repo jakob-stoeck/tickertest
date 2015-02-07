@@ -1,89 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<game half1-score-home="1" winner="" half3-score-home="0" guest-team-id="951" guest-long-name="Hannover 96" gamestate="2" home-short-name="Hamburg" team1-color="plain;16777215;16777215;13501190;0" penalty-score-home="0" eventcount="28" team2-color="plain;8192000;8192000;8192000;16777215" referee-name="Manuel Gr&#228;fe" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407371" date="2015-02-07T18:30:00Z" home-long-name="Hamburger SV" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="26" half4-score-guest="0" guest-short-name="Hannover" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153459" overtime-score-home="0" home-team-id="943" home-scorer-names="26;Marcelo (ET)" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39141" half2-score-home="0">
+<game half1-score-home="1" winner="" half3-score-home="0" guest-team-id="951" guest-long-name="Hannover 96" gamestate="2" home-short-name="Hamburg" team1-color="plain;16777215;16777215;13501190;0" penalty-score-home="0" eventcount="29" team2-color="plain;8192000;8192000;8192000;16777215" referee-name="Manuel Gr&#228;fe" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407371" date="2015-02-07T18:30:00Z" home-long-name="Hamburger SV" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="29" half4-score-guest="0" guest-short-name="Hannover" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153459" overtime-score-home="0" home-team-id="943" home-scorer-names="26;Marcelo (ET)" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39141" half2-score-home="0">
   <events type="array">
     <event section="2" label="1_39141_407371_1305583" team-id="0" game-id="407371" text="Der Hamburger SV spielt gegen Hannover 96.
-" headline="Herzlich willkommen!" playername="" id="10658331" date="2015-02-06T09:34:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="27" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Herzlich willkommen!" playername="" id="10658331" date="2015-02-06T09:34:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="28" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307834" team-id="0" game-id="407371" text="Nachlegen hei&#223;t die Devise f&#252;r die Gastgeber. Nach dem 3:0 in Paderborn unter der Woche und den Resultaten des bisherigen Spieltags ist der HSV aktuell 14. mit einem Punkt Vorsprung auf den Relegationsplatz. Die G&#228;ste aus Niedersachsen stehen auf den ersten Blick deutlich besser da, haben auf Rang acht aber auch nur f&#252;nf Z&#228;hler mehr als der heutige Gegner.
-" headline="Der Achte zu Gast beim 14." playername="" id="10670271" date="2015-02-07T16:58:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="26" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Der Achte zu Gast beim 14." playername="" id="10670271" date="2015-02-07T16:58:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="27" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307852" team-id="0" game-id="407371" text="1 Drobny - 4 Westermann, 5 Djourou, 32 Rajkovic, 31 Marcos - 20 Diaz, 23 van der Vaart - 27 Nicolai M&#252;ller, 7 Jansen - 17 Stieber, 8 Olic
-" headline="Aufstellung Hamburger SV " playername="" id="10670281" date="2015-02-07T17:10:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="25" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Aufstellung Hamburger SV " playername="" id="10670281" date="2015-02-07T17:10:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="26" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307854" team-id="0" game-id="407371" text="1 Zieler - 4 Hiroki Sakai, 25 Marcelo, 19 Christian Schulz, 3 Albornoz - 5 Salif Sane, 8 Schmiedebach - 21 Briand, 10 Stindl, 28 Kiyotake - 11 Joselu
-" headline="Aufstellung Hannover 96" playername="" id="10670301" date="2015-02-07T17:12:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="24" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Aufstellung Hannover 96" playername="" id="10670301" date="2015-02-07T17:12:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="25" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307857" team-id="0" game-id="407371" text="Die Zahlen beider Teams lassen heute nicht gerade ein Offensivfeuerwerk erwarten: W&#228;hrend Hamburg mit mageren 12 Treffern die mit Abstand schlechteste Offensive der gesamten Liga stellt, sind Hannovers 22 erzielte Tore der schw&#228;chste Wert in der oberen Tabellenh&#228;lfte.
-" headline="Magere Ausbeute" playername="" id="10670291" date="2015-02-07T17:12:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="23" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Magere Ausbeute" playername="" id="10670291" date="2015-02-07T17:12:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="24" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307863" team-id="0" game-id="407371" text="In keinem fremden Stadion schoss Hannover so viele Tore wie die 27 in Hamburg, aber in den vergangenen f&#252;nf Gastspielen dort trafen sie insgesamt nur einmal.
-" headline="Treffsicher im Volkspark, aber..." playername="" id="10670311" date="2015-02-07T17:15:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="22" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Treffsicher im Volkspark, aber..." playername="" id="10670311" date="2015-02-07T17:15:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="23" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307870" team-id="0" game-id="407371" text="Joe Zinnbauer vertraut heute erstmals in der Startelf auf Winter-Neuzugang Marcelo Diaz. Der vom FC Basel verpflichtete chilenische WM-Fahrer soll zusammen mit Rafael van der Vaart die Mittelfeldzentrale der Hanseaten beackern. Jiracek rotiert daf&#252;r auf die Bank.
-" headline="Neuzugang in der Startelf" playername="" id="10670331" date="2015-02-07T17:21:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="21" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Neuzugang in der Startelf" playername="" id="10670331" date="2015-02-07T17:21:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="22" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307871" team-id="0" game-id="407371" text="Vor ihrem 900. Bundesliga-Spiel sind die Hannoveraner seit dem 7. November (2:0 in Berlin) ausw&#228;rts sieglos.
-" headline="Negativ-Serie" playername="" id="10670321" date="2015-02-07T17:21:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="20" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Negativ-Serie" playername="" id="10670321" date="2015-02-07T17:21:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="21" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307874" team-id="0" game-id="407371" text="Der HSV verlor seine vergangenen beiden Heimspiele zu Null und weist mit 179 die meisten Heim-Niederlagen aller Klubs auf.
-" headline="Schwache Heim-Bilanz" playername="" id="10670341" date="2015-02-07T17:22:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="19" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Schwache Heim-Bilanz" playername="" id="10670341" date="2015-02-07T17:22:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="20" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307878" team-id="0" game-id="407371" text="Tayfun Korkut vertraut exakt der gleichen Elf wie zuletzt gegen Mainz. Das bedeutet, dass der im Winter vom FC Valencia ausgeliehene Joao Pereira nach wie vor auf sein Deb&#252;t in der Bundesliga warten muss.
-" headline="Keine &#196;nderungen bei 96" playername="" id="10670351" date="2015-02-07T17:24:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="18" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Keine &#196;nderungen bei 96" playername="" id="10670351" date="2015-02-07T17:24:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="19" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307881" team-id="0" game-id="407371" text="In den vergangenen sechs Duellen zwischen Hannover und dem HSV gewann immer der Gastgeber.
-" headline="Hoffnung f&#252;r den HSV?" playername="" id="10670361" date="2015-02-07T17:25:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="17" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Hoffnung f&#252;r den HSV?" playername="" id="10670361" date="2015-02-07T17:25:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="18" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307887" team-id="0" game-id="407371" text="Mit nur einem Punkt aus den ersten beiden Spielen 2015 erwischte Hannover seinen schw&#228;chsten R&#252;ckrundenstart seit f&#252;nf Jahren.
-" headline="96 noch im Winterschlaf" playername="" id="10670371" date="2015-02-07T17:28:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:33Z" sort="16" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="96 noch im Winterschlaf" playername="" id="10670371" date="2015-02-07T17:28:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="17" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="2" label="1_39141_407371_1307890" team-id="0" game-id="407371" text="Von den letzten 17 Toren der 96er fielen zehn nach Standards.
-" headline="Gef&#228;hrlich nach ruhenden B&#228;llen" playername="" id="10670381" date="2015-02-07T17:29:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="15" game-minute="-1" player-id="0" gameday-id="39141">
+" headline="Gef&#228;hrlich nach ruhenden B&#228;llen" playername="" id="10670381" date="2015-02-07T17:29:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="16" game-minute="-1" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307898" team-id="0" game-id="407371" text="Manuel Gr&#228;fe er&#246;ffnet die Partie. Rund 50.000 Zuschauern sind in der Imtech-Arena.
-" headline="Spielbeginn" playername="" id="10670391" date="2015-02-07T17:31:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="14" game-minute="1" player-id="0" gameday-id="39141">
+" headline="Spielbeginn" playername="" id="10670391" date="2015-02-07T17:31:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="15" game-minute="1" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307905" team-id="0" game-id="407371" text="Van der Vaart f&#252;hrt nach 50 Sekunden aus, doch 96 kl&#228;rt.
-" headline="Erste Ecke f&#252;r den HSV" playername="" id="10670401" date="2015-02-07T17:32:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="13" game-minute="1" player-id="0" gameday-id="39141">
+" headline="Erste Ecke f&#252;r den HSV" playername="" id="10670401" date="2015-02-07T17:32:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="14" game-minute="1" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307912" team-id="0" game-id="407371" text="Auf der anderen Seite auch die erste Ecke f&#252;r Hannover. Kiyotakes Hereingabe wird von einem Hamburger weitergeleitet auf Marcelo, der aus 16 Metern aber jegliche Pr&#228;zision vermissen l&#228;sst.
-" headline="Zu hoch" playername="" id="10670411" date="2015-02-07T17:34:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="12" game-minute="2" player-id="0" gameday-id="39141">
+" headline="Zu hoch" playername="" id="10670411" date="2015-02-07T17:34:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="13" game-minute="2" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307920" team-id="0" game-id="407371" text="Der HSV steht sich nach einer langen Hereingabe selbst im Weg. Sowohl Westermann als auch Rajkovic steigen im Strafraum zum Kopfball hoch - mit der Folge, dass Rajkovic &#252;ber das Tor k&#246;pft.
-" headline="Missverst&#228;ndnis" playername="" id="10670421" date="2015-02-07T17:37:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="11" game-minute="5" player-id="0" gameday-id="39141">
+" headline="Missverst&#228;ndnis" playername="" id="10670421" date="2015-02-07T17:37:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="12" game-minute="5" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307924" team-id="0" game-id="407371" text="Der Hannoveraner marschiert durchs Zentrum, niemand greift ihn an. Aus 20 Metern zimmert er die Kugel Richtung Tor. Drobny ist noch mit den Fingerspitzen dran und kl&#228;rt zur Ecke.
-" headline="Stindl packt den Hammer aus" playername="" id="10670431" date="2015-02-07T17:38:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="10" game-minute="6" player-id="0" gameday-id="39141">
+" headline="Stindl packt den Hammer aus" playername="" id="10670431" date="2015-02-07T17:38:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="11" game-minute="6" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307931" team-id="0" game-id="407371" text="Kiyotake flankt von links, Joselu l&#228;sst durch an den langen Pfosten. Dort versucht es Stindl aus zehn Metern mit dem Innenrist, platziert den Ball dann aber &#252;ber dem Geh&#228;use der Hamburger.
-" headline="Wieder Stindl" playername="" id="10670441" date="2015-02-07T17:40:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="9" game-minute="8" player-id="0" gameday-id="39141">
+" headline="Wieder Stindl" playername="" id="10670441" date="2015-02-07T17:40:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="10" game-minute="8" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307938" team-id="0" game-id="407371" text="Sane erobert in der eigenen H&#228;lfte den Ball. Den letzten Pass bringt Kiyotake auf Stindl, dessen Versuch aus 14 Metern abgef&#228;lscht wird.
-" headline="96 kontert" playername="" id="10670451" date="2015-02-07T17:41:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="8" game-minute="10" player-id="0" gameday-id="39141">
+" headline="96 kontert" playername="" id="10670451" date="2015-02-07T17:41:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="9" game-minute="10" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307942" team-id="0" game-id="407371" text="Hannover nimmt hier das Heft des Handelns in die Hand - auch gezwungen dadurch, dass die Gastgeber es hier anfangs deutlich defensiver angehen.
-" headline="HSV wartet ab" playername="" id="10670461" date="2015-02-07T17:43:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="7" game-minute="12" player-id="0" gameday-id="39141">
+" headline="HSV wartet ab" playername="" id="10670461" date="2015-02-07T17:43:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="8" game-minute="12" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307946" team-id="0" game-id="407371" text="Van der Vaart bringt einen Freisto&#223; von der linken Seite ins Zentrum. Westermann steigt gegen Sane hoch, kommt zum Kopfball, setzt ihn aber einige Meter neben den rechten Pfosten. Zieler muss gar nicht erst eingreifen.
-" headline="Daneben" playername="" id="10670471" date="2015-02-07T17:44:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="6" game-minute="12" player-id="0" gameday-id="39141">
+" headline="Daneben" playername="" id="10670471" date="2015-02-07T17:44:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:13Z" sort="7" game-minute="12" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307958" team-id="0" game-id="407371" text="Gute Aktion des HSV. Marcos kommt &#252;ber links, setzt sich stark gegen Sakai durch. Die Flanke bringt der Linksverteidiger haarscharf ins Zentrum, wo M&#252;ller nur ganz knapp verpasst.
-" headline="Da fehlt nicht viel" playername="" id="10670481" date="2015-02-07T17:49:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="5" game-minute="16" player-id="0" gameday-id="39141">
+" headline="Da fehlt nicht viel" playername="" id="10670481" date="2015-02-07T17:49:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:12Z" sort="6" game-minute="16" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307971" team-id="0" game-id="407371" text="Auch der HSV mischt mittlerweile gut mit und setzt hin und wieder Akzente. Die Teams liefern zwar kein Spektakel ab, aber es ist durchaus eine interessante Begegnung bislang.
-" headline="Ausgeglichene Partie" playername="" id="10670491" date="2015-02-07T17:50:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="4" game-minute="19" player-id="0" gameday-id="39141">
+" headline="Ausgeglichene Partie" playername="" id="10670491" date="2015-02-07T17:50:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:12Z" sort="5" game-minute="19" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307973" team-id="0" game-id="407371" text="Aber im Zentrum ist es zu eng. Gleich f&#252;nf Hannoveraner machen an der 16-Meter-Linie dicht.
-" headline="Stieber auf M&#252;ller" playername="" id="10670501" date="2015-02-07T17:52:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="3" game-minute="20" player-id="0" gameday-id="39141">
+" headline="Stieber auf M&#252;ller" playername="" id="10670501" date="2015-02-07T17:52:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:12Z" sort="4" game-minute="20" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307984" team-id="0" game-id="407371" text="Van der Vaart kommt zu sp&#228;t gegen Sane. Es gibt zu Recht Elfmeter f&#252;r 96. Da es keine Verhinderung einer klaren Chance war, l&#228;sst Gr&#228;fe die Karte richtigerweise in der Tasche.
-" headline="Elfmeter f&#252;r Hannover!" playername="" id="10670521" date="2015-02-07T17:54:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="2" game-minute="22" player-id="0" gameday-id="39141">
+" headline="Elfmeter f&#252;r Hannover!" playername="" id="10670521" date="2015-02-07T17:54:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:12Z" sort="3" game-minute="22" player-id="0" gameday-id="39141">
     </event>
     <event section="1" label="1_39141_407371_1307983" team-id="0" game-id="407371" text="Was das schwach! Joselu joggt l&#228;ssig zum Ball und entscheidet sich f&#252;rs rechte Eck. Drobny ahnt das und pariert. Dieser Versuch erinnert stark an jenem von Schalkes Choupo-Moting zuletzt im Spiel beim FC Bayern.
-" headline="Elfmeter verschossen von Joselu, Hannover 96" playername="" id="10670511" date="2015-02-07T17:54:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T17:58:32Z" sort="1" game-minute="23" player-id="0" gameday-id="39141">
+" headline="Elfmeter verschossen von Joselu, Hannover 96" playername="" id="10670511" date="2015-02-07T17:54:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:12Z" sort="2" game-minute="23" player-id="0" gameday-id="39141">
     </event>
-    <event section="1" label="1_39141_407371_1307991" team-id="0" game-id="407371" text="
-" headline="Tooor f&#252;r  Hamburger SV, 1:0 durch  Marcelo (Eigentor)" playername="Marcelo" id="10670531" date="2015-02-07T17:58:32Z" type-id="53" whichteam="1" conference="0" updated-at="2015-02-07T17:58:32Z" sort="0" game-minute="26" player-id="0" gameday-id="39141">
+    <event section="1" label="1_39141_407371_1307991" team-id="0" game-id="407371" text="Was f&#252;r ein Bock! Sakai vert&#228;ndelt den Ball kurz vor der Mittellinie. Stieber startet den Konter &#252;ber links und bringt die Kugel scharf ins Zentrum. Marcelo ist da, f&#228;lscht den Ball mit dem Fu&#223; aber ungl&#252;cklich ins eigene Tor ab. Zieler hat bei dieser Bogenlampe keine Chance!
+" headline="Tooor f&#252;r Hamburger SV, 1:0 durch Marcelo (Eigentor)" playername="Marcelo" id="10670531" date="2015-02-07T17:58:32Z" type-id="53" whichteam="1" conference="1" updated-at="2015-02-07T18:03:12Z" sort="1" game-minute="26" player-id="0" gameday-id="39141">
+    </event>
+    <event section="1" label="1_39141_407371_1308007" team-id="0" game-id="407371" text="Zwei solch bittere Szenen binnen weniger Minuten k&#246;nnten den bis dato starken Niedersachsen nun nat&#252;rlich richtig zusetzen. Erst hat 96 selbst die dicke Chance zur F&#252;hrung, die dann durch den eigenen Mann f&#252;r den Gegner f&#228;llt. Ungl&#252;cklicher kann es ja schon fast nicht laufen.
+" headline="Knick bei 96?" playername="" id="10670541" date="2015-02-07T18:03:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-07T18:03:12Z" sort="0" game-minute="29" player-id="0" gameday-id="39141">
     </event>
   </events>
   <tabs type="array">
