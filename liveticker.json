@@ -997,5 +997,28 @@
     "tickertime": "07.02.2015 20:21",
     "minute": "90",
     "content": "Drei Minuten Nachspielzeit laufen. Ecke für Hannover, Zieler ist mit vorne..."
+  },
+  {
+    "id": "1308396",
+    "tickertime": "07.02.2015 20:22",
+    "minute": "90",
+    "content": "... Der Keeper ist jedoch kein Faktor bei der hohen Hereingabe, die über Umwege schließlich bei Drobný landet. Der HSV-Schlussmann macht das einmal mehr sehr souverän und wirft sich erst einmal auf die Kugel."
+  },
+  {
+    "id": "1308398",
+    "event": {
+      "id": "15438316",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "07.02.2015 20:22"
+    },
+    "tickertime": "07.02.2015 20:22",
+    "minute": "90",
+    "content": "<b>Spielende</b>"
   }
 ]
