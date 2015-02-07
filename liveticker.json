@@ -321,5 +321,28 @@
     "tickertime": "07.02.2015 19:16",
     "minute": "45",
     "content": "Eine Minute Nachspielzeit läuft..."
+  },
+  {
+    "id": "1308074",
+    "tickertime": "07.02.2015 19:17",
+    "minute": "45",
+    "content": "... Auf dem Platz herrscht gerade etwas Verwirrung, weil von den Rängen offenbar Pfiffe mit Trillerpfeifen kamen. Nach einem Schiedsrichterball bittet Gräfe die Teams erst einmal zum Pausentee."
+  },
+  {
+    "id": "1308075",
+    "event": {
+      "id": "15437483",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "first-half-end",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:17"
+    },
+    "tickertime": "07.02.2015 19:17",
+    "minute": "45",
+    "content": "<b>Ende 1. Halbzeit</b>"
   }
 ]
