@@ -859,5 +859,71 @@
     "tickertime": "07.02.2015 20:12",
     "minute": "83",
     "content": "Olić versetzt rechts an der Seite Sané, galoppiert dann in seinem typischen Laufstil in Richtung Grundlinie und bekommt von dort aus den Ball nicht gefährlich nach innen. Es bleibt dabei: Der Kroatie ist heute nicht mit der Glücksgöttin Fortuna im Bunde und bleibt trotz eines Riesenpensums weitgehend wirkungslos."
+  },
+  {
+    "id": "1308349",
+    "tickertime": "07.02.2015 20:13",
+    "minute": "84",
+    "content": "Stindl steckt vor dem HSV-Sechzehner in die Gasse, aber hat das Zuspiel nicht ganz perfekt getimt. Der Ball ist etwas zu steil und landet nicht beim startenden Briand, sondern beim herauslaufenden Drobný."
+  },
+  {
+    "id": "1308352",
+    "event": {
+      "id": "15438271",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "19944",
+        "name": "Hiroshi Kiyotake",
+        "firstname": "Hiroshi",
+        "surname": "Kiyotake",
+        "fullname": "Hiroshi Kiyotake",
+        "gender": "male",
+        "birthday": "12.11.1989",
+        "height": "172",
+        "weight": "63"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "07.02.2015 20:13"
+    },
+    "tickertime": "07.02.2015 20:13",
+    "minute": "85",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Hiroshi Kiyotake</span>"
+  },
+  {
+    "id": "1308355",
+    "event": {
+      "id": "15438272",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "231272",
+        "name": "Leonardo Bittencourt",
+        "firstname": "Leonardo",
+        "surname": "Bittencourt",
+        "fullname": "Leonardo Bittencourt",
+        "gender": "male",
+        "birthday": "19.12.1993",
+        "height": "171",
+        "weight": "60"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "07.02.2015 20:13"
+    },
+    "tickertime": "07.02.2015 20:13",
+    "minute": "85",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Leonardo Bittencourt</span>"
   }
 ]
