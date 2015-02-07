@@ -380,5 +380,172 @@
     "tickertime": "07.02.2015 19:33",
     "minute": "46",
     "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Heiko Westermann</span>"
+  },
+  {
+    "id": "1308129",
+    "event": {
+      "id": "15437889",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "231017",
+        "name": "Ashton Götz",
+        "firstname": "Ashton",
+        "surname": "Götz",
+        "fullname": "Ashton-Phillip Shawn Götz",
+        "gender": "male",
+        "birthday": "16.07.1993",
+        "height": "177",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:33"
+    },
+    "tickertime": "07.02.2015 19:33",
+    "minute": "46",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hamburger SV -> Ashton Götz</span>"
+  },
+  {
+    "id": "1308131",
+    "event": {
+      "id": "15437890",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "14444",
+        "name": "Rafael van der Vaart",
+        "firstname": "Rafael",
+        "surname": "van der Vaart",
+        "fullname": "Rafael Ferdinand van der Vaart",
+        "gender": "male",
+        "birthday": "11.02.1983",
+        "height": "176",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:33"
+    },
+    "tickertime": "07.02.2015 19:33",
+    "minute": "46",
+    "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Rafael van der Vaart</span>"
+  },
+  {
+    "id": "1308134",
+    "event": {
+      "id": "15437892",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "131510",
+        "name": "Petr Jiráček",
+        "firstname": "Petr",
+        "surname": "Jiráček",
+        "fullname": "Petr Jiráček",
+        "gender": "male",
+        "birthday": "02.03.1986",
+        "height": "180",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:33"
+    },
+    "tickertime": "07.02.2015 19:33",
+    "minute": "46",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hamburger SV -> Petr Jiráček</span>"
+  },
+  {
+    "id": "1308136",
+    "event": {
+      "id": "15437893",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "146779",
+        "name": "Hiroki Sakai",
+        "firstname": "Hiroki",
+        "surname": "Sakai",
+        "fullname": "Hiroki Sakai",
+        "gender": "male",
+        "birthday": "12.04.1990",
+        "height": "184",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:33"
+    },
+    "tickertime": "07.02.2015 19:33",
+    "minute": "46",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Hiroki Sakai</span>"
+  },
+  {
+    "id": "1308140",
+    "event": {
+      "id": "15437912",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "24564",
+        "name": "João Pereira",
+        "firstname": "",
+        "surname": "João Pereira",
+        "fullname": "João Pedro da Silva Pereira",
+        "gender": "male",
+        "birthday": "25.02.1984",
+        "height": "172",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:33"
+    },
+    "tickertime": "07.02.2015 19:33",
+    "minute": "46",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> João Pereira</span>"
+  },
+  {
+    "id": "1308143",
+    "event": {
+      "id": "15437932",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "second-half-start",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "07.02.2015 19:34"
+    },
+    "tickertime": "07.02.2015 19:34",
+    "minute": "46",
+    "content": "<b>Anpfiff 2. Halbzeit</b>"
   }
 ]
