@@ -297,5 +297,37 @@
     "headline": "",
     "content": "<p><b>Madlung schießt vorbei</b></p> <p>Nach einer Ecke kommt Wellenreuther nicht an den Ball. Am langen Pfosten steht Madlung. Der Abwehrhüne schießt aus der Drehung - jedoch knapp links vorbei.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315033",
+    "event": {
+      "id": "15491735",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "151287",
+        "name": "Haris Seferović",
+        "firstname": "Haris",
+        "surname": "Seferović",
+        "fullname": "Haris Seferović",
+        "gender": "male",
+        "birthday": "22.02.1992",
+        "height": "187",
+        "weight": "84"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "36",
+      "additional_person_id": "0",
+      "created": "14.02.2015 19:05"
+    },
+    "tickertime": "14.02.2015 19:05:20",
+    "minute": "36",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Haris Seferović (Eintracht Frankfurt)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
