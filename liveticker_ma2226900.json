@@ -591,7 +591,71 @@
     "tickertime": "14.02.2015 19:52:14",
     "minute": "65",
     "headline": "",
-    "content": "<p><b>Tooor für Eintracht Frankfurt, 1:0 durch Lucas Piazón</b></p> <p>Da ist das erste Tor. Joker Piazon trifft nach einer Flanke von links per Kopf ins linke Eck. Nach dem engagierten Auftritt nach der Pause ist die Führung nicht unverdient.</p>",
+    "content": "<p><b>Tooor für Eintracht Frankfurt, 1:0 durch Lucas Piazón</b></p> <p>Da ist das erste Tor. Joker Piazon trifft nach einer Flanke von links per Kopf ins linke Eck. Nach dem engagierten Auftritt nach der Pause ist die Führung nicht unverdient. Wellenreuther sieht nicht gut aus. Zunächst macht er einen Schritt nach vorne, zögert dann aber und kommt im Anschluss nicht mehr an den Kopfball heran.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315324",
+    "event": {
+      "id": "15493374",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "3123",
+        "name": "Tranquillo Barnetta",
+        "firstname": "Tranquillo",
+        "surname": "Barnetta",
+        "fullname": "Tranquillo Barnetta",
+        "gender": "male",
+        "birthday": "22.05.1985",
+        "height": "178",
+        "weight": "68"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "68",
+      "additional_person_id": "0",
+      "created": "14.02.2015 19:55"
+    },
+    "tickertime": "14.02.2015 19:55:36",
+    "minute": "68",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Tranquillo Barnetta</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315327",
+    "event": {
+      "id": "15493376",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "231417",
+        "name": "Max Meyer",
+        "firstname": "Max",
+        "surname": "Meyer",
+        "fullname": "Maximilian Meyer",
+        "gender": "male",
+        "birthday": "18.09.1995",
+        "height": "172",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "68",
+      "additional_person_id": "0",
+      "created": "14.02.2015 19:55"
+    },
+    "tickertime": "14.02.2015 19:55:49",
+    "minute": "68",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Max Meyer</span>",
     "syndicate": "s1de"
   }
 ]
