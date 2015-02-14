@@ -1,165 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="694" guest-long-name="FC Schalke 04" gamestate="2" home-short-name="Frankfurt" team1-color="vstriped;15338780;0;0;16777215" penalty-score-home="0" eventcount="55" team2-color="plain;20647;20647;16777215;16777215" referee-name="Marco Fritz" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407498" date="2015-02-14T18:30:00Z" home-long-name="Eintracht Frankfurt" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="79" half4-score-guest="0" guest-short-name="Schalke" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153384" overtime-score-home="0" home-team-id="530" home-scorer-names="65;Lucas Piaz&#243;n" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39281" half2-score-home="1">
+<game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="694" guest-long-name="FC Schalke 04" gamestate="2" home-short-name="Frankfurt" team1-color="vstriped;15338780;0;0;16777215" penalty-score-home="0" eventcount="56" team2-color="plain;20647;20647;16777215;16777215" referee-name="Marco Fritz" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407498" date="2015-02-14T18:30:00Z" home-long-name="Eintracht Frankfurt" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="80" half4-score-guest="0" guest-short-name="Schalke" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153384" overtime-score-home="0" home-team-id="530" home-scorer-names="65;Lucas Piaz&#243;n" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39281" half2-score-home="1">
   <events type="array">
     <event section="2" label="1_39281_407498_1314183" team-id="0" game-id="407498" text="zur Bundesliga am Samstagabend mit dem 21. Spieltag zwischen Eintracht Frankfurt und dem FC Schalke.
-" headline="Ein herzliches Hallo&#8230;" playername="" id="10689421" date="2015-02-14T15:20:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:45Z" sort="54" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Ein herzliches Hallo&#8230;" playername="" id="10689421" date="2015-02-14T15:20:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:24Z" sort="55" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314794" team-id="0" game-id="407498" text="Die Schalker haben bislang 34 Punkte auf dem Konto. Eintracht Frankfurt sammelte bislang 25 Z&#228;hler.
-" headline="Ausgangslage " playername="" id="10691601" date="2015-02-14T17:01:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:45Z" sort="53" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Ausgangslage " playername="" id="10691601" date="2015-02-14T17:01:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:24Z" sort="54" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314802" team-id="0" game-id="407498" text="Nach dem Topspiel ist vor dem Champions League-Kracher. Eintracht Frankfurt soll da nur eine Zwischenstation darstellen. Letzte Woche noch gegen M&#246;nchengladbach, am Mittwoch dann das absolute Saison-Highlight mit dem Heimspiel in der K&#246;nigsklasse gegen Real Madrid. Wichtig, auch heute die Konzentration hochzuhalten. Gleichzeitig ist es wohl das letzte Spiel von Timon Wellenreuther zwischen den Pfosten. Fabian Giefer wird f&#252;r kommenden Mittwoch wohl rechtzeitig fit und wird den Youngster im Tor der Schalker wieder verdr&#228;ngen. Das alles kann man schreiben, weil es ohnehin keine Ver&#228;nderungen in der Elf der G&#228;ste gibt.
-" headline="Di Matteo vertraut Erfolgself" playername="" id="10691621" date="2015-02-14T17:04:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:45Z" sort="52" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Di Matteo vertraut Erfolgself" playername="" id="10691621" date="2015-02-14T17:04:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:24Z" sort="53" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314805" team-id="0" game-id="407498" text="Im turbulenten Duell in der Hinrunde, das mit 2:2 endete, flogen mit Julian Draxler und Kevin-Prince Boateng gleich zwei Schalker vom Platz. Bei den Hessen musste Slobodan Medojevic vorzeitig vom Feld.
-" headline="So lief das Hinrundenduell" playername="" id="10691611" date="2015-02-14T17:04:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:45Z" sort="51" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="So lief das Hinrundenduell" playername="" id="10691611" date="2015-02-14T17:04:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:24Z" sort="52" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314818" team-id="0" game-id="407498" text="Die Bilanz der Frankfurter gegen Schalke ist in den letzten Jahren verheerend. Aus 17 Bundesliga-Duellen gab es nur einen einzigen Sieg (1:0 am 30. Spieltag 2012/13). In der Hinrunde stand man kurz davor, diese Statistik etwas aufzubessern. Nachdem man nach 24 Minuten durch Tore von Alex Meier und Marco Russ bereits mit zwei Treffern f&#252;hrte, musste man am Ende noch den Ausgleich schlucken. Der FC Schalke ist ein Angstgegner der SGE und will dies heute sicherlich untermauern.
-" headline="Verheerende Bilanz" playername="" id="10691631" date="2015-02-14T17:08:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="50" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Verheerende Bilanz" playername="" id="10691631" date="2015-02-14T17:08:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:24Z" sort="51" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314821" team-id="0" game-id="407498" text="Schalke gewann gegen M&#246;nchengladbach mit 1:0 und ist im Jahr 2015 noch ungeschlagen. Die Frankfurter kamen in Augsburg nach 0:2-R&#252;ckstand noch zu einem 2:2-Unentschieden.
-" headline="So lief es am vergangenen Wochenende" playername="" id="10691641" date="2015-02-14T17:09:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="49" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="So lief es am vergangenen Wochenende" playername="" id="10691641" date="2015-02-14T17:09:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="50" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314830" team-id="0" game-id="407498" text="Schalkes Trainer freut sich auf das Duell warnt aber eindringlich. Seine Elf m&#252;sse die starke Frankfurter Offensive um Seferovic und Toptorj&#228;ger Meier in den Griff bekommen.
-" headline="Di Matteo warnt " playername="" id="10691651" date="2015-02-14T17:12:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="48" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Di Matteo warnt " playername="" id="10691651" date="2015-02-14T17:12:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="49" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314838" team-id="0" game-id="407498" text="Der junge Schalker Keeper bekommt weiterhin das Vertrauen, weil Giefer und F&#228;hrmann nach wie vor verletzt ausfallen.
-" headline="Weiterhin mit Wellenreuther " playername="" id="10691661" date="2015-02-14T17:14:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="47" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Weiterhin mit Wellenreuther " playername="" id="10691661" date="2015-02-14T17:14:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="48" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314840" team-id="0" game-id="407498" text="1 Trapp - 22 Chandler, 4 Russ, 17 Madlung, 6 Oczipka - 21 Stendera, 20 Hasebe - 16 Aigner, 28 Kittel - 14 Meier, 9 Seferovic.
-" headline="Aufstellung Eintracht Frankfurt " playername="" id="10691671" date="2015-02-14T17:16:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="46" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Aufstellung Eintracht Frankfurt " playername="" id="10691671" date="2015-02-14T17:16:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="47" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314853" team-id="0" game-id="407498" text="40 Wellenreuther - 4 H&#246;wedes, 32 Matip, 31 Nastasic - 22 Uchida, 3 Kirchhoff, 23 Fuchs - 12 H&#246;ger, 27 Barnetta - 13 Choupo-Moting, 9 Kevin-Prince Boateng
-" headline="Aufstellung FC Schalke " playername="" id="10691681" date="2015-02-14T17:22:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="45" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Aufstellung FC Schalke " playername="" id="10691681" date="2015-02-14T17:22:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="46" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314860" team-id="0" game-id="407498" text="Die Frankfurter Commerzbank-Arena ist mit etwa 51.000 Zuschauern nahezu ausverkauft. Die Stimmung wird also bestens sein. Auf dem Rasen alles unter Kontrolle halten will Schiedsrichter Marco Fritz. An den Seitenlinien wird der Unparteiische von Christian Dietz und Dominik Schaal unterst&#252;tzt.
-" headline="Fast ausverkauftes Haus" playername="" id="10691691" date="2015-02-14T17:24:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="44" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="Fast ausverkauftes Haus" playername="" id="10691691" date="2015-02-14T17:24:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="45" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1314871" team-id="0" game-id="407498" text="Thomas Schaaf sitzt heute in seinem 500. Bundesliga-Spiel auf der Bank. Die meisten davon nat&#252;rlich bei Werder Bremen. Auch sein erstes Spiel als Coach absolvierte er auch gegen Schalke.
-" headline="500. Spiel f&#252;r Schaaf" playername="" id="10691701" date="2015-02-14T17:29:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="43" game-minute="-1" player-id="0" gameday-id="39281">
+" headline="500. Spiel f&#252;r Schaaf" playername="" id="10691701" date="2015-02-14T17:29:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="44" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315300" team-id="0" game-id="407498" text="" headline="" playername="" id="10692061" date="2015-02-14T18:53:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="42" game-minute="-1" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315300" team-id="0" game-id="407498" text="" headline="" playername="" id="10692061" date="2015-02-14T18:53:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="43" game-minute="-1" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314879" team-id="0" game-id="407498" text="Los geht es in Frankfurt.
-" headline="Spielbeginn" playername="" id="10691711" date="2015-02-14T17:32:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="41" game-minute="1" player-id="0" gameday-id="39281">
+" headline="Spielbeginn" playername="" id="10691711" date="2015-02-14T17:32:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="42" game-minute="1" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314893" team-id="0" game-id="407498" text="Der Leihspieler des FC Bayern erobert den Ball und galoppiert in Richtung Tor. Auf diesem Weg wird er aber aufgehalten.
-" headline="Kirchhoff l&#228;uft sich fest" playername="" id="10691731" date="2015-02-14T17:35:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="40" game-minute="1" player-id="0" gameday-id="39281">
+" headline="Kirchhoff l&#228;uft sich fest" playername="" id="10691731" date="2015-02-14T17:35:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="41" game-minute="1" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314900" team-id="0" game-id="407498" text="Der Nachwuchskeeper von S04 kommt in Neuer-Manier aus dem Kasten und l&#228;uft eine weite Flanke auf Seferovic ab. Im Nachsetzen wirkt er aber etwas unsicher, kommt nicht an den Ball. Doch daraus resultiert keine Gefahr.
-" headline="Ausflug von Wellenreuther" playername="" id="10691721" date="2015-02-14T17:35:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="39" game-minute="3" player-id="0" gameday-id="39281">
+" headline="Ausflug von Wellenreuther" playername="" id="10691721" date="2015-02-14T17:35:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="40" game-minute="3" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314912" team-id="0" game-id="407498" text="Eintrachts Keeper f&#228;ngt eine weite Freisto&#223;flanke ganz locker aus der Luft.
-" headline="Erste &#220;bung f&#252;r Trapp" playername="" id="10691741" date="2015-02-14T17:38:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="38" game-minute="6" player-id="0" gameday-id="39281">
+" headline="Erste &#220;bung f&#252;r Trapp" playername="" id="10691741" date="2015-02-14T17:38:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="39" game-minute="6" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314927" team-id="0" game-id="407498" text="Das l&#246;st Uchida richtig schlecht! Nach einem &#252;berragenden Ball von H&#246;ger steht der Japaner rechts ganz frei am Frankfurter Strafraum. In der Mitte stehen Choupo-Moting und Boateng v&#246;llig blank. Der Pass von Uchida landet aber genau in den F&#252;&#223;en des einzigen Frankfurter Verteidigers Madlung. Ganz schwach vom aufger&#252;ckten Rechtsverteidiger der K&#246;nigsblauen.
-" headline="Vert&#228;ndelt" playername="" id="10691751" date="2015-02-14T17:42:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="37" game-minute="8" player-id="0" gameday-id="39281">
+" headline="Vert&#228;ndelt" playername="" id="10691751" date="2015-02-14T17:42:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="38" game-minute="8" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314934" team-id="0" game-id="407498" text="Das Eigengew&#228;chs rei&#223;t Gegenspieler Uchida um und sieht daf&#252;r die Gelbe Karte.
-" headline="Gelbe Karte f&#252;r Sonny Kittel (Eintracht Frankfurt)" playername="" id="10691761" date="2015-02-14T17:43:22Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="36" game-minute="12" player-id="0" gameday-id="39281">
+" headline="Gelbe Karte f&#252;r Sonny Kittel (Eintracht Frankfurt)" playername="" id="10691761" date="2015-02-14T17:43:22Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="37" game-minute="12" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314941" team-id="0" game-id="407498" text="Frankfurts Schlussmann segelt an einer Freisto&#223;flanke komplett vorbei, doch Matip k&#246;pft trotzdem am Tor vorbei.
-" headline="Trapp segelt vorbei" playername="" id="10691781" date="2015-02-14T17:45:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="35" game-minute="13" player-id="0" gameday-id="39281">
+" headline="Trapp segelt vorbei" playername="" id="10691781" date="2015-02-14T17:45:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="36" game-minute="13" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314942" team-id="0" game-id="407498" text="Frankfurts Schlussmann segelt an einer Freisto&#223;flanke komplett vorbei, doch Matip k&#246;pft trotzdem am Tor vorbei.
-" headline="Trapp segelt vorbei" playername="" id="10691771" date="2015-02-14T17:45:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="34" game-minute="13" player-id="0" gameday-id="39281">
+" headline="Trapp segelt vorbei" playername="" id="10691771" date="2015-02-14T17:45:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="35" game-minute="13" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314953" team-id="0" game-id="407498" text="Bislang geht es fast nur in eine Richtung. Deshalb steht Trapp erneut im Mittelpunkt. Er lenkt einen Schuss von H&#246;ger zur Seite ab. Der Nachschuss, der im Tor landet, wird abgepfiffen, weil eine Abseitsposition vorliegt.
-" headline="Wieder gefordert" playername="" id="10691801" date="2015-02-14T17:47:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="33" game-minute="15" player-id="0" gameday-id="39281">
+" headline="Wieder gefordert" playername="" id="10691801" date="2015-02-14T17:47:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="34" game-minute="15" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314957" team-id="0" game-id="407498" text="Der Mittelfeldspieler l&#228;sst einen Frankfurter aufl&#228;ufen und sieht daf&#252;r die Gelbe Karte.
-" headline="Gelbe Karte f&#252;r Marco H&#246;ger (FC Schalke 04)" playername="" id="10691791" date="2015-02-14T17:47:02Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="32" game-minute="17" player-id="0" gameday-id="39281">
+" headline="Gelbe Karte f&#252;r Marco H&#246;ger (FC Schalke 04)" playername="" id="10691791" date="2015-02-14T17:47:02Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="33" game-minute="17" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314963" team-id="0" game-id="407498" text="Frankfurts Nummer 1 muss im Eins-gegen-Eins gegen Fuchs alles riskieren. Fuchs verletzt sich dabei auch noch und muss behandelt werden.
-" headline="Immer wieder Trapp" playername="" id="10691811" date="2015-02-14T17:50:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="31" game-minute="18" player-id="0" gameday-id="39281">
+" headline="Immer wieder Trapp" playername="" id="10691811" date="2015-02-14T17:50:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="32" game-minute="18" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314968" team-id="0" game-id="407498" text="Der &#214;sterreicher muss nur kurz an der Au&#223;enlinie behandelt werden, dann geht es weiter.
-" headline="Fuchs wieder dabei" playername="" id="10691821" date="2015-02-14T17:51:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="30" game-minute="19" player-id="0" gameday-id="39281">
+" headline="Fuchs wieder dabei" playername="" id="10691821" date="2015-02-14T17:51:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="31" game-minute="19" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314975" team-id="0" game-id="407498" text="Es spielt nur Schalke in der Commerzbank Arena von Frankfurt. Erneut muss Trapp all sein K&#246;nnen aufbieten im Herauslaufen, um den Schuss von H&#246;ger zu parieren.
-" headline="Einbahnstra&#223;en-Fu&#223;ball" playername="" id="10691831" date="2015-02-14T17:52:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="29" game-minute="21" player-id="0" gameday-id="39281">
+" headline="Einbahnstra&#223;en-Fu&#223;ball" playername="" id="10691831" date="2015-02-14T17:52:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="30" game-minute="21" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314981" team-id="0" game-id="407498" text="Die Gastgeber haben jetzt den Schalkern offenbar lange genug zugesehen und &#252;bernehmen nun selbst wieder die Initiative. &#220;ber die rechte Seite macht Aigner jetzt Dampf und spielt seinen Schnelligkeitsvorteile gegen Fuchs aus.
-" headline="Frankfurt will auch mal" playername="" id="10691841" date="2015-02-14T17:55:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="28" game-minute="23" player-id="0" gameday-id="39281">
+" headline="Frankfurt will auch mal" playername="" id="10691841" date="2015-02-14T17:55:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="29" game-minute="23" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1314994" team-id="0" game-id="407498" text="Nach der turbulenten Anfangsphase kehrt nun etwas Ruhe ein auf dem Platz.
-" headline="Erstmal etwas Ruhe" playername="" id="10691851" date="2015-02-14T17:58:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="27" game-minute="26" player-id="0" gameday-id="39281">
+" headline="Erstmal etwas Ruhe" playername="" id="10691851" date="2015-02-14T17:58:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="28" game-minute="26" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315005" team-id="0" game-id="407498" text="Die Schalker spielen zwar mit f&#252;nf Verteidigern, aber nach vorne eben auch blitzschnell und brandgef&#228;hrlich.
-" headline="Taktische Grundordnung sagt nicht alles" playername="" id="10691861" date="2015-02-14T18:01:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="26" game-minute="30" player-id="0" gameday-id="39281">
+" headline="Taktische Grundordnung sagt nicht alles" playername="" id="10691861" date="2015-02-14T18:01:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="27" game-minute="30" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315016" team-id="0" game-id="407498" text="Die Frankfurter verstehen es nun besser, sich bis an die Grundlinie durchzuk&#228;mpfen. Vor allem Aigner kommt immer besser ins Spiel.
-" headline="Der Anspielpartner fehlt" playername="" id="10691871" date="2015-02-14T18:04:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="25" game-minute="32" player-id="0" gameday-id="39281">
+" headline="Der Anspielpartner fehlt" playername="" id="10691871" date="2015-02-14T18:04:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="26" game-minute="32" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315029" team-id="0" game-id="407498" text="Nach einer Ecke kommt Wellenreuther nicht an den Ball. Am langen Pfosten steht Madlung. Der Abwehrh&#252;ne schie&#223;t aus der Drehung - jedoch knapp links vorbei.
-" headline="Madlung schie&#223;t vorbei" playername="" id="10691891" date="2015-02-14T18:06:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="24" game-minute="34" player-id="0" gameday-id="39281">
+" headline="Madlung schie&#223;t vorbei" playername="" id="10691891" date="2015-02-14T18:06:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="25" game-minute="34" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315033" team-id="0" game-id="407498" text="Der Schweizer r&#228;umt Gegenspieler Uchida resolut um und sieht daf&#252;r die Gelbe Karte.
-" headline="Gelbe Karte f&#252;r Haris Seferovi&#263; (Eintracht Frankfurt)" playername="" id="10691881" date="2015-02-14T18:06:12Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="23" game-minute="36" player-id="0" gameday-id="39281">
+" headline="Gelbe Karte f&#252;r Haris Seferovi&#263; (Eintracht Frankfurt)" playername="" id="10691881" date="2015-02-14T18:06:12Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="24" game-minute="36" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315051" team-id="0" game-id="407498" text="Nach Ballgewinnen geht bei Schalke die Post nach vorne ab. Dann werden vertikale P&#228;sse in die Tiefe gespielt. Dieser schn&#246;rkellose Vortrag steht im krassen Gegensatz zum auf Ballbesitz ausgelegten Offensivspiel der Frankfurter.
-" headline="Immer nach demselben Muster" playername="" id="10691901" date="2015-02-14T18:11:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="22" game-minute="38" player-id="0" gameday-id="39281">
+" headline="Immer nach demselben Muster" playername="" id="10691901" date="2015-02-14T18:11:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="23" game-minute="38" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315067" team-id="0" game-id="407498" text="Die Mannschaften bieten den Zuschauern in Frankfurt ein ordentliches Spektakel.
-" headline="Offener Schlagabtausch" playername="" id="10691921" date="2015-02-14T18:15:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="21" game-minute="41" player-id="0" gameday-id="39281">
+" headline="Offener Schlagabtausch" playername="" id="10691921" date="2015-02-14T18:15:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="22" game-minute="41" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315069" team-id="0" game-id="407498" text="Der Mittelfeldmann der G&#228;ste bleibt mit seinem zweiten Schuss des Spiels erneut zweiter Sieger gegen den starken Trapp.
-" headline="H&#246;ger scheitert" playername="" id="10691911" date="2015-02-14T18:15:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="20" game-minute="44" player-id="0" gameday-id="39281">
+" headline="H&#246;ger scheitert" playername="" id="10691911" date="2015-02-14T18:15:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="21" game-minute="44" player-id="0" gameday-id="39281">
     </event>
     <event section="1" label="1_39281_407498_1315084" team-id="0" game-id="407498" text="Halbzeit-Fazit: Schalke spielt im Prinzip von Beginn an auf das Tor der Frankfurter, doch scheitert immer wieder an Keeper Trapp. Die Frankfurter kommen nur selten zu Abschlussaktionen. Deshalb ist das Remis zur Pause ziemlich schmeichelhaft f&#252;r die Hessen.
-" headline="Ende 1. Halbzeit" playername="" id="10691931" date="2015-02-14T18:17:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="19" game-minute="45" player-id="0" gameday-id="39281">
+" headline="Ende 1. Halbzeit" playername="" id="10691931" date="2015-02-14T18:17:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="20" game-minute="45" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315147" team-id="0" game-id="407498" text=" Sonny Kittel" headline="Auswechslung bei  Eintracht Frankfurt " playername="" id="10691951" date="2015-02-14T18:32:12Z" type-id="60" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="18" game-minute="46" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315147" team-id="0" game-id="407498" text=" Sonny Kittel" headline="Auswechslung bei  Eintracht Frankfurt " playername="" id="10691951" date="2015-02-14T18:32:12Z" type-id="60" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="19" game-minute="46" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315149" team-id="0" game-id="407498" text="  Lucas Piaz&#243;n" headline="Einwechslung bei  Eintracht Frankfurt " playername="" id="10691941" date="2015-02-14T18:32:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="17" game-minute="46" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315149" team-id="0" game-id="407498" text="  Lucas Piaz&#243;n" headline="Einwechslung bei  Eintracht Frankfurt " playername="" id="10691941" date="2015-02-14T18:32:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="18" game-minute="46" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315156" team-id="0" game-id="407498" text="Weiter geht es in Frankfurt.
-" headline="Anpfiff 2. Halbzeit" playername="" id="10691961" date="2015-02-14T18:34:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="16" game-minute="46" player-id="0" gameday-id="39281">
+" headline="Anpfiff 2. Halbzeit" playername="" id="10691961" date="2015-02-14T18:34:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="17" game-minute="46" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315172" team-id="0" game-id="407498" text="Seferovic h&#228;lt einfach drauf
 
 Der Schweizer erk&#228;mpft sich weit vor dem Tor den Ball, ist aber ganz alleine ohne Mitspieler. Somit nimmt Seferovic einfach mal Ma&#223;. Der Versuch geht gut einen halben Meter &#252;ber den Kasten.
-" headline="" playername="" id="10691971" date="2015-02-14T18:35:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="15" game-minute="46" player-id="0" gameday-id="39281">
+" headline="" playername="" id="10691971" date="2015-02-14T18:35:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="16" game-minute="46" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315195" team-id="0" game-id="407498" text="Das Bild gleicht jenem vor der Seitenwechsel. Schalke dr&#252;ckt weiterhin, erspielt sich eine ganze Eckball-Serie.
-" headline="Schalke schon wieder am Dr&#252;cker" playername="" id="10691981" date="2015-02-14T18:39:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="14" game-minute="49" player-id="0" gameday-id="39281">
+" headline="Schalke schon wieder am Dr&#252;cker" playername="" id="10691981" date="2015-02-14T18:39:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="15" game-minute="49" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315226" team-id="0" game-id="407498" text="Frankfurt hat die taktische Ausrichtung nun etwas umgestellt, &#252;berbr&#252;ckt das Mittelfeld mit weiten B&#228;llen in die Spitze.
-" headline="Weite B&#228;lle als Rezept" playername="" id="10692001" date="2015-02-14T18:43:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="13" game-minute="52" player-id="0" gameday-id="39281">
+" headline="Weite B&#228;lle als Rezept" playername="" id="10692001" date="2015-02-14T18:43:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="14" game-minute="52" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315234" team-id="0" game-id="407498" text="Den Frankfurtern wird ein ganz klarer Elfmeter verwehrt. H&#246;wedes ber&#252;hrt den durchsprintenden Hasebe ganz klar. Kurios: Kein Eintracht-Profi protestiert ernsthaft ob dieser Fehlentscheidung.
-" headline="Elfmeter-Alarm!!" playername="" id="10691991" date="2015-02-14T18:43:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="12" game-minute="54" player-id="0" gameday-id="39281">
+" headline="Elfmeter-Alarm!!" playername="" id="10691991" date="2015-02-14T18:43:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="13" game-minute="54" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315267" team-id="0" game-id="407498" text="Die G&#228;ste aus Gelsenkirchen haben sich nun wieder die Taktik der letzten Wochen zu Eigen gemacht. Frankfurt hat viel Ballbesitz, findet aber keine L&#252;cke im Abwehrverbund der K&#246;nigsblauen. Die G&#228;ste wiederum wollen bei Ballverlusten der Eintracht schnell kontern. Bis jetzt gelingt das aber eher schlecht als recht.
-" headline="Tief stehen und kontern?" playername="" id="10692011" date="2015-02-14T18:48:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="11" game-minute="57" player-id="0" gameday-id="39281">
+" headline="Tief stehen und kontern?" playername="" id="10692011" date="2015-02-14T18:48:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="12" game-minute="57" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315279" team-id="0" game-id="407498" text="Das h&#228;tte ins Auge gehen k&#246;nnen. Wellenreuther f&#228;ngt einen Eckball mit einer Hand, verliert dabei das Leder. Im Nachfassen hat der junge Keeper den Ball dann aber sicher.
-" headline="Unsicherheit bei Wellenreuther" playername="" id="10692031" date="2015-02-14T18:50:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="10" game-minute="60" player-id="0" gameday-id="39281">
+" headline="Unsicherheit bei Wellenreuther" playername="" id="10692031" date="2015-02-14T18:50:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="11" game-minute="60" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315284" team-id="0" game-id="407498" text="Der Verteidiger bekommt f&#252;r ein Foul in der N&#228;he des linken Strafraumecks die Gelbe Karte.
-" headline="Gelbe Karte f&#252;r Marco Russ (Eintracht Frankfurt)" playername="" id="10692021" date="2015-02-14T18:50:12Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="9" game-minute="62" player-id="0" gameday-id="39281">
+" headline="Gelbe Karte f&#252;r Marco Russ (Eintracht Frankfurt)" playername="" id="10692021" date="2015-02-14T18:50:12Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="10" game-minute="62" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315299" team-id="0" game-id="407498" text="Der Frankfurter wird von einem Freisto&#223; des Schalkers Barnetta direkt im Gesicht getroffen und f&#228;llt benommen zu Boden. Nach kurzer Verschnaufpause geht es aber weiter. Barnetta, letzte Saison noch bei der Eintracht, entschuldigt sich sofort.
-" headline="Knock Out f&#252;r Aigner" playername="" id="10692051" date="2015-02-14T18:53:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="8" game-minute="64" player-id="0" gameday-id="39281">
+" headline="Knock Out f&#252;r Aigner" playername="" id="10692051" date="2015-02-14T18:53:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="9" game-minute="64" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315303" team-id="0" game-id="407498" text="Da ist das erste Tor. Joker Piazon trifft nach einer Flanke von links per Kopf ins linke Eck. Nach dem engagierten Auftritt nach der Pause ist die F&#252;hrung nicht unverdient. Wellenreuther sieht nicht gut aus. Zun&#228;chst macht er einen Schritt nach vorne, z&#246;gert dann aber und kommt im Anschluss nicht mehr an den Kopfball heran.
-" headline="Tooor f&#252;r Eintracht Frankfurt, 1:0 durch Lucas Piaz&#243;n" playername="Lucas Piaz&#243;n" id="10692041" date="2015-02-14T18:53:13Z" type-id="50" whichteam="1" conference="1" updated-at="2015-02-14T19:07:44Z" sort="7" game-minute="65" player-id="0" gameday-id="39281">
+" headline="Tooor f&#252;r Eintracht Frankfurt, 1:0 durch Lucas Piaz&#243;n" playername="Lucas Piaz&#243;n" id="10692041" date="2015-02-14T18:53:13Z" type-id="50" whichteam="1" conference="1" updated-at="2015-02-14T19:09:23Z" sort="8" game-minute="65" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315324" team-id="0" game-id="407498" text=" Tranquillo Barnetta" headline="Auswechslung bei  FC Schalke 04 " playername="" id="10692081" date="2015-02-14T18:57:22Z" type-id="60" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="6" game-minute="68" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315324" team-id="0" game-id="407498" text=" Tranquillo Barnetta" headline="Auswechslung bei  FC Schalke 04 " playername="" id="10692081" date="2015-02-14T18:57:22Z" type-id="60" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="7" game-minute="68" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315327" team-id="0" game-id="407498" text=" Max Meyer" headline="Einwechslung bei  FC Schalke 04 " playername="" id="10692071" date="2015-02-14T18:57:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="5" game-minute="68" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315327" team-id="0" game-id="407498" text=" Max Meyer" headline="Einwechslung bei  FC Schalke 04 " playername="" id="10692071" date="2015-02-14T18:57:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="6" game-minute="68" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315336" team-id="0" game-id="407498" text="Durch den R&#252;ckstand sind die G&#228;ste nun gezwungen, ihre defensive Grundordnung aufzugeben und f&#252;r den Ausgleich noch mehr nach vorne zu machen.
-" headline="Jetzt muss eine neue Taktik her" playername="" id="10692091" date="2015-02-14T18:59:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="4" game-minute="70" player-id="0" gameday-id="39281">
+" headline="Jetzt muss eine neue Taktik her" playername="" id="10692091" date="2015-02-14T18:59:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="5" game-minute="70" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315356" team-id="0" game-id="407498" text="Die Angriffe der G&#228;ste sind einfach zu ungenau in den zweiten 45 Minuten. Die Frankfurter Abwehr hat &#252;berhaupt keine Probleme, das 1:0 zu verteidigen. Vielleicht schafft es die Mannschaft von Thomas Schaaf ja mal, nach all dem Spektakel in dieser Saison auch mal ein humorloses 1:0 &#252;ber die Runden zu bringen.
-" headline="Humorlos zu drei Punkten?" playername="" id="10692101" date="2015-02-14T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="3" game-minute="74" player-id="0" gameday-id="39281">
+" headline="Humorlos zu drei Punkten?" playername="" id="10692101" date="2015-02-14T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="4" game-minute="74" player-id="0" gameday-id="39281">
     </event>
     <event section="2" label="1_39281_407498_1315375" team-id="0" game-id="407498" text="Die K&#246;nigsblauen sind inzwischen zwar die aktivere Mannschaft, doch so wirklich etwas Z&#228;hlbares kommt dabei nicht herum. Seit der Auswechslung der Schwachstelle Sonny Kittel hat die Eintracht in der Defensive alles im Griff und l&#228;sst sich auch nicht mehr &#252;ber die Au&#223;enbahnen &#252;berlaufen. Ganz starke Leistung der Hessen seit dem Pausenpfiff.
-" headline="Defensive steht besser" playername="" id="10692111" date="2015-02-14T19:06:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="2" game-minute="77" player-id="0" gameday-id="39281">
+" headline="Defensive steht besser" playername="" id="10692111" date="2015-02-14T19:06:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="3" game-minute="77" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315384" team-id="0" game-id="407498" text=" Kevin-Prince Boateng" headline="Auswechslung bei  FC Schalke 04 " playername="" id="10692131" date="2015-02-14T19:07:44Z" type-id="60" whichteam="" conference="1" updated-at="2015-02-14T19:07:44Z" sort="1" game-minute="79" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315384" team-id="0" game-id="407498" text=" Kevin-Prince Boateng" headline="Auswechslung bei  FC Schalke 04 " playername="" id="10692131" date="2015-02-14T19:07:44Z" type-id="60" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="2" game-minute="79" player-id="0" gameday-id="39281">
     </event>
-    <event section="2" label="1_39281_407498_1315387" team-id="0" game-id="407498" text=" Felix Platte" headline="Einwechslung bei  FC Schalke 04 " playername="" id="10692121" date="2015-02-14T19:07:44Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-14T19:07:44Z" sort="0" game-minute="79" player-id="0" gameday-id="39281">
+    <event section="2" label="1_39281_407498_1315387" team-id="0" game-id="407498" text=" Felix Platte" headline="Einwechslung bei  FC Schalke 04 " playername="" id="10692121" date="2015-02-14T19:07:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-14T19:09:23Z" sort="1" game-minute="79" player-id="0" gameday-id="39281">
+    </event>
+    <event section="2" label="1_39281_407498_1315396" team-id="0" game-id="407498" text="Das ist mal ein interessanter Schachzug von Di Matteo. Er nimmt seinen Superstar kurz vor Schluss trotz R&#252;ckstandes vom Feld und bringt mit Platte ein Talent.
+" headline="Boateng raus?" playername="" id="10692141" date="2015-02-14T19:09:23Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-14T19:09:23Z" sort="0" game-minute="80" player-id="0" gameday-id="39281">
     </event>
   </events>
   <tabs type="array">
