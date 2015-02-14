@@ -937,5 +937,77 @@
     "headline": "",
     "content": "<p><b>Immer wieder dieser Trapp</b></p> <p>Der Keeper ist einfach der überragende Mann in Frankfurt, pariert auch einen Heber von Choupo-Moting stark.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315455",
+    "event": {
+      "id": "15493580",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "151287",
+        "name": "Haris Seferović",
+        "firstname": "Haris",
+        "surname": "Seferović",
+        "fullname": "Haris Seferović",
+        "gender": "male",
+        "birthday": "22.02.1992",
+        "height": "187",
+        "weight": "84"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:18"
+    },
+    "tickertime": "14.02.2015 20:18:05",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Eintracht Frankfurt -> Haris Seferović</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315457",
+    "event": {
+      "id": "15493581",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "22948",
+        "name": "Johannes Flum",
+        "firstname": "Johannes",
+        "surname": "Flum",
+        "fullname": "Johannes Flum",
+        "gender": "male",
+        "birthday": "14.12.1987",
+        "height": "190",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:18"
+    },
+    "tickertime": "14.02.2015 20:18:14",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Eintracht Frankfurt -> Johannes Flum</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315461",
+    "tickertime": "14.02.2015 20:18:35",
+    "minute": "90",
+    "headline": "",
+    "content": "<p><b>Nachspielzeit angezeigt</b></p> <p>Es wird noch zusätzlich zwei Minuten Nachspielzeit geben.</p>",
+    "syndicate": "s1de"
   }
 ]
