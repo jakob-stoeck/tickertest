@@ -857,5 +857,77 @@
     "headline": "",
     "content": "<p><b>Seferovic verpasst die Entscheidung</b></p> <p>Seferović mit der Chance zur Entscheidung! Nach einem langen Ball aus dem linken Halbfeld taucht der Stürmer rechts ganz frei vor Wellenreuther auf, scheitert aber an einem guten Reflex des Schalker Schlussmanns. Da war viel mehr drin für die Eintracht.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315435",
+    "tickertime": "14.02.2015 20:15:23",
+    "minute": "87",
+    "headline": "",
+    "content": "<p><b>Trapp aufmerksam</b></p> <p>Der Frankfurter Keeper pariert einen Kopfball von Platte souverän.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315440",
+    "event": {
+      "id": "15493574",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "233631",
+        "name": "Marc Stendera",
+        "firstname": "Marc",
+        "surname": "Stendera",
+        "fullname": "Marc Stendera",
+        "gender": "male",
+        "birthday": "10.12.1995",
+        "height": "171",
+        "weight": "64"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:15"
+    },
+    "tickertime": "14.02.2015 20:15:39",
+    "minute": "88",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Eintracht Frankfurt -> Marc Stendera</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315442",
+    "event": {
+      "id": "15493575",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "29016",
+        "name": "Slobodan Medojević",
+        "firstname": "Slobodan",
+        "surname": "Medojević",
+        "fullname": "Slobodan Medojević",
+        "gender": "male",
+        "birthday": "20.11.1990",
+        "height": "183",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:15"
+    },
+    "tickertime": "14.02.2015 20:15:48",
+    "minute": "88",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Eintracht Frankfurt -> Slobodan Medojević</span>",
+    "syndicate": "s1de"
   }
 ]
