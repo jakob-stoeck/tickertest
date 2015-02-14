@@ -296,7 +296,7 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
   <img class="guest" src="http://mobile.data.sport1.de/assets/team/icon/52x52/694.png" alt="Schalke"/>
 </div>
 
-    <div class="minute textRight">33. min</div>
+    <div class="minute textRight">36. min</div>
 
   </a>
   <div class="share button spriteSite spriteSiteShare">Share</div>
@@ -344,7 +344,14 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
         <col style="width: 95px;"/>
         <col style="width: 226px;"/>
       </colgroup>
-      <tr class="event31 guest">
+      <tr class="event31 home">
+  <td class="home">Seferović</td>
+  <td class="textCenter minute">
+    <div class="bgDarkgray textWhite round textCenter">36</div>
+  </td>
+  <td class="guest textRight"></td>
+</tr>
+<tr class="event31 guest">
   <td class="home"></td>
   <td class="textCenter minute">
     <div class="bgDarkgray textWhite round textCenter">17</div>
