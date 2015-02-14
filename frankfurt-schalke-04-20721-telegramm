@@ -344,7 +344,28 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
         <col style="width: 95px;"/>
         <col style="width: 226px;"/>
       </colgroup>
-      <tr class="event321 home">
+      <tr class="event31 home">
+  <td class="home">Lucas Piazón</td>
+  <td class="textCenter minute">
+    <div class="bgDarkgray textWhite round textCenter">90</div>
+  </td>
+  <td class="guest textRight"></td>
+</tr>
+<tr class="event321 home">
+  <td class="home">Flum</td>
+  <td class="textCenter minute">
+    <div class="bgDarkgray textWhite round textCenter">90</div>
+  </td>
+  <td class="guest textRight"></td>
+</tr>
+<tr class="event322 home">
+  <td class="home">Seferović</td>
+  <td class="textCenter minute">
+    <div class="bgDarkgray textWhite round textCenter">90</div>
+  </td>
+  <td class="guest textRight"></td>
+</tr>
+<tr class="event321 home">
   <td class="home">Medojević</td>
   <td class="textCenter minute">
     <div class="bgDarkgray textWhite round textCenter">88</div>
