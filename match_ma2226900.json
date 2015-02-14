@@ -1,0 +1,103 @@
+{
+  "match": {
+    "id": "2226900",
+    "round_id": "47269",
+    "matchday": "21",
+    "group_matchday": "0",
+    "match_date": "14.02.2015",
+    "match_time": "18:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "game-start",
+    "current_period_start": "2015-02-14 18:30:09",
+    "current_minute": "2",
+    "attendance": "0",
+    "home": {
+      "id": "530",
+      "name": "Eintracht Frankfurt"
+    },
+    "away": {
+      "id": "694",
+      "name": "FC Schalke 04"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "venue": {
+      "id": "373",
+      "name": "Commerzbank-Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "373",
+        "capacity": "51500",
+        "built": "1925"
+      },
+      "town": {
+        "id": "503",
+        "name": "Frankfurt am Main"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "49106",
+      "name": "Marco Fritz",
+      "firstname": "Marco",
+      "surname": "Fritz",
+      "fullname": "Marco Fritz",
+      "gender": "male",
+      "birthday": "03.10.1977",
+      "height": "185",
+      "weight": "74",
+      "person_detail": {
+        "id": "12256",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "Korb",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}
