@@ -817,5 +817,37 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Sidney Sam</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315416",
+    "event": {
+      "id": "15493565",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "28517",
+        "name": "Makoto Hasebe",
+        "firstname": "Makoto",
+        "surname": "Hasebe",
+        "fullname": "Makoto Hasebe",
+        "gender": "male",
+        "birthday": "18.01.1984",
+        "height": "180",
+        "weight": "72"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "83",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:10"
+    },
+    "tickertime": "14.02.2015 20:10:50",
+    "minute": "83",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Makoto Hasebe (Eintracht Frankfurt)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
