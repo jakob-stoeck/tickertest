@@ -113,26 +113,6 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
   <div class="current textWhite">
     
     
-  <h1 class="data">
-    <span class="home textCenter">
-      E. Frankf.
-    </span>
-    <span class="score textCenter">
-      1 : 0
-    </span>
-    <span class="guest textCenter">
-      Schalke
-    </span>
-  </h1>
-  <div class="meta">
-    <img class="home" src="http://mobile.data.sport1.de/assets/team/icon/92x92/530.png" alt="E. Frankf."/>
-    <span class="score textCenter">
-      0 : 0
-    </span>
-    <img class="guest" src="http://mobile.data.sport1.de/assets/team/icon/92x92/694.png" alt="Schalke"/>
-  </div>
-
-
 
 
     
@@ -140,7 +120,6 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
   <div class="control full">
     
     
-
   <div class="play button spriteSite spriteSitePlay masterPlayer" tabindex="1" data-resourceid="20721" data-adcode="fussball.bundesliga">
     Audio starten/stoppen: Frankfurt - Schalke 04
   </div>
@@ -191,7 +170,6 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
 <div id="ad-performance3-outer">
   <div id="ad-performance3" class="ad-wrapper" style="display:none;"></div>
 </div>
-
 
 
 
@@ -296,7 +274,7 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
   <img class="guest" src="http://mobile.data.sport1.de/assets/team/icon/52x52/694.png" alt="Schalke"/>
 </div>
 
-    <div class="minute textRight">90. min</div>
+    <div class="minute textRight">Beendet</div>
 
   </a>
   <div class="share button spriteSite spriteSiteShare">Share</div>
@@ -344,7 +322,14 @@ var SOI_SB = true; // sidebar (300|400x600, auto-scaling, fixed position)
         <col style="width: 95px;"/>
         <col style="width: 226px;"/>
       </colgroup>
-      <tr class="event31 home">
+      <tr class="event204 ">
+  <td class="home"></td>
+  <td class="textCenter minute">
+    <div class="bgDarkgray textWhite round textCenter"></div>
+  </td>
+  <td class="guest textRight"></td>
+</tr>
+<tr class="event31 home">
   <td class="home">Lucas Piazón</td>
   <td class="textCenter minute">
     <div class="bgDarkgray textWhite round textCenter">90</div>
