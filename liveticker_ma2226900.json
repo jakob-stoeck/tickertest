@@ -785,5 +785,37 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Christian Fuchs</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315409",
+    "event": {
+      "id": "15493557",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "14443",
+        "name": "Sidney Sam",
+        "firstname": "Sidney",
+        "surname": "Sam",
+        "fullname": "Sidney Sam",
+        "gender": "male",
+        "birthday": "31.01.1988",
+        "height": "174",
+        "weight": "71"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "82",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:10"
+    },
+    "tickertime": "14.02.2015 20:10:00",
+    "minute": "82",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Sidney Sam</span>",
+    "syndicate": "s1de"
   }
 ]
