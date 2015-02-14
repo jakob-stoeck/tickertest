@@ -372,5 +372,69 @@
     "headline": "",
     "content": "<p><b>Ende 1. Halbzeit</b></p> <p><b>Halbzeit-Fazit: </b>Schalke spielt im Prinzip von Beginn an auf das Tor der Frankfurter, doch scheitert immer wieder an Keeper Trapp. Die Frankfurter kommen nur selten zu Abschlussaktionen. Deshalb ist das Remis zur Pause ziemlich schmeichelhaft für die Hessen.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315147",
+    "event": {
+      "id": "15492224",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "222962",
+        "name": "Sonny Kittel",
+        "firstname": "Sonny",
+        "surname": "Kittel",
+        "fullname": "Sonny Kittel",
+        "gender": "male",
+        "birthday": "06.01.1993",
+        "height": "178",
+        "weight": "65"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "14.02.2015 19:31"
+    },
+    "tickertime": "14.02.2015 19:31:32",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Eintracht Frankfurt -> Sonny Kittel</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315149",
+    "event": {
+      "id": "15492225",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "242979",
+        "name": "Lucas Piazón",
+        "firstname": "",
+        "surname": "Lucas Piazón",
+        "fullname": "Gustavo Lucas Domingues Piazón",
+        "gender": "male",
+        "birthday": "20.01.1994",
+        "height": "182",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "14.02.2015 19:31"
+    },
+    "tickertime": "14.02.2015 19:31:40",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Eintracht Frankfurt -> Lucas Piazón</span>",
+    "syndicate": "s1de"
   }
 ]
