@@ -575,13 +575,23 @@
       "content": "1:0",
       "kind": "head",
       "minute": "65",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "8167",
+        "name": "Timothy Chandler",
+        "firstname": "Timothy",
+        "surname": "Chandler",
+        "fullname": "Timothy Chandler",
+        "gender": "male",
+        "birthday": "29.03.1990",
+        "height": "186",
+        "weight": "81"
+      },
       "created": "14.02.2015 19:52"
     },
     "tickertime": "14.02.2015 19:52:14",
     "minute": "65",
     "headline": "",
-    "content": "<b>Tooor für Eintracht Frankfurt, 1:0 durch Lucas Piazón</b> <br/>",
+    "content": "<p><b>Tooor für Eintracht Frankfurt, 1:0 durch Lucas Piazón</b></p> <p>Da ist das erste Tor. Joker Piazon trifft nach einer Flanke von links per Kopf ins linke Eck. Nach dem engagierten Auftritt nach der Pause ist die Führung nicht unverdient.</p>",
     "syndicate": "s1de"
   }
 ]
