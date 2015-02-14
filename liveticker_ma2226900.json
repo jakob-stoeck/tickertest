@@ -753,5 +753,37 @@
     "headline": "",
     "content": "<p><b>Boateng raus?</b></p> <p>Das ist mal ein interessanter Schachzug von Di Matteo. Er nimmt seinen Superstar kurz vor Schluss trotz Rückstandes vom Feld und bringt mit Platte ein Talent.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315406",
+    "event": {
+      "id": "15493554",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "20269",
+        "name": "Christian Fuchs",
+        "firstname": "Christian",
+        "surname": "Fuchs",
+        "fullname": "Christian Fuchs",
+        "gender": "male",
+        "birthday": "07.04.1986",
+        "height": "186",
+        "weight": "84"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "82",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:09"
+    },
+    "tickertime": "14.02.2015 20:09:49",
+    "minute": "82",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Christian Fuchs</span>",
+    "syndicate": "s1de"
   }
 ]
