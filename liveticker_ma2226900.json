@@ -503,5 +503,37 @@
     "headline": "",
     "content": "<p><b>Unsicherheit bei Wellenreuther</b></p> <p>Das hätte ins Auge gehen können. Wellenreuther fängt einen Eckball mit einer Hand, verliert dabei das Leder. Im Nachfassen hat der junge Keeper den Ball dann aber sicher.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315284",
+    "event": {
+      "id": "15493285",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "8123",
+        "name": "Marco Russ",
+        "firstname": "Marco",
+        "surname": "Russ",
+        "fullname": "Marco Russ",
+        "gender": "male",
+        "birthday": "04.08.1985",
+        "height": "190",
+        "weight": "75"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "14.02.2015 19:49"
+    },
+    "tickertime": "14.02.2015 19:49:26",
+    "minute": "62",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Marco Russ (Eintracht Frankfurt)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
