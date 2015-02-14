@@ -681,5 +681,69 @@
     "headline": "",
     "content": "<p><b>Defensive steht besser</b></p> <p>Die Königsblauen sind inzwischen zwar die aktivere Mannschaft, doch so wirklich etwas Zählbares kommt dabei nicht herum. Seit der Auswechslung der Schwachstelle Sonny Kittel hat die Eintracht in der Defensive alles im Griff und lässt sich auch nicht mehr über die Außenbahnen überlaufen. Ganz starke Leistung der Hessen seit dem Pausenpfiff.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315384",
+    "event": {
+      "id": "15493484",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "26461",
+        "name": "Kevin-Prince Boateng",
+        "firstname": "Kevin-Prince",
+        "surname": "Boateng",
+        "fullname": "Kevin-Prince Boateng",
+        "gender": "male",
+        "birthday": "06.03.1987",
+        "height": "185",
+        "weight": "86"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:06"
+    },
+    "tickertime": "14.02.2015 20:06:52",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Kevin-Prince Boateng</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1315387",
+    "event": {
+      "id": "15493486",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "298050",
+        "name": "Felix Platte",
+        "firstname": "Felix",
+        "surname": "Platte",
+        "fullname": "Felix Platte",
+        "gender": "male",
+        "birthday": "11.02.1996",
+        "height": "187",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:07"
+    },
+    "tickertime": "14.02.2015 20:07:02",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Felix Platte</span>",
+    "syndicate": "s1de"
   }
 ]
