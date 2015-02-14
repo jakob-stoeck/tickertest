@@ -1009,5 +1009,37 @@
     "headline": "",
     "content": "<p><b>Nachspielzeit angezeigt</b></p> <p>Es wird noch zusätzlich zwei Minuten Nachspielzeit geben.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1315471",
+    "event": {
+      "id": "15493583",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "242979",
+        "name": "Lucas Piazón",
+        "firstname": "",
+        "surname": "Lucas Piazón",
+        "fullname": "Gustavo Lucas Domingues Piazón",
+        "gender": "male",
+        "birthday": "20.01.1994",
+        "height": "182",
+        "weight": "75"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "14.02.2015 20:19"
+    },
+    "tickertime": "14.02.2015 20:19:43",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Lucas Piazón (Eintracht Frankfurt)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
