@@ -252,30 +252,6 @@
   },
   {
     "id": "1325324",
-    "event": {
-      "id": "15557926",
-      "team": {
-        "id": "845",
-        "name": "FSV Frankfurt"
-      },
-      "person": {
-        "id": "94872",
-        "name": "Mohamed Aoudia",
-        "firstname": "Mohamed",
-        "surname": "Aoudia",
-        "fullname": "Mohamed Amine Aoudia",
-        "gender": "male",
-        "birthday": "06.06.1987",
-        "height": "190",
-        "weight": "84"
-      },
-      "action": "card",
-      "content": "",
-      "kind": "yellow",
-      "minute": "33",
-      "additional_person_id": "0",
-      "created": "22.02.2015 14:02"
-    },
     "tickertime": "22.02.2015 14:02:56",
     "minute": "33",
     "headline": "",
@@ -982,6 +958,14 @@
     "minute": "75",
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei FSV Frankfurt -> Florian Ballas</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325707",
+    "tickertime": "22.02.2015 15:02:45",
+    "minute": "74",
+    "headline": "",
+    "content": "Der Neue findet sich zu einer Standard gleich mal im gegnerischen Sechzehner ein und am langen Pfosten wird die Hereingabe gefährlich, doch Philipp Hofmann kommt nicht ganz hin.",
     "syndicate": "heimspiel"
   },
   {
