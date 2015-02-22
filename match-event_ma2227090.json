@@ -1306,7 +1306,29 @@
     "created": "22.02.2015 14:02:56"
   },
   {
-    "id": "15558081",
+    "id": "15558083",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "first-half-end",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:16:35"
+  },
+  {
+    "id": "15558274",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "second-half-start",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:31:20"
+  },
+  {
+    "id": "15558276",
     "team": {
       "id": "6",
       "name": "1. FC Kaiserslautern",
@@ -1336,12 +1358,12 @@
     "action": "playing",
     "content": "",
     "kind": "substitute-out",
-    "minute": "45",
+    "minute": "46",
     "additional_person_id": "0",
-    "created": "22.02.2015 14:15:49"
+    "created": "22.02.2015 14:31:28"
   },
   {
-    "id": "15558082",
+    "id": "15558277",
     "team": {
       "id": "6",
       "name": "1. FC Kaiserslautern",
@@ -1371,20 +1393,9 @@
     "action": "playing",
     "content": "",
     "kind": "substitute-in",
-    "minute": "45",
+    "minute": "46",
     "additional_person_id": "0",
-    "created": "22.02.2015 14:16:04"
-  },
-  {
-    "id": "15558083",
-    "team_id": "0",
-    "person_id": "0",
-    "action": "match",
-    "content": "",
-    "kind": "first-half-end",
-    "minute": "45",
-    "additional_person_id": "0",
-    "created": "22.02.2015 14:16:35"
+    "created": "22.02.2015 14:31:34"
   },
   {
     "id": "1084294",
