@@ -1428,6 +1428,51 @@
     "created": "22.02.2015 14:33:01"
   },
   {
+    "id": "15558589",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "111655",
+      "name": "Christopher Quiring",
+      "firstname": "Christopher",
+      "surname": "Quiring",
+      "fullname": "Christopher Quiring",
+      "gender": "male",
+      "birthday": "23.11.1990",
+      "height": "172",
+      "weight": "67"
+    },
+    "action": "goal",
+    "content": "3:1",
+    "kind": "right-foot",
+    "minute": "56",
+    "additional_person": {
+      "id": "96",
+      "name": "Fabian Schönheim",
+      "firstname": "Fabian",
+      "surname": "Schönheim",
+      "fullname": "Fabian Schönheim",
+      "gender": "male",
+      "birthday": "14.02.1987",
+      "height": "191",
+      "weight": "83"
+    },
+    "created": "22.02.2015 14:44:02"
+  },
+  {
     "id": "5378",
     "team": {
       "id": "5",
