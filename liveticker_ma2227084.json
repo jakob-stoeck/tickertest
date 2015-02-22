@@ -324,5 +324,88 @@
     "headline": "",
     "content": "<b>Halbzeitfazit:</b><br/> Das 0:0-Pausenunentschieden zwischen Fortuna Düsseldorf und dem 1. FC Nürnberg entspricht den Kräfteverhältnissen auf dem Rasen: Rheinländer und Mittelfranken haben in Durchgang eins ähnliche Spielanteile und tun sich gegenseitig nicht besonders weh. Die Flingeraner sind offensiv etwas zwingender als der Club, hängen dabei aber stark von den individuellen Fähigkeiten von Benschop ab. Defensiv lässt der starke Abwehrverbund um Tah, Bodzek und Soares wenig zu. Nürnberg präsentiert einen soliden Auswärtsauftritt, bei dem man bewusst auf Nachrücken der Defensivabteilung verzichtet. Der FCN würde ein Remis wahrscheinlich sofort unterschreiben. Bis gleich!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325463",
+    "event": {
+      "id": "15558272",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "second-half-start",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:31"
+    },
+    "tickertime": "22.02.2015 14:31:18",
+    "minute": "46",
+    "headline": "",
+    "content": "<b>Anpfiff 2. Halbzeit</b>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325466",
+    "event": {
+      "id": "15558275",
+      "team": {
+        "id": "12",
+        "name": "1. FC Nürnberg"
+      },
+      "person": {
+        "id": "134923",
+        "name": "Peniel Mlapa",
+        "firstname": "Peniel",
+        "surname": "Mlapa",
+        "fullname": "Peniel Kokou Mlapa",
+        "gender": "male",
+        "birthday": "20.02.1991",
+        "height": "195",
+        "weight": "89"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:31"
+    },
+    "tickertime": "22.02.2015 14:31:26",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Nürnberg -> Peniel Mlapa</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325469",
+    "event": {
+      "id": "15558278",
+      "team": {
+        "id": "12",
+        "name": "1. FC Nürnberg"
+      },
+      "person": {
+        "id": "230772",
+        "name": "Niclas Füllkrug",
+        "firstname": "Niclas",
+        "surname": "Füllkrug",
+        "fullname": "Niclas Füllkrug",
+        "gender": "male",
+        "birthday": "09.02.1993",
+        "height": "188",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:31"
+    },
+    "tickertime": "22.02.2015 14:31:36",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Nürnberg -> Niclas Füllkrug</span>",
+    "syndicate": "heimspiel"
   }
 ]
