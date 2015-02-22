@@ -137,7 +137,17 @@
       "content": "0:1",
       "kind": "right-foot",
       "minute": "5",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "224319",
+        "name": "Florian Niederlechner",
+        "firstname": "Florian",
+        "surname": "Niederlechner",
+        "fullname": "Florian Niederlechner",
+        "gender": "male",
+        "birthday": "24.10.1990",
+        "height": "187",
+        "weight": "83"
+      },
       "created": "22.02.2015 13:34"
     },
     "tickertime": "22.02.2015 13:34:31",
@@ -175,7 +185,7 @@
     "tickertime": "22.02.2015 13:37:18",
     "minute": "7",
     "headline": "",
-    "content": "<b>Tooor für 1. FC Union Berlin, 1:1 durch Damir Kreilach</b> <br/>",
+    "content": "<b>Tooor für 1. FC Union Berlin, 1:1 durch Damir Kreilach</b> <br/>Das geht ja munter los hier in Berlin, die Eisernen kommen postwendend zum Ausgleich! Leistner schickt Schönheim auf dem linken Flügel. Der bringt eine herrliche Flanke ins Strafraumzentrum. Da steht der ungedeckte Damir Kreilach, der nur noch dn Fuß hinhalten muss - 1:1!",
     "syndicate": "heimspiel"
   }
 ]
