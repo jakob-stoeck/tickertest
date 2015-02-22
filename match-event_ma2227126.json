@@ -1753,6 +1753,76 @@
     "created": "22.02.2015 15:06:00"
   },
   {
+    "id": "15559141",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "23110",
+      "name": "Sören Brandy",
+      "firstname": "Sören",
+      "surname": "Brandy",
+      "fullname": "Sören Brandy",
+      "gender": "male",
+      "birthday": "06.05.1985",
+      "height": "182",
+      "weight": "77"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:13:52"
+  },
+  {
+    "id": "15559142",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "79554",
+      "name": "Bajram Nebihi",
+      "firstname": "Bajram",
+      "surname": "Nebihi",
+      "fullname": "Bajram Nebihi",
+      "gender": "male",
+      "birthday": "05.08.1988",
+      "height": "192",
+      "weight": "88"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:14:09"
+  },
+  {
     "id": "5378",
     "team": {
       "id": "5",
