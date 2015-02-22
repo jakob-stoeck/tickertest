@@ -1363,6 +1363,111 @@
     "created": "22.02.2015 14:31:35"
   },
   {
+    "id": "15558436",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "22441",
+      "name": "Jan Polák",
+      "firstname": "Jan",
+      "surname": "Polák",
+      "fullname": "Jan Polák",
+      "gender": "male",
+      "birthday": "14.03.1981",
+      "height": "181",
+      "weight": "77"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "52",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:39:24"
+  },
+  {
+    "id": "15558552",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "16433",
+      "name": "Michael Liendl",
+      "firstname": "Michael",
+      "surname": "Liendl",
+      "fullname": "Michael Liendl",
+      "gender": "male",
+      "birthday": "25.10.1985",
+      "height": "175",
+      "weight": "72"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "55",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:42:08"
+  },
+  {
+    "id": "15558553",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "266293",
+      "name": "Joel Pohjanpalo",
+      "firstname": "Joel",
+      "surname": "Pohjanpalo",
+      "fullname": "Joel Pohjanpalo",
+      "gender": "male",
+      "birthday": "13.09.1994",
+      "height": "184",
+      "weight": "75"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "55",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:42:20"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
