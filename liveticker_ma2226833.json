@@ -1057,5 +1057,77 @@
     "headline": "",
     "content": "<p><b>Hazard aufs Tor</b></p> <p>Freistoß von rechts, Hazard knallt direkt drauf. Etwas zu hoch, der Ball streift das Netz von oben.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326553",
+    "event": {
+      "id": "15562387",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "14948",
+        "name": "Gojko Kačar",
+        "firstname": "Gojko",
+        "surname": "Kačar",
+        "fullname": "Gojko Kačar",
+        "gender": "male",
+        "birthday": "26.01.1987",
+        "height": "185",
+        "weight": "84"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:13"
+    },
+    "tickertime": "22.02.2015 17:13:47",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Gojko Kačar</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326555",
+    "event": {
+      "id": "15562388",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "7513",
+        "name": "Heiko Westermann",
+        "firstname": "Heiko",
+        "surname": "Westermann",
+        "fullname": "Heiko Westermann",
+        "gender": "male",
+        "birthday": "14.08.1983",
+        "height": "190",
+        "weight": "87"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:13"
+    },
+    "tickertime": "22.02.2015 17:13:58",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hamburger SV -> Heiko Westermann</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326560",
+    "tickertime": "22.02.2015 17:14:35",
+    "minute": "86",
+    "headline": "",
+    "content": "<p><b>Gladbach rennt Zeit davon</b></p> <p>Weiter warten die Gäste auf eine vernünftige Torchance in der zweiten Halbzeit. Hamburg spielt es jetzt sehr clever.</p>",
+    "syndicate": "s1de"
   }
 ]
