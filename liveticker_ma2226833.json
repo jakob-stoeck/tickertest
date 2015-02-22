@@ -969,5 +969,69 @@
     "headline": "",
     "content": "<p><b>Wer will denn in die Champions League?</b></p> <p>Selbst wenn Gladbach heute zum sechsten Mal in dieser Saison verliert, bliebe die Mannschaft Tabellendritter.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326526",
+    "event": {
+      "id": "15562236",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "221337",
+        "name": "Christoph Kramer",
+        "firstname": "Christoph",
+        "surname": "Kramer",
+        "fullname": "Christoph Kramer",
+        "gender": "male",
+        "birthday": "19.02.1991",
+        "height": "190",
+        "weight": "82"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:07"
+    },
+    "tickertime": "22.02.2015 17:07:49",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Christoph Kramer</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326530",
+    "event": {
+      "id": "15562237",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "244769",
+        "name": "Branimir Hrgota",
+        "firstname": "Branimir",
+        "surname": "Hrgota",
+        "fullname": "Branimir Hrgota",
+        "gender": "male",
+        "birthday": "12.01.1993",
+        "height": "185",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:07"
+    },
+    "tickertime": "22.02.2015 17:07:57",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Branimir Hrgota</span>",
+    "syndicate": "s1de"
   }
 ]
