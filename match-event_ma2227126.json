@@ -1302,7 +1302,17 @@
     "content": "0:1",
     "kind": "right-foot",
     "minute": "5",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "224319",
+      "name": "Florian Niederlechner",
+      "firstname": "Florian",
+      "surname": "Niederlechner",
+      "fullname": "Florian Niederlechner",
+      "gender": "male",
+      "birthday": "24.10.1990",
+      "height": "187",
+      "weight": "83"
+    },
     "created": "22.02.2015 13:34:31"
   },
   {
@@ -1337,7 +1347,17 @@
     "content": "1:1",
     "kind": "right-foot",
     "minute": "7",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "96",
+      "name": "Fabian Schönheim",
+      "firstname": "Fabian",
+      "surname": "Schönheim",
+      "fullname": "Fabian Schönheim",
+      "gender": "male",
+      "birthday": "14.02.1987",
+      "height": "191",
+      "weight": "83"
+    },
     "created": "22.02.2015 13:37:18"
   },
   {
