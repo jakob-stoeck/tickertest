@@ -1137,5 +1137,77 @@
     "headline": "",
     "content": "<p><b>Rudnevs vergibt</b></p> <p>Ob der nochmal weh tut? Rudnevs verpasst den Ball frei vor dem Tor. Im Gegenzug spielt die Borussia mal wieder einen Angriff über rechts zu hektisch.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326583",
+    "tickertime": "22.02.2015 17:18:16",
+    "minute": "89",
+    "headline": "",
+    "content": "<p><b>Nächste Chance verdödelt</b></p> <p>Rudnevs bricht rechts durch, Sommer lässt seinen Querpass durch die Hände flutschen. Alle schalten schon ab, nur Stieber nicht, der übers Tor schießt.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326585",
+    "event": {
+      "id": "15562587",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "111817",
+        "name": "Tony Jantschke",
+        "firstname": "Tony",
+        "surname": "Jantschke",
+        "fullname": "Tony Jantschke",
+        "gender": "male",
+        "birthday": "07.04.1990",
+        "height": "177",
+        "weight": "74"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:18"
+    },
+    "tickertime": "22.02.2015 17:18:18",
+    "minute": "90",
+    "headline": "",
+    "content": "<p><b>Gelbe Karte für Tony Jantschke (Bor. Mönchengladbach)</b></p> <p>Jantschke lässt Rudnevs über den Buckel rutschen.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326591",
+    "event": {
+      "id": "15562762",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "29226",
+        "name": "Max Kruse",
+        "firstname": "Max",
+        "surname": "Kruse",
+        "fullname": "Maximilian Kruse",
+        "gender": "male",
+        "birthday": "19.03.1988",
+        "height": "180",
+        "weight": "82"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:18"
+    },
+    "tickertime": "22.02.2015 17:18:50",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Max Kruse (Bor. Mönchengladbach)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
