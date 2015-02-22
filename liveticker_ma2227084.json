@@ -703,7 +703,17 @@
       "content": "1:0",
       "kind": "left-foot",
       "minute": "67",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "156839",
+        "name": "Bruno Soares",
+        "firstname": "",
+        "surname": "Bruno Soares",
+        "fullname": "Bruno Gabriel Soares",
+        "gender": "male",
+        "birthday": "21.08.1988",
+        "height": "194",
+        "weight": "85"
+      },
       "created": "22.02.2015 14:54"
     },
     "tickertime": "22.02.2015 14:54:11",
@@ -797,9 +807,19 @@
       },
       "action": "goal",
       "content": "1:1",
-      "kind": "right-foot",
+      "kind": "left-foot",
       "minute": "71",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "230772",
+        "name": "Niclas Füllkrug",
+        "firstname": "Niclas",
+        "surname": "Füllkrug",
+        "fullname": "Niclas Füllkrug",
+        "gender": "male",
+        "birthday": "09.02.1993",
+        "height": "188",
+        "weight": "78"
+      },
       "created": "22.02.2015 14:57"
     },
     "tickertime": "22.02.2015 14:57:29",
