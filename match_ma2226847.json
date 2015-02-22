@@ -1,49 +1,60 @@
-[
-  {
-    "id": "1315475",
-    "team": {
-      "id": "977",
-      "name": "Hertha BSC",
-      "shortname": "Hertha",
-      "microname": "BSC",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
-      "country": {
-        "id": "47",
-        "name": "Deutschland",
-        "code": "GER",
-        "iso": "DE"
-      }
-    },
-    "person": {
-      "id": "14945",
-      "name": "Pál Dárdai",
-      "firstname": "Pál",
-      "surname": "Dárdai",
-      "fullname": "Pál Dárdai",
-      "gender": "male",
-      "birthday": "16.03.1976",
-      "height": "179",
-      "weight": "78"
-    },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "05.02.2015 16:19"
-  },
-  {
-    "id": "956030",
-    "team": {
+{
+  "match": {
+    "id": "2226847",
+    "round_id": "47269",
+    "matchday": "22",
+    "group_matchday": "0",
+    "match_date": "22.02.2015",
+    "match_time": "17:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "0",
+    "home": {
       "id": "2086",
-      "name": "VfL Wolfsburg",
-      "shortname": "Wolfsburg",
-      "microname": "WOL",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
+      "name": "VfL Wolfsburg"
+    },
+    "away": {
+      "id": "977",
+      "name": "Hertha BSC"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      }
+    ],
+    "venue": {
+      "id": "2158",
+      "name": "Volkswagen Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "2158",
+        "capacity": "30000",
+        "built": "0"
+      },
+      "town": {
+        "id": "1658",
+        "name": "Wolfsburg"
+      },
       "country": {
         "id": "47",
         "name": "Deutschland",
@@ -51,22 +62,52 @@
         "iso": "DE"
       }
     },
-    "person": {
-      "id": "14564",
-      "name": "Dieter Hecking",
-      "firstname": "Dieter",
-      "surname": "Hecking",
-      "fullname": "Dieter Hecking",
+    "referee": {
+      "id": "41942",
+      "name": "Guido Winkmann",
+      "firstname": "Guido",
+      "surname": "Winkmann",
+      "fullname": "Guido Winkmann",
       "gender": "male",
-      "birthday": "12.09.1964",
-      "height": "179",
-      "weight": "82"
+      "birthday": "27.11.1973",
+      "height": "180",
+      "weight": "71",
+      "person_detail": {
+        "id": "2339",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
     },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "01.07.2013 17:34"
-  }
-]
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

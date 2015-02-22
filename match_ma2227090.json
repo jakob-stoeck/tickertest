@@ -1,49 +1,68 @@
-[
-  {
-    "id": "1084294",
-    "team": {
-      "id": "6",
-      "name": "1. FC Kaiserslautern",
-      "shortname": "K'lautern",
-      "microname": "FCK",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
-      "country": {
-        "id": "47",
-        "name": "Deutschland",
-        "code": "GER",
-        "iso": "DE"
-      }
-    },
-    "person": {
-      "id": "25945",
-      "name": "Kosta Runjaic",
-      "firstname": "Kosta",
-      "surname": "Runjaic",
-      "fullname": "Kosta Runjaic",
-      "gender": "male",
-      "birthday": "04.06.1971",
-      "height": "0",
-      "weight": "0"
-    },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "03.02.2015 16:23"
-  },
-  {
-    "id": "773620",
-    "team": {
+{
+  "match": {
+    "id": "2227090",
+    "round_id": "47270",
+    "matchday": "22",
+    "group_matchday": "0",
+    "match_date": "22.02.2015",
+    "match_time": "13:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "0",
+    "home": {
       "id": "845",
-      "name": "FSV Frankfurt",
-      "shortname": "FSV Frank.",
-      "microname": "FSV",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
+      "name": "FSV Frankfurt"
+    },
+    "away": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/Sport1fm_Einzel3.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel3.mp3"
+      }
+    ],
+    "venue": {
+      "id": "627",
+      "name": "Frankfurter Volksbank Stadion",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "627",
+        "capacity": "10826",
+        "built": "1931"
+      },
+      "town": {
+        "id": "503",
+        "name": "Frankfurt am Main"
+      },
       "country": {
         "id": "47",
         "name": "Deutschland",
@@ -51,22 +70,52 @@
         "iso": "DE"
       }
     },
-    "person": {
-      "id": "24758",
-      "name": "Benno Möhlmann",
-      "firstname": "Benno",
-      "surname": "Möhlmann",
-      "fullname": "Benno Möhlmann",
+    "referee": {
+      "id": "80473",
+      "name": "René Rohde",
+      "firstname": "René",
+      "surname": "Rohde",
+      "fullname": "René Rohde",
       "gender": "male",
-      "birthday": "01.08.1954",
-      "height": "178",
-      "weight": "75"
+      "birthday": "10.09.1980",
+      "height": "192",
+      "weight": "85",
+      "person_detail": {
+        "id": "57252",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
     },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "04.02.2015 19:18"
-  }
-]
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

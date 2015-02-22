@@ -1,0 +1,72 @@
+[
+  {
+    "id": "662642",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14961",
+      "name": "Lucien Favre",
+      "firstname": "Lucien",
+      "surname": "Favre",
+      "fullname": "Lucien Favre",
+      "gender": "male",
+      "birthday": "02.11.1957",
+      "height": "178",
+      "weight": "70"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "17.07.2014 14:51"
+  },
+  {
+    "id": "1254481",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "28238",
+      "name": "Joe Zinnbauer",
+      "firstname": "Joe",
+      "surname": "Zinnbauer",
+      "fullname": "Josef Zinnbauer",
+      "gender": "male",
+      "birthday": "01.05.1970",
+      "height": "181",
+      "weight": "75"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "27.10.2014 12:50"
+  }
+]

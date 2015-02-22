@@ -1,49 +1,68 @@
-[
-  {
-    "id": "1275691",
-    "team": {
-      "id": "12",
-      "name": "1. FC Nürnberg",
-      "shortname": "Nürnberg",
-      "microname": "FCN",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
-      "country": {
-        "id": "47",
-        "name": "Deutschland",
-        "code": "GER",
-        "iso": "DE"
-      }
-    },
-    "person": {
-      "id": "94807",
-      "name": "René Weiler",
-      "firstname": "René",
-      "surname": "Weiler",
-      "fullname": "René Weiler",
-      "gender": "male",
-      "birthday": "13.09.1973",
-      "height": "180",
-      "weight": "75"
-    },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "02.12.2014 14:58"
-  },
-  {
-    "id": "1206166",
-    "team": {
+{
+  "match": {
+    "id": "2227084",
+    "round_id": "47270",
+    "matchday": "22",
+    "group_matchday": "0",
+    "match_date": "22.02.2015",
+    "match_time": "13:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "0",
+    "home": {
       "id": "826",
-      "name": "Fortuna Düsseldorf",
-      "shortname": "Düsseldorf",
-      "microname": "F95",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
+      "name": "Fortuna Düsseldorf"
+    },
+    "away": {
+      "id": "12",
+      "name": "1. FC Nürnberg"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/Sport1fm_Einzel1.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3"
+      }
+    ],
+    "venue": {
+      "id": "1062",
+      "name": "ESPRIT arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "1062",
+        "capacity": "54600",
+        "built": "2004"
+      },
+      "town": {
+        "id": "444",
+        "name": "Düsseldorf"
+      },
       "country": {
         "id": "47",
         "name": "Deutschland",
@@ -51,22 +70,52 @@
         "iso": "DE"
       }
     },
-    "person": {
-      "id": "10459",
-      "name": "Oliver Reck",
-      "firstname": "Oliver",
-      "surname": "Reck",
-      "fullname": "Oliver Reck",
+    "referee": {
+      "id": "49250",
+      "name": "Tobias Stieler",
+      "firstname": "Tobias",
+      "surname": "Stieler",
+      "fullname": "Tobias Stieler",
       "gender": "male",
-      "birthday": "27.02.1965",
-      "height": "193",
-      "weight": "95"
+      "birthday": "02.07.1981",
+      "height": "184",
+      "weight": "78",
+      "person_detail": {
+        "id": "12567",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
     },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "13.06.2014 15:47"
-  }
-]
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

@@ -1,49 +1,60 @@
-[
-  {
-    "id": "662642",
-    "team": {
-      "id": "253",
-      "name": "Bor. Mönchengladbach",
-      "shortname": "Gladbach",
-      "microname": "BMG",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
-      "country": {
-        "id": "47",
-        "name": "Deutschland",
-        "code": "GER",
-        "iso": "DE"
-      }
-    },
-    "person": {
-      "id": "14961",
-      "name": "Lucien Favre",
-      "firstname": "Lucien",
-      "surname": "Favre",
-      "fullname": "Lucien Favre",
-      "gender": "male",
-      "birthday": "02.11.1957",
-      "height": "178",
-      "weight": "70"
-    },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "17.07.2014 14:51"
-  },
-  {
-    "id": "1254481",
-    "team": {
+{
+  "match": {
+    "id": "2226833",
+    "round_id": "47269",
+    "matchday": "22",
+    "group_matchday": "0",
+    "match_date": "22.02.2015",
+    "match_time": "15:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "0",
+    "home": {
       "id": "943",
-      "name": "Hamburger SV",
-      "shortname": "Hamburg",
-      "microname": "HSV",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
+      "name": "Hamburger SV"
+    },
+    "away": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      }
+    ],
+    "venue": {
+      "id": "825",
+      "name": "Imtech Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "825",
+        "capacity": "57000",
+        "built": "2001"
+      },
+      "town": {
+        "id": "591",
+        "name": "Hamburg"
+      },
       "country": {
         "id": "47",
         "name": "Deutschland",
@@ -51,22 +62,52 @@
         "iso": "DE"
       }
     },
-    "person": {
-      "id": "28238",
-      "name": "Joe Zinnbauer",
-      "firstname": "Joe",
-      "surname": "Zinnbauer",
-      "fullname": "Josef Zinnbauer",
+    "referee": {
+      "id": "49243",
+      "name": "Felix Zwayer",
+      "firstname": "Felix",
+      "surname": "Zwayer",
+      "fullname": "Felix Zwayer",
       "gender": "male",
-      "birthday": "01.05.1970",
-      "height": "181",
-      "weight": "75"
+      "birthday": "19.05.1981",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "12560",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
     },
-    "action": "coaching",
-    "content": "",
-    "kind": "",
-    "minute": "0",
-    "additional_person_id": "0",
-    "created": "27.10.2014 12:50"
-  }
-]
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}
