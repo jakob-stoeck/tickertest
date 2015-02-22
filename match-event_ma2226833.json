@@ -1933,6 +1933,52 @@
     "created": "22.02.2015 17:18:49"
   },
   {
+    "id": "15562768",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "244769",
+      "name": "Branimir Hrgota",
+      "firstname": "Branimir",
+      "surname": "Hrgota",
+      "fullname": "Branimir Hrgota",
+      "gender": "male",
+      "birthday": "12.01.1993",
+      "height": "185",
+      "weight": "74"
+    },
+    "action": "goal",
+    "content": "1:1",
+    "kind": "head",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:21:14"
+  },
+  {
+    "id": "15562949",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "game-end",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:23:09"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
