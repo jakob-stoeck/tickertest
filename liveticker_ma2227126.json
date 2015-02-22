@@ -1047,5 +1047,32 @@
     "headline": "",
     "content": "Heise zieht im Rücken der Abwehr ab. Niederlechner hält noch seinen Fuß dazwischen, sodass die Kugel knapp über das Tor der Hausherren rauscht. Da wäre er vielleicht besser nicht mehr dazwischen gegangen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325866",
+    "tickertime": "22.02.2015 15:20:34",
+    "minute": "90",
+    "headline": "",
+    "content": "Heise versucht es aus 40 Metern nochmal direkt. Haas ist überrascht, aber die Kugel landet im Toraus.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325868",
+    "event": {
+      "id": "15559356",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:20"
+    },
+    "tickertime": "22.02.2015 15:20:41",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
   }
 ]
