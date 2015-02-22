@@ -443,5 +443,69 @@
     "headline": "",
     "content": "<b>Anpfiff 2. Halbzeit</b>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326889",
+    "event": {
+      "id": "15564685",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "8155",
+        "name": "Sebastian Jung",
+        "firstname": "Sebastian",
+        "surname": "Jung",
+        "fullname": "Sebastian Jung",
+        "gender": "male",
+        "birthday": "22.06.1990",
+        "height": "179",
+        "weight": "72"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "22.02.2015 18:32"
+    },
+    "tickertime": "22.02.2015 18:32:10",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Wolfsburg -> Sebastian Jung</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326892",
+    "event": {
+      "id": "15564686",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "233062",
+        "name": "Maximilian Arnold",
+        "firstname": "Maximilian",
+        "surname": "Arnold",
+        "fullname": "Maximilian Arnold",
+        "gender": "male",
+        "birthday": "27.05.1994",
+        "height": "183",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "22.02.2015 18:32"
+    },
+    "tickertime": "22.02.2015 18:32:21",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Wolfsburg -> Maximilian Arnold</span>",
+    "syndicate": "s1de"
   }
 ]
