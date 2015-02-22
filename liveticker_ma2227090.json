@@ -631,5 +631,37 @@
     "headline": "",
     "content": "Mohamed Aoudia und Willi Orban rauschen im Luftduell ineinander und der Stürmer bleibt kurz liegen. Es folgen Diskussionen, aber letztlich ist alles halb so wild.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325592",
+    "event": {
+      "id": "15558811",
+      "team": {
+        "id": "845",
+        "name": "FSV Frankfurt"
+      },
+      "person": {
+        "id": "230299",
+        "name": "Mario Engels",
+        "firstname": "Mario",
+        "surname": "Engels",
+        "fullname": "Mario Engels",
+        "gender": "male",
+        "birthday": "22.10.1993",
+        "height": "183",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "65",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:51"
+    },
+    "tickertime": "22.02.2015 14:51:42",
+    "minute": "65",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FSV Frankfurt -> Mario Engels</span>",
+    "syndicate": "heimspiel"
   }
 ]
