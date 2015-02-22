@@ -663,5 +663,69 @@
     "headline": "",
     "content": "Für die Berliner ergeben sich jetzt zunehmend Freiräume, die sie zum Kontern nutzen können.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325647",
+    "event": {
+      "id": "15558954",
+      "team": {
+        "id": "5",
+        "name": "1. FC Heidenheim 1846"
+      },
+      "person": {
+        "id": "259112",
+        "name": "Robert Leipertz",
+        "firstname": "Robert",
+        "surname": "Leipertz",
+        "fullname": "Robert Leipertz",
+        "gender": "male",
+        "birthday": "01.02.1993",
+        "height": "182",
+        "weight": "76"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:59"
+    },
+    "tickertime": "22.02.2015 14:59:13",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Heidenheim 1846 -> Robert Leipertz</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325649",
+    "event": {
+      "id": "15558956",
+      "team": {
+        "id": "5",
+        "name": "1. FC Heidenheim 1846"
+      },
+      "person": {
+        "id": "129741",
+        "name": "Adriano Grimaldi",
+        "firstname": "Adriano",
+        "surname": "Grimaldi",
+        "fullname": "Adriano Grimaldi",
+        "gender": "male",
+        "birthday": "05.04.1991",
+        "height": "188",
+        "weight": "87"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:59"
+    },
+    "tickertime": "22.02.2015 14:59:24",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Heidenheim 1846 -> Adriano Grimaldi</span>",
+    "syndicate": "heimspiel"
   }
 ]
