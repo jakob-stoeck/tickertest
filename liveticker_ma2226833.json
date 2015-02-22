@@ -647,5 +647,69 @@
     "headline": "",
     "content": "<p><b>Gouaida schaut nicht hin</b></p> <p>Erst hat der Hamburger den Kopf oben, guckt sich die Kollegen in der Spitze aus von der rechten Seite. Dann lässt er den Blick unten, spielt einen ganz schwachen Ball in die Mitte, halbhoch auf Stranzl.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326445",
+    "event": {
+      "id": "15561974",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "14954",
+        "name": "Ibrahima Traoré",
+        "firstname": "Ibrahima",
+        "surname": "Traoré",
+        "fullname": "Ibrahima Traoré",
+        "gender": "male",
+        "birthday": "21.04.1988",
+        "height": "172",
+        "weight": "62"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "22.02.2015 16:50"
+    },
+    "tickertime": "22.02.2015 16:50:08",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Ibrahima Traoré</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326447",
+    "event": {
+      "id": "15562007",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "14959",
+        "name": "Raffael",
+        "firstname": "",
+        "surname": "Raffael",
+        "fullname": "Raffael Caetano de Araújo",
+        "gender": "male",
+        "birthday": "28.03.1985",
+        "height": "174",
+        "weight": "69"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "22.02.2015 16:50"
+    },
+    "tickertime": "22.02.2015 16:50:20",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Raffael</span>",
+    "syndicate": "s1de"
   }
 ]
