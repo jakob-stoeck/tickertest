@@ -1538,6 +1538,121 @@
     "created": "22.02.2015 16:50:20"
   },
   {
+    "id": "15562207",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "113775",
+      "name": "Zoltán Stieber",
+      "firstname": "Zoltán",
+      "surname": "Stieber",
+      "fullname": "Zoltán Stieber",
+      "gender": "male",
+      "birthday": "16.10.1988",
+      "height": "175",
+      "weight": "67"
+    },
+    "action": "goal",
+    "content": "1:0",
+    "kind": "left-foot",
+    "minute": "73",
+    "additional_person": {
+      "id": "11660",
+      "name": "Artjoms Rudņevs",
+      "firstname": "Artjoms",
+      "surname": "Rudņevs",
+      "fullname": "Artjoms Rudņevs",
+      "gender": "male",
+      "birthday": "13.01.1988",
+      "height": "183",
+      "weight": "81"
+    },
+    "created": "22.02.2015 17:02:03"
+  },
+  {
+    "id": "15562230",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14473",
+      "name": "André Hahn",
+      "firstname": "André",
+      "surname": "Hahn",
+      "fullname": "André Hahn",
+      "gender": "male",
+      "birthday": "13.08.1990",
+      "height": "185",
+      "weight": "77"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:05:01"
+  },
+  {
+    "id": "15562231",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "249977",
+      "name": "Thorgan Hazard",
+      "firstname": "Thorgan",
+      "surname": "Hazard",
+      "fullname": "Thorgan Hazard",
+      "gender": "male",
+      "birthday": "29.03.1993",
+      "height": "174",
+      "weight": "69"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:05:10"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
