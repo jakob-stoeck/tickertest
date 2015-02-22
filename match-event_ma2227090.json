@@ -1888,6 +1888,62 @@
     "created": "22.02.2015 15:07:59"
   },
   {
+    "id": "15559151",
+    "team": {
+      "id": "845",
+      "name": "FSV Frankfurt",
+      "shortname": "FSV Frank.",
+      "microname": "FSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "20787",
+      "name": "Zlatko Dedič",
+      "firstname": "Zlatko",
+      "surname": "Dedič",
+      "fullname": "Zlatko Dedič",
+      "gender": "male",
+      "birthday": "05.10.1984",
+      "height": "182",
+      "weight": "77"
+    },
+    "action": "goal",
+    "content": "2:0",
+    "kind": "right-foot",
+    "minute": "89",
+    "additional_person": {
+      "id": "258293",
+      "name": "Florian Ballas",
+      "firstname": "Florian",
+      "surname": "Ballas",
+      "fullname": "Florian Ballas",
+      "gender": "male",
+      "birthday": "08.01.1993",
+      "height": "196",
+      "weight": "90"
+    },
+    "created": "22.02.2015 15:15:50"
+  },
+  {
+    "id": "15559348",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "game-end",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:19:37"
+  },
+  {
     "id": "1084294",
     "team": {
       "id": "6",
