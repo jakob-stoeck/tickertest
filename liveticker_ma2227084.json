@@ -479,5 +479,69 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Jan Polák (1. FC Nürnberg)</b> <br/> Der Gästekapitän legt sich den Ball zu weit vor und zieht dann gegen den Eroberer Fink voll durch. Schiedsrichter Stieler entscheidet sich für die erste Verwarnung in einer Partie, die nur in den Minuten vor der Pause ziemlich hitzig war. Ansonsten stimmt der Grad der Fairness.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325531",
+    "event": {
+      "id": "15558552",
+      "team": {
+        "id": "826",
+        "name": "Fortuna Düsseldorf"
+      },
+      "person": {
+        "id": "16433",
+        "name": "Michael Liendl",
+        "firstname": "Michael",
+        "surname": "Liendl",
+        "fullname": "Michael Liendl",
+        "gender": "male",
+        "birthday": "25.10.1985",
+        "height": "175",
+        "weight": "72"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "55",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:42"
+    },
+    "tickertime": "22.02.2015 14:42:08",
+    "minute": "55",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Fortuna Düsseldorf -> Michael Liendl</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325534",
+    "event": {
+      "id": "15558553",
+      "team": {
+        "id": "826",
+        "name": "Fortuna Düsseldorf"
+      },
+      "person": {
+        "id": "266293",
+        "name": "Joel Pohjanpalo",
+        "firstname": "Joel",
+        "surname": "Pohjanpalo",
+        "fullname": "Joel Pohjanpalo",
+        "gender": "male",
+        "birthday": "13.09.1994",
+        "height": "184",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "55",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:42"
+    },
+    "tickertime": "22.02.2015 14:42:21",
+    "minute": "55",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Fortuna Düsseldorf -> Joel Pohjanpalo</span>",
+    "syndicate": "heimspiel"
   }
 ]
