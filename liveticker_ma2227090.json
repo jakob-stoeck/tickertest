@@ -1055,5 +1055,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FSV Frankfurt -> Vincenzo Grifo</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325740",
+    "event": {
+      "id": "15559072",
+      "team": {
+        "id": "845",
+        "name": "FSV Frankfurt"
+      },
+      "person": {
+        "id": "20787",
+        "name": "Zlatko Dedič",
+        "firstname": "Zlatko",
+        "surname": "Dedič",
+        "fullname": "Zlatko Dedič",
+        "gender": "male",
+        "birthday": "05.10.1984",
+        "height": "182",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:07"
+    },
+    "tickertime": "22.02.2015 15:08:00",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FSV Frankfurt -> Zlatko Dedič</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325746",
+    "tickertime": "22.02.2015 15:08:27",
+    "minute": "82",
+    "headline": "",
+    "content": "Der Torschütze geht unterm dem Applaus der Zuschauer runter und Zlatko Dedič soll in den letzten Minuten noch einmal vorne Bälle festmachen.",
+    "syndicate": "heimspiel"
   }
 ]
