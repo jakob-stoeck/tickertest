@@ -1573,6 +1573,166 @@
     "created": "22.02.2015 14:52:34"
   },
   {
+    "id": "15558856",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "266293",
+      "name": "Joel Pohjanpalo",
+      "firstname": "Joel",
+      "surname": "Pohjanpalo",
+      "fullname": "Joel Pohjanpalo",
+      "gender": "male",
+      "birthday": "13.09.1994",
+      "height": "184",
+      "weight": "75"
+    },
+    "action": "goal",
+    "content": "1:0",
+    "kind": "left-foot",
+    "minute": "67",
+    "additional_person": {
+      "id": "156839",
+      "name": "Bruno Soares",
+      "firstname": "",
+      "surname": "Bruno Soares",
+      "fullname": "Bruno Gabriel Soares",
+      "gender": "male",
+      "birthday": "21.08.1988",
+      "height": "194",
+      "weight": "85"
+    },
+    "created": "22.02.2015 14:54:11"
+  },
+  {
+    "id": "15558883",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "97",
+      "name": "Axel Bellinghausen",
+      "firstname": "Axel",
+      "surname": "Bellinghausen",
+      "fullname": "Axel Bellinghausen",
+      "gender": "male",
+      "birthday": "17.05.1983",
+      "height": "182",
+      "weight": "76"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:56:33"
+  },
+  {
+    "id": "15558884",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "12666",
+      "name": "Andreas Lambertz",
+      "firstname": "Andreas",
+      "surname": "Lambertz",
+      "fullname": "Andreas Lambertz",
+      "gender": "male",
+      "birthday": "15.10.1984",
+      "height": "172",
+      "weight": "69"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:56:42"
+  },
+  {
+    "id": "15558948",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "233151",
+      "name": "Niklas Stark",
+      "firstname": "Niklas",
+      "surname": "Stark",
+      "fullname": "Niklas Stark",
+      "gender": "male",
+      "birthday": "14.04.1995",
+      "height": "188",
+      "weight": "74"
+    },
+    "action": "goal",
+    "content": "1:1",
+    "kind": "left-foot",
+    "minute": "71",
+    "additional_person": {
+      "id": "230772",
+      "name": "Niclas Füllkrug",
+      "firstname": "Niclas",
+      "surname": "Füllkrug",
+      "fullname": "Niclas Füllkrug",
+      "gender": "male",
+      "birthday": "09.02.1993",
+      "height": "188",
+      "weight": "78"
+    },
+    "created": "22.02.2015 14:57:29"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
