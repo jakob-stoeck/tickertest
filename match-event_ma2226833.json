@@ -1271,6 +1271,41 @@
     "created": "22.02.2015 15:31:34"
   },
   {
+    "id": "15560042",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14954",
+      "name": "Ibrahima Traoré",
+      "firstname": "Ibrahima",
+      "surname": "Traoré",
+      "fullname": "Ibrahima Traoré",
+      "gender": "male",
+      "birthday": "21.04.1988",
+      "height": "172",
+      "weight": "62"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "9",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:40:02"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
