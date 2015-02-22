@@ -847,5 +847,133 @@
     "headline": "",
     "content": "<b>Gelb-Rote Karte für Mohamed Aoudia (FSV Frankfurt)</b> <br/>Die Ereignisse überschlagen sich! Der Stürmer geht im gegnerischen Strafraum übermotiviert einem Ball hinterher, kommt zu spät und wird von Schiri Rohde vom Platz gestellt. Das kann man vertreten, weil sich der Algerier hier einfach etwas cleverer verhalten muss.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325677",
+    "event": {
+      "id": "15558969",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "9724",
+        "name": "Markus Karl",
+        "firstname": "Markus",
+        "surname": "Karl",
+        "fullname": "Markus Karl",
+        "gender": "male",
+        "birthday": "14.02.1986",
+        "height": "191",
+        "weight": "87"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:01"
+    },
+    "tickertime": "22.02.2015 15:01:51",
+    "minute": "74",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Kaiserslautern -> Markus Karl</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325679",
+    "event": {
+      "id": "15558970",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "141507",
+        "name": "Simon Zoller",
+        "firstname": "Simon",
+        "surname": "Zoller",
+        "fullname": "Simon Zoller",
+        "gender": "male",
+        "birthday": "26.06.1991",
+        "height": "179",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:01"
+    },
+    "tickertime": "22.02.2015 15:01:59",
+    "minute": "74",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Kaiserslautern -> Simon Zoller</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325681",
+    "event": {
+      "id": "15558972",
+      "team": {
+        "id": "845",
+        "name": "FSV Frankfurt"
+      },
+      "person": {
+        "id": "158085",
+        "name": "Odise Roshi",
+        "firstname": "Odise",
+        "surname": "Roshi",
+        "fullname": "Odise Roshi",
+        "gender": "male",
+        "birthday": "22.05.1991",
+        "height": "187",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:02"
+    },
+    "tickertime": "22.02.2015 15:02:12",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FSV Frankfurt -> Odise Roshi</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325683",
+    "event": {
+      "id": "15558973",
+      "team": {
+        "id": "845",
+        "name": "FSV Frankfurt"
+      },
+      "person": {
+        "id": "258293",
+        "name": "Florian Ballas",
+        "firstname": "Florian",
+        "surname": "Ballas",
+        "fullname": "Florian Ballas",
+        "gender": "male",
+        "birthday": "08.01.1993",
+        "height": "196",
+        "weight": "90"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:02"
+    },
+    "tickertime": "22.02.2015 15:02:24",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FSV Frankfurt -> Florian Ballas</span>",
+    "syndicate": "heimspiel"
   }
 ]
