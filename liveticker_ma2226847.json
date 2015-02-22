@@ -939,5 +939,69 @@
     "headline": "",
     "content": "<p><b>Kraft hält Hertha im Spiel</b></p> <p>Das ist einer dieser VfL-Konter. Schürrle kommt rechts in den Strafraum, schießt in Richtung rechtes Tordreieck, doch Kraft lenkt den Ball mit einer sensationellen Parade zur Ecke.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1327045",
+    "event": {
+      "id": "15565523",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "9466",
+        "name": "Bas Dost",
+        "firstname": "Bas",
+        "surname": "Dost",
+        "fullname": "Bas Dost",
+        "gender": "male",
+        "birthday": "31.05.1989",
+        "height": "192",
+        "weight": "85"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "22.02.2015 19:17"
+    },
+    "tickertime": "22.02.2015 19:17:05",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Wolfsburg -> Bas Dost</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1327047",
+    "event": {
+      "id": "15565524",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "1967",
+        "name": "Nicklas Bendtner",
+        "firstname": "Nicklas",
+        "surname": "Bendtner",
+        "fullname": "Nicklas Bendtner",
+        "gender": "male",
+        "birthday": "16.01.1988",
+        "height": "191",
+        "weight": "83"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "22.02.2015 19:17"
+    },
+    "tickertime": "22.02.2015 19:17:14",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Wolfsburg -> Nicklas Bendtner</span>",
+    "syndicate": "s1de"
   }
 ]
