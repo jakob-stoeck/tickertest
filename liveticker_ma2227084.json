@@ -1021,5 +1021,69 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei 1. FC Nürnberg -> Alessandro Schöpf</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325811",
+    "event": {
+      "id": "15559146",
+      "team": {
+        "id": "12",
+        "name": "1. FC Nürnberg"
+      },
+      "person": {
+        "id": "234161",
+        "name": "Sebastian Kerk",
+        "firstname": "Sebastian",
+        "surname": "Kerk",
+        "fullname": "Sebastian Kerk",
+        "gender": "male",
+        "birthday": "17.04.1994",
+        "height": "184",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:14"
+    },
+    "tickertime": "22.02.2015 15:14:33",
+    "minute": "88",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Nürnberg -> Sebastian Kerk</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325814",
+    "event": {
+      "id": "15559148",
+      "team": {
+        "id": "12",
+        "name": "1. FC Nürnberg"
+      },
+      "person": {
+        "id": "234161",
+        "name": "Sebastian Kerk",
+        "firstname": "Sebastian",
+        "surname": "Kerk",
+        "fullname": "Sebastian Kerk",
+        "gender": "male",
+        "birthday": "17.04.1994",
+        "height": "184",
+        "weight": "74"
+      },
+      "action": "goal",
+      "content": "1:3",
+      "kind": "left-foot",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:15"
+    },
+    "tickertime": "22.02.2015 15:15:07",
+    "minute": "88",
+    "headline": "",
+    "content": "<b>Tooor für 1. FC Nürnberg, 1:3 durch Sebastian Kerk</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
