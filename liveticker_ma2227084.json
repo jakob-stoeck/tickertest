@@ -671,5 +671,45 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Nürnberg -> Danny Blum</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325607",
+    "tickertime": "22.02.2015 14:54:01",
+    "minute": "66",
+    "headline": "",
+    "content": "Auch kurz vor Anbruch der Schlussphase spielt sich das Geschehen fast nur zwischen den Strafräumen ab. Gerade die Nürnberger Abwehrreihe kann bis auf die Einzelaktionen von Benschop beinahe jeden Vorstoß der Hausherren weit vor dem Kasten von",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325612",
+    "event": {
+      "id": "15558856",
+      "team": {
+        "id": "826",
+        "name": "Fortuna Düsseldorf"
+      },
+      "person": {
+        "id": "266293",
+        "name": "Joel Pohjanpalo",
+        "firstname": "Joel",
+        "surname": "Pohjanpalo",
+        "fullname": "Joel Pohjanpalo",
+        "gender": "male",
+        "birthday": "13.09.1994",
+        "height": "184",
+        "weight": "75"
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "left-foot",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:54"
+    },
+    "tickertime": "22.02.2015 14:54:11",
+    "minute": "67",
+    "headline": "",
+    "content": "<b>Tooor für Fortuna Düsseldorf, 1:0 durch Joel Pohjanpalo</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
