@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1275691",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "94807",
+      "name": "René Weiler",
+      "firstname": "René",
+      "surname": "Weiler",
+      "fullname": "René Weiler",
+      "gender": "male",
+      "birthday": "13.09.1973",
+      "height": "180",
+      "weight": "75"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "02.12.2014 14:58"
+  },
+  {
+    "id": "1206166",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "10459",
+      "name": "Oliver Reck",
+      "firstname": "Oliver",
+      "surname": "Reck",
+      "fullname": "Oliver Reck",
+      "gender": "male",
+      "birthday": "27.02.1965",
+      "height": "193",
+      "weight": "95"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "13.06.2014 15:47"
+  }
+]

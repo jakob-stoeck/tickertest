@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1084294",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "25945",
+      "name": "Kosta Runjaic",
+      "firstname": "Kosta",
+      "surname": "Runjaic",
+      "fullname": "Kosta Runjaic",
+      "gender": "male",
+      "birthday": "04.06.1971",
+      "height": "0",
+      "weight": "0"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "03.02.2015 16:23"
+  },
+  {
+    "id": "773620",
+    "team": {
+      "id": "845",
+      "name": "FSV Frankfurt",
+      "shortname": "FSV Frank.",
+      "microname": "FSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "24758",
+      "name": "Benno Möhlmann",
+      "firstname": "Benno",
+      "surname": "Möhlmann",
+      "fullname": "Benno Möhlmann",
+      "gender": "male",
+      "birthday": "01.08.1954",
+      "height": "178",
+      "weight": "75"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "04.02.2015 19:18"
+  }
+]

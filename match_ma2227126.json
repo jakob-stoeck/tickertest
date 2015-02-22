@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5378",
+    "team": {
+      "id": "5",
+      "name": "1. FC Heidenheim 1846",
+      "shortname": "Heidenheim",
+      "microname": "HDH",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "79",
+      "name": "Frank Schmidt",
+      "firstname": "Frank",
+      "surname": "Schmidt",
+      "fullname": "Frank Schmidt",
+      "gender": "male",
+      "birthday": "03.01.1974",
+      "height": "190",
+      "weight": "87"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "29.01.2015 16:28"
+  },
+  {
+    "id": "1198981",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "223503",
+      "name": "Norbert Düwel",
+      "firstname": "Norbert",
+      "surname": "Düwel",
+      "fullname": "Norbert Düwel",
+      "gender": "male",
+      "birthday": "05.01.1968",
+      "height": "186",
+      "weight": "84"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "03.08.2014 14:49"
+  }
+]
