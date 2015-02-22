@@ -1398,6 +1398,76 @@
     "created": "22.02.2015 14:31:34"
   },
   {
+    "id": "15558645",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "229855",
+      "name": "Kevin Stöger",
+      "firstname": "Kevin",
+      "surname": "Stöger",
+      "fullname": "Kevin Stöger",
+      "gender": "male",
+      "birthday": "27.08.1993",
+      "height": "175",
+      "weight": "70"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:44:40"
+  },
+  {
+    "id": "15558646",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "231645",
+      "name": "Amin Younes",
+      "firstname": "Amin",
+      "surname": "Younes",
+      "fullname": "Amin Younes",
+      "gender": "male",
+      "birthday": "06.08.1993",
+      "height": "168",
+      "weight": "67"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:44:50"
+  },
+  {
     "id": "1084294",
     "team": {
       "id": "6",
