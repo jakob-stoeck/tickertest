@@ -161,5 +161,37 @@
     "headline": "",
     "content": "<p><b>Hertha zeigt Reaktion</b></p> <p>Die Berliner versuchen nach der Heimpleite gegen Freiburg eine Reaktion zu zeigen - und das gelingt bislang. Das Team von Coach Dardai wirkt sehr konzentriert.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326683",
+    "event": {
+      "id": "15563803",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "9466",
+        "name": "Bas Dost",
+        "firstname": "Bas",
+        "surname": "Dost",
+        "fullname": "Bas Dost",
+        "gender": "male",
+        "birthday": "31.05.1989",
+        "height": "192",
+        "weight": "85"
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "right-foot",
+      "minute": "10",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:40"
+    },
+    "tickertime": "22.02.2015 17:40:07",
+    "minute": "10",
+    "headline": "",
+    "content": "<b>Tooor für VfL Wolfsburg, 1:0 durch Bas Dost</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
