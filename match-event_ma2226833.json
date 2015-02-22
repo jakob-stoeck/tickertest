@@ -1306,6 +1306,76 @@
     "created": "22.02.2015 15:40:02"
   },
   {
+    "id": "15560434",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14449",
+      "name": "Ivica Olić",
+      "firstname": "Ivica",
+      "surname": "Olić",
+      "fullname": "Ivica Olić",
+      "gender": "male",
+      "birthday": "14.09.1979",
+      "height": "183",
+      "weight": "85"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "25",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:56:08"
+  },
+  {
+    "id": "15560436",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "11660",
+      "name": "Artjoms Rudņevs",
+      "firstname": "Artjoms",
+      "surname": "Rudņevs",
+      "fullname": "Artjoms Rudņevs",
+      "gender": "male",
+      "birthday": "13.01.1988",
+      "height": "183",
+      "weight": "81"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "25",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:56:18"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
