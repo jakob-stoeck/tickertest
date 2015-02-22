@@ -763,5 +763,109 @@
     "headline": "",
     "content": "<p><b>Tooor für VfL Wolfsburg, 2:1 durch Bas Dost</b></p> <p>Nach einem Pfostenkracher von Luiz Gustavo reagiert Dost am Schnellsten und schießt den Abpraller rechts ins Eck am am Boden liegenden Kraft vorbei ins Netz.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1327001",
+    "tickertime": "22.02.2015 19:03:15",
+    "minute": "76",
+    "headline": "",
+    "content": "<p><b>Verdiente Führung</b></p> <p>Auch wenn bei der Entstehung etwas Glück dabei war, so ist die erneute Führung für die Gastgeber verdient. Die Niedersachsen sind das deutlich aktivere Team.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1327003",
+    "event": {
+      "id": "15565140",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "10403",
+        "name": "Vieirinha",
+        "firstname": "",
+        "surname": "Vieirinha",
+        "fullname": "Adelino André Vieira de Freitas",
+        "gender": "male",
+        "birthday": "24.01.1986",
+        "height": "173",
+        "weight": "73"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "77",
+      "additional_person_id": "0",
+      "created": "22.02.2015 19:03"
+    },
+    "tickertime": "22.02.2015 19:03:19",
+    "minute": "77",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Wolfsburg -> Vieirinha</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1327005",
+    "event": {
+      "id": "15565141",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "22989",
+        "name": "Daniel Caligiuri",
+        "firstname": "Daniel",
+        "surname": "Caligiuri",
+        "fullname": "Daniel Caligiuri",
+        "gender": "male",
+        "birthday": "15.01.1988",
+        "height": "182",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "77",
+      "additional_person_id": "0",
+      "created": "22.02.2015 19:03"
+    },
+    "tickertime": "22.02.2015 19:03:27",
+    "minute": "77",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Wolfsburg -> Daniel Caligiuri</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1327008",
+    "event": {
+      "id": "15565142",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "9110",
+        "name": "Valentin Stocker",
+        "firstname": "Valentin",
+        "surname": "Stocker",
+        "fullname": "Valentin Stocker",
+        "gender": "male",
+        "birthday": "12.04.1989",
+        "height": "178",
+        "weight": "65"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "77",
+      "additional_person_id": "0",
+      "created": "22.02.2015 19:03"
+    },
+    "tickertime": "22.02.2015 19:03:50",
+    "minute": "77",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hertha BSC -> Valentin Stocker</span>",
+    "syndicate": "s1de"
   }
 ]
