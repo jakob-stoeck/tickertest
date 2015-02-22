@@ -1306,6 +1306,87 @@
     "created": "22.02.2015 14:02:56"
   },
   {
+    "id": "15558081",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "229557",
+      "name": "Dominique Heintz",
+      "firstname": "Dominique",
+      "surname": "Heintz",
+      "fullname": "Dominique Heintz",
+      "gender": "male",
+      "birthday": "15.08.1993",
+      "height": "190",
+      "weight": "85"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:15:49"
+  },
+  {
+    "id": "15558082",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "3897",
+      "name": "Tim Heubach",
+      "firstname": "Tim",
+      "surname": "Heubach",
+      "fullname": "Tim Heubach",
+      "gender": "male",
+      "birthday": "12.05.1988",
+      "height": "192",
+      "weight": "82"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:16:04"
+  },
+  {
+    "id": "15558083",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "first-half-end",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:16:35"
+  },
+  {
     "id": "1084294",
     "team": {
       "id": "6",
