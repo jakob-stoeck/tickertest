@@ -1848,6 +1848,76 @@
     "created": "22.02.2015 15:05:42"
   },
   {
+    "id": "15559143",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "233604",
+      "name": "Alessandro Schöpf",
+      "firstname": "Alessandro",
+      "surname": "Schöpf",
+      "fullname": "Alessandro Schöpf",
+      "gender": "male",
+      "birthday": "07.02.1994",
+      "height": "171",
+      "weight": "61"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:14:25"
+  },
+  {
+    "id": "15559146",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "234161",
+      "name": "Sebastian Kerk",
+      "firstname": "Sebastian",
+      "surname": "Kerk",
+      "fullname": "Sebastian Kerk",
+      "gender": "male",
+      "birthday": "17.04.1994",
+      "height": "184",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:14:33"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
