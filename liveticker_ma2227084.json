@@ -1077,13 +1077,23 @@
       "content": "1:3",
       "kind": "left-foot",
       "minute": "88",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "230772",
+        "name": "Niclas Füllkrug",
+        "firstname": "Niclas",
+        "surname": "Füllkrug",
+        "fullname": "Niclas Füllkrug",
+        "gender": "male",
+        "birthday": "09.02.1993",
+        "height": "188",
+        "weight": "78"
+      },
       "created": "22.02.2015 15:15"
     },
     "tickertime": "22.02.2015 15:15:07",
     "minute": "88",
     "headline": "",
-    "content": "<b>Tooor für 1. FC Nürnberg, 1:3 durch Sebastian Kerk</b> <br/>",
+    "content": "<b>Tooor für 1. FC Nürnberg, 1:3 durch Sebastian Kerk</b> <br/> Der nächste Joker trifft - nach wenigen Sekunden auf dem Feld! Der Leihspieler aus dem Breisgau taucht nach Füllkrugs Kopfballvorlage an der Strafraumkante am Elfmeterpunkt vor Rensing auf. Trotz enger Bewachung spitzelt Kerk die Kugel am Düsseldorfer Schlussmann vorbei in die rechte Ecke!",
     "syndicate": "heimspiel"
   }
 ]
