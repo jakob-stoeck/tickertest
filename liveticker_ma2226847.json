@@ -185,7 +185,17 @@
       "content": "1:0",
       "kind": "right-foot",
       "minute": "10",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "156189",
+        "name": "André Schürrle",
+        "firstname": "André",
+        "surname": "Schürrle",
+        "fullname": "André Horst Schürrle",
+        "gender": "male",
+        "birthday": "06.11.1990",
+        "height": "184",
+        "weight": "74"
+      },
       "created": "22.02.2015 17:40"
     },
     "tickertime": "22.02.2015 17:40:07",
