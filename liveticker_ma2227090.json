@@ -1015,5 +1015,45 @@
     "headline": "",
     "content": "Die roten Teufel machen es sich in der Hälfte des Gastgebers bequem.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325737",
+    "tickertime": "22.02.2015 15:07:41",
+    "minute": "80",
+    "headline": "",
+    "content": "Die Bornheimer kommen nur noch über Konter nach vorne und auch da rücken sie nicht mehr konsequent nach.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325739",
+    "event": {
+      "id": "15559071",
+      "team": {
+        "id": "845",
+        "name": "FSV Frankfurt"
+      },
+      "person": {
+        "id": "259336",
+        "name": "Vincenzo Grifo",
+        "firstname": "Vincenzo",
+        "surname": "Grifo",
+        "fullname": "Vincenzo Grifo",
+        "gender": "male",
+        "birthday": "07.04.1993",
+        "height": "181",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:07"
+    },
+    "tickertime": "22.02.2015 15:07:53",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FSV Frankfurt -> Vincenzo Grifo</span>",
+    "syndicate": "heimspiel"
   }
 ]
