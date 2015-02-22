@@ -551,5 +551,45 @@
     "headline": "",
     "content": "<p><b>Zu langsam</b></p> <p>Traore flankt von links zu weit hinüber, Hamburg könnte über die Seite schnell angreifen. Ostrzolek verschleppt das Tempo, Gladbach stellt sich wieder.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326355",
+    "tickertime": "22.02.2015 16:37:21",
+    "minute": "48",
+    "headline": "",
+    "content": "<p><b>Müller prallt gegen Hahn</b></p> <p>Dieser Einsatz des Hamburgers ist zu heftig. Hahn bleibt aber stehen wie ein Baum.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326358",
+    "event": {
+      "id": "15561665",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "14948",
+        "name": "Gojko Kačar",
+        "firstname": "Gojko",
+        "surname": "Kačar",
+        "fullname": "Gojko Kačar",
+        "gender": "male",
+        "birthday": "26.01.1987",
+        "height": "185",
+        "weight": "84"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "49",
+      "additional_person_id": "0",
+      "created": "22.02.2015 16:37"
+    },
+    "tickertime": "22.02.2015 16:37:27",
+    "minute": "49",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Gojko Kačar (Hamburger SV)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
