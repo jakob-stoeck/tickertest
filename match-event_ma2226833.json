@@ -1422,6 +1422,52 @@
     "created": "22.02.2015 16:16:40"
   },
   {
+    "id": "15561516",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "second-half-start",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "22.02.2015 16:33:57"
+  },
+  {
+    "id": "15561665",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14948",
+      "name": "Gojko Kačar",
+      "firstname": "Gojko",
+      "surname": "Kačar",
+      "fullname": "Gojko Kačar",
+      "gender": "male",
+      "birthday": "26.01.1987",
+      "height": "185",
+      "weight": "84"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "49",
+    "additional_person_id": "0",
+    "created": "22.02.2015 16:37:26"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
