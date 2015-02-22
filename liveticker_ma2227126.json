@@ -179,7 +179,17 @@
       "content": "1:1",
       "kind": "right-foot",
       "minute": "7",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "96",
+        "name": "Fabian Schönheim",
+        "firstname": "Fabian",
+        "surname": "Schönheim",
+        "fullname": "Fabian Schönheim",
+        "gender": "male",
+        "birthday": "14.02.1987",
+        "height": "191",
+        "weight": "83"
+      },
       "created": "22.02.2015 13:37"
     },
     "tickertime": "22.02.2015 13:37:18",
