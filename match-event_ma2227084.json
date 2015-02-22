@@ -1225,6 +1225,41 @@
     "created": "22.02.2015 12:26:22"
   },
   {
+    "id": "15556941",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "28425",
+      "name": "Lukas Schmitz",
+      "firstname": "Lukas",
+      "surname": "Schmitz",
+      "fullname": "Lukas Schmitz",
+      "gender": "male",
+      "birthday": "13.10.1988",
+      "height": "184",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "22.02.2015 12:27:16"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
