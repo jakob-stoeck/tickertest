@@ -8,8 +8,8 @@
     "match_time": "13:30",
     "finished": "no",
     "live_status": "full",
-    "current_period": "game-start",
-    "current_period_start": "2015-02-22 13:30:12",
+    "current_period": "first-half-end",
+    "current_period_start": "2015-02-22 14:15:45",
     "current_minute": "45",
     "attendance": "17000",
     "home": {
@@ -29,6 +29,16 @@
       {
         "match_result": "1",
         "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "2",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "1",
+        "match_result_at": "1",
         "place": "away"
       }
     ],
