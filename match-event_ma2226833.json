@@ -1498,7 +1498,7 @@
     "action": "playing",
     "content": "",
     "kind": "substitute-out",
-    "minute": "62",
+    "minute": "61",
     "additional_person_id": "0",
     "created": "22.02.2015 16:50:08"
   },
@@ -1533,7 +1533,7 @@
     "action": "playing",
     "content": "",
     "kind": "substitute-in",
-    "minute": "62",
+    "minute": "61",
     "additional_person_id": "0",
     "created": "22.02.2015 16:50:20"
   },
@@ -1964,7 +1964,17 @@
     "content": "1:1",
     "kind": "head",
     "minute": "90",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "29226",
+      "name": "Max Kruse",
+      "firstname": "Max",
+      "surname": "Kruse",
+      "fullname": "Maximilian Kruse",
+      "gender": "male",
+      "birthday": "19.03.1988",
+      "height": "180",
+      "weight": "82"
+    },
     "created": "22.02.2015 17:21:14"
   },
   {
@@ -1977,6 +1987,41 @@
     "minute": "90",
     "additional_person_id": "0",
     "created": "22.02.2015 17:23:09"
+  },
+  {
+    "id": "15563345",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "131510",
+      "name": "Petr Jiráček",
+      "firstname": "Petr",
+      "surname": "Jiráček",
+      "fullname": "Petr Jiráček",
+      "gender": "male",
+      "birthday": "02.03.1986",
+      "height": "180",
+      "weight": "77"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:33:50"
   },
   {
     "id": "662642",
