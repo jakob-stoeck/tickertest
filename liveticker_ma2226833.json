@@ -921,5 +921,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Mohamed Gouaida</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326512",
+    "tickertime": "22.02.2015 17:05:24",
+    "minute": "76",
+    "headline": "",
+    "content": "<p><b>Hahn schwach</b></p> <p>Von Gladbachs Rechtsaußen war heute fast nichts zu sehen.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326514",
+    "event": {
+      "id": "15562233",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "231017",
+        "name": "Ashton Götz",
+        "firstname": "Ashton",
+        "surname": "Götz",
+        "fullname": "Ashton-Phillip Shawn Götz",
+        "gender": "male",
+        "birthday": "16.07.1993",
+        "height": "177",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "77",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:05"
+    },
+    "tickertime": "22.02.2015 17:05:29",
+    "minute": "77",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hamburger SV -> Ashton Götz</span>",
+    "syndicate": "s1de"
   }
 ]
