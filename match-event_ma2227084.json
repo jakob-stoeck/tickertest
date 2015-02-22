@@ -1468,6 +1468,111 @@
     "created": "22.02.2015 14:42:20"
   },
   {
+    "id": "15558801",
+    "team": {
+      "id": "826",
+      "name": "Fortuna Düsseldorf",
+      "shortname": "Düsseldorf",
+      "microname": "F95",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "24782",
+      "name": "Oliver Fink",
+      "firstname": "Oliver",
+      "surname": "Fink",
+      "fullname": "Oliver Fink",
+      "gender": "male",
+      "birthday": "06.06.1982",
+      "height": "187",
+      "weight": "80"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "63",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:49:39"
+  },
+  {
+    "id": "15558848",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "107685",
+      "name": "Guido Burgstaller",
+      "firstname": "Guido",
+      "surname": "Burgstaller",
+      "fullname": "Guido Burgstaller",
+      "gender": "male",
+      "birthday": "24.04.1989",
+      "height": "187",
+      "weight": "76"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "66",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:52:22"
+  },
+  {
+    "id": "15558849",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "171140",
+      "name": "Danny Blum",
+      "firstname": "Danny",
+      "surname": "Blum",
+      "fullname": "Danny Blum",
+      "gender": "male",
+      "birthday": "07.01.1991",
+      "height": "181",
+      "weight": "72"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "66",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:52:34"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
