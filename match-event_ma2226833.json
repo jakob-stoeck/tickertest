@@ -1793,6 +1793,76 @@
     "created": "22.02.2015 17:07:57"
   },
   {
+    "id": "15562387",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14948",
+      "name": "Gojko Kačar",
+      "firstname": "Gojko",
+      "surname": "Kačar",
+      "fullname": "Gojko Kačar",
+      "gender": "male",
+      "birthday": "26.01.1987",
+      "height": "185",
+      "weight": "84"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "85",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:13:47"
+  },
+  {
+    "id": "15562388",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "7513",
+      "name": "Heiko Westermann",
+      "firstname": "Heiko",
+      "surname": "Westermann",
+      "fullname": "Heiko Westermann",
+      "gender": "male",
+      "birthday": "14.08.1983",
+      "height": "190",
+      "weight": "87"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "85",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:13:57"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
