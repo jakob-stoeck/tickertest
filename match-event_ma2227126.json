@@ -1361,6 +1361,51 @@
     "created": "22.02.2015 13:37:18"
   },
   {
+    "id": "15557871",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "23110",
+      "name": "Sören Brandy",
+      "firstname": "Sören",
+      "surname": "Brandy",
+      "fullname": "Sören Brandy",
+      "gender": "male",
+      "birthday": "06.05.1985",
+      "height": "182",
+      "weight": "77"
+    },
+    "action": "goal",
+    "content": "2:1",
+    "kind": "right-foot",
+    "minute": "28",
+    "additional_person": {
+      "id": "96",
+      "name": "Fabian Schönheim",
+      "firstname": "Fabian",
+      "surname": "Schönheim",
+      "fullname": "Fabian Schönheim",
+      "gender": "male",
+      "birthday": "14.02.1987",
+      "height": "191",
+      "weight": "83"
+    },
+    "created": "22.02.2015 13:58:01"
+  },
+  {
     "id": "5378",
     "team": {
       "id": "5",
