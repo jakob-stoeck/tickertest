@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
-       <nil-classes type="array">
-</nil-classes>
+       <games type="array">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="5" guest-long-name="1. FC Heidenheim 1846" gamestate="0" home-short-name="U. Berlin" team1-color="vstriped;13501190;16777215;13501190;16777215" penalty-score-home="0" eventcount="1" team2-color="plain;16777215;16777215;16777215;0" referee-name="Wolfgang Stark" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407724" date="2015-02-22T13:30:00Z" home-long-name="1. FC Union Berlin" cancel-reason="" half3-score-guest="0" league-id="2" current-minute="-1" half4-score-guest="0" guest-short-name="Heidenheim" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153610" overtime-score-home="0" home-team-id="19" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39611" half2-score-home="0">
+    <tabs type="array">
+      <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+      <tab tab-type="table" title="Tabelle" controller="table" has-live-selection="0">
+      </tab>
+      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
+      </tab>
+      <tab tab-type="statistics" title="Statistiken" controller="statistics" has-live-selection="0">
+      </tab>
+      <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
+      </tab>
+    </tabs>
+  </game>
+</games>
 
-       <nil-classes type="array">
-</nil-classes>
+       <events type="array">
+  <event section="0" label="2_39611_407724_1325033" team-id="0" game-id="407724" text="Hallo und herzlich willkommen zum Spiel des 1. FC Union Berlin gegen den 1. FC Heidenheim 1846. Ab 13:30 rollt der Ball an der Alten F&#246;rsterei!" headline="Hallo und herzlich willkommen zum Spiel des 1. FC Union Berlin gegen den 1. FC Heidenheim 1846. Ab 13:30 rollt der Ball an der Alten F&#246;rsterei!" playername="" id="10726381" date="2015-02-22T11:27:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T11:27:52Z" sort="0" game-minute="-1" player-id="0" gameday-id="39611">
+  </event>
+</events>
 
        </conference>
        
