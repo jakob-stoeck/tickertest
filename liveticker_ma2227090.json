@@ -353,5 +353,69 @@
     "headline": "",
     "content": "Derweil geht es bei Dominique Heintz nicht weiter, der seit zwei Minuten am Oberschenkel behandelt wird. Eben kam das Zeichen zur Auswechslung.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325402",
+    "event": {
+      "id": "15558081",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "229557",
+        "name": "Dominique Heintz",
+        "firstname": "Dominique",
+        "surname": "Heintz",
+        "fullname": "Dominique Heintz",
+        "gender": "male",
+        "birthday": "15.08.1993",
+        "height": "190",
+        "weight": "85"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:15"
+    },
+    "tickertime": "22.02.2015 14:15:50",
+    "minute": "45",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Kaiserslautern -> Dominique Heintz</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325403",
+    "event": {
+      "id": "15558082",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "3897",
+        "name": "Tim Heubach",
+        "firstname": "Tim",
+        "surname": "Heubach",
+        "fullname": "Tim Heubach",
+        "gender": "male",
+        "birthday": "12.05.1988",
+        "height": "192",
+        "weight": "82"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:16"
+    },
+    "tickertime": "22.02.2015 14:16:04",
+    "minute": "45",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Kaiserslautern -> Tim Heubach</span>",
+    "syndicate": "heimspiel"
   }
 ]

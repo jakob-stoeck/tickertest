@@ -399,5 +399,32 @@
     "headline": "",
     "content": "Schnatterer bleibt nach einem Kopfballduell mit Parensen kurz liegen, kann aber sofort wieder weitermachen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325400",
+    "tickertime": "22.02.2015 14:15:41",
+    "minute": "45",
+    "headline": "",
+    "content": "Kurz vor dem Halbzeitpfiff kommt kein Spielfluss mehr auf. Die Begegnung ist derzeit von vielen Zweikämpfen und Fouls geprägt.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325401",
+    "event": {
+      "id": "15558080",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "first-half-end",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:15"
+    },
+    "tickertime": "22.02.2015 14:15:45",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Ende 1. Halbzeit</b>",
+    "syndicate": "heimspiel"
   }
 ]
