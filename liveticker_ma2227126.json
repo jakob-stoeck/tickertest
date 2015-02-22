@@ -509,5 +509,47 @@
     "headline": "",
     "content": "Momentan ziehen sich die Gastgeber etwas zurück und lassen die Ostälbler kommen, die ja schließlich auch etwas tun müssen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325542",
+    "event": {
+      "id": "15558589",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "111655",
+        "name": "Christopher Quiring",
+        "firstname": "Christopher",
+        "surname": "Quiring",
+        "fullname": "Christopher Quiring",
+        "gender": "male",
+        "birthday": "23.11.1990",
+        "height": "172",
+        "weight": "67"
+      },
+      "action": "goal",
+      "content": "3:1",
+      "kind": "right-foot",
+      "minute": "56",
+      "additional_person": {
+        "id": "96",
+        "name": "Fabian Schönheim",
+        "firstname": "Fabian",
+        "surname": "Schönheim",
+        "fullname": "Fabian Schönheim",
+        "gender": "male",
+        "birthday": "14.02.1987",
+        "height": "191",
+        "weight": "83"
+      },
+      "created": "22.02.2015 14:44"
+    },
+    "tickertime": "22.02.2015 14:44:03",
+    "minute": "56",
+    "headline": "",
+    "content": "<b>Tooor für 1. FC Union Berlin, 3:1 durch Christopher Quiring</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
