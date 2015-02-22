@@ -1543,6 +1543,146 @@
     "created": "22.02.2015 14:49:08"
   },
   {
+    "id": "15558954",
+    "team": {
+      "id": "5",
+      "name": "1. FC Heidenheim 1846",
+      "shortname": "Heidenheim",
+      "microname": "HDH",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "259112",
+      "name": "Robert Leipertz",
+      "firstname": "Robert",
+      "surname": "Leipertz",
+      "fullname": "Robert Leipertz",
+      "gender": "male",
+      "birthday": "01.02.1993",
+      "height": "182",
+      "weight": "76"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "72",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:59:13"
+  },
+  {
+    "id": "15558956",
+    "team": {
+      "id": "5",
+      "name": "1. FC Heidenheim 1846",
+      "shortname": "Heidenheim",
+      "microname": "HDH",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "129741",
+      "name": "Adriano Grimaldi",
+      "firstname": "Adriano",
+      "surname": "Grimaldi",
+      "fullname": "Adriano Grimaldi",
+      "gender": "male",
+      "birthday": "05.04.1991",
+      "height": "188",
+      "weight": "87"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "72",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:59:24"
+  },
+  {
+    "id": "15558959",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "111655",
+      "name": "Christopher Quiring",
+      "firstname": "Christopher",
+      "surname": "Quiring",
+      "fullname": "Christopher Quiring",
+      "gender": "male",
+      "birthday": "23.11.1990",
+      "height": "172",
+      "weight": "67"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "72",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:59:46"
+  },
+  {
+    "id": "15558961",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "231764",
+      "name": "Martin Kobylański",
+      "firstname": "Martin",
+      "surname": "Kobylański",
+      "fullname": "Martin Kobylański",
+      "gender": "male",
+      "birthday": "08.03.1994",
+      "height": "178",
+      "weight": "75"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "72",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:59:57"
+  },
+  {
     "id": "5378",
     "team": {
       "id": "5",
