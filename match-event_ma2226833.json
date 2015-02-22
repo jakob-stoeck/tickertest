@@ -1653,6 +1653,146 @@
     "created": "22.02.2015 17:05:10"
   },
   {
+    "id": "15562232",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "264308",
+      "name": "Mohamed Gouaida",
+      "firstname": "Mohamed",
+      "surname": "Gouaida",
+      "fullname": "Mohamed Gouaida",
+      "gender": "male",
+      "birthday": "15.05.1993",
+      "height": "178",
+      "weight": "72"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "77",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:05:20"
+  },
+  {
+    "id": "15562233",
+    "team": {
+      "id": "943",
+      "name": "Hamburger SV",
+      "shortname": "Hamburg",
+      "microname": "HSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "231017",
+      "name": "Ashton Götz",
+      "firstname": "Ashton",
+      "surname": "Götz",
+      "fullname": "Ashton-Phillip Shawn Götz",
+      "gender": "male",
+      "birthday": "16.07.1993",
+      "height": "177",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "77",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:05:28"
+  },
+  {
+    "id": "15562236",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "221337",
+      "name": "Christoph Kramer",
+      "firstname": "Christoph",
+      "surname": "Kramer",
+      "fullname": "Christoph Kramer",
+      "gender": "male",
+      "birthday": "19.02.1991",
+      "height": "190",
+      "weight": "82"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "79",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:07:49"
+  },
+  {
+    "id": "15562237",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "244769",
+      "name": "Branimir Hrgota",
+      "firstname": "Branimir",
+      "surname": "Hrgota",
+      "fullname": "Branimir Hrgota",
+      "gender": "male",
+      "birthday": "12.01.1993",
+      "height": "185",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "79",
+    "additional_person_id": "0",
+    "created": "22.02.2015 17:07:57"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
