@@ -875,7 +875,17 @@
       "content": "1:2",
       "kind": "left-foot",
       "minute": "77",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "104287",
+        "name": "Jakub Sylvestr",
+        "firstname": "Jakub",
+        "surname": "Sylvestr",
+        "fullname": "Jakub Sylvestr",
+        "gender": "male",
+        "birthday": "02.02.1989",
+        "height": "178",
+        "weight": "68"
+      },
       "created": "22.02.2015 15:04"
     },
     "tickertime": "22.02.2015 15:04:17",
