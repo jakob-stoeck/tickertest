@@ -329,5 +329,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Ivica Olić</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326103",
+    "event": {
+      "id": "15560436",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "11660",
+        "name": "Artjoms Rudņevs",
+        "firstname": "Artjoms",
+        "surname": "Rudņevs",
+        "fullname": "Artjoms Rudņevs",
+        "gender": "male",
+        "birthday": "13.01.1988",
+        "height": "183",
+        "weight": "81"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "25",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:56"
+    },
+    "tickertime": "22.02.2015 15:56:19",
+    "minute": "25",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hamburger SV -> Artjoms Rudņevs</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326106",
+    "tickertime": "22.02.2015 15:56:36",
+    "minute": "25",
+    "headline": "",
+    "content": "<p><b>Kopfschütteln bei Olic</b></p> <p>Der Hamburger Stürmer ist offenbar angeschlagen, es geht nicht weiter bei ihm.</p>",
+    "syndicate": "s1de"
   }
 ]
