@@ -807,7 +807,17 @@
       "content": "1:0",
       "kind": "left-foot",
       "minute": "73",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "11660",
+        "name": "Artjoms Rudņevs",
+        "firstname": "Artjoms",
+        "surname": "Rudņevs",
+        "fullname": "Artjoms Rudņevs",
+        "gender": "male",
+        "birthday": "13.01.1988",
+        "height": "183",
+        "weight": "81"
+      },
       "created": "22.02.2015 17:02"
     },
     "tickertime": "22.02.2015 17:02:03",
