@@ -1316,6 +1316,51 @@
     "created": "22.02.2015 17:40:07"
   },
   {
+    "id": "15563996",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "28361",
+      "name": "Julian Schieber",
+      "firstname": "Julian",
+      "surname": "Schieber",
+      "fullname": "Julian Schieber",
+      "gender": "male",
+      "birthday": "13.02.1989",
+      "height": "188",
+      "weight": "83"
+    },
+    "action": "goal",
+    "content": "1:1",
+    "kind": "head",
+    "minute": "30",
+    "additional_person": {
+      "id": "9110",
+      "name": "Valentin Stocker",
+      "firstname": "Valentin",
+      "surname": "Stocker",
+      "fullname": "Valentin Stocker",
+      "gender": "male",
+      "birthday": "12.04.1989",
+      "height": "178",
+      "weight": "65"
+    },
+    "created": "22.02.2015 18:00:23"
+  },
+  {
     "id": "1315475",
     "team": {
       "id": "977",
