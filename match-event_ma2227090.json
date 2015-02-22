@@ -1638,9 +1638,184 @@
     "action": "goal",
     "content": "1:0",
     "kind": "direct-free-kick",
-    "minute": "70",
+    "minute": "71",
     "additional_person_id": "0",
     "created": "22.02.2015 14:58:14"
+  },
+  {
+    "id": "15558962",
+    "team": {
+      "id": "845",
+      "name": "FSV Frankfurt",
+      "shortname": "FSV Frank.",
+      "microname": "FSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "94872",
+      "name": "Mohamed Aoudia",
+      "firstname": "Mohamed",
+      "surname": "Aoudia",
+      "fullname": "Mohamed Amine Aoudia",
+      "gender": "male",
+      "birthday": "06.06.1987",
+      "height": "190",
+      "weight": "84"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow-red",
+    "minute": "73",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:00:03"
+  },
+  {
+    "id": "15558969",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "9724",
+      "name": "Markus Karl",
+      "firstname": "Markus",
+      "surname": "Karl",
+      "fullname": "Markus Karl",
+      "gender": "male",
+      "birthday": "14.02.1986",
+      "height": "191",
+      "weight": "87"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "74",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:01:51"
+  },
+  {
+    "id": "15558970",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "141507",
+      "name": "Simon Zoller",
+      "firstname": "Simon",
+      "surname": "Zoller",
+      "fullname": "Simon Zoller",
+      "gender": "male",
+      "birthday": "26.06.1991",
+      "height": "179",
+      "weight": "70"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "74",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:01:59"
+  },
+  {
+    "id": "15558972",
+    "team": {
+      "id": "845",
+      "name": "FSV Frankfurt",
+      "shortname": "FSV Frank.",
+      "microname": "FSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "158085",
+      "name": "Odise Roshi",
+      "firstname": "Odise",
+      "surname": "Roshi",
+      "fullname": "Odise Roshi",
+      "gender": "male",
+      "birthday": "22.05.1991",
+      "height": "187",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:02:11"
+  },
+  {
+    "id": "15558973",
+    "team": {
+      "id": "845",
+      "name": "FSV Frankfurt",
+      "shortname": "FSV Frank.",
+      "microname": "FSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "258293",
+      "name": "Florian Ballas",
+      "firstname": "Florian",
+      "surname": "Ballas",
+      "fullname": "Florian Ballas",
+      "gender": "male",
+      "birthday": "08.01.1993",
+      "height": "196",
+      "weight": "90"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:02:24"
   },
   {
     "id": "1084294",
