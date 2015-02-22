@@ -1293,6 +1293,76 @@
     "created": "22.02.2015 14:31:18"
   },
   {
+    "id": "15558275",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "134923",
+      "name": "Peniel Mlapa",
+      "firstname": "Peniel",
+      "surname": "Mlapa",
+      "fullname": "Peniel Kokou Mlapa",
+      "gender": "male",
+      "birthday": "20.02.1991",
+      "height": "195",
+      "weight": "89"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:31:26"
+  },
+  {
+    "id": "15558278",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "230772",
+      "name": "Niclas Füllkrug",
+      "firstname": "Niclas",
+      "surname": "Füllkrug",
+      "fullname": "Niclas Füllkrug",
+      "gender": "male",
+      "birthday": "09.02.1993",
+      "height": "188",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:31:35"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
