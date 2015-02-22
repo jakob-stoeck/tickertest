@@ -846,10 +846,10 @@
   },
   {
     "id": "1325699",
-    "tickertime": "22.02.2015 15:03:55",
+    "tickertime": "22.02.2015 15:04:07",
     "minute": "77",
     "headline": "",
-    "content": "Rensing rettet gegen Füllkrug!",
+    "content": "Rensing rettet gegen Füllkrug! Der Ex-Fürther bekommt eine sehr gute Möglichkeit auf der linken Strafraumseite aus leicht spitzem Winkel, als die Kugel zu ihm durchgerutscht ist. Er probiert es mit Gewalt und scheitert am Düsseldorfer Schlussmann, der den relativ unplatzierten Ball mit den Füßen abblockt!",
     "syndicate": "heimspiel"
   },
   {
@@ -892,6 +892,70 @@
     "minute": "77",
     "headline": "",
     "content": "<b>Tooor für 1. FC Nürnberg, 1:2 durch Danny Blum</b> <br/>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325715",
+    "event": {
+      "id": "15559020",
+      "team": {
+        "id": "826",
+        "name": "Fortuna Düsseldorf"
+      },
+      "person": {
+        "id": "19066",
+        "name": "Adam Bodzek",
+        "firstname": "Adam",
+        "surname": "Bodzek",
+        "fullname": "Adam Bodzek",
+        "gender": "male",
+        "birthday": "07.09.1985",
+        "height": "184",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:05"
+    },
+    "tickertime": "22.02.2015 15:05:35",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Fortuna Düsseldorf -> Adam Bodzek</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325717",
+    "event": {
+      "id": "15559024",
+      "team": {
+        "id": "826",
+        "name": "Fortuna Düsseldorf"
+      },
+      "person": {
+        "id": "20274",
+        "name": "Erwin Hoffer",
+        "firstname": "Erwin",
+        "surname": "Hoffer",
+        "fullname": "Erwin Hoffer",
+        "gender": "male",
+        "birthday": "14.04.1987",
+        "height": "177",
+        "weight": "72"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "22.02.2015 15:05"
+    },
+    "tickertime": "22.02.2015 15:05:42",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Fortuna Düsseldorf -> Erwin Hoffer</span>",
     "syndicate": "heimspiel"
   }
 ]

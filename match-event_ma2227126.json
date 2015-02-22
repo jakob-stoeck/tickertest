@@ -1683,6 +1683,76 @@
     "created": "22.02.2015 14:59:57"
   },
   {
+    "id": "15559027",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "227424",
+      "name": "Steven Skrzybski",
+      "firstname": "Steven",
+      "surname": "Skrzybski",
+      "fullname": "Steven Skrzybski",
+      "gender": "male",
+      "birthday": "18.11.1992",
+      "height": "173",
+      "weight": "64"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:05:45"
+  },
+  {
+    "id": "15559030",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "263617",
+      "name": "Valmir Sulejmani",
+      "firstname": "Valmir",
+      "surname": "Sulejmani",
+      "fullname": "Valmir Sulejmani",
+      "gender": "male",
+      "birthday": "01.02.1996",
+      "height": "180",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:06:00"
+  },
+  {
     "id": "5378",
     "team": {
       "id": "5",
