@@ -867,5 +867,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Hertha BSC -> Valentin Stocker</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1327010",
+    "event": {
+      "id": "15565145",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "24619",
+        "name": "Ronny",
+        "firstname": "",
+        "surname": "Ronny",
+        "fullname": "Ronny Heberson Furtado de Araújo",
+        "gender": "male",
+        "birthday": "11.05.1986",
+        "height": "175",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "77",
+      "additional_person_id": "0",
+      "created": "22.02.2015 19:04"
+    },
+    "tickertime": "22.02.2015 19:04:17",
+    "minute": "77",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hertha BSC -> Ronny</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1327012",
+    "tickertime": "22.02.2015 19:04:29",
+    "minute": "77",
+    "headline": "",
+    "content": "<p><b>Caligiuri gleich in Aktion</b></p> <p>Der Joker läuft Schulz gleich mal davon und holt zumindest einen Eckball heraus.</p>",
+    "syndicate": "s1de"
   }
 ]
