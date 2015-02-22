@@ -1918,6 +1918,62 @@
     "created": "22.02.2015 15:14:33"
   },
   {
+    "id": "15559148",
+    "team": {
+      "id": "12",
+      "name": "1. FC Nürnberg",
+      "shortname": "Nürnberg",
+      "microname": "FCN",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "234161",
+      "name": "Sebastian Kerk",
+      "firstname": "Sebastian",
+      "surname": "Kerk",
+      "fullname": "Sebastian Kerk",
+      "gender": "male",
+      "birthday": "17.04.1994",
+      "height": "184",
+      "weight": "74"
+    },
+    "action": "goal",
+    "content": "1:3",
+    "kind": "left-foot",
+    "minute": "88",
+    "additional_person": {
+      "id": "230772",
+      "name": "Niclas Füllkrug",
+      "firstname": "Niclas",
+      "surname": "Füllkrug",
+      "fullname": "Niclas Füllkrug",
+      "gender": "male",
+      "birthday": "09.02.1993",
+      "height": "188",
+      "weight": "78"
+    },
+    "created": "22.02.2015 15:15:06"
+  },
+  {
+    "id": "15559347",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "game-end",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "22.02.2015 15:19:30"
+  },
+  {
     "id": "1275691",
     "team": {
       "id": "12",
