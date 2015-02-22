@@ -1538,6 +1538,111 @@
     "created": "22.02.2015 14:51:53"
   },
   {
+    "id": "15558855",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "111532",
+      "name": "Michael Schulze",
+      "firstname": "Michael",
+      "surname": "Schulze",
+      "fullname": "Michael Schulze",
+      "gender": "male",
+      "birthday": "13.01.1989",
+      "height": "185",
+      "weight": "78"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:54:04"
+  },
+  {
+    "id": "15558950",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "229558",
+      "name": "Willi Orban",
+      "firstname": "Willi",
+      "surname": "Orban",
+      "fullname": "Willi Orban",
+      "gender": "male",
+      "birthday": "03.11.1992",
+      "height": "185",
+      "weight": "80"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "69",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:58:03"
+  },
+  {
+    "id": "15558952",
+    "team": {
+      "id": "845",
+      "name": "FSV Frankfurt",
+      "shortname": "FSV Frank.",
+      "microname": "FSV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "259336",
+      "name": "Vincenzo Grifo",
+      "firstname": "Vincenzo",
+      "surname": "Grifo",
+      "fullname": "Vincenzo Grifo",
+      "gender": "male",
+      "birthday": "07.04.1993",
+      "height": "181",
+      "weight": "75"
+    },
+    "action": "goal",
+    "content": "1:0",
+    "kind": "direct-free-kick",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "22.02.2015 14:58:14"
+  },
+  {
     "id": "1084294",
     "team": {
       "id": "6",
