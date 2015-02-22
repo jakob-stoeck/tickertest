@@ -559,5 +559,69 @@
     "headline": "",
     "content": "Man merkt es schon deutlich, dass bei den Gästen im Vergleich zum vergangenen Wochenende nur Linksverteidiger Heise wieder auf dem Platz steht. Alle drei Gegentreffer am heutigen Tag fielen über die rechte Abwehrseite der Heidenheimer.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325576",
+    "event": {
+      "id": "15558794",
+      "team": {
+        "id": "5",
+        "name": "1. FC Heidenheim 1846"
+      },
+      "person": {
+        "id": "23497",
+        "name": "Smail Morabit",
+        "firstname": "Smail",
+        "surname": "Morabit",
+        "fullname": "Smail Morabit",
+        "gender": "male",
+        "birthday": "05.07.1988",
+        "height": "177",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "61",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:48"
+    },
+    "tickertime": "22.02.2015 14:48:54",
+    "minute": "61",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Heidenheim 1846 -> Smail Morabit</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1325578",
+    "event": {
+      "id": "15558795",
+      "team": {
+        "id": "5",
+        "name": "1. FC Heidenheim 1846"
+      },
+      "person": {
+        "id": "230100",
+        "name": "Andreas Voglsammer",
+        "firstname": "Andreas",
+        "surname": "Voglsammer",
+        "fullname": "Andreas Voglsammer",
+        "gender": "male",
+        "birthday": "09.01.1992",
+        "height": "178",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "61",
+      "additional_person_id": "0",
+      "created": "22.02.2015 14:49"
+    },
+    "tickertime": "22.02.2015 14:49:08",
+    "minute": "61",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Heidenheim 1846 -> Andreas Voglsammer</span>",
+    "syndicate": "heimspiel"
   }
 ]
