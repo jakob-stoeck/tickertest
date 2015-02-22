@@ -825,5 +825,101 @@
     "headline": "",
     "content": "<p><b>Tooor für Hamburger SV, 1:0 durch Zoltan Stieber</b></p> <p>Ein Tor mit Einladung! Und was für eine schön verzierte Karte Nordtveit mit seinem schlampigen Pass in Richtung Hamburg schickt. Rudnevs schnappt sich den Ball, dribbelt ein paar Meter, dann ab nach rechts zu Stieber. Jantschke bleibt zu weit außen, auch Stranzl macht es zu schüchtern. Stieber dreht sich links herum, setzt dann mit der linken Innenseite einen Robben ins lange Eck. Sein zweites Saisontor.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326505",
+    "event": {
+      "id": "15562230",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "14473",
+        "name": "André Hahn",
+        "firstname": "André",
+        "surname": "Hahn",
+        "fullname": "André Hahn",
+        "gender": "male",
+        "birthday": "13.08.1990",
+        "height": "185",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "76",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:05"
+    },
+    "tickertime": "22.02.2015 17:05:01",
+    "minute": "76",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> André Hahn</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326507",
+    "event": {
+      "id": "15562231",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "249977",
+        "name": "Thorgan Hazard",
+        "firstname": "Thorgan",
+        "surname": "Hazard",
+        "fullname": "Thorgan Hazard",
+        "gender": "male",
+        "birthday": "29.03.1993",
+        "height": "174",
+        "weight": "69"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "76",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:05"
+    },
+    "tickertime": "22.02.2015 17:05:10",
+    "minute": "76",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Thorgan Hazard</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326510",
+    "event": {
+      "id": "15562232",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "264308",
+        "name": "Mohamed Gouaida",
+        "firstname": "Mohamed",
+        "surname": "Gouaida",
+        "fullname": "Mohamed Gouaida",
+        "gender": "male",
+        "birthday": "15.05.1993",
+        "height": "178",
+        "weight": "72"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "77",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:05"
+    },
+    "tickertime": "22.02.2015 17:05:20",
+    "minute": "77",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hamburger SV -> Mohamed Gouaida</span>",
+    "syndicate": "s1de"
   }
 ]
