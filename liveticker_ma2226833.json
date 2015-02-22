@@ -775,5 +775,45 @@
     "headline": "",
     "content": "<p><b>Mehr HSV-Schüsse</b></p> <p>Achtmal haben die Gastgeber bislang aufs Tor geschossen, Gladbach siebenmal. Diese und weitere Daten finden Sie im Statistik-Bereich des Live-Tickers von SPORT1.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1326495",
+    "tickertime": "22.02.2015 17:01:48",
+    "minute": "73",
+    "headline": "",
+    "content": "<p><b>Stieber schubst Jantschke</b></p> <p>Beim Kopfballduell hat der Gladbacher so keine Chance, an den Ball zu kommen. Freistoß.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1326497",
+    "event": {
+      "id": "15562207",
+      "team": {
+        "id": "943",
+        "name": "Hamburger SV"
+      },
+      "person": {
+        "id": "113775",
+        "name": "Zoltán Stieber",
+        "firstname": "Zoltán",
+        "surname": "Stieber",
+        "fullname": "Zoltán Stieber",
+        "gender": "male",
+        "birthday": "16.10.1988",
+        "height": "175",
+        "weight": "67"
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "left-foot",
+      "minute": "73",
+      "additional_person_id": "0",
+      "created": "22.02.2015 17:02"
+    },
+    "tickertime": "22.02.2015 17:02:03",
+    "minute": "73",
+    "headline": "",
+    "content": "<b>Tooor für Hamburger SV, 1:0 durch Zoltán Stieber</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
