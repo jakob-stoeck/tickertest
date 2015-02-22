@@ -1468,6 +1468,76 @@
     "created": "22.02.2015 16:37:26"
   },
   {
+    "id": "15561974",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14954",
+      "name": "Ibrahima Traoré",
+      "firstname": "Ibrahima",
+      "surname": "Traoré",
+      "fullname": "Ibrahima Traoré",
+      "gender": "male",
+      "birthday": "21.04.1988",
+      "height": "172",
+      "weight": "62"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "62",
+    "additional_person_id": "0",
+    "created": "22.02.2015 16:50:08"
+  },
+  {
+    "id": "15562007",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "14959",
+      "name": "Raffael",
+      "firstname": "",
+      "surname": "Raffael",
+      "fullname": "Raffael Caetano de Araújo",
+      "gender": "male",
+      "birthday": "28.03.1985",
+      "height": "174",
+      "weight": "69"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "62",
+    "additional_person_id": "0",
+    "created": "22.02.2015 16:50:20"
+  },
+  {
     "id": "662642",
     "team": {
       "id": "253",
