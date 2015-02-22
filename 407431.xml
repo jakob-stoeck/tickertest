@@ -1,89 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="253" guest-long-name="Bor. M&#246;nchengladbach" gamestate="2" home-short-name="Hamburg" team1-color="plain;16777215;16777215;13501190;0" penalty-score-home="0" eventcount="28" team2-color="plain;16777215;16777215;5099073;0" referee-name="Felix Zwayer" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407431" date="2015-02-22T15:30:00Z" home-long-name="Hamburger SV" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="16" half4-score-guest="0" guest-short-name="Gladbach" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153461" overtime-score-home="0" home-team-id="943" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39291" half2-score-home="0">
+<game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="253" guest-long-name="Bor. M&#246;nchengladbach" gamestate="2" home-short-name="Hamburg" team1-color="plain;16777215;16777215;13501190;0" penalty-score-home="0" eventcount="30" team2-color="plain;16777215;16777215;5099073;0" referee-name="Felix Zwayer" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="407431" date="2015-02-22T15:30:00Z" home-long-name="Hamburger SV" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="19" half4-score-guest="0" guest-short-name="Gladbach" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153461" overtime-score-home="0" home-team-id="943" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39291" half2-score-home="0">
   <events type="array">
     <event section="2" label="1_39291_407431_1321452" team-id="0" game-id="407431" text="Trotz dem Untergang in M&#252;nchen hat der Hamburger SV gegen Borussia M&#246;nchengladbach eine gro&#223;e Chance: Bei einem Sieg k&#246;nnte die Mannschaft tats&#228;chlich auf Rang 11 landen. Den Patzern der Konkurrenz sei Dank - wie realistisch das gegen den Tabellendritten aber ist, wird sich zeigen.
-" headline="Wie man ein 0:8 vergisst" playername="" id="10709931" date="2015-02-20T16:42:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="27" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Wie man ein 0:8 vergisst" playername="" id="10709931" date="2015-02-20T16:42:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="29" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325702" team-id="0" game-id="407431" text="Vor dem letzten Spieltag hatte der HSV eine Tordifferenz von -8. 90 Minuten beim FC Bayern sp&#228;ter betrug sie -16, die h&#246;chste Niederlage in der Bundesliga-Geschichte der Hamburger. Mit 14 Toren in 21 Spielen hat Joe Zinnbauers Mannschaft zudem die mit Abstand schw&#228;chste Offensive der Liga.
-" headline="Historische Pleite" playername="" id="10728461" date="2015-02-22T14:06:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="26" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Historische Pleite" playername="" id="10728461" date="2015-02-22T14:06:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="28" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325723" team-id="0" game-id="407431" text="Konsequenz aus dem Nachmittag in M&#252;nchen: Zinnbauer &#228;ndert seine Startelf auf sieben Positionen. Ashton G&#246;tz, Rafael van der Vaart, Heiko Westermann, Ronny Marcos, Artjoms Rudnevs sowie die verletzten Marcell Jansen und Marcelo Diaz fliegen raus, daf&#252;r beginnen Dennis Diekmeier, Slobodan Rajkovic, Matthias Ostrzolek, Petr Jiracek, Gojko Kacar, Nicolai M&#252;ller und Mohamed Gouaida.
-" headline="Zinnbauer rasiert kr&#228;ftig" playername="" id="10728501" date="2015-02-22T14:07:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="25" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Zinnbauer rasiert kr&#228;ftig" playername="" id="10728501" date="2015-02-22T14:07:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="27" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325747" team-id="0" game-id="407431" text="&quot;Klar ist das Ergebnis eine Katastrophe&quot;, sagt Marcell Jansen bei Sky. &quot;Ich kann mich aber auch erinnern, dass Bremen zu Hause eine Klatsche kassiert hat &#8211; jetzt werden sie abgefeiert. Das Bayern-Spiel ist kein Ma&#223;stab. Das Ergebnis ist Strafe genug. Wir haben heute ein Heimspiel und k&#246;nnen wieder einen Schritt nach vorne machen.&quot;
-" headline="Jansen relativiert" playername="" id="10728611" date="2015-02-22T14:10:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="24" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Jansen relativiert" playername="" id="10728611" date="2015-02-22T14:10:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="26" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325787" team-id="0" game-id="407431" text="Was dem HSV Hoffnung macht: In dieser Saison gewann Gladbach noch nie ein Bundesliga-Spiel in einer Europa-League-Woche (sechs Unentschieden, zwei Niederlagen). Am Donnerstag verlor die Borussia das Hinspiel der Zwischenrunde beim FC Sevilla 0:1.
-" headline="Schlechte Bilanz der Borussen" playername="" id="10728691" date="2015-02-22T14:13:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="23" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Schlechte Bilanz der Borussen" playername="" id="10728691" date="2015-02-22T14:13:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="25" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325794" team-id="0" game-id="407431" text="Hat die Mannschaft das Spiel aus M&#252;nchen verdaut? &quot;Vom Gef&#252;hl her ja. Aber die Frage wird sich nach dem Spiel wieder stellen&quot;, sagt Zinnbauer bei Sky. Zu den personellen &#196;nderungen, unter anderem dem aussortierten van der Vaart, sagt er: &quot;Rajkovic hat sich letzte Woche schon aufgedr&#228;ngt. Bei Rafa war es so, dass wir taktisch ein bisschen defensiver stehen wollten.&quot;
-" headline="Van der Vaart heute nicht gefragt" playername="" id="10728681" date="2015-02-22T14:13:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="22" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Van der Vaart heute nicht gefragt" playername="" id="10728681" date="2015-02-22T14:13:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="24" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325834" team-id="0" game-id="407431" text="Lucien Favre muss heute auf den verletzten Dominguez und den gesperrten Granit Xhaka verzichten. Au&#223;erdem setzt der Trainer auf Rotation. Es gibt sechs &#196;nderungen im Vergleich zum Donnerstag. Julian Korb, Patrick Herrmann, Ibrahima Traore, Havard Nordtveit, Andre Hahn und Max Kruse r&#252;cken in die Startelf.
-" headline="Auch Favre rotiert" playername="" id="10728841" date="2015-02-22T14:18:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="21" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Auch Favre rotiert" playername="" id="10728841" date="2015-02-22T14:18:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="23" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325863" team-id="0" game-id="407431" text="Auf Schalke in der Liga und in Sevilla in der Europa League verlor Gladbach zwei der letzten drei Pflichtspiele. Trotzdem ist Lucien Favres Elf noch auf einem guten Weg, hat mit aktuell 36 Punkten zwei mehr als nach 21 Spielen der letzten Saison. Und international ist trotz der Pleite auch noch alles drin.
-" headline="Noch auf Kurs" playername="" id="10728991" date="2015-02-22T14:22:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="20" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Noch auf Kurs" playername="" id="10728991" date="2015-02-22T14:22:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="22" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325869" team-id="0" game-id="407431" text="&quot;Gladbach ist eine Spitzenmannschaft. Kalkulatorisch sind Punkte gegen solch ein Team nicht eingeplant, aber es geht um Big-Points f&#252;r uns, deswegen wollen wir alles versuchen, um diese auch zu holen. Bayern ist jetzt abgehakt&quot;, sagte Hamburgs Trainer Zinnbauer.
-" headline="HSV plant Punkte nicht ein" playername="" id="10728981" date="2015-02-22T14:22:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="19" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="HSV plant Punkte nicht ein" playername="" id="10728981" date="2015-02-22T14:22:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="21" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325886" team-id="0" game-id="407431" text="1 Drobny - 2 Diekmeier, 5 Djourou, 32 Rajkovic, 22 Ostrzolek - 19 Jiracek, 40 Kacar - 27 Nicolai M&#252;ller, 17 Stieber, 25 Gouaida - 8 Olic
-" headline="Aufstellung Hamburg" playername="" id="10729011" date="2015-02-22T14:24:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="18" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Aufstellung Hamburg" playername="" id="10729011" date="2015-02-22T14:24:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="20" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325890" team-id="0" game-id="407431" text="1 Sommer - 27 Korb, 39 Stranzl, 24 Jantschke, 17 Wendt - 23 Kramer, 16 Nordtveit - 28 Hahn, 8 Traore - 7 Herrmann, 10 Max Kruse
-" headline="Aufstellung M&#246;nchengladbach" playername="" id="10729031" date="2015-02-22T14:26:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="17" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Aufstellung M&#246;nchengladbach" playername="" id="10729031" date="2015-02-22T14:26:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="19" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325900" team-id="0" game-id="407431" text="Erst im Januar hatte der HSV Marcelo Diaz geholt, schon ist der Chilene f&#252;rs Erste raus. Der Neuzugang vom FC Basel riss sich im Training das Innenband im Knie an und fehlt f&#252;r zwei Monate.
-" headline="Diaz schon wieder raus" playername="" id="10729021" date="2015-02-22T14:26:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="16" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Diaz schon wieder raus" playername="" id="10729021" date="2015-02-22T14:26:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="18" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325912" team-id="0" game-id="407431" text="Die Hamburger gingen das Training nach dem 0:8 in M&#252;nchen &quot;schon ein bisschen gedr&#252;ckt&quot; an, wie Zinnbauer es ausdr&#252;ckte. In den Einheiten arbeitete er mit der Mannschaft daran, die Passquote wieder zu erh&#246;hen. &quot;Die Zuschauer sollen am Ende sagen k&#246;nnen: Die Mannschaft hat alles gegeben&quot;, sagte er.
-" headline="Zuschauer zur&#252;ckgewinnen" playername="" id="10729051" date="2015-02-22T14:28:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="15" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Zuschauer zur&#252;ckgewinnen" playername="" id="10729051" date="2015-02-22T14:28:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="17" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325925" team-id="0" game-id="407431" text="Die Borussia ist mit bislang 18 eingesetzten Spielern in dieser Saison ausgekommen, obwohl die Mannschaft im Gegensatz zum heutigen Gegner international spielt. In Hamburg dagegen durften sich schon 33 verschiedene Profis versuchen.
-" headline="Hamburg verschlei&#223;t deutlich mehr als Gladbach" playername="" id="10729071" date="2015-02-22T14:30:50Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="14" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Hamburg verschlei&#223;t deutlich mehr als Gladbach" playername="" id="10729071" date="2015-02-22T14:30:50Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="16" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="2" label="1_39291_407431_1325927" team-id="0" game-id="407431" text="Geleitet wird die Partie von Felix Zwayer. Das Schiedsrichtergespann f&#252;hrt die beiden Mannschaften jetzt auf den Rasen.
-" headline="Zwayer pfeift" playername="" id="10729081" date="2015-02-22T14:31:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="13" game-minute="-1" player-id="0" gameday-id="39291">
+" headline="Zwayer pfeift" playername="" id="10729081" date="2015-02-22T14:31:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:53Z" sort="15" game-minute="-1" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325934" team-id="0" game-id="407431" text="Felix Zwayer pfeift in der Imtech-Arena an.
-" headline="Spielbeginn" playername="" id="10729091" date="2015-02-22T14:33:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="12" game-minute="1" player-id="0" gameday-id="39291">
+" headline="Spielbeginn" playername="" id="10729091" date="2015-02-22T14:33:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="14" game-minute="1" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325953" team-id="0" game-id="407431" text="Diekmeier sprintet rechts nach vorne, gleich wird geraunt auf den R&#228;ngen. Der Hamburger bleibt h&#228;ngen, die Borussia h&#228;lt danach den Ball am Fu&#223;.
-" headline="Gladbach beruhigt" playername="" id="10729101" date="2015-02-22T14:35:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="11" game-minute="2" player-id="0" gameday-id="39291">
+" headline="Gladbach beruhigt" playername="" id="10729101" date="2015-02-22T14:35:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="13" game-minute="2" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325966" team-id="0" game-id="407431" text="Ostrzolek &#252;ber links, bringt den Ball flach in den Strafraum zu Stieber. Dessen Abschluss dauert zu lang, au&#223;erdem trifft er den Ball nur leicht.
-" headline="Stieber zu lasch" playername="" id="10729121" date="2015-02-22T14:38:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="10" game-minute="3" player-id="0" gameday-id="39291">
+" headline="Stieber zu lasch" playername="" id="10729121" date="2015-02-22T14:38:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="12" game-minute="3" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325972" team-id="0" game-id="407431" text="Herrmann st&#252;rmt links los, auf einmal ist Tempo drin. Djourou kommt nicht nach, Herrmann legt zur&#252;ck. Jiracek l&#228;sst Kruse laufen, der den Ball direkt knapp links vorbeischie&#223;t.
-" headline="Kruse um ein Haar" playername="" id="10729111" date="2015-02-22T14:38:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="9" game-minute="4" player-id="0" gameday-id="39291">
+" headline="Kruse um ein Haar" playername="" id="10729111" date="2015-02-22T14:38:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="11" game-minute="4" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325978" team-id="0" game-id="407431" text="Und schon ist die Hamburger Ordnung dahin. Korb bedient Herrmann, diesmal &#252;ber rechts. Die Abwehr des HSV v&#246;llig unsortiert, Herrmann lenkt den Ball an den rechten Pfosten. Drobny h&#228;tte keine Chance gehabt.
-" headline="Herrmann an den Pfosten!" playername="" id="10729131" date="2015-02-22T14:39:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="8" game-minute="5" player-id="0" gameday-id="39291">
+" headline="Herrmann an den Pfosten!" playername="" id="10729131" date="2015-02-22T14:39:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="10" game-minute="5" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325985" team-id="0" game-id="407431" text="Der Hamburger Verteidiger geht einfach zu Boden im Duell mit Hahn, lenkt den Ball &#252;ber die Torauslinie. Ecke.
-" headline="Hahn &#252;ber Ostrzolek dr&#252;ber" playername="" id="10729151" date="2015-02-22T14:40:21Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="7" game-minute="7" player-id="0" gameday-id="39291">
+" headline="Hahn &#252;ber Ostrzolek dr&#252;ber" playername="" id="10729151" date="2015-02-22T14:40:21Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="9" game-minute="7" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325991" team-id="0" game-id="407431" text="Die Verunsicherung schimmert jedem einzelnen Hamburger auf der Haut an diesem sonnigen Nachmittag.
-" headline="Hamburg sucht sich selbst" playername="" id="10729141" date="2015-02-22T14:40:21Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="6" game-minute="8" player-id="0" gameday-id="39291">
+" headline="Hamburg sucht sich selbst" playername="" id="10729141" date="2015-02-22T14:40:21Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="8" game-minute="8" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1325998" team-id="0" game-id="407431" text="Traore zieht durch gegen Ostrzolek, als dieser den Ball schon weggeschlagen hat. Zinnbauer fordert die Karte und kassiert einen R&#252;ffel von Zwayer. Dritte Verwarnung f&#252;r Traore in dieser Saison.
-" headline="Gelbe Karte f&#252;r Ibrahima Traore (Bor. M&#246;nchengladbach)" playername="" id="10729161" date="2015-02-22T14:41:32Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="5" game-minute="9" player-id="0" gameday-id="39291">
+" headline="Gelbe Karte f&#252;r Ibrahima Traore (Bor. M&#246;nchengladbach)" playername="" id="10729161" date="2015-02-22T14:41:32Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="7" game-minute="9" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1326016" team-id="0" game-id="407431" text="Hahn r&#228;umt Diekmeier an der Seitenlinie voll ab, der Hamburger geht verbal auf Hahn los. Zinnbauer richtet ebenfalls ein paar deutliche WOrte an den Kollegen Favre.
-" headline="Diekmeier gegen Hahn" playername="" id="10729171" date="2015-02-22T14:43:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="4" game-minute="10" player-id="0" gameday-id="39291">
+" headline="Diekmeier gegen Hahn" playername="" id="10729171" date="2015-02-22T14:43:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="6" game-minute="10" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1326023" team-id="0" game-id="407431" text="Gouaida zu M&#252;ller in die Mitte. Der hat viel zu viel Platz aus Gladbacher Sicht, holt aus 20 Metern aus. Jantschke legt sich und bekommt den Schuss an den Oberschenkel.
-" headline="Jantschke rettet gegen M&#252;ller" playername="" id="10729181" date="2015-02-22T14:44:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="3" game-minute="12" player-id="0" gameday-id="39291">
+" headline="Jantschke rettet gegen M&#252;ller" playername="" id="10729181" date="2015-02-22T14:44:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="5" game-minute="12" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1326035" team-id="0" game-id="407431" text="Hoch die linke Seite entlanggespielt, Ostrzolek hat im Duell mit Korb keine Chance. Absto&#223;.
-" headline="Jiracek zu steil" playername="" id="10729191" date="2015-02-22T14:46:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:49:52Z" sort="2" game-minute="13" player-id="0" gameday-id="39291">
+" headline="Jiracek zu steil" playername="" id="10729191" date="2015-02-22T14:46:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="4" game-minute="13" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1326055" team-id="0" game-id="407431" text="Die Hamburger kommen jetzt kaum an den Ball. Es bleibt bislang bei zaghaften spielerischen Ans&#228;tzen bei den Gastgebern.
-" headline="Gladbach kontrolliert" playername="" id="10729211" date="2015-02-22T14:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-22T14:49:52Z" sort="1" game-minute="15" player-id="0" gameday-id="39291">
+" headline="Gladbach kontrolliert" playername="" id="10729211" date="2015-02-22T14:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="3" game-minute="15" player-id="0" gameday-id="39291">
     </event>
     <event section="1" label="1_39291_407431_1326061" team-id="0" game-id="407431" text="Der Gladbacher r&#228;umt den Hamburger am Mittelkreis ab, Freisto&#223; f&#252;r den HSV.
-" headline="Nordtveit gegen Kacar" playername="" id="10729201" date="2015-02-22T14:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-22T14:49:52Z" sort="0" game-minute="16" player-id="0" gameday-id="39291">
+" headline="Nordtveit gegen Kacar" playername="" id="10729201" date="2015-02-22T14:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="2" game-minute="16" player-id="0" gameday-id="39291">
+    </event>
+    <event section="1" label="1_39291_407431_1326070" team-id="0" game-id="407431" text="Gouaida dr&#252;ckt den Ball links an zwei Gladbachern durch, sch&#246;nes Dribbling. Seine Flanke ist zu hoch f&#252;r Olic, da kann der Kroate nicht druckvoll k&#246;pfen.
+" headline="Schwierig f&#252;r Olic" playername="" id="10729231" date="2015-02-22T14:52:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="1" game-minute="18" player-id="0" gameday-id="39291">
+    </event>
+    <event section="1" label="1_39291_407431_1326075" team-id="0" game-id="407431" text="Nach den beiden guten M&#246;glichkeiten f&#252;r die Gladbacher ist es doch ein arges Ballgeschiebe im Moment.
+" headline="Tempo raus" playername="" id="10729221" date="2015-02-22T14:52:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-22T14:52:52Z" sort="0" game-minute="19" player-id="0" gameday-id="39291">
     </event>
   </events>
   <tabs type="array">
