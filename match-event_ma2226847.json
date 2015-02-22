@@ -1271,6 +1271,51 @@
     "created": "22.02.2015 17:30:05"
   },
   {
+    "id": "15563803",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "9466",
+      "name": "Bas Dost",
+      "firstname": "Bas",
+      "surname": "Dost",
+      "fullname": "Bas Dost",
+      "gender": "male",
+      "birthday": "31.05.1989",
+      "height": "192",
+      "weight": "85"
+    },
+    "action": "goal",
+    "content": "1:0",
+    "kind": "right-foot",
+    "minute": "10",
+    "additional_person": {
+      "id": "156189",
+      "name": "André Schürrle",
+      "firstname": "André",
+      "surname": "Schürrle",
+      "fullname": "André Horst Schürrle",
+      "gender": "male",
+      "birthday": "06.11.1990",
+      "height": "184",
+      "weight": "74"
+    },
+    "created": "22.02.2015 17:40:07"
+  },
+  {
     "id": "1315475",
     "team": {
       "id": "977",
