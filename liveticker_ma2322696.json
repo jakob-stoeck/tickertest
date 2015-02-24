@@ -865,5 +865,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Barcelona -> Ivan Rakitić</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328696",
+    "event": {
+      "id": "15589003",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "26483",
+        "name": "Jérémy Mathieu",
+        "firstname": "Jérémy",
+        "surname": "Mathieu",
+        "fullname": "Jérémy Mathieu",
+        "gender": "male",
+        "birthday": "29.10.1983",
+        "height": "192",
+        "weight": "83"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "71",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:13"
+    },
+    "tickertime": "24.02.2015 22:13:35",
+    "minute": "71",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Barcelona -> Jérémy Mathieu</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328700",
+    "tickertime": "24.02.2015 22:15:03",
+    "minute": "71",
+    "headline": "",
+    "content": "<p><b>Agüero bester Mann bei City</b></p> <p>Daran besteht kein Zweifel. Auch die nächste Aktion läuft über den agilen Stürmer. Diesmal kann er sich zwar nicht durchsetzen, aber wenn es gefährlich vor dem Barca-Tor wird, ist Agüero beteiligt.</p>",
+    "syndicate": "s1de"
   }
 ]
