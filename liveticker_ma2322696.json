@@ -395,5 +395,45 @@
     "headline": "",
     "content": "<p><b>Jetzt mal Platz für einen Konter</b></p> <p>Drei gegen drei. ManCity hätte mal Platz, aber Dzeko ist zu eigensinnig, verliert den Ball auf links beim versuchten Dribbling. So nicht!</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328503",
+    "tickertime": "24.02.2015 21:27:24",
+    "minute": "40",
+    "headline": "",
+    "content": "<p><b>Zwei enge Entscheidungen</b></p> <p>Erst sieht es in Barcas Strafraum verdächtig nach Handspiel von Piquet aus, dann kommt Messi auf der anderen Seite zu Fall. Brych liegt aber wohl richtig, wenn er beide Male weiterlaufen lässt.</p> <p>&nbsp;</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328505",
+    "event": {
+      "id": "15588352",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "10452",
+        "name": "Ivan Rakitić",
+        "firstname": "Ivan",
+        "surname": "Rakitić",
+        "fullname": "Ivan Rakitić",
+        "gender": "male",
+        "birthday": "10.03.1988",
+        "height": "184",
+        "weight": "75"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "41",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:27"
+    },
+    "tickertime": "24.02.2015 21:27:32",
+    "minute": "41",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Ivan Rakitić (FC Barcelona)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
