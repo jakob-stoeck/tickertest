@@ -1301,6 +1301,14 @@
     "syndicate": "s1de"
   },
   {
+    "id": "1328856",
+    "tickertime": "24.02.2015 22:36:19",
+    "minute": "90",
+    "headline": "",
+    "content": "<p><b>Elfmeter für Barcelona!</b></p> <p>Zabaleta kann Messi 15 Sekunden vor Schluss nur per Foul stoppen, richtige Entscheidung von Brych.</p>",
+    "syndicate": "s1de"
+  },
+  {
     "id": "1328847",
     "event": {
       "id": "15589209",
@@ -1329,7 +1337,26 @@
     "tickertime": "24.02.2015 22:36:42",
     "minute": "90",
     "headline": "",
-    "content": "<b>Elfmeter verschossen von Lionel Messi, FC Barcelona</b> <br/>",
+    "content": "<p><b>Elfmeter verschossen von Lionel Messi, FC Barcelona</b></p> <p>Hart hält den nicht besonders gut geschossenen Elfmeter. Im Nachschuss muss Messi den Ball eigentlich nur ins leere Tor köpfen, aber er verfehlt den Kasten deutlich. Naja, Kopfbälle sind wohl seine einzige Schwäche. In diesem Fall ungünstig. Es bleibt beim 2:1.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328859",
+    "event": {
+      "id": "15589212",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:37"
+    },
+    "tickertime": "24.02.2015 22:37:41",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
     "syndicate": "s1de"
   }
 ]
