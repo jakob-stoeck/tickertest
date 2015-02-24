@@ -473,5 +473,47 @@
     "headline": "",
     "content": "<p><b>Juventus teilt ordentlich aus</b></p> <p>Vidal steigt Immobile an der Seitenlinie heftig auf den Fuß. Zwar spielt der Chilene auch den Ball, aber für das Einsteigen kann man durchaus auch Gelb zücken. Der spanische Schiedsrichter entscheidet jedoch auf Einwurf.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328514",
+    "event": {
+      "id": "15588395",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "234920",
+        "name": "Morata",
+        "firstname": "",
+        "surname": "Morata",
+        "fullname": "Álvaro Borja Morata Martín",
+        "gender": "male",
+        "birthday": "23.10.1992",
+        "height": "190",
+        "weight": "82"
+      },
+      "action": "goal",
+      "content": "2:1",
+      "kind": "right-foot",
+      "minute": "43",
+      "additional_person": {
+        "id": "240774",
+        "name": "Paul Pogba",
+        "firstname": "Paul",
+        "surname": "Pogba",
+        "fullname": "Paul Pogba",
+        "gender": "male",
+        "birthday": "15.03.1993",
+        "height": "188",
+        "weight": "73"
+      },
+      "created": "24.02.2015 21:29"
+    },
+    "tickertime": "24.02.2015 21:29:06",
+    "minute": "43",
+    "headline": "",
+    "content": "<b>Tooor für Juventus, 2:1 durch Morata</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
