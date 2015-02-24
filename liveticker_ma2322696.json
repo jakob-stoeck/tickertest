@@ -1243,5 +1243,45 @@
     "headline": "",
     "content": "<p><b>Agüero holt Freistoß raus</b></p> <p>Mehr kann er in der Szene nicht machen. Noch vor der Mittellinie ist kein Mann weit und breit anspielbar.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328820",
+    "tickertime": "24.02.2015 22:32:21",
+    "minute": "89",
+    "headline": "",
+    "content": "<p><b>Noch einmal vorne</b></p> <p>ManCity unternimmt noch mal einen Ausflug in den gegnerischen Strafraum. Agüero und Sagna können sich aber nicht durchsetzen.</p> <p>&nbsp;</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328822",
+    "event": {
+      "id": "15589196",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "8622",
+        "name": "Fernando",
+        "firstname": "",
+        "surname": "Fernando",
+        "fullname": "Fernando Francisco Reges",
+        "gender": "male",
+        "birthday": "25.07.1987",
+        "height": "185",
+        "weight": "70"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:32"
+    },
+    "tickertime": "24.02.2015 22:32:25",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Fernando (Manchester City)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
