@@ -889,5 +889,69 @@
     "headline": "",
     "content": "<p><b>BVB im Glück</b></p> <p>Was für eine Chance für Morata! Halblinks geht er an Ginter vorbei und peilt das lange Eck an. Aber sein Schuss aus 14 Metern streift haarscharf am rechten Pfosten vorbei.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328805",
+    "event": {
+      "id": "15589181",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "3122",
+        "name": "Arturo Vidal",
+        "firstname": "Arturo",
+        "surname": "Vidal",
+        "fullname": "Arturo Erasmo Vidal Pardo",
+        "gender": "male",
+        "birthday": "22.05.1987",
+        "height": "180",
+        "weight": "71"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "87",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:30"
+    },
+    "tickertime": "24.02.2015 22:30:48",
+    "minute": "87",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Juventus -> Arturo Vidal</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328813",
+    "event": {
+      "id": "15589183",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "2393",
+        "name": "Simone Padoin",
+        "firstname": "Simone",
+        "surname": "Padoin",
+        "fullname": "Simone Padoin",
+        "gender": "male",
+        "birthday": "18.03.1984",
+        "height": "179",
+        "weight": "73"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "87",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:30"
+    },
+    "tickertime": "24.02.2015 22:30:58",
+    "minute": "87",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Juventus -> Simone Padoin</span>",
+    "syndicate": "s1de"
   }
 ]
