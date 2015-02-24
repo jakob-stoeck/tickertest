@@ -1758,6 +1758,76 @@
     "created": "24.02.2015 22:23:17"
   },
   {
+    "id": "15589181",
+    "team": {
+      "id": "1094",
+      "name": "Juventus Turin",
+      "shortname": "Juventus",
+      "microname": "JUV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "89",
+        "name": "Italien",
+        "code": "ITA",
+        "iso": "IT"
+      }
+    },
+    "person": {
+      "id": "3122",
+      "name": "Arturo Vidal",
+      "firstname": "Arturo",
+      "surname": "Vidal",
+      "fullname": "Arturo Erasmo Vidal Pardo",
+      "gender": "male",
+      "birthday": "22.05.1987",
+      "height": "180",
+      "weight": "71"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "87",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:30:48"
+  },
+  {
+    "id": "15589183",
+    "team": {
+      "id": "1094",
+      "name": "Juventus Turin",
+      "shortname": "Juventus",
+      "microname": "JUV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "89",
+        "name": "Italien",
+        "code": "ITA",
+        "iso": "IT"
+      }
+    },
+    "person": {
+      "id": "2393",
+      "name": "Simone Padoin",
+      "firstname": "Simone",
+      "surname": "Padoin",
+      "fullname": "Simone Padoin",
+      "gender": "male",
+      "birthday": "18.03.1984",
+      "height": "179",
+      "weight": "73"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "87",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:30:58"
+  },
+  {
     "id": "12412",
     "team": {
       "id": "258",
