@@ -839,7 +839,39 @@
     "tickertime": "24.02.2015 22:22:39",
     "minute": "79",
     "headline": "",
-    "content": "<p><b>Ginter in höchster Not</b></p> <p>Pereyra steckt den Ball stark auf Morata durch, doch im letzten Moment entschärft Ginter die Situation mit einer perfekt getimten Grätsche.</p>",
+    "content": "<p><b>Schmelzer in höchster Not</b></p> <p>Pereyra steckt den Ball stark auf Morata durch, doch im letzten Moment entschärft Schmelzer die Situation mit einer perfekt getimten Grätsche.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328779",
+    "event": {
+      "id": "15589065",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "152498",
+        "name": "Roberto Pereyra",
+        "firstname": "Roberto",
+        "surname": "Pereyra",
+        "fullname": "Roberto Maximiliano Pereyra",
+        "gender": "male",
+        "birthday": "07.01.1991",
+        "height": "182",
+        "weight": "80"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:23"
+    },
+    "tickertime": "24.02.2015 22:23:18",
+    "minute": "80",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Roberto Pereyra (Juventus)</b> <br/>",
     "syndicate": "s1de"
   }
 ]
