@@ -1537,6 +1537,122 @@
     "created": "24.02.2015 21:33:51"
   },
   {
+    "id": "15588646",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "1138",
+      "name": "Sokratis Papastathopoulos",
+      "firstname": "Sokratis",
+      "surname": "Papastathopoulos",
+      "fullname": "Sokratis Papastathopoulos",
+      "gender": "male",
+      "birthday": "09.06.1988",
+      "height": "185",
+      "weight": "82"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "24.02.2015 21:48:55"
+  },
+  {
+    "id": "15588647",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "1878",
+      "name": "Oliver Kirch",
+      "firstname": "Oliver",
+      "surname": "Kirch",
+      "fullname": "Oliver Kirch",
+      "gender": "male",
+      "birthday": "21.08.1982",
+      "height": "183",
+      "weight": "70"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "24.02.2015 21:49:09"
+  },
+  {
+    "id": "15588648",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "second-half-start",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "24.02.2015 21:49:15"
+  },
+  {
+    "id": "15588684",
+    "team": {
+      "id": "1094",
+      "name": "Juventus Turin",
+      "shortname": "Juventus",
+      "microname": "JUV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "89",
+        "name": "Italien",
+        "code": "ITA",
+        "iso": "IT"
+      }
+    },
+    "person": {
+      "id": "3122",
+      "name": "Arturo Vidal",
+      "firstname": "Arturo",
+      "surname": "Vidal",
+      "fullname": "Arturo Erasmo Vidal Pardo",
+      "gender": "male",
+      "birthday": "22.05.1987",
+      "height": "180",
+      "weight": "71"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "48",
+    "additional_person_id": "0",
+    "created": "24.02.2015 21:51:22"
+  },
+  {
     "id": "12412",
     "team": {
       "id": "258",
