@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
        <games type="array">
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="597" guest-long-name="FC Barcelona" gamestate="0" home-short-name="Man City" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="1" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440530" date="2015-02-24T20:45:00Z" home-long-name="Manchester City" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Barcelona" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159317" overtime-score-home="0" home-team-id="1267" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="597" guest-long-name="FC Barcelona" gamestate="2" home-short-name="Man City" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="15" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440530" date="2015-02-24T20:45:00Z" home-long-name="Manchester City" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="1" half4-score-guest="0" guest-short-name="Barcelona" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159317" overtime-score-home="0" home-team-id="1267" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
       </tab>
     </tabs>
   </game>
@@ -20,8 +22,37 @@
 </games>
 
        <events type="array">
-  <event section="0" label="4_55691_440530_1327890" team-id="0" game-id="440530" text="... zum Achtelfinale der Champions League. Im Hinspiel bekommt es Manchester City mit dem FC Barcelona zu tun. Ansto&#223; ist um 20.45 Uhr, wir sind ab 20.15 Uhr live dabei.
-" headline="Herzlich willkommen ..." playername="" id="10731351" date="2015-02-24T08:03:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T08:03:51Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+  <event section="1" label="4_55691_440530_1328325" team-id="0" game-id="440530" text="Barca spielt hinten rum, der Deutsche ist erstmals am Ball und schl&#228;gt ihn weit nach vorne.
+" headline="Ter Stegen erstmals am Ball" playername="" id="10731891" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="0" game-minute="1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="1" label="4_55691_440530_1328314" team-id="0" game-id="440530" text="Spielbeginn" headline="Spielbeginn" playername="" id="10731901" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="1" game-minute="1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328311" team-id="0" game-id="440530" text="Bei ManCity sind Zabaleta, Dzeko, Ag&#252;ero und Clichy vorbelastet. Bei Barca keiner der Elf auf dem Feld.
+" headline="Vier Spieler Gelb gef&#228;hrdert" playername="" id="10731911" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="2" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328305" team-id="0" game-id="440530" text="Schiedsrichter der Partie ist der Deutsche Dr. Felix Brych. Ihm assistieren Mark Borsch und Stefan Lupp an den Seitenlinien.
+" headline="Deutsches Schiriteam" playername="" id="10731921" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="3" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328299" team-id="0" game-id="440530" text="Ter Stegen - Dani Alves, Pique, Mascherano, Jordi Alba - Rakitic, Busquets, Iniesta - Messi, Suarez, Neymar - Trainer: Luis Enrique.
+" headline="Aufstellung FC Barcelona" playername="" id="10731931" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="4" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328294" team-id="0" game-id="440530" text="Hart - Zabaleta, Kompany, Demichelis, Clichy - Nasri, Fernando, Milner, Silva - Dzeko, Ag&#252;ero - Trainer: Pellegrini.
+" headline="Aufstellung Manchester City" playername="" id="10731941" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="5" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328290" team-id="0" game-id="440530" text="Nach seiner Verletzung im Dezember sei der St&#252;rmer wieder &quot;topfit&quot;, betont Trainer Pellegrini. Zusammen mit Dzeko soll der Argentinier heute Barcas Viererkette in Bedr&#228;ngnis bringen.
+" headline="Ag&#252;ero voll bei Kr&#228;ften" playername="" id="10731951" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="6" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328281" team-id="0" game-id="440530" text="Will man mit so einer Angriffsreihe tats&#228;chlich nur Kontern? Schwer zu glauben. Barca bietet alles auf, das hei&#223;t: Neymar, Suarez, Messi. Was ein Offensivtrio! Da sind Kompany und Demichelis in der Innenverteidigung gefordert.
+" headline="Geballte Offensivpower" playername="" id="10731961" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="7" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328262" team-id="0" game-id="440530" text="&quot;Wir m&#252;ssen unser Spiel spielen, d&#252;rfen uns nicht verstellen. Meine Mannschaft muss um Ballbesitz k&#228;mpfen&quot;, sagt der Trainer. Kurz: Tiki-Taka unterbinden - das ist der Schl&#252;ssel zum Erfolg.
+" headline="Pellegrini selbstbewusst" playername="" id="10731981" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="9" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1328251" team-id="0" game-id="440530" text="Ganz anders die Engl&#228;nder: 5:0 gegen Newcastle, 4:1 in Stoke. Als Zweiter in der Premiere League ist Manchester &#228;rgster Verfolger von Chelsea - und m&#246;chte auch in der Champions League die englische Fahne hochhalten.
+" headline="ManCity mit breiter Brust" playername="" id="10731991" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="10" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="2" label="4_55691_440530_1327890" team-id="0" game-id="440530" text="... zum Achtelfinale der Champions League. Im Hinspiel bekommt es Manchester City mit dem FC Barcelona zu tun. Ansto&#223; ist um 20.45 Uhr, wir sind ab 20.15 Uhr live dabei.
+" headline="Herzlich willkommen ..." playername="" id="10731351" date="2015-02-24T08:03:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="0" label="4_55691_440534_1327889" team-id="0" game-id="440534" text="Borussia Dortmund ist im Achtelfinal-Hinspiel der Champions League zu Gast bei Juventus Turin. Wir sind ab 20.15 Uhr live f&#252;r Sie am Ball, bis dahin!
 " headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T07:52:42Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
