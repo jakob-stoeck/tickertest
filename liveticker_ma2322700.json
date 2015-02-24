@@ -953,5 +953,37 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei Juventus -> Simone Padoin</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328827",
+    "event": {
+      "id": "15589197",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "1760",
+        "name": "Carlos Tévez",
+        "firstname": "Carlos",
+        "surname": "Tévez",
+        "fullname": "Carlos Alberto Martínez Tévez",
+        "gender": "male",
+        "birthday": "05.02.1984",
+        "height": "173",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:32"
+    },
+    "tickertime": "24.02.2015 22:32:39",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Juventus -> Carlos Tévez</span>",
+    "syndicate": "s1de"
   }
 ]
