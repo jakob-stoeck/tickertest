@@ -811,6 +811,21 @@
         "name": "Manchester City"
       },
       "person": {
+        "id": "2512",
+        "name": "Kun Agüero",
+        "firstname": "Kun",
+        "surname": "Agüero",
+        "fullname": "Sergio Leonel Agüero",
+        "gender": "male",
+        "birthday": "02.06.1988",
+        "height": "172",
+        "weight": "74"
+      },
+      "action": "goal",
+      "content": "1:2",
+      "kind": "right-foot",
+      "minute": "69",
+      "additional_person": {
         "id": "23593",
         "name": "Fernandinho",
         "firstname": "",
@@ -821,11 +836,6 @@
         "height": "176",
         "weight": "67"
       },
-      "action": "goal",
-      "content": "1:2",
-      "kind": "right-foot",
-      "minute": "69",
-      "additional_person_id": "0",
       "created": "24.02.2015 22:12"
     },
     "tickertime": "24.02.2015 22:12:09",
@@ -1016,6 +1026,14 @@
     "minute": "76",
     "headline": "",
     "content": "<p><b>Schwalbe von Alba</b></p> <p>Der Linksaußen lässt sich fallen, obwohl Kompany ihn bei seiner Grätsche gar nicht trifft. Gar nicht fein.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328757",
+    "tickertime": "24.02.2015 22:20:04",
+    "minute": "77",
+    "headline": "",
+    "content": "<p><b>Chance für Messi</b></p> <p>Den abgefälschten Versuch&nbsp; aus fünf Metern Entfernung lenkt Joe Hart aber noch über die Latte.</p>",
     "syndicate": "s1de"
   },
   {
