@@ -833,5 +833,37 @@
     "headline": "",
     "content": "<p><b>Tor für Manchester City, 1:2 durch Kun Agüero</b></p> <p>Da ist es passiert! Flacher Pass zentral in den Strafraum, Silva legt mit der Hacke ab. Agüero reagiert schneller als drei Spieler von Barca, schnappt sich die Kugel und netzt aus 10 Metern halbhoch ins lange Eck ein. Ter Stegen ist chancenlos. Jetzt ist wieder Spannung drin.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328691",
+    "event": {
+      "id": "15589000",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "10452",
+        "name": "Ivan Rakitić",
+        "firstname": "Ivan",
+        "surname": "Rakitić",
+        "fullname": "Ivan Rakitić",
+        "gender": "male",
+        "birthday": "10.03.1988",
+        "height": "184",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "71",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:13"
+    },
+    "tickertime": "24.02.2015 22:13:35",
+    "minute": "71",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Barcelona -> Ivan Rakitić</span>",
+    "syndicate": "s1de"
   }
 ]
