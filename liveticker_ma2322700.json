@@ -225,5 +225,45 @@
     "headline": "",
     "content": "<p><b>Wie reagiert Dortmund?</b></p> <p>In der Liga hat der BVB kürzlich gegen Mainz nach einem frühen Rückstand das Spiel gedreht. Auch diesmal bemüht sich Dortmund um eine schnelle Antwort. Doch Reus' Flanke von links ist viel zu hoch für Aubameyang.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328403",
+    "tickertime": "24.02.2015 21:04:10",
+    "minute": "17",
+    "headline": "",
+    "content": "<p><b>Technische Probleme beim Schiri</b></p> <p>Schiri Mateu Lahoz hat Probleme mit seinem Mikrofon. Nach einer kurzen Unterbrechung kann es aber weitergehen.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328406",
+    "event": {
+      "id": "15588185",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "22225",
+        "name": "Marco Reus",
+        "firstname": "Marco",
+        "surname": "Reus",
+        "fullname": "Marco Reus",
+        "gender": "male",
+        "birthday": "31.05.1989",
+        "height": "180",
+        "weight": "67"
+      },
+      "action": "goal",
+      "content": "1:1",
+      "kind": "right-foot",
+      "minute": "18",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:04"
+    },
+    "tickertime": "24.02.2015 21:04:38",
+    "minute": "18",
+    "headline": "",
+    "content": "<b>Tooor für Borussia Dortmund, 1:1 durch Marco Reus</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
