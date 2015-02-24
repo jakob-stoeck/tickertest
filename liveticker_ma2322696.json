@@ -1203,5 +1203,45 @@
     "headline": "",
     "content": "<p><b>Nicht mehr lange</b></p> <p>Fünf Minuten plus Nachspielzeit verbleiben noch auf der Uhr.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328808",
+    "event": {
+      "id": "15589182",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "23461",
+        "name": "Adriano",
+        "firstname": "",
+        "surname": "Adriano",
+        "fullname": "Adriano Correia Claro",
+        "gender": "male",
+        "birthday": "26.10.1984",
+        "height": "172",
+        "weight": "67"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:30"
+    },
+    "tickertime": "24.02.2015 22:30:49",
+    "minute": "88",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Adriano (FC Barcelona)</b> <br/>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328815",
+    "tickertime": "24.02.2015 22:31:04",
+    "minute": "88",
+    "headline": "",
+    "content": "<p><b>Agüero holt Freistoß raus</b></p> <p>Mehr kann er in der Szene nicht machen. Noch vor der Mittellinie ist kein Mann weit und breit anspielbar.</p>",
+    "syndicate": "s1de"
   }
 ]
