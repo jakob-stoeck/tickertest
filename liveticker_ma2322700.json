@@ -523,5 +523,24 @@
     "headline": "",
     "content": "<p><b>Zwei Minuten Nachspielzeit</b></p> <p>120 Sekunden gibt es in dieser unterhaltsamen ersten Hälfte obendrauf.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328543",
+    "event": {
+      "id": "15588446",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "first-half-end",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:33"
+    },
+    "tickertime": "24.02.2015 21:33:51",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Ende 1. Halbzeit</b>",
+    "syndicate": "s1de"
   }
 ]
