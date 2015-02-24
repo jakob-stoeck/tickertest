@@ -1478,6 +1478,76 @@
     "created": "24.02.2015 22:01:18"
   },
   {
+    "id": "15588886",
+    "team": {
+      "id": "1267",
+      "name": "Manchester City",
+      "shortname": "Man City",
+      "microname": "MCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "person": {
+      "id": "1975",
+      "name": "Samir Nasri",
+      "firstname": "Samir",
+      "surname": "Nasri",
+      "fullname": "Samir Nasri",
+      "gender": "male",
+      "birthday": "26.06.1987",
+      "height": "177",
+      "weight": "75"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "62",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:04:02"
+  },
+  {
+    "id": "15588887",
+    "team": {
+      "id": "1267",
+      "name": "Manchester City",
+      "shortname": "Man City",
+      "microname": "MCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "person": {
+      "id": "23593",
+      "name": "Fernandinho",
+      "firstname": "",
+      "surname": "Fernandinho",
+      "fullname": "Fernando Luis Roza",
+      "gender": "male",
+      "birthday": "04.05.1985",
+      "height": "176",
+      "weight": "67"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "62",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:04:16"
+  },
+  {
     "id": "1200451",
     "team": {
       "id": "597",
