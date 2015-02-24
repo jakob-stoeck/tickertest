@@ -483,5 +483,32 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Dani Alves (FC Barcelona)</b> <br/>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328534",
+    "tickertime": "24.02.2015 21:32:45",
+    "minute": "45",
+    "headline": "",
+    "content": "<p><b>Beste Chance für ManCity</b></p> <p>Unmittelbar vor der Halbzeit prüft Nasri ter Stegen. Der lässt den Aufsetzer abprallen, nicht hundertprozentig sicher, die Abwehr kann aber klären.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328537",
+    "event": {
+      "id": "15588442",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "first-half-end",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:32"
+    },
+    "tickertime": "24.02.2015 21:32:55",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Ende 1. Halbzeit</b>",
+    "syndicate": "s1de"
   }
 ]
