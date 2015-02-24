@@ -1653,6 +1653,76 @@
     "created": "24.02.2015 21:51:22"
   },
   {
+    "id": "15589039",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "147122",
+      "name": "Ciro Immobile",
+      "firstname": "Ciro",
+      "surname": "Immobile",
+      "fullname": "Ciro Immobile",
+      "gender": "male",
+      "birthday": "20.02.1990",
+      "height": "185",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:19:17"
+  },
+  {
+    "id": "15589041",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "3949",
+      "name": "Jakub Błaszczykowski",
+      "firstname": "Jakub",
+      "surname": "Błaszczykowski",
+      "fullname": "Jakub Błaszczykowski",
+      "gender": "male",
+      "birthday": "14.12.1985",
+      "height": "175",
+      "weight": "71"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:19:28"
+  },
+  {
     "id": "12412",
     "team": {
       "id": "258",
