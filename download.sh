@@ -1,5 +1,4 @@
 #!/bin/bash
-LEAGUE=4;
 watch -n5 '\
 for i in 2322696 2322700; do \
 curl -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}.json" \
@@ -8,8 +7,8 @@ curl -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "livetick
 done; \
 curl -sO http://mobile.ipnm.sport1.de/v8/media/live.xml; \
 for j in 440534 440530; do \
-curl -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/${LEAGUE}/game/${j}.xml" \
-&& curl -s http://mobile.ipnm.sport1.de/v8/soccer/leagues/${LEAGUE}/conference.xml > conference${LEAGUE}.xml; \
+curl -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/4/game/${j}.xml" \
+&& curl -s http://mobile.ipnm.sport1.de/v8/soccer/leagues/4/conference.xml > conference4.xml; \
 done; \
 git add . && git commit -m "update"'
 
