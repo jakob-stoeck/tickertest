@@ -1299,5 +1299,37 @@
     "headline": "",
     "content": "<p><b>Drei Minuten noch</b></p> <p>Die Nachspielzeit tickt.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328847",
+    "event": {
+      "id": "15589209",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "1757",
+        "name": "Lionel Messi",
+        "firstname": "Lionel",
+        "surname": "Messi",
+        "fullname": "Lionel Andrés Messi Cuccitini",
+        "gender": "male",
+        "birthday": "24.06.1987",
+        "height": "169",
+        "weight": "67"
+      },
+      "action": "special",
+      "content": "",
+      "kind": "missed-penalty",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:36"
+    },
+    "tickertime": "24.02.2015 22:36:42",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Elfmeter verschossen von Lionel Messi, FC Barcelona</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
