@@ -1653,6 +1653,181 @@
     "created": "24.02.2015 22:12:09"
   },
   {
+    "id": "15589000",
+    "team": {
+      "id": "597",
+      "name": "FC Barcelona",
+      "shortname": "Barcelona",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "person": {
+      "id": "10452",
+      "name": "Ivan Rakitić",
+      "firstname": "Ivan",
+      "surname": "Rakitić",
+      "fullname": "Ivan Rakitić",
+      "gender": "male",
+      "birthday": "10.03.1988",
+      "height": "184",
+      "weight": "75"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "71",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:13:35"
+  },
+  {
+    "id": "15589003",
+    "team": {
+      "id": "597",
+      "name": "FC Barcelona",
+      "shortname": "Barcelona",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "person": {
+      "id": "26483",
+      "name": "Jérémy Mathieu",
+      "firstname": "Jérémy",
+      "surname": "Mathieu",
+      "fullname": "Jérémy Mathieu",
+      "gender": "male",
+      "birthday": "29.10.1983",
+      "height": "192",
+      "weight": "83"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "71",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:13:35"
+  },
+  {
+    "id": "15589013",
+    "team": {
+      "id": "1267",
+      "name": "Manchester City",
+      "shortname": "Man City",
+      "microname": "MCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "person": {
+      "id": "1947",
+      "name": "Gaël Clichy",
+      "firstname": "Gaël",
+      "surname": "Clichy",
+      "fullname": "Gaël Clichy",
+      "gender": "male",
+      "birthday": "26.07.1985",
+      "height": "176",
+      "weight": "72"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow-red",
+    "minute": "74",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:16:32"
+  },
+  {
+    "id": "15589026",
+    "team": {
+      "id": "597",
+      "name": "FC Barcelona",
+      "shortname": "Barcelona",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "person": {
+      "id": "4137",
+      "name": "Dani Alves",
+      "firstname": "",
+      "surname": "Dani Alves",
+      "fullname": "Daniel Alves da Silva",
+      "gender": "male",
+      "birthday": "06.05.1983",
+      "height": "173",
+      "weight": "64"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:18:22"
+  },
+  {
+    "id": "15589027",
+    "team": {
+      "id": "597",
+      "name": "FC Barcelona",
+      "shortname": "Barcelona",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "person": {
+      "id": "23461",
+      "name": "Adriano",
+      "firstname": "",
+      "surname": "Adriano",
+      "fullname": "Adriano Correia Claro",
+      "gender": "male",
+      "birthday": "26.10.1984",
+      "height": "172",
+      "weight": "67"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:18:31"
+  },
+  {
     "id": "1200451",
     "team": {
       "id": "597",

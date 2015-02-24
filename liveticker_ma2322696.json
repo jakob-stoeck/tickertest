@@ -937,5 +937,77 @@
     "headline": "",
     "content": "<p><b>Gelb-Rote Karte für Gaël Clichy (Manchester City)</b></p> <p>Schiri Brych hat keine andere Wahl. Clichy geht gegen Alves unbeholfen in den Zweikampf, will eigentlich den Ball spielen, trifft ihn aber hart am Oberschenkel. Klare Sache: Gelb-Rot.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328715",
+    "event": {
+      "id": "15589026",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "4137",
+        "name": "Dani Alves",
+        "firstname": "",
+        "surname": "Dani Alves",
+        "fullname": "Daniel Alves da Silva",
+        "gender": "male",
+        "birthday": "06.05.1983",
+        "height": "173",
+        "weight": "64"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:18"
+    },
+    "tickertime": "24.02.2015 22:18:22",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Barcelona -> Dani Alves</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328723",
+    "event": {
+      "id": "15589027",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "23461",
+        "name": "Adriano",
+        "firstname": "",
+        "surname": "Adriano",
+        "fullname": "Adriano Correia Claro",
+        "gender": "male",
+        "birthday": "26.10.1984",
+        "height": "172",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:18"
+    },
+    "tickertime": "24.02.2015 22:18:31",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Barcelona -> Adriano</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328730",
+    "tickertime": "24.02.2015 22:19:07",
+    "minute": "75",
+    "headline": "",
+    "content": "<p>Barca voll auf Ballbesitz</p> <p>Das spielt den Katalanen jetzt natürlich in die Karten. Jetzt können sie ihr Kurzpassspiel voll ausspielen. Man City hat seit mehr als einer Minute keine Ballberührung.</p>",
+    "syndicate": "s1de"
   }
 ]
