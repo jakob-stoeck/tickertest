@@ -1,14 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="0" home-short-name="Juventus" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="1" team2-color="plain;16763904;16763904;16763904;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440534" date="2015-02-24T20:45:00Z" home-long-name="Juventus Turin" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159319" overtime-score-home="0" home-team-id="1094" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+<game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="2" home-short-name="Juventus" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="15" team2-color="plain;16763904;16763904;16763904;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440534" date="2015-02-24T20:45:00Z" home-long-name="Juventus Turin" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="1" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159319" overtime-score-home="0" home-team-id="1094" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
   <events type="array">
-    <event section="0" label="4_55691_440534_1327889" team-id="0" game-id="440534" text="Borussia Dortmund ist im Achtelfinal-Hinspiel der Champions League zu Gast bei Juventus Turin. Wir sind ab 20.15 Uhr live f&#252;r Sie am Ball, bis dahin!
-" headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T07:52:42Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+    <event section="2" label="4_55691_440534_1327889" team-id="0" game-id="440534" text="Borussia Dortmund ist im Achtelfinal-Hinspiel der Champions League zu Gast bei Juventus Turin. Wir sind ab 20.15 Uhr live f&#252;r Sie am Ball, bis dahin!
+" headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:49:52Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328037" team-id="0" game-id="440534" text="Juventus Turin empf&#228;ngt Borussia Dortmund in der Neuauflage des Finals von 1997. Damals gewann der BVB im Olympiastadion mit 3:1.
+" headline="Erinnerung an M&#252;nchen" playername="" id="10732181" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="13" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328088" team-id="0" game-id="440534" text="Weidenfeller - Piszczek, Sokratis, Hummels, Schmelzer - G&#252;ndogan, Sahin - Mkhitaryan, Reus, Aubameyang - Immobile
+" headline="Die Aufstellung von Borussia Dortmund" playername="" id="10732171" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="12" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328101" team-id="0" game-id="440534" text="Klopp reagiert auf Kampls Ausfall wegen Magen-Darm-Problemen und zieht Aubameyang ins Mittelfeld zur&#252;ck. Immobile startet im Sturm, Ramos sitzt erneut nur auf der Bank.
+" headline="Immobile startet im Sturm" playername="" id="10732161" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="11" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328142" team-id="0" game-id="440534" text="Buffon - Lichtsteiner, Bonucci, Chiellini, Evra - Marchisio, Pirlo, Pogba - Vidal - Tevez, Morata
+" headline="Die Aufstellung von Juventus" playername="" id="10732151" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="10" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328146" team-id="0" game-id="440534" text="Neben Kampl fehlt auch Subotic wegen Krankheit. F&#252;r ihn startet Sokratis in der BVB-Innenverteidigung zusammen mit Hummels.
+" headline="Auch Subotic krank" playername="" id="10732141" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="9" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328163" team-id="0" game-id="440534" text="Nach Niederlagen gegen Olympiakos und Atletico hat Juventus erst am letzten Spieltag der Gruppenphase das Achtelfinale erreicht. In Italien ist die Alte Dame dagegen mit neun Punkten Vorsprung auf den Zweiten souver&#228;ner Tabellenf&#252;hrer.
+" headline="Juventus mit Ach und Krach" playername="" id="10732131" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="8" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328176" team-id="0" game-id="440534" text="Bislang trafen beide Teams insgesamt sieben Mal aufeinander. Immer kassierte der BVB gegen Juventus mindestens ein Gegentor. Immerhin: Mit Hummels in der Startelf ist Dortmund in dieser Champions-League-Saison bei einer Tordifferenz von 7:0 noch ungeschlagen.
+" headline="BVB gegen Juve nie zu Null" playername="" id="10732121" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="7" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328223" team-id="0" game-id="440534" text="Rechtzeitig zur K.o.-Runde der Champions League hat sich der BVB aus dem Tief gek&#228;mpft. In der Bundesliga reichte es zuletzt f&#252;r drei Siege am St&#252;ck. Allerdings waren die Gegner mit Freiburg, Mainz und Stuttgart auch eine etwas andere Liga als Juventus.
+" headline="BVB im Aufwind" playername="" id="10732111" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="6" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328244" team-id="0" game-id="440534" text="BVB-Coach fordert bei Sky einen beherzten Auftritt seines Teams: &quot;Wir haben in dieser Konstellation schon gute Spiele gemacht. Wir m&#252;ssen hier Fu&#223;ball spielen. Respekt ist wichtig, aber es darf nicht zu viel sein. Wenn uns das gelingt, k&#246;nnen wir ein gutes Spiel machen. Und das ist die Voraussetzung f&#252;r ein gutes Ergebnis.&quot;
+" headline="Klopp zum Spiel" playername="" id="10732101" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="5" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328246" team-id="0" game-id="440534" text="Den Startelf-Einsatz von Ciro Immobile begr&#252;ndet Klopp bei Sky: &quot;Er hat gut trainiert, hat sich toll verhalten. In der Champions League hat er ein gutes Gef&#252;hl.&quot;
+" headline="Klopp belohnt Immobile" playername="" id="10732091" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="4" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328252" team-id="0" game-id="440534" text="Bei Juventus soll einmal mehr Pirlo aus dem Zentrum das Spiel lenken. Die Offensive geh&#246;rt mit Vidal, Morata und Tevez aber auch nicht gerade zur Laufkundschaft in Europa.
+" headline="Juventus mit starkem Personal" playername="" id="10732081" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="3" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="2" label="4_55691_440534_1328276" team-id="0" game-id="440534" text="In dieser Saison lief bei Mkhitaryan noch wenig zusammen. BVB-Vorstandsboss Watzke hofft bei Sky darauf, dass der Knoten des Armeniers bald platzt: &quot;Er ist ein ganz au&#223;ergew&#246;hnlicher Spieler. Er kann es jedenfalls. Wenn er in einem Spiel richtig z&#252;ndet, dann werden wir auch in den n&#228;chsten Wochen viel Spa&#223; haben.&quot;
+" headline="Watzke wartet auf Mkhitaryans Durchbruch" playername="" id="10732071" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="2" game-minute="-1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="1" label="4_55691_440534_1328322" team-id="0" game-id="440534" text="Schiedsrichter Antonio Mateu Lahoz pfeift die Partie im Juventus Stadium an.
+" headline="Spielbeginn" playername="" id="10732061" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="1" game-minute="1" player-id="0" gameday-id="55691">
+    </event>
+    <event section="1" label="4_55691_440534_1328330" team-id="0" game-id="440534" text="Starker Beginn der Borussia! Ein Pass von Pirlo in der eigenen H&#228;lfte landet beim BVB. &#220;ber zwei Stationen kommt der Ball zu Immobile, der aus 20 Metern abzieht, aber sein Schlenzer geht knapp &#252;ber die Latte.
+" headline="Immobile versucht es" playername="" id="10732051" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="0" updated-at="2015-02-24T19:49:52Z" sort="0" game-minute="1" player-id="0" gameday-id="55691">
     </event>
   </events>
   <tabs type="array">
     <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
     </tab>
     <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+    </tab>
+    <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
     </tab>
   </tabs>
 </game>
