@@ -542,5 +542,88 @@
     "headline": "",
     "content": "<p><b>Ende 1. Halbzeit</b></p> <p>Halbzeit-Fazit: Eine Halbzeit der Geschenke ist zu Ende: Beim ersten Tor profitiert Tevez von einer unglücklichen Abwehr von Weidenfeller. Chiellinis Ausrutscher beschert Reus' Ausgleich und beim 1:2 schläft die Dortmunder Abwehr gleich im Kollektiv. Dabei hat der BVB nach Pirlos Aus mehr vom Spiel, ohne jedoch zu klaren Chancen zu kommen.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328560",
+    "event": {
+      "id": "15588646",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "1138",
+        "name": "Sokratis Papastathopoulos",
+        "firstname": "Sokratis",
+        "surname": "Papastathopoulos",
+        "fullname": "Sokratis Papastathopoulos",
+        "gender": "male",
+        "birthday": "09.06.1988",
+        "height": "185",
+        "weight": "82"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:48"
+    },
+    "tickertime": "24.02.2015 21:48:56",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Sokratis Papastathopoulos</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328563",
+    "event": {
+      "id": "15588647",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "1878",
+        "name": "Oliver Kirch",
+        "firstname": "Oliver",
+        "surname": "Kirch",
+        "fullname": "Oliver Kirch",
+        "gender": "male",
+        "birthday": "21.08.1982",
+        "height": "183",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:49"
+    },
+    "tickertime": "24.02.2015 21:49:09",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Oliver Kirch</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328566",
+    "event": {
+      "id": "15588648",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "second-half-start",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:49"
+    },
+    "tickertime": "24.02.2015 21:49:15",
+    "minute": "46",
+    "headline": "",
+    "content": "<b>Anpfiff 2. Halbzeit</b>",
+    "syndicate": "s1de"
   }
 ]
