@@ -1548,6 +1548,111 @@
     "created": "24.02.2015 22:04:16"
   },
   {
+    "id": "15588939",
+    "team": {
+      "id": "1267",
+      "name": "Manchester City",
+      "shortname": "Man City",
+      "microname": "MCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "person": {
+      "id": "28522",
+      "name": "Edin Džeko",
+      "firstname": "Edin",
+      "surname": "Džeko",
+      "fullname": "Edin Džeko",
+      "gender": "male",
+      "birthday": "17.03.1986",
+      "height": "193",
+      "weight": "84"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "68",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:10:42"
+  },
+  {
+    "id": "15588942",
+    "team": {
+      "id": "1267",
+      "name": "Manchester City",
+      "shortname": "Man City",
+      "microname": "MCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "person": {
+      "id": "131450",
+      "name": "Wilfried Bony",
+      "firstname": "Wilfried",
+      "surname": "Bony",
+      "fullname": "Wilfried Guemiand Bony",
+      "gender": "male",
+      "birthday": "10.12.1988",
+      "height": "182",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "68",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:11:09"
+  },
+  {
+    "id": "15588947",
+    "team": {
+      "id": "1267",
+      "name": "Manchester City",
+      "shortname": "Man City",
+      "microname": "MCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "person": {
+      "id": "23593",
+      "name": "Fernandinho",
+      "firstname": "",
+      "surname": "Fernandinho",
+      "fullname": "Fernando Luis Roza",
+      "gender": "male",
+      "birthday": "04.05.1985",
+      "height": "176",
+      "weight": "67"
+    },
+    "action": "goal",
+    "content": "1:2",
+    "kind": "right-foot",
+    "minute": "69",
+    "additional_person_id": "0",
+    "created": "24.02.2015 22:12:09"
+  },
+  {
     "id": "1200451",
     "team": {
       "id": "597",
