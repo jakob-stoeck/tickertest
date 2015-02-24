@@ -633,5 +633,69 @@
     "headline": "",
     "content": "<p><b>Barca hat Gang zurückgeschalten</b></p> <p>Die Gäste sind nicht mehr so aktiv wie in den ersten 45 Minuten und verwalten den Vorsprung.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328630",
+    "event": {
+      "id": "15588886",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "1975",
+        "name": "Samir Nasri",
+        "firstname": "Samir",
+        "surname": "Nasri",
+        "fullname": "Samir Nasri",
+        "gender": "male",
+        "birthday": "26.06.1987",
+        "height": "177",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:04"
+    },
+    "tickertime": "24.02.2015 22:04:03",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Manchester City -> Samir Nasri</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328635",
+    "event": {
+      "id": "15588887",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "23593",
+        "name": "Fernandinho",
+        "firstname": "",
+        "surname": "Fernandinho",
+        "fullname": "Fernando Luis Roza",
+        "gender": "male",
+        "birthday": "04.05.1985",
+        "height": "176",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:04"
+    },
+    "tickertime": "24.02.2015 22:04:16",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Manchester City -> Fernandinho</span>",
+    "syndicate": "s1de"
   }
 ]
