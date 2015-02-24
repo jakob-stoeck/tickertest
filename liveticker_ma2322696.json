@@ -1017,5 +1017,69 @@
     "headline": "",
     "content": "<p><b>Schwalbe von Alba</b></p> <p>Der Linksaußen lässt sich fallen, obwohl Kompany ihn bei seiner Grätsche gar nicht trifft. Gar nicht fein.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328746",
+    "event": {
+      "id": "15589046",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "24305",
+        "name": "David Silva",
+        "firstname": "",
+        "surname": "David Silva",
+        "fullname": "David Jiménez Silva",
+        "gender": "male",
+        "birthday": "08.01.1986",
+        "height": "170",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:20"
+    },
+    "tickertime": "24.02.2015 22:20:19",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Manchester City -> David Silva</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328752",
+    "event": {
+      "id": "15589050",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "1954",
+        "name": "Bacary Sagna",
+        "firstname": "Bacary",
+        "surname": "Sagna",
+        "fullname": "Bacary Sagna",
+        "gender": "male",
+        "birthday": "14.02.1983",
+        "height": "176",
+        "weight": "72"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:20"
+    },
+    "tickertime": "24.02.2015 22:20:33",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Manchester City -> Bacary Sagna</span>",
+    "syndicate": "s1de"
   }
 ]
