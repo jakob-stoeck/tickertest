@@ -321,5 +321,47 @@
     "headline": "",
     "content": "<p><b>Ecke geklärt</b></p> <p>So bringt man Barca nicht in Bedrängnis. Suarez köpft das Leder aus der Gefahrenzone.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328453",
+    "event": {
+      "id": "15588221",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "1191",
+        "name": "Luis Suárez",
+        "firstname": "Luis",
+        "surname": "Suárez",
+        "fullname": "Luis Alberto Suárez Díaz",
+        "gender": "male",
+        "birthday": "24.01.1987",
+        "height": "182",
+        "weight": "81"
+      },
+      "action": "goal",
+      "content": "0:2",
+      "kind": "right-foot",
+      "minute": "30",
+      "additional_person": {
+        "id": "135348",
+        "name": "Jordi Alba",
+        "firstname": "",
+        "surname": "Jordi Alba",
+        "fullname": "Jordi Alba Ramos",
+        "gender": "male",
+        "birthday": "21.03.1989",
+        "height": "170",
+        "weight": "69"
+      },
+      "created": "24.02.2015 21:16"
+    },
+    "tickertime": "24.02.2015 21:16:44",
+    "minute": "30",
+    "headline": "",
+    "content": "<b>Tooor für FC Barcelona, 0:2 durch Luis Suárez</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
