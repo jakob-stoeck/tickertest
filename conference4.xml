@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
        <games type="array">
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="597" guest-long-name="FC Barcelona" gamestate="2" home-short-name="Man City" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="22" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440530" date="2015-02-24T20:45:00Z" home-long-name="Manchester City" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="9" half4-score-guest="0" guest-short-name="Barcelona" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159317" overtime-score-home="0" home-team-id="1267" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="597" guest-long-name="FC Barcelona" gamestate="2" home-short-name="Man City" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="24" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440530" date="2015-02-24T20:45:00Z" home-long-name="Manchester City" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="11" half4-score-guest="0" guest-short-name="Barcelona" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159317" overtime-score-home="0" home-team-id="1267" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
@@ -11,7 +11,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="2" home-short-name="Juventus" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="18" team2-color="plain;16763904;16763904;16763904;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440534" date="2015-02-24T20:45:00Z" home-long-name="Juventus Turin" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="7" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159319" overtime-score-home="0" home-team-id="1094" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="2" home-short-name="Juventus" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="21" team2-color="plain;16763904;16763904;16763904;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440534" date="2015-02-24T20:45:00Z" home-long-name="Juventus Turin" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="11" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159319" overtime-score-home="0" home-team-id="1094" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
@@ -24,85 +24,102 @@
 </games>
 
        <events type="array">
+  <event section="1" label="4_55691_440534_1328372" team-id="0" game-id="440534" text="Immobile flankt halbhoch von rechts in die Mitte, aber Bonucci hat keine M&#252;he, den Ball zu kl&#228;ren.
+" headline="Immobile zu ungenau" playername="" id="10732341" date="2015-02-24T19:59:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="0" game-minute="11" player-id="0" gameday-id="55691">
+  </event>
+  <event section="1" label="4_55691_440530_1328375" team-id="0" game-id="440530" text="Der Argentinier kommt am F&#252;nfer fast frei zum Abschluss. Demichelis kl&#228;rt den Schuss mit einer Gr&#228;tsche.
+
+&amp;nbsp;
+" headline="Neymar auf Messi" playername="" id="10732331" date="2015-02-24T19:59:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="0" game-minute="11" player-id="0" gameday-id="55691">
+  </event>
+  <event section="1" label="4_55691_440534_1328366" team-id="0" game-id="440534" text="Juventus kontert gef&#228;hrlich &#252;ber Morata, aber Sokratis gr&#228;tscht dem Spanier an der Mittellinie sauber den Ball vom Fu&#223;.
+" headline="Sokratis passt auf" playername="" id="10732321" date="2015-02-24T19:58:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="1" game-minute="10" player-id="0" gameday-id="55691">
+  </event>
+  <event section="1" label="4_55691_440530_1328369" team-id="0" game-id="440530" text="Allm&#228;hlich finden die Gastgeber hier ins Spiel. Sie halten den Ball auch mal l&#228;nger und versuchen in die R&#228;ume der gegnerischen H&#228;lfte zu gelangen.
+" headline="ManCity kommt rein" playername="" id="10732311" date="2015-02-24T19:58:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="1" game-minute="10" player-id="0" gameday-id="55691">
+  </event>
+  <event section="1" label="4_55691_440534_1328360" team-id="0" game-id="440534" text="Der BVB bekommt die Ecke kurzzeitig aus der Gefahrenzone, aber wieder kommt Juve &#252;ber rechts gef&#228;hrlich an die Grundlinie. Diesmal &#252;ber Morata, dessen Hereingabe von Schmelzer geblockt wird.
+" headline="Juve &#252;ber rechts gef&#228;hrlich" playername="" id="10732301" date="2015-02-24T19:56:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="2" game-minute="8" player-id="0" gameday-id="55691">
+  </event>
   <event section="1" label="4_55691_440530_1328358" team-id="0" game-id="440530" text="Mascherano gr&#228;tscht gegen den Argentinier rein, der f&#228;llt und bekommt zurecht einen Freisto&#223;. Exzellente Position gut 18 Meter vor dem Tor.
-" headline="Ag&#252;ero f&#228;llt - Freisto&#223;" playername="" id="10732291" date="2015-02-24T19:56:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="1" game-minute="8" player-id="0" gameday-id="55691">
+" headline="Ag&#252;ero f&#228;llt - Freisto&#223;" playername="" id="10732291" date="2015-02-24T19:56:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="3" game-minute="8" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328365" team-id="0" game-id="440530" text="Er versucht es flach, ohne Erfolg, auch zu wenig Power. Schwacher Freisto&#223;!
-" headline="Milner ganz schwach in die Mauer" playername="" id="10732281" date="2015-02-24T19:56:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="0" game-minute="9" player-id="0" gameday-id="55691">
+" headline="Milner ganz schwach in die Mauer" playername="" id="10732281" date="2015-02-24T19:56:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="2" game-minute="9" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440534_1328353" team-id="0" game-id="440534" text="Juventus setzt sich ketzt l&#228;nger in der BVB-H&#228;lfte fest. Eine Flanke von Marchisio kl&#228;rt Hummels noch ins Seitenaus. Ein weiterer Angriff von Marchisio &#252;ber rechts bringt Juve die erste Ecke.
-" headline="Juventus macht Druck" playername="" id="10732271" date="2015-02-24T19:55:50Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="0" game-minute="7" player-id="0" gameday-id="55691">
+" headline="Juventus macht Druck" playername="" id="10732271" date="2015-02-24T19:55:50Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="3" game-minute="7" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328352" team-id="0" game-id="440530" text="Zum ersten Mal ein Hauch von Gefahr bei den Gastgebern. Dzeko versucht es mit einem Schuss aus der Drehung, aber der Ball wird abgeblockt.
-" headline="Dzeko im Strafraum" playername="" id="10732261" date="2015-02-24T19:55:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="2" game-minute="7" player-id="0" gameday-id="55691">
+" headline="Dzeko im Strafraum" playername="" id="10732261" date="2015-02-24T19:55:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="4" game-minute="7" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440534_1328347" team-id="0" game-id="440534" text="Tevez und Pirlo versuchen es nacheinander mit P&#228;ssen in die Gasse. Doch der BVB macht die R&#228;ume unglaublich eng und wehrt zweimal bravour&#246;s ab.
-" headline="BVB hinten massiv" playername="" id="10732251" date="2015-02-24T19:54:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="1" game-minute="6" player-id="0" gameday-id="55691">
+" headline="BVB hinten massiv" playername="" id="10732251" date="2015-02-24T19:54:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="4" game-minute="6" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328348" team-id="0" game-id="440530" text="Der Uruguayer geht die gegnerischen Abwehrspieler fr&#252;h an und provoziert einen R&#252;ckpass auf Hart. City sucht Sicherheit.
-" headline="Suarez attackiert fr&#252;h" playername="" id="10732241" date="2015-02-24T19:54:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="3" game-minute="6" player-id="0" gameday-id="55691">
+" headline="Suarez attackiert fr&#252;h" playername="" id="10732241" date="2015-02-24T19:54:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="5" game-minute="6" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440534_1328338" team-id="0" game-id="440534" text="Der BVB attackiert Pirlo im Mittelfeld vehement und provoziert so einen Fehlpass des Routiniers.
-" headline="Pirlo unter Druck" playername="" id="10732221" date="2015-02-24T19:52:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="2" game-minute="3" player-id="0" gameday-id="55691">
+" headline="Pirlo unter Druck" playername="" id="10732221" date="2015-02-24T19:52:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="5" game-minute="3" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328343" team-id="0" game-id="440530" text="Die Katalanen sind spielfreudiger und kontrollieren bisher Ball und Gegner. ManCity hat es noch nicht in den gegnerischen Sechzehner geschafft.
-" headline="Barcelona in der Anfangsphase aktiver" playername="" id="10732201" date="2015-02-24T19:51:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="4" game-minute="5" player-id="0" gameday-id="55691">
+" headline="Barcelona in der Anfangsphase aktiver" playername="" id="10732201" date="2015-02-24T19:51:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="6" game-minute="5" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328337" team-id="0" game-id="440530" text="Messis Flanke von rechts f&#228;ngt der englische Keeper ohne Probleme vor Suarez ab.
-" headline="Hart ist zur Stelle" playername="" id="10732211" date="2015-02-24T19:51:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="5" game-minute="4" player-id="0" gameday-id="55691">
+" headline="Hart ist zur Stelle" playername="" id="10732211" date="2015-02-24T19:51:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="7" game-minute="4" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328331" team-id="0" game-id="440530" text="Der Verteidiger kl&#228;rt einen hohen Ball auf Messi nicht ganz sicher in Richtung des eigenen Tors. Da hat gar nicht viel gefehlt zum Eigentor.
-" headline="Kompany mit Risiko" playername="" id="10732191" date="2015-02-24T19:51:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="6" game-minute="2" player-id="0" gameday-id="55691">
+" headline="Kompany mit Risiko" playername="" id="10732191" date="2015-02-24T19:51:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="8" game-minute="2" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440534_1328330" team-id="0" game-id="440534" text="Starker Beginn der Borussia! Ein Pass von Pirlo in der eigenen H&#228;lfte landet beim BVB. &#220;ber zwei Stationen kommt der Ball zu Immobile, der aus 20 Metern abzieht, aber sein Schlenzer geht knapp &#252;ber die Latte.
-" headline="Immobile versucht es" playername="" id="10732051" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="3" game-minute="1" player-id="0" gameday-id="55691">
+" headline="Immobile versucht es" playername="" id="10732051" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="6" game-minute="1" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440534_1328322" team-id="0" game-id="440534" text="Schiedsrichter Antonio Mateu Lahoz pfeift die Partie im Juventus Stadium an.
-" headline="Spielbeginn" playername="" id="10732061" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="4" game-minute="1" player-id="0" gameday-id="55691">
+" headline="Spielbeginn" playername="" id="10732061" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="7" game-minute="1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440534_1328276" team-id="0" game-id="440534" text="In dieser Saison lief bei Mkhitaryan noch wenig zusammen. BVB-Vorstandsboss Watzke hofft bei Sky darauf, dass der Knoten des Armeniers bald platzt: &quot;Er ist ein ganz au&#223;ergew&#246;hnlicher Spieler. Er kann es jedenfalls. Wenn er in einem Spiel richtig z&#252;ndet, dann werden wir auch in den n&#228;chsten Wochen viel Spa&#223; haben.&quot;
-" headline="Watzke wartet auf Mkhitaryans Durchbruch" playername="" id="10732071" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="5" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Watzke wartet auf Mkhitaryans Durchbruch" playername="" id="10732071" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="8" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440534_1328252" team-id="0" game-id="440534" text="Bei Juventus soll einmal mehr Pirlo aus dem Zentrum das Spiel lenken. Die Offensive geh&#246;rt mit Vidal, Morata und Tevez aber auch nicht gerade zur Laufkundschaft in Europa.
-" headline="Juventus mit starkem Personal" playername="" id="10732081" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="6" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Juventus mit starkem Personal" playername="" id="10732081" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="9" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440534_1328246" team-id="0" game-id="440534" text="Den Startelf-Einsatz von Ciro Immobile begr&#252;ndet Klopp bei Sky: &quot;Er hat gut trainiert, hat sich toll verhalten. In der Champions League hat er ein gutes Gef&#252;hl.&quot;
-" headline="Klopp belohnt Immobile" playername="" id="10732091" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="7" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Klopp belohnt Immobile" playername="" id="10732091" date="2015-02-24T19:49:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="10" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440530_1328325" team-id="0" game-id="440530" text="Barca spielt hinten rum, der Deutsche ist erstmals am Ball und schl&#228;gt ihn weit nach vorne.
-" headline="Ter Stegen erstmals am Ball" playername="" id="10731891" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="7" game-minute="1" player-id="0" gameday-id="55691">
+" headline="Ter Stegen erstmals am Ball" playername="" id="10731891" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="9" game-minute="1" player-id="0" gameday-id="55691">
   </event>
-  <event section="1" label="4_55691_440530_1328314" team-id="0" game-id="440530" text="Spielbeginn" headline="Spielbeginn" playername="" id="10731901" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="8" game-minute="1" player-id="0" gameday-id="55691">
+  <event section="1" label="4_55691_440530_1328314" team-id="0" game-id="440530" text="Spielbeginn" headline="Spielbeginn" playername="" id="10731901" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:12Z" sort="10" game-minute="1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328311" team-id="0" game-id="440530" text="Bei ManCity sind Zabaleta, Dzeko, Ag&#252;ero und Clichy vorbelastet. Bei Barca keiner der Elf auf dem Feld.
-" headline="Vier Spieler Gelb gef&#228;hrdert" playername="" id="10731911" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="9" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Vier Spieler Gelb gef&#228;hrdert" playername="" id="10731911" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="11" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328305" team-id="0" game-id="440530" text="Schiedsrichter der Partie ist der Deutsche Dr. Felix Brych. Ihm assistieren Mark Borsch und Stefan Lupp an den Seitenlinien.
-" headline="Deutsches Schiriteam" playername="" id="10731921" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="10" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Deutsches Schiriteam" playername="" id="10731921" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="12" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328299" team-id="0" game-id="440530" text="Ter Stegen - Dani Alves, Pique, Mascherano, Jordi Alba - Rakitic, Busquets, Iniesta - Messi, Suarez, Neymar - Trainer: Luis Enrique.
-" headline="Aufstellung FC Barcelona" playername="" id="10731931" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="11" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung FC Barcelona" playername="" id="10731931" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="13" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328294" team-id="0" game-id="440530" text="Hart - Zabaleta, Kompany, Demichelis, Clichy - Nasri, Fernando, Milner, Silva - Dzeko, Ag&#252;ero - Trainer: Pellegrini.
-" headline="Aufstellung Manchester City" playername="" id="10731941" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="12" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung Manchester City" playername="" id="10731941" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328290" team-id="0" game-id="440530" text="Nach seiner Verletzung im Dezember sei der St&#252;rmer wieder &quot;topfit&quot;, betont Trainer Pellegrini. Zusammen mit Dzeko soll der Argentinier heute Barcas Viererkette in Bedr&#228;ngnis bringen.
-" headline="Ag&#252;ero voll bei Kr&#228;ften" playername="" id="10731951" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="13" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Ag&#252;ero voll bei Kr&#228;ften" playername="" id="10731951" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="15" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328281" team-id="0" game-id="440530" text="Will man mit so einer Angriffsreihe tats&#228;chlich nur Kontern? Schwer zu glauben. Barca bietet alles auf, das hei&#223;t: Neymar, Suarez, Messi. Was ein Offensivtrio! Da sind Kompany und Demichelis in der Innenverteidigung gefordert.
-" headline="Geballte Offensivpower" playername="" id="10731961" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Geballte Offensivpower" playername="" id="10731961" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="16" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328262" team-id="0" game-id="440530" text="&quot;Wir m&#252;ssen unser Spiel spielen, d&#252;rfen uns nicht verstellen. Meine Mannschaft muss um Ballbesitz k&#228;mpfen&quot;, sagt der Trainer. Kurz: Tiki-Taka unterbinden - das ist der Schl&#252;ssel zum Erfolg.
-" headline="Pellegrini selbstbewusst" playername="" id="10731981" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="16" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Pellegrini selbstbewusst" playername="" id="10731981" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="18" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1328251" team-id="0" game-id="440530" text="Ganz anders die Engl&#228;nder: 5:0 gegen Newcastle, 4:1 in Stoke. Als Zweiter in der Premiere League ist Manchester &#228;rgster Verfolger von Chelsea - und m&#246;chte auch in der Champions League die englische Fahne hochhalten.
-" headline="ManCity mit breiter Brust" playername="" id="10731991" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="17" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="ManCity mit breiter Brust" playername="" id="10731991" date="2015-02-24T19:48:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="19" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440530_1327890" team-id="0" game-id="440530" text="... zum Achtelfinale der Champions League. Im Hinspiel bekommt es Manchester City mit dem FC Barcelona zu tun. Ansto&#223; ist um 20.45 Uhr, wir sind ab 20.15 Uhr live dabei.
-" headline="Herzlich willkommen ..." playername="" id="10731351" date="2015-02-24T08:03:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:56:23Z" sort="21" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Herzlich willkommen ..." playername="" id="10731351" date="2015-02-24T08:03:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="23" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440534_1327889" team-id="0" game-id="440534" text="Borussia Dortmund ist im Achtelfinal-Hinspiel der Champions League zu Gast bei Juventus Turin. Wir sind ab 20.15 Uhr live f&#252;r Sie am Ball, bis dahin!
-" headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:55:50Z" sort="17" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:59:13Z" sort="20" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
 </events>
 
