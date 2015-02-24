@@ -305,5 +305,69 @@
     "headline": "",
     "content": "<p><b>Piszczek muss wohl raus</b></p> <p>Das rechte Fußgelenk von Piszczek wird an der Seitenlinie bandagiert. Der Pole muss wohl raus.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328459",
+    "event": {
+      "id": "15588222",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "14958",
+        "name": "Łukasz Piszczek",
+        "firstname": "Łukasz",
+        "surname": "Piszczek",
+        "fullname": "Łukasz Piszczek",
+        "gender": "male",
+        "birthday": "03.06.1985",
+        "height": "184",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "32",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:18"
+    },
+    "tickertime": "24.02.2015 21:18:04",
+    "minute": "32",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Łukasz Piszczek</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328462",
+    "event": {
+      "id": "15588223",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "229806",
+        "name": "Matthias Ginter",
+        "firstname": "Matthias",
+        "surname": "Ginter",
+        "fullname": "Matthias Lukas Ginter",
+        "gender": "male",
+        "birthday": "19.01.1994",
+        "height": "188",
+        "weight": "85"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "32",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:18"
+    },
+    "tickertime": "24.02.2015 21:18:24",
+    "minute": "32",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Matthias Ginter</span>",
+    "syndicate": "s1de"
   }
 ]
