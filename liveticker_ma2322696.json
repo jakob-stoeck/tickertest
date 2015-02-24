@@ -737,5 +737,69 @@
     "headline": "",
     "content": "<p><b>Ter Stegen ist zur Stelle</b></p> <p>Der Deutsche klärt mit dem Fuß an der Strafraumgrenze gegen Agüero. Wie Manuel Neuer.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328666",
+    "event": {
+      "id": "15588939",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "28522",
+        "name": "Edin Džeko",
+        "firstname": "Edin",
+        "surname": "Džeko",
+        "fullname": "Edin Džeko",
+        "gender": "male",
+        "birthday": "17.03.1986",
+        "height": "193",
+        "weight": "84"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "68",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:10"
+    },
+    "tickertime": "24.02.2015 22:10:43",
+    "minute": "68",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Manchester City -> Edin Džeko</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328672",
+    "event": {
+      "id": "15588942",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "131450",
+        "name": "Wilfried Bony",
+        "firstname": "Wilfried",
+        "surname": "Bony",
+        "fullname": "Wilfried Guemiand Bony",
+        "gender": "male",
+        "birthday": "10.12.1988",
+        "height": "182",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "68",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:11"
+    },
+    "tickertime": "24.02.2015 22:11:09",
+    "minute": "68",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Manchester City -> Wilfried Bony</span>",
+    "syndicate": "s1de"
   }
 ]
