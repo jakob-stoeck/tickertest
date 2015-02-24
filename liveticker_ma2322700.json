@@ -985,5 +985,37 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Juventus -> Carlos Tévez</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328830",
+    "event": {
+      "id": "15589198",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "301526",
+        "name": "Kingsley Coman",
+        "firstname": "Kingsley",
+        "surname": "Coman",
+        "fullname": "Kingsley Coman",
+        "gender": "male",
+        "birthday": "13.06.1996",
+        "height": "178",
+        "weight": "71"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:32"
+    },
+    "tickertime": "24.02.2015 22:32:55",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Juventus -> Kingsley Coman</span>",
+    "syndicate": "s1de"
   }
 ]
