@@ -377,5 +377,85 @@
     "headline": "",
     "content": "<p><b>Sahin testet Buffon</b></p> <p>Juventus jetzt mit giftigem Pressing, aber der BVB befreit sich geschickt und kommt durch einen Distanzschuss von Sahin zu einer Chance. Buffon wehrt den halbhohen Ball aus 25 Metern etwas wacklig ab, hat den Ball aber letztlich doch sicher.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328479",
+    "tickertime": "24.02.2015 21:22:19",
+    "minute": "36",
+    "headline": "",
+    "content": "<p><b>Erste Dortmunder Ecke</b></p> <p>Immobile flankt von links per Außenrist, aber Pogba klärt per Kopf zur ersten BVB-Ecke.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328484",
+    "event": {
+      "id": "15588303",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "838",
+        "name": "Andrea Pirlo",
+        "firstname": "Andrea",
+        "surname": "Pirlo",
+        "fullname": "Andrea Pirlo",
+        "gender": "male",
+        "birthday": "19.05.1979",
+        "height": "177",
+        "weight": "68"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "37",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:22"
+    },
+    "tickertime": "24.02.2015 21:22:53",
+    "minute": "37",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Juventus -> Andrea Pirlo</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328487",
+    "event": {
+      "id": "15588314",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "152498",
+        "name": "Roberto Pereyra",
+        "firstname": "Roberto",
+        "surname": "Pereyra",
+        "fullname": "Roberto Maximiliano Pereyra",
+        "gender": "male",
+        "birthday": "07.01.1991",
+        "height": "182",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "37",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:23"
+    },
+    "tickertime": "24.02.2015 21:23:03",
+    "minute": "37",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Juventus -> Roberto Pereyra</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328490",
+    "tickertime": "24.02.2015 21:23:24",
+    "minute": "37",
+    "headline": "",
+    "content": "<p><b>Strittige szene</b></p> <p>Morata fälscht die Ecke mit der Hand ab, aber der Schiedsrichter lässt weiterspielen. Die Dortmunder sind mit der Entscheidung alles andere als Einverstanden.</p>",
+    "syndicate": "s1de"
   }
 ]
