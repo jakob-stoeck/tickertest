@@ -11,11 +11,13 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="0" home-short-name="Juventus" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="1" team2-color="plain;16763904;16763904;16763904;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440534" date="2015-02-24T20:45:00Z" home-long-name="Juventus Turin" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159319" overtime-score-home="0" home-team-id="1094" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="2" home-short-name="Juventus" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="15" team2-color="plain;16763904;16763904;16763904;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440534" date="2015-02-24T20:45:00Z" home-long-name="Juventus Turin" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="1" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159319" overtime-score-home="0" home-team-id="1094" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
       </tab>
     </tabs>
   </game>
@@ -54,8 +56,8 @@
   <event section="2" label="4_55691_440530_1327890" team-id="0" game-id="440530" text="... zum Achtelfinale der Champions League. Im Hinspiel bekommt es Manchester City mit dem FC Barcelona zu tun. Ansto&#223; ist um 20.45 Uhr, wir sind ab 20.15 Uhr live dabei.
 " headline="Herzlich willkommen ..." playername="" id="10731351" date="2015-02-24T08:03:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:48:43Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
-  <event section="0" label="4_55691_440534_1327889" team-id="0" game-id="440534" text="Borussia Dortmund ist im Achtelfinal-Hinspiel der Champions League zu Gast bei Juventus Turin. Wir sind ab 20.15 Uhr live f&#252;r Sie am Ball, bis dahin!
-" headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T07:52:42Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+  <event section="2" label="4_55691_440534_1327889" team-id="0" game-id="440534" text="Borussia Dortmund ist im Achtelfinal-Hinspiel der Champions League zu Gast bei Juventus Turin. Wir sind ab 20.15 Uhr live f&#252;r Sie am Ball, bis dahin!
+" headline="Juve wartet" playername="" id="10731341" date="2015-02-24T07:52:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-24T19:49:52Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
 </events>
 
