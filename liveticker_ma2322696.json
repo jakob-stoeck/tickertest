@@ -801,5 +801,37 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei Manchester City -> Wilfried Bony</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328681",
+    "event": {
+      "id": "15588947",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "2512",
+        "name": "Kun Agüero",
+        "firstname": "Kun",
+        "surname": "Agüero",
+        "fullname": "Sergio Leonel Agüero",
+        "gender": "male",
+        "birthday": "02.06.1988",
+        "height": "172",
+        "weight": "74"
+      },
+      "action": "goal",
+      "content": "1:2",
+      "kind": "right-foot",
+      "minute": "69",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:12"
+    },
+    "tickertime": "24.02.2015 22:12:09",
+    "minute": "69",
+    "headline": "",
+    "content": "<b>Tooor für Manchester City, 1:2 durch Kun Agüero</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
