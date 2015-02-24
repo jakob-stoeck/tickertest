@@ -1481,6 +1481,51 @@
     "created": "24.02.2015 21:23:03"
   },
   {
+    "id": "15588395",
+    "team": {
+      "id": "1094",
+      "name": "Juventus Turin",
+      "shortname": "Juventus",
+      "microname": "JUV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "89",
+        "name": "Italien",
+        "code": "ITA",
+        "iso": "IT"
+      }
+    },
+    "person": {
+      "id": "234920",
+      "name": "Morata",
+      "firstname": "",
+      "surname": "Morata",
+      "fullname": "Álvaro Borja Morata Martín",
+      "gender": "male",
+      "birthday": "23.10.1992",
+      "height": "190",
+      "weight": "82"
+    },
+    "action": "goal",
+    "content": "2:1",
+    "kind": "right-foot",
+    "minute": "43",
+    "additional_person": {
+      "id": "240774",
+      "name": "Paul Pogba",
+      "firstname": "Paul",
+      "surname": "Pogba",
+      "fullname": "Paul Pogba",
+      "gender": "male",
+      "birthday": "15.03.1993",
+      "height": "188",
+      "weight": "73"
+    },
+    "created": "24.02.2015 21:29:06"
+  },
+  {
     "id": "12412",
     "team": {
       "id": "258",
