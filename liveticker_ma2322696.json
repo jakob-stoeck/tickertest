@@ -1105,7 +1105,71 @@
     "tickertime": "24.02.2015 22:21:58",
     "minute": "79",
     "headline": "",
-    "content": "<p><b>Defensiver Wechsel</b></p> <p>Mit der Einwechslung von Sagna ist die Devise für ManCity klar: In Unterzahl das Ergebnis halten.</p>",
+    "content": "<p><b>Defensiver Wechsel</b></p> <p>Mit der Einwechslung von Sagna ist die Devise von ManCity klar: In Unterzahl das Ergebnis halten.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328765",
+    "event": {
+      "id": "15589058",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "152036",
+        "name": "Neymar",
+        "firstname": "",
+        "surname": "Neymar",
+        "fullname": "Neymar da Silva Santos Júnior",
+        "gender": "male",
+        "birthday": "05.02.1992",
+        "height": "174",
+        "weight": "64"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:22"
+    },
+    "tickertime": "24.02.2015 22:22:31",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Barcelona -> Neymar</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1328773",
+    "event": {
+      "id": "15589059",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "9087",
+        "name": "Pedro",
+        "firstname": "",
+        "surname": "Pedro",
+        "fullname": "Pedro Eliezer Rodríguez Ledesma",
+        "gender": "male",
+        "birthday": "28.07.1987",
+        "height": "169",
+        "weight": "64"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:22"
+    },
+    "tickertime": "24.02.2015 22:22:40",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Barcelona -> Pedro</span>",
     "syndicate": "s1de"
   }
 ]
