@@ -625,5 +625,37 @@
     "headline": "",
     "content": "<p><b>Anpfiff 2. Halbzeit</b></p> <p>Weiter geht's in Turin. Allerdings ohne Sokratis, der an beiden Gegentoren nicht schuldlos ist. Er muss wegen muskulärer Probleme draußen bleiben. Für ihn ist nun Kirch im Spiel.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328578",
+    "event": {
+      "id": "15588684",
+      "team": {
+        "id": "1094",
+        "name": "Juventus Turin"
+      },
+      "person": {
+        "id": "3122",
+        "name": "Arturo Vidal",
+        "firstname": "Arturo",
+        "surname": "Vidal",
+        "fullname": "Arturo Erasmo Vidal Pardo",
+        "gender": "male",
+        "birthday": "22.05.1987",
+        "height": "180",
+        "weight": "71"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "48",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:51"
+    },
+    "tickertime": "24.02.2015 21:51:22",
+    "minute": "48",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Arturo Vidal (Juventus)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
