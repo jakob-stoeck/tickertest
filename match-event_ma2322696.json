@@ -1386,6 +1386,52 @@
     "created": "24.02.2015 21:27:31"
   },
   {
+    "id": "15588400",
+    "team": {
+      "id": "597",
+      "name": "FC Barcelona",
+      "shortname": "Barcelona",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "person": {
+      "id": "4137",
+      "name": "Dani Alves",
+      "firstname": "",
+      "surname": "Dani Alves",
+      "fullname": "Daniel Alves da Silva",
+      "gender": "male",
+      "birthday": "06.05.1983",
+      "height": "173",
+      "weight": "64"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "24.02.2015 21:31:19"
+  },
+  {
+    "id": "15588442",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "first-half-end",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "24.02.2015 21:32:55"
+  },
+  {
     "id": "1200451",
     "team": {
       "id": "597",
