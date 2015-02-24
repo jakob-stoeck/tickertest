@@ -905,5 +905,37 @@
     "headline": "",
     "content": "<p><b>Agüero bester Mann bei City</b></p> <p>Daran besteht kein Zweifel. Auch die nächste Aktion läuft über den agilen Stürmer. Diesmal kann er sich zwar nicht durchsetzen, aber wenn es gefährlich vor dem Barca-Tor wird, ist Agüero beteiligt.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328709",
+    "event": {
+      "id": "15589013",
+      "team": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "person": {
+        "id": "1947",
+        "name": "Gaël Clichy",
+        "firstname": "Gaël",
+        "surname": "Clichy",
+        "fullname": "Gaël Clichy",
+        "gender": "male",
+        "birthday": "26.07.1985",
+        "height": "176",
+        "weight": "72"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow-red",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "24.02.2015 22:16"
+    },
+    "tickertime": "24.02.2015 22:16:32",
+    "minute": "74",
+    "headline": "",
+    "content": "<b>Gelb-Rote Karte für Gaël Clichy (Manchester City)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
