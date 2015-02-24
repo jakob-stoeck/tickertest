@@ -225,5 +225,37 @@
     "headline": "",
     "content": "<p><b>Demichelis gegen Rakitic</b></p> <p>Der Verteidiger blockt seinen Gegner souverän vom Ball weg. Einwurf.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1328396",
+    "event": {
+      "id": "15588182",
+      "team": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "person": {
+        "id": "1191",
+        "name": "Luis Suárez",
+        "firstname": "Luis",
+        "surname": "Suárez",
+        "fullname": "Luis Alberto Suárez Díaz",
+        "gender": "male",
+        "birthday": "24.01.1987",
+        "height": "182",
+        "weight": "81"
+      },
+      "action": "goal",
+      "content": "0:1",
+      "kind": "left-foot",
+      "minute": "16",
+      "additional_person_id": "0",
+      "created": "24.02.2015 21:02"
+    },
+    "tickertime": "24.02.2015 21:02:24",
+    "minute": "16",
+    "headline": "",
+    "content": "<b>Tooor für FC Barcelona, 0:1 durch Luis Suárez</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
