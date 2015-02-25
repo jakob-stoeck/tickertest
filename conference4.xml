@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
        <games type="array">
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="162" guest-long-name="Atl&#233;tico Madrid" gamestate="2" home-short-name="Leverkusen" team1-color="plain;16711680;16711680;0;0" penalty-score-home="0" eventcount="34" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440532" date="2015-02-25T20:45:00Z" home-long-name="Bayer Leverkusen" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="29" half4-score-guest="0" guest-short-name="Atl&#233;tico" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159318" overtime-score-home="0" home-team-id="205" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="162" guest-long-name="Atl&#233;tico Madrid" gamestate="2" home-short-name="Leverkusen" team1-color="plain;16711680;16711680;0;0" penalty-score-home="0" eventcount="35" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440532" date="2015-02-25T20:45:00Z" home-long-name="Bayer Leverkusen" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="30" half4-score-guest="0" guest-short-name="Atl&#233;tico" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159318" overtime-score-home="0" home-team-id="205" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
@@ -11,7 +11,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="136" guest-long-name="AS Monaco" gamestate="2" home-short-name="Arsenal" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="25" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440540" date="2015-02-25T20:45:00Z" home-long-name="Arsenal FC" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="28" half4-score-guest="0" guest-short-name="AS Monaco" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159322" overtime-score-home="0" home-team-id="127" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="136" guest-long-name="AS Monaco" gamestate="2" home-short-name="Arsenal" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="26" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440540" date="2015-02-25T20:45:00Z" home-long-name="Arsenal FC" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="30" half4-score-guest="0" guest-short-name="AS Monaco" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159322" overtime-score-home="0" home-team-id="127" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
@@ -25,179 +25,179 @@
 
        <events type="array">
   <event section="1" label="4_55691_440540_1329129" team-id="0" game-id="440540" text="Der spanische Nationalspieler setzt von der Mittellinie zum Dribbling an. Kurz vor dem Strafraum wird er aber von der monegassischen Defensive gestoppt. Man muss dem Mittelfeldspieler zu Gute halten, dass keine sinnvolle Anspielstation vorhanden war.
-" headline="Cazorla gegen alle" playername="" id="10734071" date="2015-02-25T20:15:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="0" game-minute="28" player-id="0" gameday-id="55691">
+" headline="Cazorla gegen alle" playername="" id="10734071" date="2015-02-25T20:15:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="1" game-minute="28" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329130" team-id="0" game-id="440532" text="Saul Niguez probiert es aus knapp 22 Metern. Der Schuss verfehlt das Tor allerdings um einige Meter.
-" headline="Erster Abschluss der G&#228;ste" playername="" id="10734051" date="2015-02-25T20:15:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:52Z" sort="0" game-minute="29" player-id="0" gameday-id="55691">
+" headline="Erster Abschluss der G&#228;ste" playername="" id="10734051" date="2015-02-25T20:15:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="1" game-minute="29" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329125" team-id="0" game-id="440532" text="Bellarabi flankt von der rechten Seite in den F&#252;nfer. Moya ist mit beiden F&#228;usten einen Moment vor dem heranrauschenden Drmic am Ball.
-" headline="Moya vor Drmic" playername="" id="10734061" date="2015-02-25T20:15:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:52Z" sort="1" game-minute="28" player-id="0" gameday-id="55691">
+" headline="Moya vor Drmic" playername="" id="10734061" date="2015-02-25T20:15:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="2" game-minute="28" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329123" team-id="0" game-id="440532" text="F&#252;r Saul Niguez geht es weiter.
-" headline="Die G&#228;ste wieder komplett" playername="" id="10734031" date="2015-02-25T20:14:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:52Z" sort="2" game-minute="28" player-id="0" gameday-id="55691">
+" headline="Die G&#228;ste wieder komplett" playername="" id="10734031" date="2015-02-25T20:14:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="3" game-minute="28" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329122" team-id="0" game-id="440532" text="Diesmal probiert es Castro aus halbrechter Position. Der Ball rutscht ihm allerdings &#252;ber den Schlappen.
-" headline="N&#228;chster Abschluss" playername="" id="10734041" date="2015-02-25T20:14:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:52Z" sort="3" game-minute="27" player-id="0" gameday-id="55691">
+" headline="N&#228;chster Abschluss" playername="" id="10734041" date="2015-02-25T20:14:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="4" game-minute="27" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329117" team-id="0" game-id="440532" text="Spahic zieht aus 30 Metern ab und nagelt das Leder genau ans linke Lattenkreuz!
-" headline="Latte!!!" playername="" id="10734021" date="2015-02-25T20:13:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:52Z" sort="4" game-minute="26" player-id="0" gameday-id="55691">
+" headline="Latte!!!" playername="" id="10734021" date="2015-02-25T20:13:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="5" game-minute="26" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329120" team-id="0" game-id="440540" text="Bei der dritten Ecke von Arsenal sucht &#214;zil den Sch&#228;del von Mertesacker. Da kann er sich aber noch so strecken, den Ball erwischt er nicht.
-" headline="Deutsche unter sich" playername="" id="10734011" date="2015-02-25T20:12:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="1" game-minute="25" player-id="0" gameday-id="55691">
+" headline="Deutsche unter sich" playername="" id="10734011" date="2015-02-25T20:12:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="2" game-minute="25" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329111" team-id="0" game-id="440540" text="Nachdem gro&#223;e Chancen bisher Mangelware waren, freuen sich die Arsenal-Fans &#252;ber einen Kopfball von Giroud. Nach einer Ecke von rechts verzieht der Franzose um gut zwei Meter.
-" headline="Ansatz von Torgefahr" playername="" id="10734001" date="2015-02-25T20:11:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="2" game-minute="24" player-id="0" gameday-id="55691">
+" headline="Ansatz von Torgefahr" playername="" id="10734001" date="2015-02-25T20:11:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="3" game-minute="24" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329109" team-id="0" game-id="440532" text="Saul Niguez prallt im Luftduell mit Papadopoulos zusammen und muss kurz au&#223;erhalb des Platzes behandelt werden.
-" headline="Behandlungspause" playername="" id="10733991" date="2015-02-25T20:11:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="5" game-minute="24" player-id="0" gameday-id="55691">
+" headline="Behandlungspause" playername="" id="10733991" date="2015-02-25T20:11:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="6" game-minute="24" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329104" team-id="0" game-id="440540" text="Nachdem sich Youngster Martial vom linken Fl&#252;gel mal auf die rechte Seite verschiebt, entsteht gegen&#252;ber Platz f&#252;r Abdennour. Der Innenverteidiger vertendelt aber und die Chance ist dahin.
-" headline="Monacos Offensive flexibel" playername="" id="10733981" date="2015-02-25T20:09:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="3" game-minute="21" player-id="0" gameday-id="55691">
+" headline="Monacos Offensive flexibel" playername="" id="10733981" date="2015-02-25T20:09:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="4" game-minute="21" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329101" team-id="0" game-id="440532" text="Tiago holt bei einem Konter Drmic in vollem Lauf von den Beinen. Schiedsrichter Kralovec l&#228;sst zun&#228;chst den Vorteil laufen, aber Bayer verliert die Kugel und so sieht Tiago nachtr&#228;glich Gelb.
-" headline="Gelbe Karte f&#252;r Tiago (Atl&#233;tico Madrid)" playername="" id="10733961" date="2015-02-25T20:08:12Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="6" game-minute="22" player-id="0" gameday-id="55691">
+" headline="Gelbe Karte f&#252;r Tiago (Atl&#233;tico Madrid)" playername="" id="10733961" date="2015-02-25T20:08:12Z" type-id="31" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="7" game-minute="22" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329097" team-id="0" game-id="440532" text="Eine Ecke von Griezmann faustet der Bayer-Keeper nur unzureichend weg, doch der Abschluss von Godin am zweiten Pfosten wird geblockt.
-" headline="Leno im Gl&#252;ck" playername="" id="10733971" date="2015-02-25T20:08:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="7" game-minute="21" player-id="0" gameday-id="55691">
+" headline="Leno im Gl&#252;ck" playername="" id="10733971" date="2015-02-25T20:08:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="8" game-minute="21" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329092" team-id="0" game-id="440540" text="Erster Torschuss der Monegassen: Der Portugiese Joao Moutinho zieht aus etwa 20 Metern Torentfernung ab. Der Ball geht aber deutlich vorbei, auch die Kraft dahinter fehlte.
-" headline="Kl&#228;glicher Versuch von Moutinho" playername="" id="10733951" date="2015-02-25T20:07:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="4" game-minute="19" player-id="0" gameday-id="55691">
+" headline="Kl&#228;glicher Versuch von Moutinho" playername="" id="10733951" date="2015-02-25T20:07:01Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="5" game-minute="19" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329089" team-id="0" game-id="440532" text="Aber die h&#228;tte es nicht geben d&#252;rfen. Turan war zuletzt am Ball. Doch alle Aufregung ist umsonst, denn die kurze Variante der G&#228;ste versandet.
-" headline="Erste Ecke f&#252;r die G&#228;ste" playername="" id="10733941" date="2015-02-25T20:05:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="8" game-minute="18" player-id="0" gameday-id="55691">
+" headline="Erste Ecke f&#252;r die G&#228;ste" playername="" id="10733941" date="2015-02-25T20:05:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="9" game-minute="18" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329082" team-id="0" game-id="440532" text="Son legt im Strafraum ab f&#252;r Drmic. Der Schweizer trifft den Ball nicht richtig. Die Defensive der G&#228;ste schl&#228;gt den Ball schlie&#223;lich raus.
-" headline="Drmic mit der n&#228;chsten Chance" playername="" id="10733931" date="2015-02-25T20:04:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="9" game-minute="16" player-id="0" gameday-id="55691">
+" headline="Drmic mit der n&#228;chsten Chance" playername="" id="10733931" date="2015-02-25T20:04:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="10" game-minute="16" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329085" team-id="0" game-id="440540" text="Nachdem die G&#228;ste bisher sehr tief standen, verschieben die vordersten Reihen jetzt weiter Richtung Tor des FC Arsenal. Das macht den Spielaufbau f&#252;r die Londoner noch schwieriger. Torwart Ospina hat derzeit die meisten Ballkontakte. Mehr erfahren Sie im Statistikbereich von SPORT1.de.
-" headline="Taktische Umstellung" playername="" id="10733921" date="2015-02-25T20:03:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="5" game-minute="16" player-id="0" gameday-id="55691">
+" headline="Taktische Umstellung" playername="" id="10733921" date="2015-02-25T20:03:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="6" game-minute="16" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329078" team-id="0" game-id="440532" text="Bayer bestimmt die Anfangsphase und spielt mutig nach vorne. Atletico h&#228;ngt bislang fast nur in der eigenen H&#228;lfte fest.
-" headline="Leverkusen ist am Dr&#252;cker" playername="" id="10733901" date="2015-02-25T20:01:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="10" game-minute="15" player-id="0" gameday-id="55691">
+" headline="Leverkusen ist am Dr&#252;cker" playername="" id="10733901" date="2015-02-25T20:01:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="11" game-minute="15" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329072" team-id="0" game-id="440532" text="Die Ecke kommt gef&#228;hrlich, doch Spahic segelt zun&#228;chst knapp unter der Hereingabe hindurch. Wendell probiert es im zweiten Versuch mit einem Torschuss von der Strafraumgrenze. Spahic h&#228;lt seinen Fu&#223; rein, aber Mandzukic kl&#228;rt f&#252;r den geschlagenen Keeper Moya knapp vor der Linie.
-" headline="Mandzukic rettet f&#252;r Moya" playername="" id="10733911" date="2015-02-25T20:01:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="11" game-minute="13" player-id="0" gameday-id="55691">
+" headline="Mandzukic rettet f&#252;r Moya" playername="" id="10733911" date="2015-02-25T20:01:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="12" game-minute="13" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329073" team-id="0" game-id="440540" text="Nach der st&#252;rmischen Anfangsphase von &#214;zil und Co. ist die Geschwindigkeit aus dem Spiel jetzt etwas heraus. Stattdessen werden die G&#228;ste mutiger. Ein Flanke von Linksverteidiger Elderson ist aber viel zu weit.
-" headline="Monaco wird mutiger" playername="" id="10733891" date="2015-02-25T20:00:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="6" game-minute="13" player-id="0" gameday-id="55691">
+" headline="Monaco wird mutiger" playername="" id="10733891" date="2015-02-25T20:00:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="7" game-minute="13" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329063" team-id="0" game-id="440540" text="Subasic f&#228;ngt eine schlecht platzierte Flanke von der linken Seite ab und schl&#228;gt den Ball weit nach vorne. Die Kugel erreicht aber keinen Mitspieler. Bisher kommt das Team von Trainer Jardim dem Tor von Ospina kaum n&#228;her.
-" headline="Monacos Keeper souver&#228;n" playername="" id="10733881" date="2015-02-25T19:58:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="7" game-minute="10" player-id="0" gameday-id="55691">
+" headline="Monacos Keeper souver&#228;n" playername="" id="10733881" date="2015-02-25T19:58:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="8" game-minute="10" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329068" team-id="0" game-id="440532" text="Bellarabi rettet rechts einen verungl&#252;ckten Pass und legt zur&#252;ck auf Bender. Dessen Flanke wird geblockt. Doch es gibt die erste Ecke f&#252;r die Gastgeber.
-" headline="Erste Ecke f&#252;r Bayer" playername="" id="10733861" date="2015-02-25T19:57:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="12" game-minute="12" player-id="0" gameday-id="55691">
+" headline="Erste Ecke f&#252;r Bayer" playername="" id="10733861" date="2015-02-25T19:57:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="13" game-minute="12" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329062" team-id="0" game-id="440532" text="Nach einem Freisto&#223; legt Turan f&#252;r Tiago ab. Dessen Torschuss missgl&#252;ckt, wird allerdings zur Flanke. Etwa acht Meter vor dem Tor steht Griezmann v&#246;llig blank, setzt den Kopfball aber deutlich daneben. Bayer spielte auf Abseits, aber Bender war zu sp&#228;t aufger&#252;ckt.
-" headline="Bayer vergisst Griezmann" playername="" id="10733871" date="2015-02-25T19:57:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="13" game-minute="9" player-id="0" gameday-id="55691">
+" headline="Bayer vergisst Griezmann" playername="" id="10733871" date="2015-02-25T19:57:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="14" game-minute="9" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329057" team-id="0" game-id="440540" text="Zum ersten Mal kommt der Ball zu Dimitar Berbatov. Der aus seinen Leverkusener Zeiten in Deutschland bestens bekannte St&#252;rmer in den Reihen der Monegassen steht allerdings im Abseits.
-" headline="Alter Bekannter im Abseits" playername="" id="10733851" date="2015-02-25T19:55:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="8" game-minute="8" player-id="0" gameday-id="55691">
+" headline="Alter Bekannter im Abseits" playername="" id="10733851" date="2015-02-25T19:55:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="9" game-minute="8" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329052" team-id="0" game-id="440532" text="Bayer kontert &#252;ber die linke Seite. Castro treibt das Leder Richtung Sechzehner und spielt zum mitgelaufenen Bender. Der Mittelfeldspieler schie&#223;t sofort, trifft den Ball aber nicht richtig. Sein Sch&#252;sschen kullert links am Tor vorbei.
-" headline="Bender schlie&#223;t &#252;berhastet ab" playername="" id="10733841" date="2015-02-25T19:54:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="14" game-minute="7" player-id="0" gameday-id="55691">
+" headline="Bender schlie&#223;t &#252;berhastet ab" playername="" id="10733841" date="2015-02-25T19:54:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="15" game-minute="7" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329050" team-id="0" game-id="440540" text="N&#228;chster gef&#228;hrlicher Angriff der Gunners: Mit hohem Tempo dringt Cazorla in den Sechzehner ein. Sein Pass findet aber keinen Abnehmer. Monaco kl&#228;rt zur Ecke, die aber nichts einbringt.
-" headline="Hohes Tempo von Arsenal" playername="" id="10733831" date="2015-02-25T19:54:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="9" game-minute="5" player-id="0" gameday-id="55691">
+" headline="Hohes Tempo von Arsenal" playername="" id="10733831" date="2015-02-25T19:54:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="10" game-minute="5" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329042" team-id="0" game-id="440540" text="Arsenal nimmt wie erwartet von Anfang an das Heft in die Hand. Mit einer feinen Kombination &#252;ber &#214;zil gelangt der Ball in den Strafraum. Giroud kommt aber nicht heran.
-" headline="Gastgeber am Dr&#252;cker" playername="" id="10733821" date="2015-02-25T19:52:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="10" game-minute="4" player-id="0" gameday-id="55691">
+" headline="Gastgeber am Dr&#252;cker" playername="" id="10733821" date="2015-02-25T19:52:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="11" game-minute="4" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329041" team-id="0" game-id="440532" text="Bellarabi sieht rechts am Strafraum die L&#252;cke und will Drmic bedienen, aber der Pass ist einen Tick zu steil. Godin kl&#228;rt.
-" headline="Gute Idee" playername="" id="10733801" date="2015-02-25T19:49:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="15" game-minute="4" player-id="0" gameday-id="55691">
+" headline="Gute Idee" playername="" id="10733801" date="2015-02-25T19:49:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="16" game-minute="4" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329039" team-id="0" game-id="440532" text="In der gegnerischen H&#228;lfte verliert der Brasilianer den Ball an Mandzukic, doch der St&#252;rmer kann die Kugel nicht kontrollieren. Bayer bleibt in Ballbesitz.
-" headline="Wendell vert&#228;ndelt" playername="" id="10733811" date="2015-02-25T19:49:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="16" game-minute="3" player-id="0" gameday-id="55691">
+" headline="Wendell vert&#228;ndelt" playername="" id="10733811" date="2015-02-25T19:49:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="17" game-minute="3" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329035" team-id="0" game-id="440540" text="Erste Chance f&#252;r Arsenal! Nach einem weiten Ball auf Welbeck zieht der St&#252;rmer von rechts ab. Der Ball streicht &#252;ber die Latte.
-" headline="Welbeck knapp dr&#252;ber" playername="" id="10733781" date="2015-02-25T19:49:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="11" game-minute="2" player-id="0" gameday-id="55691">
+" headline="Welbeck knapp dr&#252;ber" playername="" id="10733781" date="2015-02-25T19:49:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="12" game-minute="2" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440540_1329031" team-id="0" game-id="440540" text="Der ASM muss u.a. auf den gesperrten Kapit&#228;n Jeremy Toulalan und auf Abwehrchef Ricardo Carvalho verzichten.
-" headline="Aus&#228;lle bei Monaco" playername="" id="10733791" date="2015-02-25T19:49:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="12" game-minute="2" player-id="0" gameday-id="55691">
+" headline="Aus&#228;lle bei Monaco" playername="" id="10733791" date="2015-02-25T19:49:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="13" game-minute="2" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440532_1329029" team-id="0" game-id="440532" text="Kralovec pfeift an. Die Gastgeber spielen ganz in Rot, die G&#228;ste aus Madrid spielen in Silber-Grau.
-" headline="Auf geht's" playername="" id="10733761" date="2015-02-25T19:47:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="17" game-minute="1" player-id="0" gameday-id="55691">
+" headline="Auf geht's" playername="" id="10733761" date="2015-02-25T19:47:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="18" game-minute="1" player-id="0" gameday-id="55691">
   </event>
-  <event section="1" label="4_55691_440540_1329022" team-id="0" game-id="440540" text="Spielbeginn" headline="Spielbeginn" playername="" id="10733771" date="2015-02-25T19:47:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="13" game-minute="1" player-id="0" gameday-id="55691">
+  <event section="1" label="4_55691_440540_1329022" team-id="0" game-id="440540" text="Spielbeginn" headline="Spielbeginn" playername="" id="10733771" date="2015-02-25T19:47:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="14" game-minute="1" player-id="0" gameday-id="55691">
   </event>
-  <event section="1" label="4_55691_440532_1329017" team-id="0" game-id="440532" text="Spielbeginn" headline="Spielbeginn" playername="" id="10733731" date="2015-02-25T19:45:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="18" game-minute="1" player-id="0" gameday-id="55691">
+  <event section="1" label="4_55691_440532_1329017" team-id="0" game-id="440532" text="Spielbeginn" headline="Spielbeginn" playername="" id="10733731" date="2015-02-25T19:45:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="19" game-minute="1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1329020" team-id="0" game-id="440532" text="Die Seitenwahl ist vollzogen. Bayer Leverkusen wird in wenigen Augenblicken ansto&#223;en.
-" headline="Letzte Formalit&#228;ten gekl&#228;rt" playername="" id="10733741" date="2015-02-25T19:45:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="19" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Letzte Formalit&#228;ten gekl&#228;rt" playername="" id="10733741" date="2015-02-25T19:45:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="20" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1329013" team-id="0" game-id="440532" text="Der Unparteiische hei&#223;t Pavel Kralovec und kommt aus Tschechien. Ihm stehen seine Assistenten Roman Slysko und Martin Wilczek zur Seite.
-" headline="Ein Blick auf das Schiedsrichtergespann" playername="" id="10733751" date="2015-02-25T19:45:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="20" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Ein Blick auf das Schiedsrichtergespann" playername="" id="10733751" date="2015-02-25T19:45:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="21" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1329012" team-id="0" game-id="440532" text="Begleitet von den Kl&#228;ngen der Champions-League-Hymne betreten beide Mannschaften den Innenraum der BayArena.
-" headline="Teams kommen aus dem Tunnel" playername="" id="10733721" date="2015-02-25T19:44:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="21" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Teams kommen aus dem Tunnel" playername="" id="10733721" date="2015-02-25T19:44:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="22" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1329010" team-id="0" game-id="440540" text="Die Gunners haben zuletzt in der Premier League und im FA Cup drei Siege in Folge gefeiert. In der Liga sind die Londoner Dritter. Monaco ist in der Ligue 1 einen Rang schlechter platziert und gewann seine letzten beiden Partien in der Meisterschaft und im Coupe de France.
-" headline="R&#252;ckenwind auf beiden Seiten" playername="" id="10733711" date="2015-02-25T19:43:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="14" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="R&#252;ckenwind auf beiden Seiten" playername="" id="10733711" date="2015-02-25T19:43:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="15" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1329007" team-id="0" game-id="440532" text="Beide Teams standen sich 2010/11 in der Gruppenphase der Champions League letztmals gegen&#252;ber - einen Sieger gab es damals allerdings nicht. Sowohl das Hin-, als auch das R&#252;ckspiel endete 1:1.
-" headline="Letzte Begegnungen ohne Sieger" playername="" id="10733701" date="2015-02-25T19:39:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="22" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Letzte Begegnungen ohne Sieger" playername="" id="10733701" date="2015-02-25T19:39:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="23" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1329006" team-id="0" game-id="440540" text="Die G&#228;ste aus dem F&#252;rstentum an der Cote d'Azur haben in der bisherigen Champions-League-Saison die wenigsten Tore aller Teams kassiert. Nur ein einziges Mal musste Torwart Subasic hinter sich greifen. Allerdings erzielte das von dem Portugiesen Leonardo Jardim trainierte Monaco mit vier eigenen Treffern auch die wenigsten aller Achtelfinalisten.
-" headline="Monegassische Defensivspezialisten" playername="" id="10733691" date="2015-02-25T19:39:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="15" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Monegassische Defensivspezialisten" playername="" id="10733691" date="2015-02-25T19:39:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="16" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1329000" team-id="0" game-id="440540" text="Von der britischen Presse wurde &#214;zil als &quot;Hirn&quot; des Teams von Arsene Wenger bezeichnet. Der Linksfu&#223; blickt jedenfalls positiv auf die anstehende Aufgabe: &quot;Wenn wir das best&#228;tigen, was wir in den vergangenen Wochen gezeigt haben, bin ich sehr zuversichtlich, dass wir uns eine gute Ausgangslage f&#252;r das R&#252;ckspiel schaffen k&#246;nnen.&quot;
-" headline="Das &quot;Hirn&quot; ist optimistisch" playername="" id="10733681" date="2015-02-25T19:34:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="16" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Das &quot;Hirn&quot; ist optimistisch" playername="" id="10733681" date="2015-02-25T19:34:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="17" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1329002" team-id="0" game-id="440532" text="&quot;Wir sind sehr gut drauf und die Mannschaft ist nahezu enthusiastisch&quot;, sagt Trainer Diego Simeone. Das letzte Ligaspiel gewann der Tabellendritte der Primera Division gegen UD Almeria souver&#228;n mit 3:0. Nach der F&#252;hrung durch Ex-Bayern-St&#252;rmer Mario Mandzukic sorgte Antoine Griezmann mit einem Doppelpack f&#252;r den Endstand.
-" headline="Atletico mit R&#252;ckenwind" playername="" id="10733671" date="2015-02-25T19:34:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="23" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Atletico mit R&#252;ckenwind" playername="" id="10733671" date="2015-02-25T19:34:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="24" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328999" team-id="0" game-id="440532" text="Atletico hat in den letzten Jahren die Phalanx der zwei Schwergewichte Barca und Real in der Primera Division durchbrochen. Mit dem ersten Titel seit 1996 setzte das Team von Diego Simeone in der vergangenen Saison ein Zeichen.
-" headline="Atletico durchbricht Dominanz der Schwergewichte" playername="" id="10733661" date="2015-02-25T19:33:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="24" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Atletico durchbricht Dominanz der Schwergewichte" playername="" id="10733661" date="2015-02-25T19:33:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="25" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328993" team-id="0" game-id="440540" text="Arsenals Hoffnungen ruhen vor allem auf R&#252;ckkehrer Mesut &#214;zil. Der deutsche Nationalspieler pr&#228;sentiert sich seit seinem Comeback nach einer Knieverletzung in blendender Form und hatte an den letzten Siegen der Gunners einen entscheidenden Anteil.
-" headline="&#214;zil in Topform" playername="" id="10733651" date="2015-02-25T19:30:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="17" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="&#214;zil in Topform" playername="" id="10733651" date="2015-02-25T19:30:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="18" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328994" team-id="0" game-id="440532" text="Leverkusen hat inklusive Playoffs in den vier Heimspielen im laufenden Wettbewerb drei Siege gefeiert und nur eine Niederlage kassiert. Die Heimbilanz gegen spanische Teams ist mit sechs Siegen, drei Remis und f&#252;nf Niederlagen hingegen eher durchwachsen.
-" headline="Bayer in dieser Saison zuhause stark" playername="" id="10733641" date="2015-02-25T19:30:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="25" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Bayer in dieser Saison zuhause stark" playername="" id="10733641" date="2015-02-25T19:30:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="26" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328984" team-id="0" game-id="440540" text="Neben Mesut &#214;zil und Per Mertesacker in den Reihen von Arsenal gibt es noch weitere deutsche Beteiligte: Das Schiedsrichtergespann um den ersten Referee Deniz Aytekin pfeift normalerweise in der Bundesliga.
-" headline="Deutsche Beteiligung" playername="" id="10733631" date="2015-02-25T19:22:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="18" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Deutsche Beteiligung" playername="" id="10733631" date="2015-02-25T19:22:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="19" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328979" team-id="0" game-id="440532" text="Trotz der j&#252;ngsten R&#252;ckschl&#228;ge in der Liga und nur einem Sieg in den letzten sechs Spielen, ist Gonzalo Castro vor dem Duell mit dem Vorjahresfinalisten optimistisch. &quot;Wir haben sicherlich ein paar Mittel, um sie in Schwierigkeiten zu bringen. Wir haben das Format, Atletico auszuhebeln&quot;, sagte Castro bei SPORT1.
-" headline="Castro glaubt an einen Erfolg" playername="" id="10733621" date="2015-02-25T19:18:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="26" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Castro glaubt an einen Erfolg" playername="" id="10733621" date="2015-02-25T19:18:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:32Z" sort="27" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328968" team-id="0" game-id="440532" text="&quot;Wir sind zwar Au&#223;enseiter, aber nicht chancenlos. Wir m&#252;ssen die Chance, die wir haben, so gro&#223; wie m&#246;glich machen durch ein perfektes Spiel&quot;, sagte Leverkusens Trainer Roger Schmidt vor der Partie.
-" headline="Schmidt hofft auf &quot;perfektes Spiel&quot;" playername="" id="10733571" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="27" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Schmidt hofft auf &quot;perfektes Spiel&quot;" playername="" id="10733571" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="28" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328955" team-id="0" game-id="440532" text="Atleticos Trainer Diego Simeone schickt die gleiche Startformation ins Rennen, die am Wochenende die Generalprobe gegen UD Almeria mit 3:0 gewann.
-" headline="Simeone vertraut Erfolgself" playername="" id="10733581" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="28" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Simeone vertraut Erfolgself" playername="" id="10733581" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="29" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328972" team-id="0" game-id="440540" text="Arsenal gegen Monaco ist nicht das einzige englisch-franz&#246;sische Duell in der Runde der besten 16. Das Hinspiel zwischen Paris St. Germain und dem FC Chelsea endete 1:1. Mal sehen, ob das heutige Kr&#228;ftemessen zwischen den Vertretern der Ligue 1 und der Premier League einen Sieger findet.
-" headline="Zwei Duelle England vs. Frankreich" playername="" id="10733591" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="19" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Zwei Duelle England vs. Frankreich" playername="" id="10733591" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="20" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328959" team-id="0" game-id="440540" text="Subasic - Elderson, Wallace, Abdennour, Echiejile - Fabinho, Moutinho, Kondogbia - Dirar, Martial - Berbatov
-" headline="Aufstellung AS Monaco:" playername="" id="10733601" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="20" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung AS Monaco:" playername="" id="10733601" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="21" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328956" team-id="0" game-id="440540" text="Ospina - Bellerin, Mertesacker, Koscielny, Gibbs - Coquelin, Cazorla - Sanchez, &#214;zil, Welbeck - Giroud
-" headline="Aufstellung FC Arsenal:" playername="" id="10733611" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="21" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung FC Arsenal:" playername="" id="10733611" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="22" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328949" team-id="0" game-id="440532" text="Wie schon in den vergangenen beiden Bundesliga-Spielen erh&#228;lt Josip Drmic den Vorzug vor Stefan Kie&#223;ling. Wegen einer Erk&#228;ltung ist der St&#252;rmer noch nicht hundertprozentig fit. Lars Bender, der gegen Augsburg noch wegen einer Meniskusquetschung aussetzen musste, kehrt hingegen in die Startelf zur&#252;ck.
-" headline="Kie&#223;ling nur auf der Bank, Bender kehrt zur&#252;ck" playername="" id="10733531" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="29" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Kie&#223;ling nur auf der Bank, Bender kehrt zur&#252;ck" playername="" id="10733531" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="30" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328943" team-id="0" game-id="440532" text="Moya - Juanfran, Miranda, Godin, Siqueira - Arda Turan, Tiago, Gabi, Saul Niguez - Griezmann, Mandzukic
-" headline="Aufstellung Madrid" playername="" id="10733541" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="30" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung Madrid" playername="" id="10733541" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="31" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328941" team-id="0" game-id="440532" text="Leno - Hilbert, Spahic, Papadopoulos, Wendell - Castro, Bender - Bellarabi, Calhanoglu, Son - Drmic
-" headline="Aufstellung Leverkusen" playername="" id="10733551" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="31" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung Leverkusen" playername="" id="10733551" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="32" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328947" team-id="0" game-id="440540" text="Der AS Monaco lie&#223; in Gruppe C als Erster Bayer Leverkusen, Zenit St. Petersburg und Benfica Lissabon hinter sich. Die Gastgeber mussten sich in Gruppe D mit Platz zwei hinter Borussia Dortmund zufrieden geben. Anderlecht und Galatasaray verpassten den Sprung ins Achtelfinale.
-" headline="Bisherige Wege der Teams" playername="" id="10733561" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="22" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Bisherige Wege der Teams" playername="" id="10733561" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="23" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328877" team-id="0" game-id="440540" text="Der Arsenal-Trainer trifft auf seinen Ex-Klub. Wenger coachte den AS Monaco zwischen 1987 und 1994. Mit der Mannschaft aus dem F&#252;rstentum gewann er eine Meisterschaft und einen Pokal.
-" headline="Wenger gegen die alte Liebe" playername="" id="10733521" date="2015-02-25T15:53:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="23" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Wenger gegen die alte Liebe" playername="" id="10733521" date="2015-02-25T15:53:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="24" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328876" team-id="0" game-id="440532" text="In der Vorsaison hat Bayer jeweils beide Spiele gegen Paris St. Germain und Manchester United verloren. Nun soll es f&#252;r Leverkusen mal mit einem Erfolgserlebnis gegen eine gro&#223;e Mannschaft klappen.
-" headline="Probleme mit gro&#223;en Teams" playername="" id="10733511" date="2015-02-25T15:19:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="32" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Probleme mit gro&#223;en Teams" playername="" id="10733511" date="2015-02-25T15:19:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="33" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440540_1328872" team-id="0" game-id="440540" text="... zur Partie des FC Arsenal gegen den AS Monaco.
-" headline="Herzlich willkommen ..." playername="" id="10733501" date="2015-02-25T08:14:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="24" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Herzlich willkommen ..." playername="" id="10733501" date="2015-02-25T08:14:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="25" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440532_1328871" team-id="0" game-id="440532" text="Bayer Leverkusen ist im Achtelfinale der Champions League gefordert. Im Hinspiel ist Atletico Madrid zu Gast, wir sind ab 20.15 Uhr live f&#252;r Sie dabei.
-" headline="Herzlich willkommen" playername="" id="10733491" date="2015-02-25T08:14:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:15:53Z" sort="33" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Herzlich willkommen" playername="" id="10733491" date="2015-02-25T08:14:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T20:17:33Z" sort="34" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
 </events>
 
