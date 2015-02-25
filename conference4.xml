@@ -1,36 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
        <games type="array">
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="162" guest-long-name="Atl&#233;tico Madrid" gamestate="0" home-short-name="Leverkusen" team1-color="plain;16711680;16711680;0;0" penalty-score-home="0" eventcount="2" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440532" date="2015-02-25T20:45:00Z" home-long-name="Bayer Leverkusen" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Atl&#233;tico" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159318" overtime-score-home="0" home-team-id="205" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="162" guest-long-name="Atl&#233;tico Madrid" gamestate="0" home-short-name="Leverkusen" team1-color="plain;16711680;16711680;0;0" penalty-score-home="0" eventcount="7" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440532" date="2015-02-25T20:45:00Z" home-long-name="Bayer Leverkusen" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Atl&#233;tico" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159318" overtime-score-home="0" home-team-id="205" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="136" guest-long-name="AS Monaco" gamestate="0" home-short-name="Arsenal" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="2" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440540" date="2015-02-25T20:45:00Z" home-long-name="Arsenal FC" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="AS Monaco" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159322" overtime-score-home="0" home-team-id="127" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="136" guest-long-name="AS Monaco" gamestate="0" home-short-name="Arsenal" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="6" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440540" date="2015-02-25T20:45:00Z" home-long-name="Arsenal FC" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="AS Monaco" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159322" overtime-score-home="0" home-team-id="127" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
       </tab>
     </tabs>
   </game>
 </games>
 
        <events type="array">
+  <event section="0" label="4_55691_440532_1328968" team-id="0" game-id="440532" text="&quot;Wir sind zwar Au&#223;enseiter, aber nicht chancenlos. Wir m&#252;ssen die Chance, die wir haben, so gro&#223; wie m&#246;glich machen durch ein perfektes Spiel&quot;, sagte Leverkusens Trainer Roger Schmidt vor der Partie.
+" headline="Schmidt hofft auf &quot;perfektes Spiel&quot;" playername="" id="10733571" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440532_1328955" team-id="0" game-id="440532" text="Atleticos Trainer Diego Simeone schickt die gleiche Startformation ins Rennen, die am Wochenende die Generalprobe gegen UD Almeria mit 3:0 gewann.
+" headline="Simeone vertraut Erfolgself" playername="" id="10733581" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440540_1328972" team-id="0" game-id="440540" text="Arsenal gegen Monaco ist nicht das einzige englisch-franz&#246;sische Duell in der Runde der besten 16. Das Hinspiel zwischen Paris St. Germain und dem FC Chelsea endete 1:1. Mal sehen, ob das heutige Kr&#228;ftemessen zwischen den Vertretern der Ligue 1 und der Premier League einen Sieger findet.
+" headline="Zwei Duelle England vs. Frankreich" playername="" id="10733591" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440540_1328959" team-id="0" game-id="440540" text="Subasic - Almamy, Wallace, Abdennour, Echiejile - Fabinho, Moutinho, Kondogbia - Dirar, Martial - Berbatov
+" headline="Aufstellung AS Monaco:" playername="" id="10733601" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440540_1328956" team-id="0" game-id="440540" text="Ospina - Bellerin, Mertesacker, Koscielny, Gibbs - Coquelin, Cazorla - Sanchez, &#214;zil, Welbeck - Giroud
+" headline="Aufstellung FC Arsenal:" playername="" id="10733611" date="2015-02-25T19:14:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="2" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440532_1328949" team-id="0" game-id="440532" text="Wie schon in den vergangenen beiden Bundesliga-Spielen erh&#228;lt Josip Drmic den Vorzug vor Stefan Kie&#223;ling. Lars Bender, der gegen Augsburg noch wegen einer Meniskusquetschung aussetzen musste, kehrt hingegen in die Startelf zur&#252;ck.
+" headline="Kie&#223;ling nur auf der Bank, Bender kehrt zur&#252;ck" playername="" id="10733531" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="2" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440532_1328943" team-id="0" game-id="440532" text="Moya - Juanfran, Miranda, Godin, Siqueira - Arda Turan, Tiago, Gabi, Saul Niguez - Griezmann, Mandzukic
+" headline="Aufstellung Madrid" playername="" id="10733541" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="3" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440532_1328941" team-id="0" game-id="440532" text="Leno - Hilbert, Spahic, Papadopoulos, Wendell - Castro, Bender - Bellarabi, Calhanoglu, Son - Drmic
+" headline="Aufstellung Leverkusen" playername="" id="10733551" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="4" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440540_1328947" team-id="0" game-id="440540" text="Der AS Monaco lie&#223; in Gruppe C als Erster Bayer Leverkusen, Zenit St. Petersburg und Benfica Lissabon hinter sich. Die Gastgeber mussten sich in Gruppe D mit Platz zwei hinter Borussia Dortmund zufrieden geben. Anderlecht und Galatasaray verpassten den Sprung ins Achtelfinale.
+" headline="Bisherige Wege der Teams" playername="" id="10733561" date="2015-02-25T19:03:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="3" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
   <event section="0" label="4_55691_440540_1328877" team-id="0" game-id="440540" text="Der Arsenal-Trainer trifft auf seinen Ex-Klub. Wenger coachte den AS Monaco zwischen 1987 und 1994. Mit der Mannschaft aus dem F&#252;rstentum gewann er eine Meisterschaft und einen Pokal.
-" headline="Wenger gegen die alte Liebe" playername="" id="10733521" date="2015-02-25T15:53:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T15:53:43Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Wenger gegen die alte Liebe" playername="" id="10733521" date="2015-02-25T15:53:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="4" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="0" label="4_55691_440532_1328876" team-id="0" game-id="440532" text="In der Vorsaison hat Bayer jeweils beide Spiele gegen Paris St. Germain und Manchester United verloren. Nun soll es f&#252;r Leverkusen mal mit einem Erfolgserlebnis gegen eine gro&#223;e Mannschaft klappen.
-" headline="Probleme mit gro&#223;en Teams" playername="" id="10733511" date="2015-02-25T15:19:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T15:19:51Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Probleme mit gro&#223;en Teams" playername="" id="10733511" date="2015-02-25T15:19:51Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="5" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="0" label="4_55691_440540_1328872" team-id="0" game-id="440540" text="... zur Partie des FC Arsenal gegen den AS Monaco.
-" headline="Herzlich willkommen ..." playername="" id="10733501" date="2015-02-25T08:14:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T15:53:43Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Herzlich willkommen ..." playername="" id="10733501" date="2015-02-25T08:14:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="5" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="0" label="4_55691_440532_1328871" team-id="0" game-id="440532" text="Bayer Leverkusen ist im Achtelfinale der Champions League gefordert. Im Hinspiel ist Atletico Madrid zu Gast, wir sind ab 20.15 Uhr live f&#252;r Sie dabei.
-" headline="Herzlich willkommen" playername="" id="10733491" date="2015-02-25T08:14:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T15:19:51Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Herzlich willkommen" playername="" id="10733491" date="2015-02-25T08:14:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-02-25T19:14:32Z" sort="6" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
 </events>
 
