@@ -1,0 +1,113 @@
+{
+  "match": {
+    "id": "2322696",
+    "round_id": "48735",
+    "matchday": "1",
+    "group_matchday": "0",
+    "match_date": "24.02.2015",
+    "match_time": "20:45",
+    "finished": "yes",
+    "live_status": "full",
+    "current_period": "game-end",
+    "current_period_start": "2015-02-24 22:37:41",
+    "current_minute": "90",
+    "attendance": "45081",
+    "home": {
+      "id": "1267",
+      "name": "Manchester City"
+    },
+    "away": {
+      "id": "597",
+      "name": "FC Barcelona"
+    },
+    "match_result": [
+      {
+        "match_result": "1",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "2",
+        "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "2",
+        "match_result_at": "1",
+        "place": "away"
+      }
+    ],
+    "venue": {
+      "id": "358",
+      "name": "Etihad Stadium",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "358",
+        "capacity": "47805",
+        "built": "2003"
+      },
+      "town": {
+        "id": "920",
+        "name": "Manchester"
+      },
+      "country": {
+        "id": "55",
+        "name": "England",
+        "code": "ENG",
+        "iso": "GB"
+      }
+    },
+    "referee": {
+      "id": "41867",
+      "name": "Dr. Felix Brych",
+      "firstname": "Dr. Felix",
+      "surname": "Brych",
+      "fullname": "Dr. Felix Brych",
+      "gender": "male",
+      "birthday": "03.08.1975",
+      "height": "185",
+      "weight": "77",
+      "person_detail": {
+        "id": "2266",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}
