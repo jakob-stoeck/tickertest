@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
-       <nil-classes type="array">
-</nil-classes>
+       <games type="array">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="694" guest-long-name="FC Schalke 04" gamestate="0" home-short-name="Real Madrid" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="2" team2-color="plain;20647;20647;16777215;16777215" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440537" date="2015-03-10T20:45:00Z" home-long-name="Real Madrid" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Schalke" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159328" overtime-score-home="0" home-team-id="1545" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+    <tabs type="array">
+      <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
+      </tab>
+      <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
+      </tab>
+    </tabs>
+  </game>
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="598" guest-long-name="FC Basel" gamestate="0" home-short-name="FC Porto" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="1" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440543" date="2015-03-10T20:45:00Z" home-long-name="FC Porto" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="FC Basel" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159331" overtime-score-home="0" home-team-id="686" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
+    <tabs type="array">
+      <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
+      </tab>
+      <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
+      </tab>
+    </tabs>
+  </game>
+</games>
 
-       <nil-classes type="array">
-</nil-classes>
+       <events type="array">
+  <event section="0" label="4_55691_440537_1347808" team-id="0" game-id="440537" text="Und zwar immer wieder, wenn man einem bekannten Lied glauben darf. Schalke 04 hat heute eines der fu&#223;ballerischen Art n&#246;tig im Achtelfinal-R&#252;ckspiel der Champions League bei Real Madrid. Viel Vergn&#252;gen!
+
+&amp;nbsp;
+" headline="Wunder gibt es" playername="" id="10860231" date="2015-03-10T19:06:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T19:06:03Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+  <event section="0" label="4_55691_440537_1346997" team-id="0" game-id="440537" text="Der FC Schalke 04 tritt am Dienstag zum Achtelfinal-R&#252;ckspiel bei Real Madrid an. Wir berichten ab 20.15 Uhr im Liveticker. Bis dahin!
+" headline="Hallo und Herzlich Willkommen" playername="" id="10788011" date="2015-03-10T06:00:48Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T19:06:03Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
+  </event>
+</events>
 
        </conference>
        
