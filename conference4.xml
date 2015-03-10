@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
        <games type="array">
-  <game half1-score-home="2" winner="" half3-score-home="0" guest-team-id="694" guest-long-name="FC Schalke 04" gamestate="2" home-short-name="Real Madrid" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="52" team2-color="plain;20647;20647;16777215;16777215" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="2" guest-scorer-names="20;Fuchs|40;Huntelaar|57;San&#233;" id="440537" date="2015-03-10T20:45:00Z" home-long-name="Real Madrid" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="57" half4-score-guest="0" guest-short-name="Schalke" overtime-score-guest="0" half2-score-guest="1" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159328" overtime-score-home="0" home-team-id="1545" home-scorer-names="25;Cristiano Ronaldo|45;Cristiano Ronaldo|53;Benzema" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="1">
+  <game half1-score-home="2" winner="" half3-score-home="0" guest-team-id="694" guest-long-name="FC Schalke 04" gamestate="2" home-short-name="Real Madrid" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="55" team2-color="plain;20647;20647;16777215;16777215" referee-name="" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="2" guest-scorer-names="20;Fuchs|40;Huntelaar|57;San&#233;" id="440537" date="2015-03-10T20:45:00Z" home-long-name="Real Madrid" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="58" half4-score-guest="0" guest-short-name="Schalke" overtime-score-guest="0" half2-score-guest="1" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159328" overtime-score-home="0" home-team-id="1545" home-scorer-names="25;Cristiano Ronaldo|45;Cristiano Ronaldo|53;Benzema" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="1">
     <tabs type="array">
       <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
       </tab>
@@ -24,162 +24,162 @@
 </games>
 
        <events type="array">
-  <event section="2" label="4_55691_440537_1348183" team-id="0" game-id="440537" text="
-" headline="Tooor f&#252;r  FC Schalke 04, 3:3 durch Leroy San&#233;" playername="San&#233;" id="10861741" date="2015-03-10T20:59:42Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-10T20:59:42Z" sort="0" game-minute="57" player-id="0" gameday-id="55691">
+  <event section="2" label="4_55691_440537_1348183" team-id="0" game-id="440537" text="Fuchs steckt f&#252;r den 19 Jahre alten Deb&#252;tanten durch, der wird von Coentrao nicht ernsthaft bedr&#228;ngt und macht das richtig cool. Sch&#246;ner Heber von halbrechts aus 18 Metern. Geht hier noch was?
+" headline="Tooor f&#252;r FC Schalke 04, 3:3 durch Leroy San&#233;" playername="San&#233;" id="10861741" date="2015-03-10T20:59:42Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-10T21:01:32Z" sort="3" game-minute="57" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1348179" team-id="0" game-id="440537" text="Der einst bei Bayern gehandelte Au&#223;enverteidiger unterbindet unfair einen m&#246;glichen Schalker Konter durch Barnetta.
-" headline="Taktisches Foul" playername="" id="10861721" date="2015-03-10T20:57:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="1" game-minute="56" player-id="0" gameday-id="55691">
+" headline="Taktisches Foul" playername="" id="10861721" date="2015-03-10T20:57:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="4" game-minute="56" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1348173" team-id="0" game-id="440537" text="
-" headline="Gelbe Karte f&#252;r  F&#225;bio Coentr&#227;o (Real Madrid)" playername="" id="10861731" date="2015-03-10T20:57:52Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="2" game-minute="55" player-id="0" gameday-id="55691">
+" headline="Gelbe Karte f&#252;r  F&#225;bio Coentr&#227;o (Real Madrid)" playername="" id="10861731" date="2015-03-10T20:57:52Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="5" game-minute="55" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1348163" team-id="0" game-id="440537" text="Von Coentrao aus abseitsverd&#228;chtiger Position verdient, macht Benzema das unwiderstehlich. Zieht locker an Nastasic vorbei und l&#228;sst dann auch Fuchs und Wellenreuther ins Leere rutschen und springen. Wunder-Wahrscheinlichkeit sinkt.
-" headline="Tooor f&#252;r Real Madrid, 3:2 durch Karim Benzema" playername="Benzema" id="10861681" date="2015-03-10T20:56:12Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-10T20:59:42Z" sort="3" game-minute="53" player-id="0" gameday-id="55691">
+" headline="Tooor f&#252;r Real Madrid, 3:2 durch Karim Benzema" playername="Benzema" id="10861681" date="2015-03-10T20:56:12Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-10T21:01:32Z" sort="6" game-minute="53" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1348166" team-id="0" game-id="440537" text="Nastasic dr&#252;ckt Bale beim Zweikampf weg. Auch wenn der sich sehr bereitwillig fallen l&#228;sst: Freisto&#223; Real.
-" headline="Weggedr&#252;ckt" playername="" id="10861691" date="2015-03-10T20:56:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="4" game-minute="51" player-id="0" gameday-id="55691">
+" headline="Weggedr&#252;ckt" playername="" id="10861691" date="2015-03-10T20:56:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="7" game-minute="51" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1348151" team-id="0" game-id="440537" text="Der erste Abschluss geh&#246;rt Barnetta, der sich vom rechten Strafraumeck probiert. Casillas l&#228;sst den wuchtigen, aber unplatzierten Spannschuss fallen, hat ihn aber im Nachfassen sicher.
-" headline="Schalke st&#252;rmt weiter" playername="" id="10861651" date="2015-03-10T20:52:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="5" game-minute="47" player-id="0" gameday-id="55691">
+" headline="Schalke st&#252;rmt weiter" playername="" id="10861651" date="2015-03-10T20:52:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="8" game-minute="47" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1348150" team-id="0" game-id="440537" text="Der Portugiese nun mit 75 Champions-League-Toren gleichauf vorn in der Bestenliste mit dem gro&#223;en Rivalen Lionel Messi.
-" headline="Ronaldo stellt ewigen Rekord ein" playername="" id="10861661" date="2015-03-10T20:52:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="6" game-minute="46" player-id="0" gameday-id="55691">
+" headline="Ronaldo stellt ewigen Rekord ein" playername="" id="10861661" date="2015-03-10T20:52:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="9" game-minute="46" player-id="0" gameday-id="55691">
   </event>
-  <event section="2" label="4_55691_440537_1348143" team-id="0" game-id="440537" text="Anpfiff 2. Halbzeit" headline="Anpfiff 2. Halbzeit" playername="" id="10861641" date="2015-03-10T20:48:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="7" game-minute="46" player-id="0" gameday-id="55691">
+  <event section="2" label="4_55691_440537_1348143" team-id="0" game-id="440537" text="Anpfiff 2. Halbzeit" headline="Anpfiff 2. Halbzeit" playername="" id="10861641" date="2015-03-10T20:48:42Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="10" game-minute="46" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348123" team-id="0" game-id="440537" text="Halbzeit-Fazit:
 
 Ein schneller, unterhaltsamer Schlagabtausch, bei dem Schalke fernab jeder Maurerei&amp;nbsp; offensiv mitmischt. Der Mut, den sie dabei zeigen, wird mit zwei Toren belohnt, der Leichtsinn mit zwei Gegentoren bestraft. Bitter.
-" headline="Ende 1. Halbzeit" playername="" id="10861571" date="2015-03-10T20:33:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="8" game-minute="45" player-id="0" gameday-id="55691">
+" headline="Ende 1. Halbzeit" playername="" id="10861571" date="2015-03-10T20:33:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="11" game-minute="45" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348119" team-id="0" game-id="440537" text="Und da ist es wieder passiert: Barnetta links nicht nah genug dran an Coentrao, der von Isco bedient flankt. Ronaldo entwischt seinem Bewacher Matip und k&#246;pft zum dritten Mal hintereinander ein. Diesmal kurz ins rechte Eck.
-" headline="Tooor f&#252;r Real Madrid, 2:2 durch Cristiano Ronaldo" playername="Cristiano Ronaldo" id="10861581" date="2015-03-10T20:33:12Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-10T20:59:42Z" sort="9" game-minute="45" player-id="0" gameday-id="55691">
+" headline="Tooor f&#252;r Real Madrid, 2:2 durch Cristiano Ronaldo" playername="Cristiano Ronaldo" id="10861581" date="2015-03-10T20:33:12Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-10T21:01:32Z" sort="12" game-minute="45" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348111" team-id="0" game-id="440537" text="Benzema mit einem gef&#228;hrlichen Solo, tankt sich in den Strafraum, wo ihm schlie&#223;lich Matip in h&#246;chster Not den Ball wegspitzelt.
-" headline="Real st&#252;rmt zur&#252;ck" playername="" id="10861551" date="2015-03-10T20:31:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="10" game-minute="44" player-id="0" gameday-id="55691">
+" headline="Real st&#252;rmt zur&#252;ck" playername="" id="10861551" date="2015-03-10T20:31:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="13" game-minute="44" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348106" team-id="0" game-id="440537" text="Ecke Barnetta kommt gef&#228;hrlich rein, H&#246;wedes verpasst die Kopfballchance.
-" headline="Wieder brennt's" playername="" id="10861521" date="2015-03-10T20:29:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="11" game-minute="43" player-id="0" gameday-id="55691">
+" headline="Wieder brennt's" playername="" id="10861521" date="2015-03-10T20:29:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="14" game-minute="43" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348097" team-id="0" game-id="440537" text="Ein Schalker Sturmlauf wird belohnt. Erst kullert Real der Ball nach einem Fehler Varanes fast selbst ins Netz, dann trifft Huntelaar den Pfosten &#8211; eine Minute sp&#228;ter staubt er ab, als Casillas einen Schuss von Fuchs abprallen l&#228;sst.
-" headline="Tooor f&#252;r FC Schalke 04, 1:2 durch Klaas Jan Huntelaar" playername="Huntelaar" id="10861501" date="2015-03-10T20:26:02Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-10T20:59:42Z" sort="12" game-minute="40" player-id="0" gameday-id="55691">
+" headline="Tooor f&#252;r FC Schalke 04, 1:2 durch Klaas Jan Huntelaar" playername="Huntelaar" id="10861501" date="2015-03-10T20:26:02Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-10T21:01:32Z" sort="15" game-minute="40" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348080" team-id="0" game-id="440537" text="Benzema, Isco, Ronaldo - der Weltfu&#223;baller aber tut seltenes. Er verstolpert den Ball.
-" headline="Schnelle Stafette" playername="" id="10861481" date="2015-03-10T20:23:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="13" game-minute="36" player-id="0" gameday-id="55691">
+" headline="Schnelle Stafette" playername="" id="10861481" date="2015-03-10T20:23:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="16" game-minute="36" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348075" team-id="0" game-id="440537" text="Der Schalker h&#228;lt hinten links den Fu&#223; dazwischen, als Ronaldo nach einem Fehlpass von Meyer zum Schlenzer ansetzt.
-" headline="Szenenapplaus f&#252;r Fuchs" playername="" id="10861451" date="2015-03-10T20:21:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="14" game-minute="34" player-id="0" gameday-id="55691">
+" headline="Szenenapplaus f&#252;r Fuchs" playername="" id="10861451" date="2015-03-10T20:21:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="17" game-minute="34" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348070" team-id="0" game-id="440537" text="Madrids Ausgleich hat die Partie etwas Zug gekostet, in den letzten Minuten spielt sich das Meiste im Mittelfeld ab.
-" headline="Etwas beruhigt" playername="" id="10861431" date="2015-03-10T20:20:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="15" game-minute="33" player-id="0" gameday-id="55691">
+" headline="Etwas beruhigt" playername="" id="10861431" date="2015-03-10T20:20:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="18" game-minute="33" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348066" team-id="0" game-id="440537" text="F&#252;r den zuvor bei einem Foul getroffenen Choupo-Moting geht es nicht mehr weiter. Sane ersetzt ihn in Sturm.
-" headline="Unfreiwilliger Wechsel" playername="" id="10861411" date="2015-03-10T20:18:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="17" game-minute="30" player-id="0" gameday-id="55691">
+" headline="Unfreiwilliger Wechsel" playername="" id="10861411" date="2015-03-10T20:18:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="20" game-minute="30" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348063" team-id="0" game-id="440537" text="
-" headline="Gelbe Karte f&#252;r  Cristiano Ronaldo (Real Madrid)" playername="" id="10861401" date="2015-03-10T20:17:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="16" game-minute="31" player-id="0" gameday-id="55691">
+" headline="Gelbe Karte f&#252;r  Cristiano Ronaldo (Real Madrid)" playername="" id="10861401" date="2015-03-10T20:17:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="19" game-minute="31" player-id="0" gameday-id="55691">
   </event>
-  <event section="1" label="4_55691_440537_1348048" team-id="0" game-id="440537" text=" Leroy San&#233; f&#252;r Eric Maxim Choupo-Moting" headline="Wechsel bei FC Schalke 04 " playername="" id="10861351" date="2015-03-10T20:15:22Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="18" game-minute="29" player-id="0" gameday-id="55691">
+  <event section="1" label="4_55691_440537_1348048" team-id="0" game-id="440537" text=" Leroy San&#233; f&#252;r Eric Maxim Choupo-Moting" headline="Wechsel bei FC Schalke 04 " playername="" id="10861351" date="2015-03-10T20:15:22Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="21" game-minute="29" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348042" team-id="0" game-id="440537" text="Schalke wirkt desorientiert in der Phase nach dem Gegentor, l&#228;sst Real kurz danach wieder Platz. Hat Gl&#252;ck, dass Bale rechts lange z&#246;gert und in Wellenreuthers Arme lupft.
-" headline="Geschockt" playername="" id="10861361" date="2015-03-10T20:15:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="19" game-minute="28" player-id="0" gameday-id="55691">
+" headline="Geschockt" playername="" id="10861361" date="2015-03-10T20:15:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="22" game-minute="28" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348030" team-id="0" game-id="440537" text="Quasi nichts war bisher von ihm zu sehen, aber so kann es gehen: Ecke Kroos, Kopfball - und da ist das Ding links drin.
-" headline="Tooor f&#252;r Real Madrid, 1:1 durch Cristiano Ronaldo" playername="Cristiano Ronaldo" id="10861311" date="2015-03-10T20:12:23Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-10T20:59:42Z" sort="20" game-minute="25" player-id="0" gameday-id="55691">
+" headline="Tooor f&#252;r Real Madrid, 1:1 durch Cristiano Ronaldo" playername="Cristiano Ronaldo" id="10861311" date="2015-03-10T20:12:23Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-10T21:01:32Z" sort="23" game-minute="25" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348024" team-id="0" game-id="440537" text="Das schwer Denkbare wird immer denkbarer. Real wirkt hier heute neben der Spur, Schalke umso fokussierter.
-" headline="Wunder?" playername="" id="10861291" date="2015-03-10T20:10:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="21" game-minute="23" player-id="0" gameday-id="55691">
+" headline="Wunder?" playername="" id="10861291" date="2015-03-10T20:10:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="24" game-minute="23" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348008" team-id="0" game-id="440537" text="Da ist es tats&#228;chlich passiert. Und es ist verdient. Real l&#228;sst die G&#228;ste einmal mehr str&#228;flich allein. Fuchs bedankt sich, Casillas kann seinen Schuss nur ins Netz abf&#228;lschen. Gegenspieler Arbeloa? Nicht zu sehen.
-" headline="Tooor f&#252;r FC Schalke 04, 0:1 durch Christian Fuchs" playername="Fuchs" id="10861251" date="2015-03-10T20:07:44Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-10T20:59:42Z" sort="22" game-minute="20" player-id="0" gameday-id="55691">
+" headline="Tooor f&#252;r FC Schalke 04, 0:1 durch Christian Fuchs" playername="Fuchs" id="10861251" date="2015-03-10T20:07:44Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-10T21:01:32Z" sort="25" game-minute="20" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1348000" team-id="0" game-id="440537" text="Meyer startet von der Mittellinie in Richtung Sechzehner durch, nach Fehler von Varane. Sein Abschluss aus vollem Lauf kullert aus 18 Metern klar rechts am Kasten von Casillas vorbei.
-" headline="N&#228;chster Schalker Angriff" playername="" id="10861231" date="2015-03-10T20:06:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:42Z" sort="23" game-minute="18" player-id="0" gameday-id="55691">
+" headline="N&#228;chster Schalker Angriff" playername="" id="10861231" date="2015-03-10T20:06:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="26" game-minute="18" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347995" team-id="0" game-id="440537" text="Die Heimfans merken, dass die Madrilenen nicht ganz bei der Sache sind und bekunden erstmals leicht ihren Unmut dar&#252;ber.
-" headline="Bei Reals Anhang rumort es" playername="" id="10861221" date="2015-03-10T20:05:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="24" game-minute="16" player-id="0" gameday-id="55691">
+" headline="Bei Reals Anhang rumort es" playername="" id="10861221" date="2015-03-10T20:05:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="27" game-minute="16" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347987" team-id="0" game-id="440537" text="Huntelaar und Choupo-Moting versuchen sich im Strafraum an der Madrider Abwehr vorbeizukombinieren. Klappt nicht, aber Schalke macht hier jetzt wirklich Dampf.
-" headline="Weiter, immer weiter" playername="" id="10861191" date="2015-03-10T20:01:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="25" game-minute="15" player-id="0" gameday-id="55691">
+" headline="Weiter, immer weiter" playername="" id="10861191" date="2015-03-10T20:01:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="28" game-minute="15" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347980" team-id="0" game-id="440537" text="Nochmal kommt Schalke gef&#228;hrlich nach vorn, spielt Reals Abwehr gekonnt aus. H&#246;ger scheitert an Casillas, aber ohnehin wegen Abseits abgepfiffen.
-" headline="&#220;berzahl-Situation" playername="" id="10861171" date="2015-03-10T20:00:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="26" game-minute="13" player-id="0" gameday-id="55691">
+" headline="&#220;berzahl-Situation" playername="" id="10861171" date="2015-03-10T20:00:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="29" game-minute="13" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347967" team-id="0" game-id="440537" text="Ordentliche Gelegenheit jetzt. Meyer hat auf links Platz und chippt auf Choupo-Moting, der es aus 16 Metern auch auf die Schlenzer-Tour versucht. Ziel aber verfehlt.
-" headline="Jetzt Schalke" playername="" id="10861131" date="2015-03-10T19:57:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="27" game-minute="11" player-id="0" gameday-id="55691">
+" headline="Jetzt Schalke" playername="" id="10861131" date="2015-03-10T19:57:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:32Z" sort="30" game-minute="11" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347964" team-id="0" game-id="440537" text="H&#246;wedes missgl&#252;ckt eine Kopfballkl&#228;rung, der Ball landet bei Khedira, ab da wird's gef&#228;hrlich. Barnetta kl&#228;rt die brenzlige Situation.
-" headline="In h&#246;chster Not" playername="" id="10861141" date="2015-03-10T19:57:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="28" game-minute="9" player-id="0" gameday-id="55691">
+" headline="In h&#246;chster Not" playername="" id="10861141" date="2015-03-10T19:57:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="31" game-minute="9" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347948" team-id="0" game-id="440537" text="Matip kl&#228;rt zur Ecke, als Benzema in den Strafraum dringt. Kroos tritt den ruhenden Ball, Wellenreuther greift aber sicher zu.
-" headline="Wellenreuther zur Stelle" playername="" id="10861061" date="2015-03-10T19:54:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="30" game-minute="6" player-id="0" gameday-id="55691">
+" headline="Wellenreuther zur Stelle" playername="" id="10861061" date="2015-03-10T19:54:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="33" game-minute="6" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347954" team-id="0" game-id="440537" text="Isco versucht auf links in den Strafraum durchzubrechen, aber vier Schalker vereinigen sich, kein Durchkommen.
-" headline="Isco blockiert" playername="" id="10861051" date="2015-03-10T19:54:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="29" game-minute="8" player-id="0" gameday-id="55691">
+" headline="Isco blockiert" playername="" id="10861051" date="2015-03-10T19:54:31Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="32" game-minute="8" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347940" team-id="0" game-id="440537" text="Di Matteos Team such in den ersten Minuten hier durchaus den Weg nach vorn. Eine reine Betontaktik ist das offenbar nicht.
-" headline="Schalker Offensivlust" playername="" id="10861031" date="2015-03-10T19:52:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="31" game-minute="5" player-id="0" gameday-id="55691">
+" headline="Schalker Offensivlust" playername="" id="10861031" date="2015-03-10T19:52:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="34" game-minute="5" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347937" team-id="0" game-id="440537" text="H&#246;ger gewinnt auf der halbrechten Seite im Mittelfeld das Spielger&#228;t und treibt es dann mit ordentlichem Tempo nach vorne. Seine geplante Flanke auf Huntelaar, der auf der linken Strafraumseite ziemlich alleine gelassen wird, verungl&#252;ckt aber und landet in den H&#228;nden von Casillas.
-" headline="Gute Chance!" playername="" id="10860991" date="2015-03-10T19:50:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="32" game-minute="3" player-id="0" gameday-id="55691">
+" headline="Gute Chance!" playername="" id="10860991" date="2015-03-10T19:50:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="35" game-minute="3" player-id="0" gameday-id="55691">
   </event>
   <event section="1" label="4_55691_440537_1347928" team-id="0" game-id="440537" text="Die drei Offensivstars gehen bei Schalker Spielbesitz weit in die gegnerische H&#228;lfte. Nach Abwarten sieht das nicht aus.
-" headline="Real steht hoch" playername="" id="10860971" date="2015-03-10T19:48:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="33" game-minute="2" player-id="0" gameday-id="55691">
+" headline="Real steht hoch" playername="" id="10860971" date="2015-03-10T19:48:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="36" game-minute="2" player-id="0" gameday-id="55691">
   </event>
-  <event section="1" label="4_55691_440537_1347915" team-id="0" game-id="440537" text="Spielbeginn" headline="Spielbeginn" playername="" id="10860921" date="2015-03-10T19:45:50Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="34" game-minute="1" player-id="0" gameday-id="55691">
+  <event section="1" label="4_55691_440537_1347915" team-id="0" game-id="440537" text="Spielbeginn" headline="Spielbeginn" playername="" id="10860921" date="2015-03-10T19:45:50Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="37" game-minute="1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347910" team-id="0" game-id="440537" text="Gleich geht's los.
-" headline="Die Hymne l&#228;uft" playername="" id="10860871" date="2015-03-10T19:45:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="35" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Die Hymne l&#228;uft" playername="" id="10860871" date="2015-03-10T19:45:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="38" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347906" team-id="0" game-id="440537" text="Bei SPORT1 werden Sie wie gehabt nicht nur im Ticker &#252;ber das Spiel informiert. Im Sportradio SPORT1.fm k&#246;nnen Sie die Partie live miterleben, auch im TV auf SPORT1 gibt es im Bitburger Fantalk alle Infos. Mit Mario Basler und Matze Knop als G&#228;sten wird auch f&#252;r Unterhaltungswert gesorgt sein.
-" headline="Alle Infos auf allen Kan&#228;len" playername="" id="10860881" date="2015-03-10T19:45:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="36" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Alle Infos auf allen Kan&#228;len" playername="" id="10860881" date="2015-03-10T19:45:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="39" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347899" team-id="0" game-id="440537" text="Schiedsrichter des Spiels ist Damir Skomina, Tourismusmanager und Immobilienmakler aus Slowenien. Schalke kennt ihn schon, 2011 pfiff er das Viertelfinal-R&#252;ckspiel gegen Inter Mailand, das nach dem 5:2-Ausw&#228;rtssieg. S04 kam damals weiter.
-" headline="Ein alter Bekannter als Schiri" playername="" id="10860841" date="2015-03-10T19:42:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="37" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Ein alter Bekannter als Schiri" playername="" id="10860841" date="2015-03-10T19:42:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="40" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347898" team-id="0" game-id="440537" text="Di Matteo umrei&#223;t es bei Sky so: &quot;Aggressiv gegen den Ball gehen, wir d&#252;rfen den Dreien da vorn keinen Raum lassen, Real ist ja auch konterstark. Und wenn wir den Ball haben, m&#252;ssen wir nach vorn gehen.&quot;
-" headline="Das Rezept?" playername="" id="10860831" date="2015-03-10T19:39:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="38" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Das Rezept?" playername="" id="10860831" date="2015-03-10T19:39:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="41" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347888" team-id="0" game-id="440537" text="Pikant &#252;brigens, dass Khedira gegen Schalke spielt - er ist dort schlie&#223;lich im Gespr&#228;ch. Heldt bei Sky hierzu: &quot;Nat&#252;rlich w&#252;rden wir ihn nehmen.&quot; Das nachgeschobene Aber: &quot;Wir m&#252;ssen die Kirche im Dorf lassen. Ich glaube, es gibt viele Vereine, die sich vorstellen k&#246;nnen, mit ihm zusammenarbeiten.&quot;
-" headline="Heldt: W&#252;rden Khedira nehmen" playername="" id="10860801" date="2015-03-10T19:35:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="40" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Heldt: W&#252;rden Khedira nehmen" playername="" id="10860801" date="2015-03-10T19:35:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="43" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347890" team-id="0" game-id="440537" text="Di Matteo steckt in einem taktischen Dilemma. Einerseits hat er angedeutet, dass er heute einmal mehr eher auf Defensive statt auf Offensive setzen will. Andererseits muss sein Team Tore schie&#223;en, m&#246;glichst schnell. &quot;Wenn wir das erste Tor schie&#223;en k&#246;nnen, wird es sehr interessant&quot;, wei&#223; der Coach.
-" headline="Di Matteos Dilemma" playername="" id="10860791" date="2015-03-10T19:35:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="39" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Di Matteos Dilemma" playername="" id="10860791" date="2015-03-10T19:35:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="42" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347883" team-id="0" game-id="440537" text="Generell erkennt Ancelotti an, dass es seinem Team zuletzt an Tempo und Schlagkraft gefehlt hat: &quot;Ich akzeptiere meine Verantwortung&quot;, sagte er, &quot;wir spielen derzeit schlecht, und das Titelrennen ist f&#252;r uns schwieriger geworden.&quot;
-" headline="Ancelotti erkennt Probleme an" playername="" id="10860731" date="2015-03-10T19:32:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="41" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Ancelotti erkennt Probleme an" playername="" id="10860731" date="2015-03-10T19:32:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="44" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347881" team-id="0" game-id="440537" text="Aufgrund der j&#252;ngsten Pleite ist in Spaniens Medien auch Weltmeister Toni Kroos in den Fokus der Kritik ger&#252;ckt. Eine Reihe von Fehlp&#228;ssen gegen Bilbao n&#228;hrte die These, dass Kroos mit dem Rhythmus ohne Winterpause nicht klarkomme und &#252;berspielt sein. Unsinn, entgegnete Trainer Carlo Ancelotti: &quot;Eine Pause ist nicht notwendig.&quot;
-" headline="Kroos in der Kritik" playername="" id="10860741" date="2015-03-10T19:32:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="42" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Kroos in der Kritik" playername="" id="10860741" date="2015-03-10T19:32:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="45" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347868" team-id="0" game-id="440537" text="Bei den Generalproben f&#252;r das R&#252;ckspiel schnitt Schalke besser ab, gewann 3:1 gegen Hoffenheim, w&#228;hrend Real am Wochenende 0:1 bei Athletic Bilbao verlor und von der Tabellenspitze fiel. Nicht das erste Mal in diesem Jahr, dass der Champions-League-Titelverteidiger Verwundbarkeit offenbarte.
-" headline="Schalkes Generalprobe lief besser" playername="" id="10860561" date="2015-03-10T19:23:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="43" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Schalkes Generalprobe lief besser" playername="" id="10860561" date="2015-03-10T19:23:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="46" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347861" team-id="0" game-id="440537" text="Im Vorfeld des R&#252;ckspiels senden die Schalker unterschiedliche Signale. &quot;Es ist doch klar, dass wir versuchen wollen und m&#252;ssen, den R&#252;ckstand aus dem Hinspiel aufzuholen&quot;, sagt Manager Horst Heldt. Youngster Max Meyer d&#228;mpft dagegen die Erwartungen aufs Kleinstm&#246;gliche: &quot;Das k&#246;nnen wir nicht mehr packen, ein Weiterkommen ist sehr unrealistisch.&quot; Christian Fuchs hielt es &#228;hnlich.
-" headline="Zwischen Hoffen und... Nicht-Hoffen" playername="" id="10860551" date="2015-03-10T19:23:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="44" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Zwischen Hoffen und... Nicht-Hoffen" playername="" id="10860551" date="2015-03-10T19:23:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="47" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347849" team-id="0" game-id="440537" text="Das Hinspiel verlor Schalke mit 0:2. Nicht so schlimm wie im Jahr zuvor das 1:6, schwer zu drehen wird der R&#252;ckstand dennoch. Schon nach dem Hinspiel gab sich Schalkes Aufsichtsratschef Clemens T&#246;nnies allerdings trotzig: &quot;Wir fahren nicht mit vollen Hosen zu Real.&quot;
-" headline="&quot;Nicht mit vollen Hosen&quot;" playername="" id="10860441" date="2015-03-10T19:19:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="45" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="&quot;Nicht mit vollen Hosen&quot;" playername="" id="10860441" date="2015-03-10T19:19:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="48" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347838" team-id="0" game-id="440537" text="40 Wellenreuther - 4 H&#246;wedes, 32 Matip, 31 Nastasic - 27 Barnetta, 23 Fuchs - 33 Neust&#228;dter - 12 H&#246;ger, 7 Meyer - 13 Choupo-Moting, 25 Huntelaar
-" headline="Aufstellung Schalke" playername="" id="10860361" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="46" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung Schalke" playername="" id="10860361" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="49" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347837" team-id="0" game-id="440537" text="1 Casillas - 17 Arbeloa, 3 Pepe, 2 Varane, 5 Coentrao - 6 Khedira, 8 Kroos, 23 Isco - 11 Bale, 9 Benzema, 7 Ronaldo
-" headline="Aufstellung Real" playername="" id="10860371" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="47" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Aufstellung Real" playername="" id="10860371" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="50" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347829" team-id="0" game-id="440537" text="&#220;berraschend: Bei Real feiert Sami Khedira seinen ersten Startelf-Einsatz der K&#246;nigsklassen-Saison. Der Versuchung, Weltmeister-Kollege Toni Kroos oder einen der drei Offensiv-Stars Cristiano Ronaldo, Gareth Bale und Karim Benzema zu schonen, erliegt Trainer Carlo Ancelotti aber nicht.
-" headline="Premiere f&#252;r Khedira" playername="" id="10860381" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="48" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Premiere f&#252;r Khedira" playername="" id="10860381" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="51" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347826" team-id="0" game-id="440537" text="Schalke 04 vertraut gr&#246;&#223;tenteils auf die Siegerelf vom Spiel gegen Hoffenheim. Einziger Unterschied im Vergleich zum 3:1 gegen 1899 am Wochenende: Der zuletzt verletzte Verteidiger Joel Matip r&#252;ckt f&#252;r Kaan Ayhan wieder in die Anfangsformation.
-" headline="Matip und die Hoffenheim-Sieger" playername="" id="10860391" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="49" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Matip und die Hoffenheim-Sieger" playername="" id="10860391" date="2015-03-10T19:16:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="52" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1347808" team-id="0" game-id="440537" text="Und zwar immer wieder, wenn man einem bekannten Lied glauben darf. Schalke 04 hat heute eines der fu&#223;ballerischen Art n&#246;tig im Achtelfinal-R&#252;ckspiel der Champions League bei Real Madrid. Viel Vergn&#252;gen!
 
 &amp;nbsp;
-" headline="Wunder gibt es" playername="" id="10860231" date="2015-03-10T19:06:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="50" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Wunder gibt es" playername="" id="10860231" date="2015-03-10T19:06:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="53" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
   <event section="2" label="4_55691_440537_1346997" team-id="0" game-id="440537" text="Der FC Schalke 04 tritt am Dienstag zum Achtelfinal-R&#252;ckspiel bei Real Madrid an. Wir berichten ab 20.15 Uhr im Liveticker. Bis dahin!
-" headline="Hallo und Herzlich Willkommen" playername="" id="10788011" date="2015-03-10T06:00:48Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T20:59:43Z" sort="51" game-minute="-1" player-id="0" gameday-id="55691">
+" headline="Hallo und Herzlich Willkommen" playername="" id="10788011" date="2015-03-10T06:00:48Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-10T21:01:33Z" sort="54" game-minute="-1" player-id="0" gameday-id="55691">
   </event>
 </events>
 
