@@ -1,65 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
        <conference>
-       <games type="array">
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="1457" guest-long-name="Paris Saint-Germain" gamestate="0" home-short-name="Chelsea" team1-color="plain;16777215;16777215;16777215;0" penalty-score-home="0" eventcount="4" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440529" date="2015-03-11T20:45:00Z" home-long-name="Chelsea FC" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="Paris SG" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159324" overtime-score-home="0" home-team-id="373" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
-    <tabs type="array">
-      <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
-      </tab>
-      <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
-      </tab>
-      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
-      </tab>
-    </tabs>
-  </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="1688" guest-long-name="Schachtar Donezk" gamestate="0" home-short-name="FC Bayern" team1-color="plain;15732510;15732510;15732510;16777215" penalty-score-home="0" eventcount="8" team2-color="plain;16777215;16777215;16777215;0" referee-name="" spectatorcount="" activestate="0" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="" id="440539" date="2015-03-11T20:45:00Z" home-long-name="Bayern M&#252;nchen" cancel-reason="" half3-score-guest="0" league-id="4" current-minute="-1" half4-score-guest="0" guest-short-name="S. Donezk" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="159329" overtime-score-home="0" home-team-id="209" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="55691" half2-score-home="0">
-    <tabs type="array">
-      <tab tab-type="events" title="Live" controller="events" has-live-selection="0">
-      </tab>
-      <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
-      </tab>
-      <tab tab-type="lineup" title="Aufstellung" controller="lineup" has-live-selection="0">
-      </tab>
-    </tabs>
-  </game>
-</games>
+       <nil-classes type="array">
+</nil-classes>
 
-       <events type="array">
-  <event section="0" label="4_55691_440529_1348617" team-id="0" game-id="440529" text="Aufstellung PSG
-
-Sirigu - Marquinhos, David Luiz, Thiago Silva, Maxwell - Verratti, Thiago Motta, Matuidi - Cavani, Ibrahimovic, Pastore
-" headline="" playername="" id="10862731" date="2015-03-11T19:06:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:02Z" sort="0" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440529_1348615" team-id="0" game-id="440529" text="Courtois - Ivanovic, Cahill, Terry, Azpilicueta - Fabregas, Matic - Ramires, Oscar, Hazard - Diego Costa
-" headline="Aufstellung Chelsea" playername="" id="10862741" date="2015-03-11T19:06:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:02Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1348596" team-id="0" game-id="440539" text="Der Bayern-Coach h&#228;ngt die Bedeutung dieser Partie sehr hoch. &quot;Ich wei&#223;, wenn wir nicht ins Viertelfinale kommen, oder die Champions League gewinnen, wird es ein gro&#223;es Problem f&#252;r mich&quot;, sagte Guardiola am Dienstag.
-" headline="Guardiola vor Schicksalsspiel" playername="" id="10862711" date="2015-03-11T18:54:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="1" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1348584" team-id="0" game-id="440539" text="Zuletzt schied der FC Bayern 2011 im Achtelfinale aus. Damals war Inter Mailand Endstation f&#252;r die M&#252;nchner. Anschlie&#223;end schaffte es der Rekordmeister immer mindestens ins Halbfinale der Champions League.
-" headline="Bayern will Serie fortsetzen" playername="" id="10862721" date="2015-03-11T18:54:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="2" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1348579" team-id="0" game-id="440539" text="Neuer - Rafinha, Boateng, Badstuber, Alaba - Schweinsteiger - Robben, M&#252;ller, G&#246;tze, Ribery - Lewandowski
-" headline="Aufstellung FC Bayern" playername="" id="10862621" date="2015-03-11T18:43:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="3" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1348576" team-id="0" game-id="440539" text="Der Brasilianer erlebt gerade keine einfache Zeit. Nach seiner fr&#252;hzeitigen Auswechslung in Hannover sitzt Dante nun auf der Bank. Boateng und Badstuber bilden die Innenverteidigung
-" headline="Dante als Zuschauer" playername="" id="10862631" date="2015-03-11T18:43:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="4" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1348573" team-id="0" game-id="440539" text="Der Bayern-Coach entscheidet sich f&#252;r eine offensive Variante. Schweinsteiger spielt in Abwesenheit von Alonso alleine auf der Sechs. Im Angriff darf Lewandowski wieder beginnen. Der Pole hatte im Hinspiel nur einen Kurzeinsatz.
-" headline="Guardiola setzt auf Lewandowski" playername="" id="10862641" date="2015-03-11T18:43:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="5" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1348498" team-id="0" game-id="440539" text="Vor drei Wochen gab es in Lwiw keine Tore. Die Bayern mussten damals die Schlussphase in Unterzahl bestehen, da Xabi Alonso die Gelb-Rote Karte kassierte.
-" headline="Nullnummer im Hinspiel" playername="" id="10862341" date="2015-03-11T16:29:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="6" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440529_1348497" team-id="0" game-id="440529" text="Im Hinspiel trennten sich PSG und die Blues in Paris 1:1. Zlatan Ibrahimovic und Kollegen sind ausw&#228;rts also unter Druck zu treffen, ansonsten ist Jose Mourinhos Team in jedem Fall weiter.
-" headline="Mehr Druck bei PSG" playername="" id="10862331" date="2015-03-11T16:29:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:02Z" sort="2" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440539_1346999" team-id="0" game-id="440539" text="Der FC Bayern M&#252;nchen empf&#228;ngt am Mittwoch Schachtjor Donezk zum Achtelfinal-R&#252;ckspiel. Wir berichten ab 20.15 Uhr im Liveticker. Bis dahin!
-" headline="Hallo und Herzlich Willkommen" playername="" id="10788021" date="2015-03-10T06:00:49Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:03Z" sort="7" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-  <event section="0" label="4_55691_440529_1346998" team-id="0" game-id="440529" text="Der FC Chelsea empf&#228;ngt am Mittwoch Paris St. Germain zum Achtelfinal-R&#252;ckspiel. Wir berichten ab 20.15 Uhr im Liveticker. Bis dahin!
-" headline="Hallo und Herzlich Willkommen" playername="" id="10788001" date="2015-03-10T06:00:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-11T19:06:02Z" sort="3" game-minute="-1" player-id="0" gameday-id="55691">
-  </event>
-</events>
+       <nil-classes type="array">
+</nil-classes>
 
        </conference>
        
