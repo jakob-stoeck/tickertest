@@ -5,6 +5,7 @@ curl -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "livetick
 && curl -s "http://sportsapi.sport1.de/match/ma${i}" | jq '.' > "match_ma${i}.json" \
 && curl -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json"; \
 done; \
+curl -sO http://lb.iph.sp1-tek.de/v8/media/live.xml; \
 curl -sO http://mobile.ipnm.sport1.de/v8/media/live.xml; \
 for j in 440534 440530; do \
 curl -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/4/game/${j}.xml" \
