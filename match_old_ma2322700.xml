@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="71" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="73" period-value="2"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -417,6 +417,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360270" period-minute-elapsed="74" period-value="2" action-type="other" comment="Elfmeter?|&#10;Kuzmanovic fällt im Sechzehner gegen Vieirinha - aber da fällt der Serbe etwas zu leicht. Richtige Entscheidung, kein Elfer.&#10;"/>
+        <action-soccer-substitution id="ev-439815-1360268" period-minute-elapsed="73" period-value="2" comment="Wechsel bei VfL Wolfsburg | Ivan Perišić für Daniel Caligiuri" team-idref="t-30038" person-original-idref="pl-22989" person-replacing-idref="pl-10596"/>
         <action-soccer-score id="ev-439815-1360261" period-minute-elapsed="71" period-value="2" comment="Tooor für Inter, 1:1 durch Rodrigo Palacio|&#10;Und da ist es doch passiert - Palacio macht das 1:1! Er stürmt mit Tempo auf den Strafraum zu, spielt klasse Doppelpass mit Hernanes und versenkt das Ding in vollem Lauf! Jetzt braucht Inter nur noch zwei!&#10;" team-idref="t-30018" score-team="1" score-team-opposing="1" player-idref="pl-1761" score-attempt-type="regular"/>
         <action-soccer-other id="ev-439815-1360256" period-minute-elapsed="70" period-value="2" action-type="other" comment="Zwanzig Minuten noch|&#10;Es bräuchte schon ein echtes Fußballwunder, damit Inter heute weiter kommt. Alles spricht für Wolfsburg.&#10;"/>
         <action-soccer-other id="ev-439815-1360250" period-minute-elapsed="68" period-value="2" action-type="other" comment="Rechtsverteidiger für Rechtsverteidiger|&#10;Auch diesen Wechsel von Mancini muss man nicht verstehen.&#10;"/>
