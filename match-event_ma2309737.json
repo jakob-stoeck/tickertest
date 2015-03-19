@@ -1907,6 +1907,76 @@
     "created": "19.03.2015 23:16:31"
   },
   {
+    "id": "15857248",
+    "team": {
+      "id": "495",
+      "name": "Dnipro Dnipropetrowsk",
+      "shortname": "Dnipropet.",
+      "microname": "DNI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "225",
+        "name": "Ukraine",
+        "code": "UKR",
+        "iso": "UA"
+      }
+    },
+    "person": {
+      "id": "7740",
+      "name": "Evgen Konoplyanka",
+      "firstname": "Evgen",
+      "surname": "Konoplyanka",
+      "fullname": "Evgen Konoplyanka",
+      "gender": "male",
+      "birthday": "29.09.1989",
+      "height": "176",
+      "weight": "69"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "108",
+    "additional_person_id": "0",
+    "created": "19.03.2015 23:19:07"
+  },
+  {
+    "id": "15857249",
+    "team": {
+      "id": "495",
+      "name": "Dnipro Dnipropetrowsk",
+      "shortname": "Dnipropet.",
+      "microname": "DNI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "225",
+        "name": "Ukraine",
+        "code": "UKR",
+        "iso": "UA"
+      }
+    },
+    "person": {
+      "id": "2014",
+      "name": "Evgen Seleznev",
+      "firstname": "Evgen",
+      "surname": "Seleznev",
+      "fullname": "Evgen Seleznev",
+      "gender": "male",
+      "birthday": "20.07.1985",
+      "height": "181",
+      "weight": "72"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "108",
+    "additional_person_id": "0",
+    "created": "19.03.2015 23:19:21"
+  },
+  {
     "id": "640470",
     "team": {
       "id": "64",
