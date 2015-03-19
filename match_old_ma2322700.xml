@@ -417,6 +417,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360283" period-minute-elapsed="75" period-value="2" action-type="other" comment="Das Publikum ist zurück|&#10;Die Fans haben wieder etwas Lunte gerochen. Und das Tor war nicht ganz unverdient. Inter kam immer wieder durch, Benaglio musste sich oft auszeichnen.&#10;"/>
         <action-soccer-other id="ev-439815-1360270" period-minute-elapsed="74" period-value="2" action-type="other" comment="Elfmeter?|&#10;Kuzmanovic fällt im Sechzehner gegen Vieirinha - aber da fällt der Serbe etwas zu leicht. Richtige Entscheidung, kein Elfer.&#10;"/>
         <action-soccer-substitution id="ev-439815-1360268" period-minute-elapsed="73" period-value="2" comment="Wechsel bei VfL Wolfsburg | Ivan Perišić für Daniel Caligiuri" team-idref="t-30038" person-original-idref="pl-22989" person-replacing-idref="pl-10596"/>
         <action-soccer-score id="ev-439815-1360261" period-minute-elapsed="71" period-value="2" comment="Tooor für Inter, 1:1 durch Rodrigo Palacio|&#10;Und da ist es doch passiert - Palacio macht das 1:1! Er stürmt mit Tempo auf den Strafraum zu, spielt klasse Doppelpass mit Hernanes und versenkt das Ding in vollem Lauf! Jetzt braucht Inter nur noch zwei!&#10;" team-idref="t-30018" score-team="1" score-team-opposing="1" player-idref="pl-1761" score-attempt-type="regular"/>
