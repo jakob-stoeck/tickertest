@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="87" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="89" period-value="2"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -215,7 +215,7 @@
       <team-metadata team-key="WOL" alignment="away">
         <name full="VfL Wolfsburg" middle="Wolfsburg" id="t-30038" extid="te-2086"/>
       </team-metadata>
-      <team-stats score="1"/>
+      <team-stats score="2"/>
       <player id="pl-23303">
         <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
           <name last="Benaglio"/>
@@ -385,7 +385,7 @@
         <player-metadata position-event="striker" status="bench" uniform-number="3" lineup-slot="x:-100,y:-100">
           <name last="Bendtner"/>
         </player-metadata>
-        <player-stats score="0">
+        <player-stats score="1">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
             <stats-soccer-foul cautions-total="0" ejections-total="0"/>
@@ -417,6 +417,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-score id="ev-439815-1360369" period-minute-elapsed="89" period-value="2" comment="Tooor für VfL Wolfsburg, 1:2 durch Nicklas Bendtner|&#10;Bendtner zimmert einen Arnold-Pass von rechts wuchtig per Dropkick aus acht Metern in die Maschen. Schönes Ding - und das war's!&#10;" team-idref="t-30038" score-team="2" score-team-opposing="1" player-idref="pl-1967" score-attempt-type="regular"/>
         <action-soccer-other id="ev-439815-1360361" period-minute-elapsed="89" period-value="2" action-type="other" comment="Die Fans gehen|&#10;Viele Tifosi verlassen das Stadion.&#10;"/>
         <action-soccer-foul id="ev-439815-1360359" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Gary Medel (Inter)|&#10;" fouling-team-idref="t-30018" fouling-player-idref="pl-27403" foul-result="caution"/>
         <action-soccer-foul id="ev-439815-1360354" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Maximilian Arnold (VfL Wolfsburg)|&#10;Offensivfoul bei einem Konter - Arnold sieht Gelb. Da wäre eigentlich mehr drin gewesen bei diesem Drei gegen Drei. Arnold hat da nicht schnell genug geschaltet.&#10;" fouling-team-idref="t-30038" fouling-player-idref="pl-233062" foul-result="caution"/>
