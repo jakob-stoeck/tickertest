@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="64" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="68" period-value="2"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -417,6 +417,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360242" period-minute-elapsed="68" period-value="2" action-type="other" comment="Benaglio ist stinkig!|&#10;Jetzt reicht es dem Keeper langsam. Der nächste Schuss der Mailänder streift nur knapp am linken Pfosten vorbei.&#10;"/>
+        <action-soccer-substitution id="ev-439815-1360235" period-minute-elapsed="68" period-value="2" comment="Wechsel bei Inter Mailand | Danilo D'Ambrosio für Hugo Campagnaro" team-idref="t-30018" person-original-idref="pl-22616" person-replacing-idref="pl-169677"/>
+        <action-soccer-other id="ev-439815-1360246" period-minute-elapsed="67" period-value="2" action-type="other" comment="Da muss der VfL mehr draus machen!|&#10;Nach einem katastrophalen Fehlpass eines Mailänders kurz vor dem eigenen Sechzehner verpassen sowohl Bendtner als auch De Bruyne es, abzuschließen.&#10;"/>
         <action-soccer-other id="ev-439815-1360231" period-minute-elapsed="67" period-value="2" action-type="other" comment="Langsam müssen sie|&#10;Benaglio ist nicht zu bezwingen. Inter braucht immer noch drei Buden! Für die Italiener ist das schon fast zum verzweifeln.&#10;"/>
         <action-soccer-other id="ev-439815-1360222" period-minute-elapsed="66" period-value="2" action-type="other" comment="Palacio! Gefährlich!|&#10;Die beste Chance von Inter in diesem Spiel. Palacio zieht von links in die Mitte, lässt drei Wolfsburger schön stehen und visiert die linke Ecke an. Aber wieder ist Benaglio da! Der hat heute auch einen Klassetag.&#10;"/>
         <action-soccer-other id="ev-439815-1360212" period-minute-elapsed="65" period-value="2" action-type="other" comment="Der Lord kommt!|&#10;Bendtner ersetzt Dost im Sturm. Der Niederländer hatte heute nicht seinen besten Tag.&#10;"/>
