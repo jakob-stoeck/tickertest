@@ -8,9 +8,9 @@ curl -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "livetick
 done; \
 curl -sO http://lb.iph.sp1-tek.de/v8/media/live.xml; \
 curl -sO http://mobile.ipnm.sport1.de/v8/media/live.xml; \
-for j in 440534 440530; do \
-curl -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/4/game/${j}.xml" \
-&& curl -s http://mobile.ipnm.sport1.de/v8/soccer/leagues/4/conference.xml > conference4.xml; \
+for j in 439815; do \
+curl -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/5/game/${j}.xml" \
+&& curl -s http://mobile.ipnm.sport1.de/v8/soccer/leagues/5/conference.xml > conference5.xml; \
 done; \
 git add . && git commit -m "update"'
 
