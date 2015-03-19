@@ -8,9 +8,9 @@
     "match_time": "21:05",
     "finished": "no",
     "live_status": "data",
-    "current_period": "second-half-end",
-    "current_period_start": "2015-03-19 22:53:39",
-    "current_minute": "90",
+    "current_period": "first-extra-start",
+    "current_period_start": "2015-03-19 22:58:36",
+    "current_minute": "91",
     "attendance": "51756",
     "home": {
       "id": "64",
@@ -52,6 +52,11 @@
         "place": "away"
       }
     ],
+    "match_incident": {
+      "id": "1",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    },
     "venue": {
       "id": "102",
       "name": "Amsterdam ArenA",
