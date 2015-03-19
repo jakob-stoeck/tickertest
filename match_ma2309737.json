@@ -1,0 +1,128 @@
+{
+  "match": {
+    "id": "2309737",
+    "round_id": "48729",
+    "matchday": "2",
+    "group_matchday": "0",
+    "match_date": "19.03.2015",
+    "match_time": "21:05",
+    "finished": "yes",
+    "live_status": "data",
+    "current_period": "game-end",
+    "current_period_start": "2015-03-19 23:34:50",
+    "current_minute": "120",
+    "attendance": "51756",
+    "home": {
+      "id": "64",
+      "name": "Ajax Amsterdam"
+    },
+    "away": {
+      "id": "495",
+      "name": "Dnipro Dnipropetrowsk"
+    },
+    "match_result": [
+      {
+        "match_result": "2",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "1",
+        "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "away"
+      },
+      {
+        "match_result": "1",
+        "match_result_at": "2",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "2",
+        "place": "away"
+      }
+    ],
+    "match_incident": {
+      "id": "1",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    },
+    "venue": {
+      "id": "102",
+      "name": "Amsterdam ArenA",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "102",
+        "capacity": "53346",
+        "built": "1996"
+      },
+      "town": {
+        "id": "55",
+        "name": "Amsterdam"
+      },
+      "country": {
+        "id": "149",
+        "name": "Niederlande",
+        "code": "NED",
+        "iso": "NL"
+      }
+    },
+    "referee": {
+      "id": "54485",
+      "name": "Aleksey Kulbakov",
+      "firstname": "Aleksey",
+      "surname": "Kulbakov",
+      "fullname": "Aleksey Kulbakov",
+      "gender": "male",
+      "birthday": "27.12.1979",
+      "height": "0",
+      "weight": "0",
+      "person_detail": {
+        "id": "19965",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "22",
+          "name": "Belarus"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

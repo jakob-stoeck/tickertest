@@ -1,0 +1,113 @@
+{
+  "match": {
+    "id": "2309743",
+    "round_id": "48729",
+    "matchday": "2",
+    "group_matchday": "0",
+    "match_date": "19.03.2015",
+    "match_time": "21:05",
+    "finished": "yes",
+    "live_status": "data",
+    "current_period": "game-end",
+    "current_period_start": "2015-03-19 22:53:33",
+    "current_minute": "90",
+    "attendance": "31000",
+    "home": {
+      "id": "1681",
+      "name": "Sevilla FC"
+    },
+    "away": {
+      "id": "2102",
+      "name": "Villarreal CF"
+    },
+    "match_result": [
+      {
+        "match_result": "2",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "1",
+        "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "away"
+      }
+    ],
+    "venue": {
+      "id": "1510",
+      "name": "Ramón Sánchez Pizjuán",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "1510",
+        "capacity": "45500",
+        "built": "1958"
+      },
+      "town": {
+        "id": "1372",
+        "name": "Sevilla"
+      },
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "referee": {
+      "id": "58035",
+      "name": "Martin Atkinson",
+      "firstname": "Martin",
+      "surname": "Atkinson",
+      "fullname": "Martin Atkinson",
+      "gender": "male",
+      "birthday": "31.03.1971",
+      "height": "183",
+      "weight": "83",
+      "person_detail": {
+        "id": "25504",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Dewsbury",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "55",
+          "name": "England"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}
