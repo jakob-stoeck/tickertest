@@ -1770,6 +1770,51 @@
     "created": "19.03.2015 22:58:36"
   },
   {
+    "id": "15857158",
+    "team": {
+      "id": "495",
+      "name": "Dnipro Dnipropetrowsk",
+      "shortname": "Dnipropet.",
+      "microname": "DNI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "225",
+        "name": "Ukraine",
+        "code": "UKR",
+        "iso": "UA"
+      }
+    },
+    "person": {
+      "id": "7740",
+      "name": "Evgen Konoplyanka",
+      "firstname": "Evgen",
+      "surname": "Konoplyanka",
+      "fullname": "Evgen Konoplyanka",
+      "gender": "male",
+      "birthday": "29.09.1989",
+      "height": "176",
+      "weight": "69"
+    },
+    "action": "goal",
+    "content": "1:1",
+    "kind": "right-foot",
+    "minute": "97",
+    "additional_person": {
+      "id": "130896",
+      "name": "Valeriy Fedorchuk",
+      "firstname": "Valeriy",
+      "surname": "Fedorchuk",
+      "fullname": "Valeriy Yuriovich Fedorchuk",
+      "gender": "male",
+      "birthday": "05.10.1988",
+      "height": "178",
+      "weight": "68"
+    },
+    "created": "19.03.2015 23:05:02"
+  },
+  {
     "id": "640470",
     "team": {
       "id": "64",
