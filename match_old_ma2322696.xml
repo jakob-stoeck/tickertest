@@ -4,8 +4,8 @@
     <sports-title/>
   </sports-metadata>
   <sports-event id="match-439815">
-    <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="89" period-value="2"/>
+    <event-metadata event-status="post-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
+      <event-metadata-soccer period-minute-elapsed="90" period-value="0"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -417,9 +417,10 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360387" period-minute-elapsed="90" period-value="2" action-type="end2" comment="Spielende|"/>
         <action-soccer-score id="ev-439815-1360369" period-minute-elapsed="89" period-value="2" comment="Tooor für VfL Wolfsburg, 1:2 durch Nicklas Bendtner|&#10;Bendtner zimmert einen Arnold-Pass von rechts wuchtig per Dropkick aus acht Metern in die Maschen. Schönes Ding - und das war's!&#10;" team-idref="t-30038" score-team="2" score-team-opposing="1" player-idref="pl-1967" score-attempt-type="regular"/>
         <action-soccer-other id="ev-439815-1360361" period-minute-elapsed="89" period-value="2" action-type="other" comment="Die Fans gehen|&#10;Viele Tifosi verlassen das Stadion.&#10;"/>
-        <action-soccer-foul id="ev-439815-1360359" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Gary Medel (Inter)|&#10;" fouling-team-idref="t-30018" fouling-player-idref="pl-27403" foul-result="caution"/>
+        <action-soccer-foul id="ev-439815-1360359" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Gary Medel (Inter)|&#10;Inters Chilene mit dem Revanchefoul an Arnold - dafür gibt's ebenfalls die Gelbe Karte.&#10;&amp;nbsp;&#10;" fouling-team-idref="t-30018" fouling-player-idref="pl-27403" foul-result="caution"/>
         <action-soccer-foul id="ev-439815-1360354" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Maximilian Arnold (VfL Wolfsburg)|&#10;Offensivfoul bei einem Konter - Arnold sieht Gelb. Da wäre eigentlich mehr drin gewesen bei diesem Drei gegen Drei. Arnold hat da nicht schnell genug geschaltet.&#10;" fouling-team-idref="t-30038" fouling-player-idref="pl-233062" foul-result="caution"/>
         <action-soccer-substitution id="ev-439815-1360343" period-minute-elapsed="85" period-value="2" comment="Wechsel bei VfL Wolfsburg | Maximilian Arnold für  Vieirinha" team-idref="t-30038" person-original-idref="pl-10403" person-replacing-idref="pl-233062"/>
         <action-soccer-foul id="ev-439815-1360329" period-minute-elapsed="84" period-value="2" comment="Gelbe Karte für Kevin De Bruyne (VfL Wolfsburg)|&#10;Der Belgier lässt seinen Gegenspieler am eigenen Strafraum über die Klinge springen. Der Freistoß bleibt folgenlos, ebenso wie die Gelbe - De Bruynes erste.&#10;&amp;nbsp;&#10;" fouling-team-idref="t-30038" fouling-player-idref="pl-152194" foul-result="caution"/>
