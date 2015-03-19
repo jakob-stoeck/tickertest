@@ -417,6 +417,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360393" period-minute-elapsed="90" period-value="2" action-type="other" comment="Fazit|&#10;Das Ergebnis heute und der Sieg für die Wölfe insgesamt gehen in Ordnung. Wolfsburg war mit einem abermals starken De Bruyne das strukturierte, gefährlichere Team. Benaglio hielt zudem (fast) alles, was doch durch kam. In der Form ist Wolfsburg weiter ein heißer Kandidat auf den Europa-League-Titel!&#10;"/>
         <action-soccer-other id="ev-439815-1360387" period-minute-elapsed="90" period-value="2" action-type="end2" comment="Spielende|&#10;&amp;nbsp;&#10;"/>
         <action-soccer-score id="ev-439815-1360369" period-minute-elapsed="89" period-value="2" comment="Tooor für VfL Wolfsburg, 1:2 durch Nicklas Bendtner|&#10;Bendtner zimmert einen Arnold-Pass von rechts wuchtig per Dropkick aus acht Metern in die Maschen. Schönes Ding - und das war's!&#10;" team-idref="t-30038" score-team="2" score-team-opposing="1" player-idref="pl-1967" score-attempt-type="regular"/>
         <action-soccer-other id="ev-439815-1360361" period-minute-elapsed="89" period-value="2" action-type="other" comment="Die Fans gehen|&#10;Viele Tifosi verlassen das Stadion.&#10;"/>
