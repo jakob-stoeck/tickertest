@@ -417,6 +417,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360361" period-minute-elapsed="89" period-value="2" action-type="other" comment="Die Fans gehen|&#10;Viele Tifosi verlassen das Stadion.&#10;"/>
         <action-soccer-foul id="ev-439815-1360359" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Gary Medel (Inter)|&#10;" fouling-team-idref="t-30018" fouling-player-idref="pl-27403" foul-result="caution"/>
         <action-soccer-foul id="ev-439815-1360354" period-minute-elapsed="87" period-value="2" comment="Gelbe Karte für Maximilian Arnold (VfL Wolfsburg)|&#10;Offensivfoul bei einem Konter - Arnold sieht Gelb. Da wäre eigentlich mehr drin gewesen bei diesem Drei gegen Drei. Arnold hat da nicht schnell genug geschaltet.&#10;" fouling-team-idref="t-30038" fouling-player-idref="pl-233062" foul-result="caution"/>
         <action-soccer-substitution id="ev-439815-1360343" period-minute-elapsed="85" period-value="2" comment="Wechsel bei VfL Wolfsburg | Maximilian Arnold für  Vieirinha" team-idref="t-30038" person-original-idref="pl-10403" person-replacing-idref="pl-233062"/>
