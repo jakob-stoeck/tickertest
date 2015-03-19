@@ -5,13 +5,13 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="68" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="71" period-value="2"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
         <name full="Inter Mailand" middle="Inter" id="t-30018" extid="te-1052"/>
       </team-metadata>
-      <team-stats score="0"/>
+      <team-stats score="1"/>
       <player id="pl-1741">
         <player-metadata position-event="goalkeeper" status="starter" uniform-number="30" lineup-slot="x:0,y:0">
           <name last="Carrizo"/>
@@ -192,7 +192,7 @@
         <player-metadata position-event="striker" status="starter" uniform-number="8" lineup-slot="x:-4,y:9">
           <name last="Palacio"/>
         </player-metadata>
-        <player-stats score="0">
+        <player-stats score="1">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
             <stats-soccer-foul cautions-total="0" ejections-total="0"/>
@@ -417,6 +417,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-score id="ev-439815-1360261" period-minute-elapsed="71" period-value="2" comment="Tooor für  Inter, 1:1 durch Rodrigo Palacio|&#10;" team-idref="t-30018" score-team="1" score-team-opposing="1" player-idref="pl-1761" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-439815-1360256" period-minute-elapsed="70" period-value="2" action-type="other" comment="Zwanzig Minuten noch|&#10;Es bräuchte schon ein echtes Fußballwunder, damit Inter heute weiter kommt. Alles spricht für Wolfsburg.&#10;"/>
         <action-soccer-other id="ev-439815-1360250" period-minute-elapsed="68" period-value="2" action-type="other" comment="Rechtsverteidiger für Rechtsverteidiger|&#10;Auch diesen Wechsel von Mancini muss man nicht verstehen.&#10;"/>
         <action-soccer-other id="ev-439815-1360242" period-minute-elapsed="68" period-value="2" action-type="other" comment="Benaglio ist stinkig!|&#10;Jetzt reicht es dem Keeper langsam. Der nächste Schuss der Mailänder streift nur knapp am linken Pfosten vorbei.&#10;"/>
         <action-soccer-substitution id="ev-439815-1360235" period-minute-elapsed="68" period-value="2" comment="Wechsel bei Inter Mailand | Danilo D'Ambrosio für Hugo Campagnaro" team-idref="t-30018" person-original-idref="pl-22616" person-replacing-idref="pl-169677"/>
