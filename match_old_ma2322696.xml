@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="24" period-value="1"/>
+      <event-metadata-soccer period-minute-elapsed="45" period-value="1"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -417,6 +417,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360120" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|"/>
+        <action-soccer-other id="ev-439815-1360114" period-minute-elapsed="45" period-value="1" action-type="other" comment="Dickes Ding!|&#10;Da wäre doch fast noch der Ausgleich gefallen! Guarin bekommt den Ball im Fünfer, aber Benaglio stürzt ihm entgegen und wehrt klasse ab! Zum dritten Mal rettet Benaglio in höchster Not.&#10;"/>
         <action-soccer-other id="ev-439815-1360108" period-minute-elapsed="44" period-value="1" action-type="other" comment="Glaubt Inter schon nicht mehr dran?|&#10;So wirkt es fast im Moment. Wolfsburg spielt das einfach zu abgebrüht, zu cool. Inter fällt nichts ein.&#10;"/>
         <action-soccer-other id="ev-439815-1360104" period-minute-elapsed="43" period-value="1" action-type="other" comment="Ja, der Junge hat Selbstvertrauen!|&#10;Träsch flankt von der rechten Seitenauslinie nach links, wo De Bruyne viel Platz hat. Aber er denkt sich: Bei so einem Vorsprung nehm' ich den direkt! Und semmelt ihn in den Oberrang. Aber mit Schmackes!&#10;"/>
         <action-soccer-other id="ev-439815-1360097" period-minute-elapsed="40" period-value="1" action-type="other" comment="Europa-League-Favorit?|&#10;Unter Trainern gilt Wolfsburg als einer der Mitfavoriten. Und warum nicht? In der derzeitigen Verfassung kann das Team mit Konkurrenten wie Sevilla durchaus mithalten.&#10;"/>
