@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="84" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="85" period-value="2"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -417,7 +417,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-foul id="ev-439815-1360329" period-minute-elapsed="84" period-value="2" comment="Gelbe Karte für Kevin De Bruyne (VfL Wolfsburg)|&#10;" fouling-team-idref="t-30038" fouling-player-idref="pl-152194" foul-result="caution"/>
+        <action-soccer-substitution id="ev-439815-1360343" period-minute-elapsed="85" period-value="2" comment="Wechsel bei VfL Wolfsburg | Maximilian Arnold für  Vieirinha" team-idref="t-30038" person-original-idref="pl-10403" person-replacing-idref="pl-233062"/>
+        <action-soccer-foul id="ev-439815-1360329" period-minute-elapsed="84" period-value="2" comment="Gelbe Karte für Kevin De Bruyne (VfL Wolfsburg)|&#10;Der Belgier lässt seinen Gegenspieler am eigenen Strafraum über die Klinge springen. Der Freistoß bleibt folgenlos, ebenso wie die Gelbe - De Bruynes erste.&#10;&amp;nbsp;&#10;" fouling-team-idref="t-30038" fouling-player-idref="pl-152194" foul-result="caution"/>
         <action-soccer-other id="ev-439815-1360323" period-minute-elapsed="84" period-value="2" action-type="other" comment="Im Zentrum ist zu viel Platz!|&#10;Kuzmanovic kommt da immer wieder zum Abschluss. Benaglio mosert zu Recht - da spielt der VfL ganz schön mit dem Feuer! Sein Versuch diesmal geht abgefälscht daneben, die Ecke bringt nichts ein.&#10;"/>
         <action-soccer-other id="ev-439815-1360318" period-minute-elapsed="82" period-value="2" action-type="other" comment="Schöner Seitenwechsel|&#10;De Bruyne öffnet das Spiel. Das bringt etwas Zeit und Ruhe - und sogar eine kleine Chance. Bendtners Flachschuss wird aber geblockt.&#10;"/>
         <action-soccer-other id="ev-439815-1360310" period-minute-elapsed="80" period-value="2" action-type="other" comment="Keine Hektik|&#10;Wolfsburg lässt sich vom 1:1 nicht verunsichern. Die Jungs von Hecking spielen weiter konzentriert.&#10;"/>
