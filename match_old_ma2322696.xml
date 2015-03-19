@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-439815">
     <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
-      <event-metadata-soccer period-minute-elapsed="46" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="55" period-value="2"/>
     </event-metadata>
     <team id="team-30018">
       <team-metadata team-key="INT" alignment="home">
@@ -417,6 +417,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-439815-1360173" period-minute-elapsed="55" period-value="2" comment="Wechsel bei Inter Mailand | Zdravko Kuzmanović für Mateo Kovačić" team-idref="t-30018" person-original-idref="pl-234396" person-replacing-idref="pl-981"/>
+        <action-soccer-other id="ev-439815-1360170" period-minute-elapsed="55" period-value="2" action-type="other" comment="Viel Ballbesitz für Inter|&#10;Aber ohne Ertrag. Immer nur hin und her. Und die Fans pfeifen auch schon!&#10;"/>
         <action-soccer-other id="ev-439815-1360166" period-minute-elapsed="53" period-value="2" action-type="other" comment="Wolfsburg bleibt giftig|&#10;Für Inter giibt es nach wie vor wenig Zeit, den Ball anzunehmen und zu verarbeiten, sobald sie sich in Wolfsburgs Hälfte befinden.&#10;"/>
         <action-soccer-other id="ev-439815-1360162" period-minute-elapsed="52" period-value="2" action-type="other" comment="Dost pennt!|&#10;Rakete De Bruyne nimmt bei einem VfL-Konter seinem Gegenspieler gefühlt zehn Meter ab und bringt den Ball unter Bedrängnis in die Mitte. Carrizo schnappt ihn sich, Dost lässt enttäuscht den Kopf hängen - und verpasst, dass Carrizo die Kugel fallen lässt! Das wäre Dosts einfachstes Tor der Karriere geworden ...&#10;"/>
         <action-soccer-other id="ev-439815-1360151" period-minute-elapsed="49" period-value="2" action-type="other" comment="Fahne ist oben|&#10;Das werden wir jetzt wohl noch öfter sehen: Wolfsburg hat viel Platz und kontert. Dost schickt de Bruyne - aber Abseits.&#10;"/>
