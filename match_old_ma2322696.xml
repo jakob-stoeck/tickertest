@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports-content>
+  <sports-metadata doc-id="uc_439815">
+    <sports-title/>
+  </sports-metadata>
+  <sports-event id="match-439815">
+    <event-metadata event-status="mid-event" site-attendance="" stadium-name="Giuseppe Meazza" stadium-city="Milano" stadium-capacity="80018" stadium-id="689" game-exitid1="439815" game-exitid2="0">
+      <event-metadata-soccer period-minute-elapsed="1" period-value="1"/>
+    </event-metadata>
+    <team id="team-30018">
+      <team-metadata team-key="INT" alignment="home">
+        <name full="Inter Mailand" middle="Inter" id="t-30018" extid="te-1052"/>
+      </team-metadata>
+      <team-stats score="0"/>
+      <player id="pl-1741">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="30" lineup-slot="x:0,y:0">
+          <name last="Carrizo"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-27282">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="1" lineup-slot="x:-100,y:-100">
+          <name last="Handanovič"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22616">
+        <player-metadata position-event="defender" status="starter" uniform-number="14" lineup-slot="x:-4,y:3">
+          <name last="Campagnaro"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-169677">
+        <player-metadata position-event="defender" status="bench" uniform-number="33" lineup-slot="x:-100,y:-100">
+          <name last="D'Ambrosio"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-172075">
+        <player-metadata position-event="defender" status="starter" uniform-number="5" lineup-slot="x:2,y:3">
+          <name last="Juan Jesus"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-81741">
+        <player-metadata position-event="defender" status="starter" uniform-number="23" lineup-slot="x:-2,y:3">
+          <name last="Ranocchia"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-133777">
+        <player-metadata position-event="defender" status="starter" uniform-number="21" lineup-slot="x:4,y:3">
+          <name last="Santon"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-18615">
+        <player-metadata position-event="defender" status="bench" uniform-number="15" lineup-slot="x:-100,y:-100">
+          <name last="Vidić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-2220">
+        <player-metadata position-event="midfield" status="starter" uniform-number="13" lineup-slot="x:4,y:6">
+          <name last="Guarín"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22800">
+        <player-metadata position-event="midfield" status="starter" uniform-number="88" lineup-slot="x:-4,y:6">
+          <name last="Hernanes"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-234396">
+        <player-metadata position-event="midfield" status="starter" uniform-number="10" lineup-slot="x:4,y:9">
+          <name last="Kovačić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-981">
+        <player-metadata position-event="midfield" status="bench" uniform-number="17" lineup-slot="x:-100,y:-100">
+          <name last="Kuzmanović"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-27403">
+        <player-metadata position-event="midfield" status="starter" uniform-number="18" lineup-slot="x:0,y:6">
+          <name last="Medel"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-161669">
+        <player-metadata position-event="midfield" status="bench" uniform-number="20" lineup-slot="x:-100,y:-100">
+          <name last="Obi"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-142675">
+        <player-metadata position-event="midfield" status="bench" uniform-number="91" lineup-slot="x:-100,y:-100">
+          <name last="Shaqiri"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-239213">
+        <player-metadata position-event="striker" status="starter" uniform-number="9" lineup-slot="x:0,y:9">
+          <name last="Icardi"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1761">
+        <player-metadata position-event="striker" status="starter" uniform-number="8" lineup-slot="x:-4,y:9">
+          <name last="Palacio"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-338422">
+        <player-metadata position-event="striker" status="bench" uniform-number="28" lineup-slot="x:-100,y:-100">
+          <name last="Puscas"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <team id="team-30038">
+      <team-metadata team-key="WOL" alignment="away">
+        <name full="VfL Wolfsburg" middle="Wolfsburg" id="t-30038" extid="te-2086"/>
+      </team-metadata>
+      <team-stats score="0"/>
+      <player id="pl-23303">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Benaglio"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3234">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="20" lineup-slot="x:-100,y:-100">
+          <name last="Grün"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-8155">
+        <player-metadata position-event="defender" status="bench" uniform-number="24" lineup-slot="x:-100,y:-100">
+          <name last="Jung"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-158755">
+        <player-metadata position-event="defender" status="starter" uniform-number="5" lineup-slot="x:2,y:3">
+          <name last="Klose"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-230779">
+        <player-metadata position-event="defender" status="starter" uniform-number="31" lineup-slot="x:-2,y:3">
+          <name last="Knoche"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-164337">
+        <player-metadata position-event="defender" status="starter" uniform-number="34" lineup-slot="x:4,y:3">
+          <name last="Rodríguez"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28509">
+        <player-metadata position-event="defender" status="bench" uniform-number="4" lineup-slot="x:-100,y:-100">
+          <name last="Schäfer"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-233062">
+        <player-metadata position-event="midfield" status="bench" uniform-number="27" lineup-slot="x:-100,y:-100">
+          <name last="Arnold"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22989">
+        <player-metadata position-event="midfield" status="starter" uniform-number="7" lineup-slot="x:4,y:7">
+          <name last="Caligiuri"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-152194">
+        <player-metadata position-event="midfield" status="starter" uniform-number="14" lineup-slot="x:0,y:7">
+          <name last="De Bruyne"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-158548">
+        <player-metadata position-event="midfield" status="starter" uniform-number="23" lineup-slot="x:-1,y:4">
+          <name last="Guilavogui"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-477">
+        <player-metadata position-event="midfield" status="starter" uniform-number="22" lineup-slot="x:1,y:4">
+          <name last="Luiz Gustavo"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-10596">
+        <player-metadata position-event="midfield" status="bench" uniform-number="9" lineup-slot="x:-100,y:-100">
+          <name last="Perišić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28328">
+        <player-metadata position-event="midfield" status="starter" uniform-number="15" lineup-slot="x:-4,y:3">
+          <name last="Träsch"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-10403">
+        <player-metadata position-event="midfield" status="starter" uniform-number="8" lineup-slot="x:-4,y:7">
+          <name last="Vieirinha"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1967">
+        <player-metadata position-event="striker" status="bench" uniform-number="3" lineup-slot="x:-100,y:-100">
+          <name last="Bendtner"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-9466">
+        <player-metadata position-event="striker" status="starter" uniform-number="12" lineup-slot="x:0,y:9">
+          <name last="Dost"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-156189">
+        <player-metadata position-event="striker" status="bench" uniform-number="17" lineup-slot="x:-100,y:-100">
+          <name last="Schürrle"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <event-actions>
+      <event-actions-soccer>
+        <action-soccer-other id="ev-439815-1360001" period-minute-elapsed="13" period-value="1" action-type="other" comment="Icardi probiert's!|&#10;Caligiuri schlägt einen Ball nach einer Inter-Flanke von links zu lasch weg. Stürmer Icardi kommt ran und zieht vom rechten Strafraumeck ab - knapp drüber.&#10;&amp;nbsp;&#10;"/>
+        <action-soccer-other id="ev-439815-1359993" period-minute-elapsed="11" period-value="1" action-type="other" comment="Zwei tolle Konter|&#10;Beide VfL-Chancen waren schnelle Gegenstöße. Inter spielt von Beginn an mit sehr viel Risiko hinten.&#10;"/>
+        <action-soccer-other id="ev-439815-1359989" period-minute-elapsed="9" period-value="1" action-type="other" comment="Dost alleine vor dem Tor!|&#10;Eieiei, das war ja schwach! Bas Dost wird von De Bruyne herrlich steil geschickt und läuft frei auf Inter-Keeper Carrizo zu. Aber er lässt sich abdrängen und schießt den Argentinier an. Das kann Dost viel besser.&#10;"/>
+        <action-soccer-other id="ev-439815-1359982" period-minute-elapsed="7" period-value="1" action-type="other" comment="Viel Tempo drin|&#10;Beide Teams zeigen in den ersten Minuten viel Engagement, vor allem die Italiener. Kein Wunder - die brauchen auch zwei Tore!&#10;"/>
+        <action-soccer-other id="ev-439815-1359979" period-minute-elapsed="6" period-value="1" action-type="other" comment="Inter macht Dampf|&#10;Die Zuschauer im Guiseppe Meazza machen von Beginn an Alarm. Die erste Ecke wird gefeiert wie ein 3:0. Heraus springt aber nur ein Wolfsburger Konter, bei dem Caligiuri einen Dropkick per Aufsetzer übers Tor setzt.&#10;"/>
+        <action-soccer-other id="ev-439815-1359970" period-minute-elapsed="5" period-value="1" action-type="other" comment="Hernanes!|&#10;Der Brasilianer prüft Wolfsburgs Benaglio mit einem strammen Ding aus 18 Metern. Der Schweizer fliegt und box ihn raus.&#10;"/>
+        <action-soccer-other id="ev-439815-1359967" period-minute-elapsed="4" period-value="1" action-type="other" comment="Palacio trickst|&#10;Der Inter-Stürmer wird vorne freigespielt, hält den Ball zweimal hoch, verliert ihn aber dann.&#10;"/>
+        <action-soccer-other id="ev-439815-1359961" period-minute-elapsed="3" period-value="1" action-type="other" comment="Offensivfoul De Bruyne|&#10;Der Belgier taucht am rechten Strafraumeck auf, aber Schiri Mark Clattenburg pfeift ihn zurück.&#10;"/>
+        <action-soccer-other id="ev-439815-1359958" period-minute-elapsed="1" period-value="1" action-type="other" comment="Inter in blau - und aggressiv!|&#10;Die in weiß gekleideten Wolfsburger merken in den ersten Sekunden der Partie gleich mal, was sich die Mailänder vorgenommen haben. Aggressiver Start.&#10;"/>
+        <action-soccer-other id="ev-439815-1359949" period-minute-elapsed="1" period-value="1" action-type="start1" comment="Spielbeginn|"/>
+        <action-soccer-other id="ev-439815-1359946" period-minute-elapsed="0" period-value="0" action-type="other" comment="Shaqiri nur auf der Bank|&#10;Auf Seiten der Mailänder sitzt Winterneuzugang Xherdan Shaqiri erst einmal nur auf der Bank. Im Zuge der ebenfalls einzigen Änderung bei den heutigen Gastgebern spielt Mateo Kovačić.&#10;"/>
+        <action-soccer-other id="ev-439815-1359943" period-minute-elapsed="0" period-value="0" action-type="other" comment="Naldo fehlt|&#10;Naldo ist im Vergleich zum Hinspiel nicht mit dabei, er fehlt gelbgesperrt. Ansonsten setzt Hecking auf seine zuletzt erfolgreiche Elf. Timm Klose spielt in der Innenverteidigung. Weltmeister Andre Schürrle sitzt weiter nur auf der Bank.&#10;"/>
+        <action-soccer-other id="ev-439815-1359939" period-minute-elapsed="0" period-value="0" action-type="other" comment="Gar nicht so lange her|&#10;Vor fünf Jahren war Inter noch Champions-Leauge-Sieger. Davon ist das Team heute weit entfernt. In der heimischen Liga belegt die Mannschaft von Trainer Roberto Mancini derzeit nur Platz sieben, ganze acht Punkte hat man bereits Rückstand auf den Qualifikationsrang zur Europa League.&#10;"/>
+        <action-soccer-other id="ev-439815-1359935" period-minute-elapsed="0" period-value="0" action-type="other" comment="VfL klarer Favorit|&#10;In der derzeitigen Form ist Wolfsburg klarer Favorit. Denn vom Glanz vergangener Tage ist bei Inter nur noch wenig übrig geblieben.&#10;"/>
+        <action-soccer-other id="ev-439815-1359931" period-minute-elapsed="0" period-value="0" action-type="other" comment="Starker De Bruyne|&#10;Dabei war der VfL früh durch einen Treffer Rodrigo Palacios in Rückstand geraten (6.). Doch der torgefährliche Abwehrchef Naldo sorgte noch vor der Pause für den Ausgleich (28.), dem in Hälfte zwei noch zwei weitere Treffer durch Shootingstar Kevin De Bruyne fogten (63./76.).&#10;"/>
+        <action-soccer-other id="ev-439815-1359922" period-minute-elapsed="0" period-value="0" action-type="other" comment="3:1 im Hinspiel|&#10;Beim Hinspiel vor einer Woche haben sich die Wolfsburger eine glänzende Ausgangsposition für die heutige Rückpartie geschaffen. Vor eigenem Publikum siegte die Mannschaft von Trainer Dieter Hecking im allerersten Duell beider Mannschaften mit 3:1 (1:1).&#10;"/>
+        <action-soccer-other id="ev-439815-1359830" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Wolfsburg|&#10;Benaglio - Träsch, Knoche, Klose, Rodriguez - Guilavogui, Luiz Gustavo - Vieirinha, De Bruyne, D. Caligiuri - Dost&#10;"/>
+        <action-soccer-other id="ev-439815-1359823" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Inter Mailand|&#10;Carrizo - Campagnaro, Ranocchia, Juan Jesus, Santon - Hernanes, Medel, Guarin - Kovacic, Palacio - Icardi&#10;"/>
+        <action-soccer-other id="ev-439815-1357618" period-minute-elapsed="0" period-value="0" action-type="other" comment="Herzlich willkommen...|zum Achtelfinal-Rückspiel in der Europa League. Inter Mailand trifft auf den VfL Wolfsburg.&#10;"/>
+      </event-actions-soccer>
+    </event-actions>
+  </sports-event>
+</sports-content>
