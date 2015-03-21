@@ -459,5 +459,45 @@
     "headline": "",
     "content": "<b>Anpfiff 2. Halbzeit</b>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362723",
+    "tickertime": "21.03.2015 16:32:48",
+    "minute": "46",
+    "headline": "",
+    "content": "<p><b>Keine Wechsel</b></p> <p>Beide Teams spielen vorerst unverändert weiter.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362734",
+    "event": {
+      "id": "15874074",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "451",
+        "name": "Neven Subotić",
+        "firstname": "Neven",
+        "surname": "Subotić",
+        "fullname": "Neven Subotić",
+        "gender": "male",
+        "birthday": "10.12.1988",
+        "height": "193",
+        "weight": "88"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:33"
+    },
+    "tickertime": "21.03.2015 16:33:22",
+    "minute": "46",
+    "headline": "",
+    "content": "<p><b>Gelbe Karte für Neven Subotić (Borussia Dortmund)</b></p> <p>Der Innenverteidiger langt mit dem Ellenbogen gegen Bittencourt hin und holt sich dafür seine siebte Verwarnung in dieser Saison ab.</p>",
+    "syndicate": "s1de"
   }
 ]

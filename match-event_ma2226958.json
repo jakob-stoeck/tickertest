@@ -1372,6 +1372,52 @@
     "created": "21.03.2015 16:16:24"
   },
   {
+    "id": "15874061",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "second-half-start",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:32:06"
+  },
+  {
+    "id": "15874074",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "451",
+      "name": "Neven Subotić",
+      "firstname": "Neven",
+      "surname": "Subotić",
+      "fullname": "Neven Subotić",
+      "gender": "male",
+      "birthday": "10.12.1988",
+      "height": "193",
+      "weight": "88"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:33:21"
+  },
+  {
     "id": "12412",
     "team": {
       "id": "258",
