@@ -1,220 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<game half1-score-home="1" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="2" home-short-name="Hannover" team1-color="plain;8192000;8192000;8192000;16777215" penalty-score-home="0" eventcount="73" team2-color="plain;16763904;16763904;16763904;0" referee-name="Dr. Felix Brych" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="19;Aubameyang|57;Kagawa|61;Aubameyang" id="407556" date="2015-03-21T15:30:00Z" home-long-name="Hannover 96" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="76" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="2" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153332" overtime-score-home="0" home-team-id="951" home-scorer-names="31;Stindl" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
+<game half1-score-home="1" winner="" half3-score-home="0" guest-team-id="258" guest-long-name="Borussia Dortmund" gamestate="2" home-short-name="Hannover" team1-color="plain;8192000;8192000;8192000;16777215" penalty-score-home="0" eventcount="75" team2-color="plain;16763904;16763904;16763904;0" referee-name="Dr. Felix Brych" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="19;Aubameyang|57;Kagawa|61;Aubameyang" id="407556" date="2015-03-21T15:30:00Z" home-long-name="Hannover 96" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="80" half4-score-guest="0" guest-short-name="Dortmund" overtime-score-guest="0" half2-score-guest="2" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153332" overtime-score-home="0" home-team-id="951" home-scorer-names="31;Stindl" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
   <events type="array">
     <event section="2" label="1_39331_407556_1359594" team-id="0" game-id="407556" text="
 zum 26. Spieltag der Fu&#223;ball-Bundesliga. Borussia Dortmund ist bei Hannover 96 zu Gast.
-" headline="Herzlich willkommen..." playername="" id="10891971" date="2015-03-19T15:12:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="72" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Herzlich willkommen..." playername="" id="10891971" date="2015-03-19T15:12:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="74" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1361951" team-id="0" game-id="407556" text="Hannover 96 liegt nach 26 Spieltagen mit 27 Punkten auf Platz 14, Borussia Dortmund steht mit drei Z&#228;hlern mehr auf Rang zehn. Von der Tabellensituation her ist es also durchaus ein Spiel auf Augenh&#246;he.
-" headline="Zur Ausgangslage" playername="" id="10902901" date="2015-03-21T14:00:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="71" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Zur Ausgangslage" playername="" id="10902901" date="2015-03-21T14:00:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="73" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1361954" team-id="0" game-id="407556" text="1 Zieler - 4 Sakai, 25 Marcelo, 20 Felipe, 19 Schulz - 10 Stindl, 5 Sane - 21 Briand, 28 Kiyotake, 32 Bittencourt - 11 Joselu
-" headline="Aufstellung Hannover 96" playername="" id="10902921" date="2015-03-21T14:02:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="70" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Aufstellung Hannover 96" playername="" id="10902921" date="2015-03-21T14:02:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="72" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1361969" team-id="0" game-id="407556" text="1 Weidenfeller - 21 Kirch, 4 Subotic, 15 Hummels, 25 Sokratis - 5 Kehl, 8 G&#252;ndogan - 16 Blaszczykowski, 7 Kagawa, 11 Reus - 17 Aubameyang
-" headline="Aufstellung Borussia Dortmund" playername="" id="10903041" date="2015-03-21T14:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="69" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Aufstellung Borussia Dortmund" playername="" id="10903041" date="2015-03-21T14:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="71" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1361977" team-id="0" game-id="407556" text="F&#252;r den BVB geht es heute nicht nur um drei Punkte, sondern auch darum, die herbe 0:3-Pleite im Achtelfinal-R&#252;ckspiel der Champions League gegen Juventus Turin aus den K&#246;pfen zu kriegen. In der Liga ist man immerhin schon seit sechs Spielen ungeschlagen, auch wenn es zuletzt nur zwei magere 0:0 gab.
-" headline="Kopf hoch und weiter" playername="" id="10903081" date="2015-03-21T14:05:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="68" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Kopf hoch und weiter" playername="" id="10903081" date="2015-03-21T14:05:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="70" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1361996" team-id="0" game-id="407556" text="Auch wenn der Vorsprung der Westfalen auf die Abstiegszone mittlerweile komfortable sieben Punkte betr&#228;gt, sind die internationalen Pl&#228;tze noch lange nicht in Sicht. Acht Z&#228;hler R&#252;ckstand hat man momentan auf Rang sechs.
-" headline="Weiter Weg" playername="" id="10903241" date="2015-03-21T14:08:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="67" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Weiter Weg" playername="" id="10903241" date="2015-03-21T14:08:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="69" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362031" team-id="0" game-id="407556" text="&quot;Warum haben wir nur 30 Punkte? Weil wir verschiedene Sachen nicht richtig machen. Es geht darum, Konstanz reinzubekommen. Der Hauptgrund zur Zeit sind die falschen Entscheidungen in den falschen Momenten. Wir m&#252;ssen uns in den R&#228;umen, die sich uns bieten, richtig verhalten&quot;, gab BVB-Coach J&#252;rgen Klopp die Marschroute vor.
-" headline="Volle Konzentration" playername="" id="10903571" date="2015-03-21T14:14:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="66" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Volle Konzentration" playername="" id="10903571" date="2015-03-21T14:14:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="68" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362048" team-id="0" game-id="407556" text="In Hannover hat man derweil ganz andere Sorgen. Nach neun Spielen ohne Sieg steckt 96 mitten im Abstiegskampf.&amp;nbsp;Der Druck auf Trainer Tayfun Korkut ist enorm. Dennoch sagte Pr&#228;sident Martin Kind zur Bild: &quot;Eine Niederlage ist nicht gleichbedeutend mit Trennung vom Trainer. Es kommt auf die Leistung an.&quot;
-" headline="Mit dem R&#252;cken zur Wand" playername="" id="10903671" date="2015-03-21T14:16:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="65" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Mit dem R&#252;cken zur Wand" playername="" id="10903671" date="2015-03-21T14:16:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="67" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362066" team-id="0" game-id="407556" text="&quot;Mit dem n&#228;chsten Spiel kann sich alles in die andere Richtung entwickeln. Es ist wichtig, dass die Verantwortlichen in so einer Situation zusammenhalten&quot;, &#252;bte sich Korkut im Vorfeld in Durchhalteparolen.
-" headline="Die Hoffnung stirbt zuletzt" playername="" id="10903841" date="2015-03-21T14:18:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="64" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Die Hoffnung stirbt zuletzt" playername="" id="10903841" date="2015-03-21T14:18:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="66" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362083" team-id="0" game-id="407556" text="Verzichten m&#252;ssen die Niedersachsen heute auf die langzeitverletzten Markus Miller und Andre Hoffmann sowie auf Christian Pander (Knieprobleme), Kenan Karaman (grippaler Infekt) und Artur Sobiech (Innenbandprobleme).
-" headline="Hannover ohne F&#252;nf" playername="" id="10904071" date="2015-03-21T14:21:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="63" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Hannover ohne F&#252;nf" playername="" id="10904071" date="2015-03-21T14:21:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="65" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362107" team-id="0" game-id="407556" text="Bei den G&#228;sten fehlen Marcel Schmelzer (Muskelfaserriss), Lukasz Piszczek (Teilriss der Syndesmose), Kevin Gro&#223;kreutz (Muskelb&#252;ndelriss) und Nuri Sahin (Trainingsr&#252;ckstand).
-" headline="BVB-Quartett muss passen" playername="" id="10904281" date="2015-03-21T14:24:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="62" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="BVB-Quartett muss passen" playername="" id="10904281" date="2015-03-21T14:24:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="64" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362135" team-id="0" game-id="407556" text="Nach der Hinrunde lag Hannover &#252;brigens noch neun Punkte vor dem BVB und gewann auch das direkte Duell im Signal Iduna Park mit 1:0.
-" headline="Schnelllebiges Gesch&#228;ft" playername="" id="10904461" date="2015-03-21T14:27:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="61" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Schnelllebiges Gesch&#228;ft" playername="" id="10904461" date="2015-03-21T14:27:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="63" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362167" team-id="0" game-id="407556" text="Gemeinsam setzen DFL, DFB und die Bundesregierung an diesem Spieltag ein Zeichen gegen Diskriminierung. Die Spieler tragen daher entsprechende T-Shirts und halten an der Mittellinie ein gro&#223;es Banner hoch.
-" headline="Aktion gegen Diskriminierung" playername="" id="10904861" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="60" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Aktion gegen Diskriminierung" playername="" id="10904861" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="62" game-minute="-1" player-id="0" gameday-id="39331">
     </event>
-    <event section="1" label="1_39331_407556_1362171" team-id="0" game-id="407556" text="Spielbeginn" headline="Spielbeginn" playername="" id="10904851" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="59" game-minute="1" player-id="0" gameday-id="39331">
+    <event section="1" label="1_39331_407556_1362171" team-id="0" game-id="407556" text="Spielbeginn" headline="Spielbeginn" playername="" id="10904851" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="61" game-minute="1" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362208" team-id="0" game-id="407556" text="Zieler l&#228;sst einen verdeckten Linksschuss von Kuba aus 16 Metern nach vorne abprallen! Aubameyang lauert am F&#252;nfer auf den zweiten Ball, kommt aber nicht dran.
-" headline="Erste Chance f&#252;r den BVB" playername="" id="10904841" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="58" game-minute="1" player-id="0" gameday-id="39331">
+" headline="Erste Chance f&#252;r den BVB" playername="" id="10904841" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="60" game-minute="1" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362219" team-id="0" game-id="407556" text="Die Flanke von links bringt aber keine Gefahr.
-" headline="Erste Ecke f&#252;r Hannover" playername="" id="10904831" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="57" game-minute="3" player-id="0" gameday-id="39331">
+" headline="Erste Ecke f&#252;r Hannover" playername="" id="10904831" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="59" game-minute="3" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362245" team-id="0" game-id="407556" text="Der Franzose sucht den Doppelpass mit Joselu, doch der spielt den Ball nicht genau genug zur&#252;ck.
-" headline="Briand kommt &#252;ber rechts" playername="" id="10904821" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="56" game-minute="4" player-id="0" gameday-id="39331">
+" headline="Briand kommt &#252;ber rechts" playername="" id="10904821" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="58" game-minute="4" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362265" team-id="0" game-id="407556" text="Der BVB-St&#252;rmer f&#228;llt in Strafraumn&#228;he aufreizend leicht und wartet daher vergeblich auf einen Freisto&#223;pfiff.
-" headline="Aubameyang gegen Felipe" playername="" id="10904811" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="55" game-minute="6" player-id="0" gameday-id="39331">
+" headline="Aubameyang gegen Felipe" playername="" id="10904811" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="57" game-minute="6" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362295" team-id="0" game-id="407556" text="Doch dann jagt Briand den Ball von rechts unbedr&#228;ngt ins Toraus. Da geht schon ein Raunen durchs Stadion...
-" headline="Sch&#246;ner Seitenwechsel von Bittencourt" playername="" id="10904801" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="54" game-minute="8" player-id="0" gameday-id="39331">
+" headline="Sch&#246;ner Seitenwechsel von Bittencourt" playername="" id="10904801" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="56" game-minute="8" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362315" team-id="0" game-id="407556" text="Der BVB-Keeper will einen hohen Ball wegfausten, doch der Abwehrchef geht mit dem Kopf dazwischen.
-" headline="Missverst&#228;ndnis zwischen Weidenfeller und Hummels" playername="" id="10904791" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:05:14Z" sort="53" game-minute="9" player-id="0" gameday-id="39331">
+" headline="Missverst&#228;ndnis zwischen Weidenfeller und Hummels" playername="" id="10904791" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="0" updated-at="2015-03-21T16:08:28Z" sort="55" game-minute="9" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362333" team-id="0" game-id="407556" text="Das Tempo ist noch sehr &#252;berschaubar. Beide Teams belauern sich im Mittelfeld, wollen aber noch nicht das ganz gro&#223;e Risiko eingehen.
-" headline="Zehn Minuten sind gespielt" playername="" id="10904781" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="52" game-minute="11" player-id="0" gameday-id="39331">
+" headline="Zehn Minuten sind gespielt" playername="" id="10904781" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="54" game-minute="11" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362366" team-id="0" game-id="407556" text="Die G&#228;ste kombinieren sich durchaus gef&#228;llig nach vorne. Am Strafraum wird es aber sehr schnell sehr eng. Und dann f&#228;llt Kirchs Flanke von rechts auch noch viel zu ungenau aus.
-" headline="Der BVB l&#228;sst den Ball laufen" playername="" id="10904771" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="51" game-minute="13" player-id="0" gameday-id="39331">
+" headline="Der BVB l&#228;sst den Ball laufen" playername="" id="10904771" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="53" game-minute="13" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362383" team-id="0" game-id="407556" text="Der 96-Kapit&#228;n bringt im Strafraum aus zw&#246;lf Metern keinen Druck hinter seinen Linksschuss - dankbarer erster Ball f&#252;r Weidenfeller.
-" headline="R&#252;ckgabe von Stindl" playername="" id="10904761" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="50" game-minute="14" player-id="0" gameday-id="39331">
+" headline="R&#252;ckgabe von Stindl" playername="" id="10904761" date="2015-03-21T14:46:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="52" game-minute="14" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362399" team-id="0" game-id="407556" text="Das sieht elegant aus, die Flanke des Japaners von der linken Seite landet allerdings direkt in Zielers Armen.
-" headline="Kagawa setzt zum &#220;bersteiger an" playername="" id="10906421" date="2015-03-21T14:48:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="49" game-minute="15" player-id="0" gameday-id="39331">
+" headline="Kagawa setzt zum &#220;bersteiger an" playername="" id="10906421" date="2015-03-21T14:48:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="51" game-minute="15" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362436" team-id="0" game-id="407556" text="Der Weltmeister kl&#228;rt gegen Stindl mit vollem K&#246;rpereinsatz zur Ecke. Diese bleibt ohne Folgen.
-" headline="Robuster Einsatz von Hummels" playername="" id="10906591" date="2015-03-21T14:50:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:14Z" sort="48" game-minute="18" player-id="0" gameday-id="39331">
+" headline="Robuster Einsatz von Hummels" playername="" id="10906591" date="2015-03-21T14:50:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="50" game-minute="18" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362456" team-id="0" game-id="407556" text="Nach Vorarbeit von Kuba spielt Reus den Ball perfekt in die Gasse f&#252;r Aubameyang. Der St&#252;rmer startet durch und schie&#223;t aus zw&#246;lf Metern mit rechts ins lange Eck! Sein elfter Saisontreffer.
-" headline="Tooor f&#252;r Borussia Dortmund, 0:1 durch Pierre-Emerick Aubameyang" playername="Aubameyang" id="10906771" date="2015-03-21T14:52:23Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T16:05:14Z" sort="47" game-minute="19" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Borussia Dortmund, 0:1 durch Pierre-Emerick Aubameyang" playername="Aubameyang" id="10906771" date="2015-03-21T14:52:23Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T16:08:28Z" sort="49" game-minute="19" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362476" team-id="0" game-id="407556" text="&#220;ber mangelnde Effizienz k&#246;nnen sich die Borussen heute im Gegensatz zu den vergangenen beiden Partien nicht beschweren.
-" headline="Zweite Torchance, erster Treffer" playername="" id="10906951" date="2015-03-21T14:55:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="46" game-minute="21" player-id="0" gameday-id="39331">
+" headline="Zweite Torchance, erster Treffer" playername="" id="10906951" date="2015-03-21T14:55:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="48" game-minute="21" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362487" team-id="0" game-id="407556" text="Der Spanier nimmt den Ball aus 15 Metern direkt mit rechts - abgeblockt!
-" headline="Stindl bringt Joselu in Stellung" playername="" id="10906941" date="2015-03-21T14:55:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="45" game-minute="23" player-id="0" gameday-id="39331">
+" headline="Stindl bringt Joselu in Stellung" playername="" id="10906941" date="2015-03-21T14:55:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="47" game-minute="23" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362496" team-id="0" game-id="407556" text="Aber die Standards der Hausherren sind bislang komplett harmlos.
-" headline="Ecke f&#252;r die 96er" playername="" id="10907061" date="2015-03-21T14:57:15Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="44" game-minute="24" player-id="0" gameday-id="39331">
+" headline="Ecke f&#252;r die 96er" playername="" id="10907061" date="2015-03-21T14:57:15Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="46" game-minute="24" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362508" team-id="0" game-id="407556" text="Nach Torsch&#252;ssen steht es momentan 3:3 und auch beim Ballbesitz halten sich die Teams die Waage. Mehr Daten zum Spiel finden Sie im LIVETICKER im Bereich Statistik.
-" headline="Ausgeglichene Verh&#228;ltnisse" playername="" id="10907151" date="2015-03-21T14:59:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="43" game-minute="26" player-id="0" gameday-id="39331">
+" headline="Ausgeglichene Verh&#228;ltnisse" playername="" id="10907151" date="2015-03-21T14:59:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="45" game-minute="26" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362519" team-id="0" game-id="407556" text="Der Ball segelt aber einen Tick zu hoch in den Sechzehner und ist f&#252;r den Kapit&#228;n nicht zu erreichen. Weidenfeller schnappt sich die Kugel.
-" headline="Bittencourt in den Lauf von Stindl" playername="" id="10907141" date="2015-03-21T14:59:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="42" game-minute="27" player-id="0" gameday-id="39331">
+" headline="Bittencourt in den Lauf von Stindl" playername="" id="10907141" date="2015-03-21T14:59:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="44" game-minute="27" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362539" team-id="0" game-id="407556" text="Die Hausherren wirken momentan ein wenig ratlos und spielen den Ball ein ums andere Mal nach hinten statt nach vorne. Zieler hat darum mehr Ballkontakte, als ihm lieb sein d&#252;rfte.
-" headline="Immer wieder R&#252;ckp&#228;sse" playername="" id="10907271" date="2015-03-21T15:01:57Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="41" game-minute="29" player-id="0" gameday-id="39331">
+" headline="Immer wieder R&#252;ckp&#228;sse" playername="" id="10907271" date="2015-03-21T15:01:57Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="43" game-minute="29" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362550" team-id="0" game-id="407556" text="sind klare Torchancen hier absolute Mangelware. Hannover f&#228;llt nichts ein und Dortmund beschr&#228;nkt sich momentan auf Konter.
-" headline="Nach einer halben Stunde..." playername="" id="10907361" date="2015-03-21T15:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="40" game-minute="30" player-id="0" gameday-id="39331">
+" headline="Nach einer halben Stunde..." playername="" id="10907361" date="2015-03-21T15:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="42" game-minute="30" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362559" team-id="0" game-id="407556" text="Aus heiterem Himmel gelingt Hannover der Ausgleich! Bittencourt st&#246;&#223;t &#252;ber links in den Sechzehner vor und spielt dann flach zur&#252;ck in den R&#252;cken der Abwehr. Dort steht Stindl und schie&#223;t aus zehn Metern mit rechts flach ins lange Eck! Sein f&#252;nfter Saisontreffer.
-" headline="Tooor f&#252;r Hannover 96, 1:1 durch Lars Stindl" playername="Stindl" id="10907351" date="2015-03-21T15:03:53Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:05:13Z" sort="39" game-minute="31" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Hannover 96, 1:1 durch Lars Stindl" playername="Stindl" id="10907351" date="2015-03-21T15:03:53Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:08:28Z" sort="41" game-minute="31" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362572" team-id="0" game-id="407556" text="Nachdem es in der ersten halben Stunde kr&#228;ftig geregnet hat, ist nun sogar die Sonne herausgekommen.
-" headline="Aprilwetter in Hannover" playername="" id="10907451" date="2015-03-21T15:06:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="38" game-minute="33" player-id="0" gameday-id="39331">
+" headline="Aprilwetter in Hannover" playername="" id="10907451" date="2015-03-21T15:06:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="40" game-minute="33" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362585" team-id="0" game-id="407556" text="Hannover kontert im eigenen Stadion. Briand legt musterg&#252;ltig quer zum mitgelaufenen Bittencourt. Der hat aus 17 Metern freie Schussbahn, verzieht aber mit links - weit vorbei!
-" headline="Fast die F&#252;hrung f&#252;r 96!" playername="" id="10907491" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="37" game-minute="35" player-id="0" gameday-id="39331">
+" headline="Fast die F&#252;hrung f&#252;r 96!" playername="" id="10907491" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="39" game-minute="35" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362595" team-id="0" game-id="407556" text="Der Rechtsverteidiger kehrt eine flache Hereingabe von Sakai aus dem F&#252;nfer. Jetzt macht 96 pl&#246;tzlich Dampf!
-" headline="Kirch passt auf " playername="" id="10907481" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="36" game-minute="36" player-id="0" gameday-id="39331">
+" headline="Kirch passt auf " playername="" id="10907481" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="38" game-minute="36" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362599" team-id="0" game-id="407556" text="Nach einer Ecke von rechts setzt der Brasilianer den Ball aus sechs Metern &#252;ber die Latte.
-" headline="Marcelo per Kopf" playername="" id="10907471" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="35" game-minute="36" player-id="0" gameday-id="39331">
+" headline="Marcelo per Kopf" playername="" id="10907471" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="37" game-minute="36" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362610" team-id="0" game-id="407556" text="Der St&#252;rmer ist schneller als der Verteidiger, bugsiert den Ball auch noch am herausst&#252;rmenden Zieler vorbei, doch bei dem Pressschlag kriegt die Kugel zu viel Drall und trudelt ins Toraus.
-" headline="Aubameyang gegen Felipe" playername="" id="10907591" date="2015-03-21T15:11:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="34" game-minute="37" player-id="0" gameday-id="39331">
+" headline="Aubameyang gegen Felipe" playername="" id="10907591" date="2015-03-21T15:11:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:28Z" sort="36" game-minute="37" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362615" team-id="0" game-id="407556" text="Der Schlussmann entsch&#228;rft eine Flanke von Stindl.
-" headline="Weidenfeller ist da" playername="" id="10907581" date="2015-03-21T15:11:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="33" game-minute="39" player-id="0" gameday-id="39331">
+" headline="Weidenfeller ist da" playername="" id="10907581" date="2015-03-21T15:11:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="35" game-minute="39" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362638" team-id="0" game-id="407556" text="Nach Foul von Sakai an Reus, der den ruhenden Ball aus dem Mittelfeld hoch in den Sechzehner schaufelt - aber genau auf Zieler.
-" headline="Freisto&#223; f&#252;r den BVB" playername="" id="10907661" date="2015-03-21T15:13:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="32" game-minute="41" player-id="0" gameday-id="39331">
+" headline="Freisto&#223; f&#252;r den BVB" playername="" id="10907661" date="2015-03-21T15:13:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="34" game-minute="41" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362648" team-id="0" game-id="407556" text="Kiyotake serviert von links, aber am F&#252;nfer l&#228;sst Hummels nichts anbrennen.
-" headline="F&#252;nfte Ecke f&#252;r die Hausherren" playername="" id="10907731" date="2015-03-21T15:14:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="31" game-minute="42" player-id="0" gameday-id="39331">
+" headline="F&#252;nfte Ecke f&#252;r die Hausherren" playername="" id="10907731" date="2015-03-21T15:14:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="33" game-minute="42" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362659" team-id="0" game-id="407556" text="Und kommt darum momentan kaum noch &#252;ber die Mittellinie. Da ist seit dem Ausgleich schon ein Bruch im Spiel zu erkennen.
-" headline="Der BVB verliert die B&#228;lle zu schnell" playername="" id="10907771" date="2015-03-21T15:16:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="30" game-minute="44" player-id="0" gameday-id="39331">
+" headline="Der BVB verliert die B&#228;lle zu schnell" playername="" id="10907771" date="2015-03-21T15:16:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="32" game-minute="44" player-id="0" gameday-id="39331">
     </event>
     <event section="1" label="1_39331_407556_1362671" team-id="0" game-id="407556" text="Halbzeit-Fazit: Verdientes Remis nach einer m&#228;&#223;igen ersten H&#228;lfte mit wenigen Highlights. Der BVB ist in der ersten halben Stunde etwas besser bzw. effizienter, aber ohne zu gl&#228;nzen. Hannover gleicht zwar ziemlich &#252;berraschend aus, verdient sich danach aber dieses 1:1 zur Pause mit viel Leidenschaft und Mut.
-" headline="Ende 1. Halbzeit" playername="" id="10907841" date="2015-03-21T15:18:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="29" game-minute="45" player-id="0" gameday-id="39331">
+" headline="Ende 1. Halbzeit" playername="" id="10907841" date="2015-03-21T15:18:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="31" game-minute="45" player-id="0" gameday-id="39331">
     </event>
-    <event section="2" label="1_39331_407556_1362716" team-id="0" game-id="407556" text="Anpfiff 2. Halbzeit" headline="Anpfiff 2. Halbzeit" playername="" id="10907921" date="2015-03-21T15:34:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="28" game-minute="46" player-id="0" gameday-id="39331">
+    <event section="2" label="1_39331_407556_1362716" team-id="0" game-id="407556" text="Anpfiff 2. Halbzeit" headline="Anpfiff 2. Halbzeit" playername="" id="10907921" date="2015-03-21T15:34:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="30" game-minute="46" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362723" team-id="0" game-id="407556" text="Beide Teams spielen vorerst unver&#228;ndert weiter.
-" headline="Keine Wechsel" playername="" id="10907911" date="2015-03-21T15:34:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="27" game-minute="46" player-id="0" gameday-id="39331">
+" headline="Keine Wechsel" playername="" id="10907911" date="2015-03-21T15:34:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="29" game-minute="46" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362734" team-id="0" game-id="407556" text="Der Innenverteidiger langt mit dem Ellenbogen gegen Bittencourt hin und holt sich daf&#252;r seine siebte Verwarnung in dieser Saison ab.
-" headline="Gelbe Karte f&#252;r Neven Suboti&#263; (Borussia Dortmund)" playername="" id="10907971" date="2015-03-21T15:35:33Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="26" game-minute="46" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Neven Suboti&#263; (Borussia Dortmund)" playername="" id="10907971" date="2015-03-21T15:35:33Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="28" game-minute="46" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362745" team-id="0" game-id="407556" text="Diesmal gr&#228;tscht der Serbe am Strafraum Joselu fair den Ball vom Fu&#223;.
-" headline="Starkes Tackling von Subotic" playername="" id="10908001" date="2015-03-21T15:37:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="25" game-minute="47" player-id="0" gameday-id="39331">
+" headline="Starkes Tackling von Subotic" playername="" id="10908001" date="2015-03-21T15:37:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="27" game-minute="47" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362762" team-id="0" game-id="407556" text="Der Youngster steigt Kuba im Mittelfeld auf den Fu&#223; und wird daf&#252;r zum sechsten Mal in dieser Saison verwarnt.
-" headline="Gelbe Karte f&#252;r Leonardo Bittencourt (Hannover 96)" playername="" id="10908061" date="2015-03-21T15:38:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="24" game-minute="49" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Leonardo Bittencourt (Hannover 96)" playername="" id="10908061" date="2015-03-21T15:38:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="26" game-minute="49" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362773" team-id="0" game-id="407556" text="Der Senegalese kr&#252;mmt sich nach einem Zweikampf mit Subotic vor Schmerzen und muss behandelt werden. Das Knie scheint ihm Probleme zu machen.
-" headline="Sane liegt im eigenen Strafraum am Boden" playername="" id="10908051" date="2015-03-21T15:38:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="23" game-minute="50" player-id="0" gameday-id="39331">
+" headline="Sane liegt im eigenen Strafraum am Boden" playername="" id="10908051" date="2015-03-21T15:38:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="25" game-minute="50" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362786" team-id="0" game-id="407556" text="Nach kurzer Behandlungspause kehrt der Sechser auf den Rasen zur&#252;ck. Hannover ist damit wieder vollz&#228;hlig.
-" headline="Sane bei&#223;t auf die Z&#228;hne" playername="" id="10908101" date="2015-03-21T15:40:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="22" game-minute="52" player-id="0" gameday-id="39331">
+" headline="Sane bei&#223;t auf die Z&#228;hne" playername="" id="10908101" date="2015-03-21T15:40:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="24" game-minute="52" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362798" team-id="0" game-id="407556" text="Am zweiten Pfosten k&#246;pft Joselu aus spitzem Winkel - doch Hummels kl&#228;rt auf der Linie!
-" headline="Sakai flankt aus vollem Lauf von rechts" playername="" id="10908201" date="2015-03-21T15:42:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="21" game-minute="54" player-id="0" gameday-id="39331">
+" headline="Sakai flankt aus vollem Lauf von rechts" playername="" id="10908201" date="2015-03-21T15:42:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="23" game-minute="54" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362810" team-id="0" game-id="407556" text="Der Mittelfeldspieler zieht fernab des Strafraums gegen Kehl voll durch und fliegt daf&#252;r mit seiner zweiten Verwarnung in diesem Spiel vom Platz! Unn&#246;tige Aktion!
-" headline="Gelb-Rote Karte f&#252;r Leonardo Bittencourt (Hannover 96)" playername="" id="10908231" date="2015-03-21T15:43:31Z" type-id="32" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="20" game-minute="55" player-id="0" gameday-id="39331">
+" headline="Gelb-Rote Karte f&#252;r Leonardo Bittencourt (Hannover 96)" playername="" id="10908231" date="2015-03-21T15:43:31Z" type-id="32" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="22" game-minute="55" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362825" team-id="0" game-id="407556" text="Kiyotake flankt von rechts zum zweiten Pfosten, findet jedoch keinen Abnehmer.
-" headline="Ecke f&#252;r die Niedersachsen" playername="" id="10908291" date="2015-03-21T15:45:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="19" game-minute="57" player-id="0" gameday-id="39331">
+" headline="Ecke f&#252;r die Niedersachsen" playername="" id="10908291" date="2015-03-21T15:45:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="21" game-minute="57" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362830" team-id="0" game-id="407556" text="Kuba treibt den Ball durchs Mittelfeld und schickt Reus sch&#246;n in den Strafraum. Der hat das Auge f&#252;r den mitgelaufenen Kagawa, der aus acht Metern zu seinem zweiten Saisontor ins leere Tor einschiebt! Toller Angriff!
-" headline="Tooor f&#252;r Borussia Dortmund, 1:2 durch Shinji Kagawa" playername="Kagawa" id="10908351" date="2015-03-21T15:46:46Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T16:05:13Z" sort="18" game-minute="57" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Borussia Dortmund, 1:2 durch Shinji Kagawa" playername="Kagawa" id="10908351" date="2015-03-21T15:46:46Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T16:08:27Z" sort="20" game-minute="57" player-id="0" gameday-id="39331">
     </event>
-    <event section="2" label="1_39331_407556_1362846" team-id="0" game-id="407556" text=" Jeremy Dudziak f&#252;r Oliver Kirch" headline="Wechsel bei Borussia Dortmund " playername="" id="10908341" date="2015-03-21T15:46:46Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="17" game-minute="58" player-id="0" gameday-id="39331">
+    <event section="2" label="1_39331_407556_1362846" team-id="0" game-id="407556" text=" Jeremy Dudziak f&#252;r Oliver Kirch" headline="Wechsel bei Borussia Dortmund " playername="" id="10908341" date="2015-03-21T15:46:46Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="19" game-minute="58" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362858" team-id="0" game-id="407556" text="Der 19-J&#228;hrige kommt zu seinem ersten Bundesliga-Einsatz f&#252;r den BVB.
-" headline="Deb&#252;t f&#252;r Dudziak" playername="" id="10908461" date="2015-03-21T15:48:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="16" game-minute="59" player-id="0" gameday-id="39331">
+" headline="Deb&#252;t f&#252;r Dudziak" playername="" id="10908461" date="2015-03-21T15:48:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="18" game-minute="59" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362864" team-id="0" game-id="407556" text="Mit dem ersten Torschuss nach dem 1:0 von Aubameyang geht Dortmund hier erneut in F&#252;hrung. Viele Chancen brauchen die Borussen heute wirklich nicht.
-" headline="Eiskalter BVB" playername="" id="10908451" date="2015-03-21T15:48:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="15" game-minute="60" player-id="0" gameday-id="39331">
+" headline="Eiskalter BVB" playername="" id="10908451" date="2015-03-21T15:48:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="17" game-minute="60" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362879" team-id="0" game-id="407556" text="Kagawa flankt von links mit dem rechten Au&#223;enrist mit viel Schnitt an den F&#252;nfer. Dort muss Aubameyang nur noch den Kopf hinhalten - und drin ist das Ding! Sein zw&#246;lfter Saisontor wird mit einem eingesprungenen Salto gefeiert!
-" headline="Tooor f&#252;r Borussia Dortmund, 1:3 durch Pierre-Emerick Aubameyang" playername="Aubameyang" id="10908521" date="2015-03-21T15:50:04Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T16:05:13Z" sort="14" game-minute="61" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Borussia Dortmund, 1:3 durch Pierre-Emerick Aubameyang" playername="Aubameyang" id="10908521" date="2015-03-21T15:50:04Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T16:08:27Z" sort="16" game-minute="61" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362897" team-id="0" game-id="407556" text="
 Die Ballkontakte sprechen ganz klar f&#252;r Hannover (430:370), doch daf&#252;r kann man sich bekanntlich nichts kaufen...
-" headline="96 hat mehr vom Spiel" playername="" id="10908661" date="2015-03-21T15:53:36Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="13" game-minute="64" player-id="0" gameday-id="39331">
+" headline="96 hat mehr vom Spiel" playername="" id="10908661" date="2015-03-21T15:53:36Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="15" game-minute="64" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362904" team-id="0" game-id="407556" text="Reus zirkelt die Flanke von links aber direkt in Zielers Arme.
-" headline="Erste Ecke f&#252;r die Westfalen" playername="" id="10908641" date="2015-03-21T15:53:36Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="12" game-minute="64" player-id="0" gameday-id="39331">
+" headline="Erste Ecke f&#252;r die Westfalen" playername="" id="10908641" date="2015-03-21T15:53:36Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="14" game-minute="64" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362915" team-id="0" game-id="407556" text="Doch der Rechtsschuss des Nationalspielers aus 14 Metern wird abgeblockt.
-" headline="Kuba legt ab f&#252;r Reus" playername="" id="10908691" date="2015-03-21T15:54:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="11" game-minute="66" player-id="0" gameday-id="39331">
+" headline="Kuba legt ab f&#252;r Reus" playername="" id="10908691" date="2015-03-21T15:54:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="13" game-minute="66" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362933" team-id="0" game-id="407556" text="Trotz Unterzahl erh&#246;hen die Hannoveraner nun notgedrungen das Risiko, um hier vielleicht doch nochmal f&#252;r Spannung zu sorgen.
-" headline="96 steckt nicht auf" playername="" id="10908751" date="2015-03-21T15:56:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="10" game-minute="68" player-id="0" gameday-id="39331">
+" headline="96 steckt nicht auf" playername="" id="10908751" date="2015-03-21T15:56:02Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="12" game-minute="68" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362956" team-id="0" game-id="407556" text="Aber es bleibt dabei: Gefahr entsteht daraus nicht. Was aber auch daran liegt, dass die Hintermannschaft des BVB wirklich einen guten Job macht.
-" headline="Achte Ecke f&#252;r Hannover" playername="" id="10908871" date="2015-03-21T15:59:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="9" game-minute="69" player-id="0" gameday-id="39331">
+" headline="Achte Ecke f&#252;r Hannover" playername="" id="10908871" date="2015-03-21T15:59:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="11" game-minute="69" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362967" team-id="0" game-id="407556" text="Der pfeilschnelle St&#252;rmer sucht das Laufduell mit Felipe, doch der stellt ganz geschickt den K&#246;rper dazwischen und schnappt sich den Ball.
-" headline="G&#252;ndogan schickt Aubameyang steil" playername="" id="10908861" date="2015-03-21T15:59:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="8" game-minute="70" player-id="0" gameday-id="39331">
+" headline="G&#252;ndogan schickt Aubameyang steil" playername="" id="10908861" date="2015-03-21T15:59:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="10" game-minute="70" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362972" team-id="0" game-id="407556" text="Wegen Ballwegschlagens. F&#252;r den Senegalesen ist es die vierte Gelbe Karte in dieser Spielzeit.
-" headline="Gelbe Karte f&#252;r Salif San&#233; (Hannover 96)" playername="" id="10908981" date="2015-03-21T16:00:45Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="7" game-minute="71" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Salif San&#233; (Hannover 96)" playername="" id="10908981" date="2015-03-21T16:00:45Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="9" game-minute="71" player-id="0" gameday-id="39331">
     </event>
-    <event section="2" label="1_39331_407556_1362979" team-id="0" game-id="407556" text=" Edgar Prib f&#252;r Jimmy Briand" headline="Wechsel bei Hannover 96 " playername="" id="10908971" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="6" game-minute="72" player-id="0" gameday-id="39331">
+    <event section="2" label="1_39331_407556_1362979" team-id="0" game-id="407556" text=" Edgar Prib f&#252;r Jimmy Briand" headline="Wechsel bei Hannover 96 " playername="" id="10908971" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="8" game-minute="72" player-id="0" gameday-id="39331">
     </event>
-    <event section="2" label="1_39331_407556_1362986" team-id="0" game-id="407556" text=" Miiko Albornoz f&#252;r Christian Schulz" headline="Wechsel bei Hannover 96 " playername="" id="10908961" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="5" game-minute="72" player-id="0" gameday-id="39331">
+    <event section="2" label="1_39331_407556_1362986" team-id="0" game-id="407556" text=" Miiko Albornoz f&#252;r Christian Schulz" headline="Wechsel bei Hannover 96 " playername="" id="10908961" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="7" game-minute="72" player-id="0" gameday-id="39331">
     </event>
-    <event section="2" label="1_39331_407556_1362992" team-id="0" game-id="407556" text=" Sven Bender f&#252;r &#304;lkay G&#252;ndo&#287;an" headline="Wechsel bei Borussia Dortmund " playername="" id="10908951" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="4" game-minute="72" player-id="0" gameday-id="39331">
+    <event section="2" label="1_39331_407556_1362992" team-id="0" game-id="407556" text=" Sven Bender f&#252;r &#304;lkay G&#252;ndo&#287;an" headline="Wechsel bei Borussia Dortmund " playername="" id="10908951" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="6" game-minute="72" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1362997" team-id="0" game-id="407556" text="Kuba flankt von links, aber 96 kann sich erstmal befreien.
-" headline="Ecke f&#252;r den BVB" playername="" id="10909011" date="2015-03-21T16:02:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="3" game-minute="73" player-id="0" gameday-id="39331">
+" headline="Ecke f&#252;r den BVB" playername="" id="10909011" date="2015-03-21T16:02:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="5" game-minute="73" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1363012" team-id="0" game-id="407556" text="Nach einer zu kurz gekl&#228;rten Ecke von links setzt der Nationalspieler den Nachschuss aus 18 Metern &#252;bers Tor.
-" headline="Reus aus der zweiten Reihe" playername="" id="10909051" date="2015-03-21T16:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="2" game-minute="75" player-id="0" gameday-id="39331">
+" headline="Reus aus der zweiten Reihe" playername="" id="10909051" date="2015-03-21T16:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="4" game-minute="75" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1363025" team-id="0" game-id="407556" text="&#220;ber Aubameyang kommt der Ball zu Kuba, der von links direkt weiterspielt zu Reus - doch der kommt zw&#246;lf Meter vor dem Tor einen halben Schritt zu sp&#228;t!
-" headline="Sch&#246;ne Kombination" playername="" id="10909111" date="2015-03-21T16:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="1" game-minute="76" player-id="0" gameday-id="39331">
+" headline="Sch&#246;ne Kombination" playername="" id="10909111" date="2015-03-21T16:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="3" game-minute="76" player-id="0" gameday-id="39331">
     </event>
     <event section="2" label="1_39331_407556_1363031" team-id="0" game-id="407556" text="Der Grieche zwingt Zieler mit einem satten Rechtsschuss aus spitzem Winkel zur Parade!
-" headline="Sokratis mit Gewalt" playername="" id="10909101" date="2015-03-21T16:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:05:13Z" sort="0" game-minute="76" player-id="0" gameday-id="39331">
+" headline="Sokratis mit Gewalt" playername="" id="10909101" date="2015-03-21T16:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="2" game-minute="76" player-id="0" gameday-id="39331">
+    </event>
+    <event section="2" label="1_39331_407556_1363055" team-id="0" game-id="407556" text="Dem Chilenen verspringt der Ball bei der Annahme - und dann stolpert er auch noch mit dem Spielger&#228;t &#252;ber die Seitenlinie...
+" headline="Schnitzer von Albornoz" playername="" id="10909211" date="2015-03-21T16:08:27Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="1" game-minute="78" player-id="0" gameday-id="39331">
+    </event>
+    <event section="2" label="1_39331_407556_1363064" team-id="0" game-id="407556" text="Und allm&#228;hlich l&#228;uft den Niedersachsen nat&#252;rlich die Zeit davon. Was kann 96 hier noch in die Waagschale werfen?
+" headline="Zehn Minuten bleiben zu spielen" playername="" id="10909201" date="2015-03-21T16:08:27Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:08:27Z" sort="0" game-minute="80" player-id="0" gameday-id="39331">
     </event>
   </events>
   <tabs type="array">

@@ -849,5 +849,69 @@
     "headline": "",
     "content": "<p><b>Ruhige Phase für Bürki</b></p> <p>Auf der Gegenseite deutet sich das ganz große Anlaufen der Gäste noch nicht an, jedenfalls hat Roman Bürki in diesen Minuten wenig zu tun.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363085",
+    "event": {
+      "id": "15874943",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "159559",
+        "name": "Jonathan Schmid",
+        "firstname": "Jonathan",
+        "surname": "Schmid",
+        "fullname": "Jonathan Schmid",
+        "gender": "male",
+        "birthday": "26.06.1990",
+        "height": "179",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:08"
+    },
+    "tickertime": "21.03.2015 17:08:33",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Freiburg -> Jonathan Schmid</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363088",
+    "event": {
+      "id": "15874944",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "172176",
+        "name": "Vladimír Darida",
+        "firstname": "Vladimír",
+        "surname": "Darida",
+        "fullname": "Vladimír Darida",
+        "gender": "male",
+        "birthday": "08.08.1990",
+        "height": "171",
+        "weight": "64"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:08"
+    },
+    "tickertime": "21.03.2015 17:08:44",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Freiburg -> Vladimír Darida</span>",
+    "syndicate": "s1de"
   }
 ]

@@ -5,13 +5,13 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="72" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="82" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
         <name full="Hannover 96" middle="Hannover" id="t-1" extid="te-951"/>
       </team-metadata>
-      <team-stats score="1" score-attempts="0">
+      <team-stats score="2" score-attempts="0">
         <sports-property formal-name="possession" value="50"/>
         <sports-property formal-name="duels-won" value="0"/>
         <team-stats-soccer>
@@ -177,7 +177,7 @@
         <player-metadata position-event="midfield" status="starter" uniform-number="10" lineup-slot="x:-3,y:6">
           <name last="Stindl"/>
         </player-metadata>
-        <player-stats score="1">
+        <player-stats score="2">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
             <stats-soccer-foul cautions-total="0" ejections-total="0"/>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-score id="ev-407556-1363096" period-minute-elapsed="82" period-value="2" comment="Tooor für  Hannover 96, 2:3 durch Lars Stindl|&#10;" team-idref="t-1" score-team="2" score-team-opposing="3" player-idref="pl-16487" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-407556-1363076" period-minute-elapsed="80" period-value="2" action-type="other" comment="Reus ans Aluminium|Nach Vorarbeit von Kuba schießt Reus aus 14 Metern - aber Zieler lenkt den Ball noch mit dem Fuß an den linken Pfosten!&#10;"/>
         <action-soccer-other id="ev-407556-1363064" period-minute-elapsed="80" period-value="2" action-type="other" comment="Zehn Minuten bleiben zu spielen|Und allmählich läuft den Niedersachsen natürlich die Zeit davon. Was kann 96 hier noch in die Waagschale werfen?&#10;"/>
         <action-soccer-other id="ev-407556-1363055" period-minute-elapsed="78" period-value="2" action-type="other" comment="Schnitzer von Albornoz|Dem Chilenen verspringt der Ball bei der Annahme - und dann stolpert er auch noch mit dem Spielgerät über die Seitenlinie...&#10;"/>
         <action-soccer-other id="ev-407556-1363031" period-minute-elapsed="76" period-value="2" action-type="other" comment="Sokratis mit Gewalt|Der Grieche zwingt Zieler mit einem satten Rechtsschuss aus spitzem Winkel zur Parade!&#10;"/>

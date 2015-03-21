@@ -1583,6 +1583,76 @@
     "created": "21.03.2015 17:02:20"
   },
   {
+    "id": "15874943",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "159559",
+      "name": "Jonathan Schmid",
+      "firstname": "Jonathan",
+      "surname": "Schmid",
+      "fullname": "Jonathan Schmid",
+      "gender": "male",
+      "birthday": "26.06.1990",
+      "height": "179",
+      "weight": "77"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:08:32"
+  },
+  {
+    "id": "15874944",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "172176",
+      "name": "Vladimír Darida",
+      "firstname": "Vladimír",
+      "surname": "Darida",
+      "fullname": "Vladimír Darida",
+      "gender": "male",
+      "birthday": "08.08.1990",
+      "height": "171",
+      "weight": "64"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:08:44"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
