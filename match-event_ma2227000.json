@@ -1478,7 +1478,7 @@
     "created": "21.03.2015 16:45:35"
   },
   {
-    "id": "15874219",
+    "id": "15875207",
     "team": {
       "id": "2076",
       "name": "VfB Stuttgart",
@@ -1510,7 +1510,7 @@
     "kind": "substitute-in",
     "minute": "58",
     "additional_person_id": "0",
-    "created": "21.03.2015 16:45:45"
+    "created": "21.03.2015 16:45:59"
   },
   {
     "id": "15874430",
@@ -1821,6 +1821,17 @@
     "minute": "89",
     "additional_person_id": "0",
     "created": "21.03.2015 17:16:29"
+  },
+  {
+    "id": "15875211",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "game-end",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:20:49"
   },
   {
     "id": "1200699",
