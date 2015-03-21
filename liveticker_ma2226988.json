@@ -673,6 +673,14 @@
     "syndicate": "s1de"
   },
   {
+    "id": "1362969",
+    "tickertime": "21.03.2015 16:57:29",
+    "minute": "69",
+    "headline": "",
+    "content": "<p><b>Was ist nur mit 1899 los? </b></p> <p>Die Sinsheimer bringen in der zweiten Hälfte&nbsp;kaum einen Pass an den Mann. Doch noch steht es 0:0, der Dreier ist also aus Sicht der Gäste absolut in Reichweite.</p>",
+    "syndicate": "s1de"
+  },
+  {
     "id": "1362963",
     "event": {
       "id": "15874551",
@@ -702,6 +710,38 @@
     "minute": "70",
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei SC Paderborn 07 -> Jens Wemmer</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362966",
+    "event": {
+      "id": "15874552",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "26973",
+        "name": "Süleyman Koç",
+        "firstname": "Süleyman",
+        "surname": "Koç",
+        "fullname": "Süleyman Koç",
+        "gender": "male",
+        "birthday": "09.06.1989",
+        "height": "178",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "70",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:57"
+    },
+    "tickertime": "21.03.2015 16:57:49",
+    "minute": "70",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Paderborn 07 -> Süleyman Koç</span>",
     "syndicate": "s1de"
   }
 ]
