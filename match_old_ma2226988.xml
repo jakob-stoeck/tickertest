@@ -4,7 +4,7 @@
     <sports-title/>
   </sports-metadata>
   <sports-event id="match-407586">
-    <event-metadata event-status="mid-event" site-attendance="14500" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
+    <event-metadata event-status="mid-event" site-attendance="14401" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
       <event-metadata-soccer period-minute-elapsed="70" period-value="2"/>
     </event-metadata>
     <team id="team-25126">
@@ -431,9 +431,10 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407586-1363032" period-minute-elapsed="72" period-value="2" action-type="other" comment="Baumann rettet für Hoffenheim|Heinloth setzt sich im rechten Halbfeld unwiderstehlich gegen gleich zwei Bewacher durch und leitet weiter ans rechte Strafraumeck. Koc zieht sogleich flach ab und nimmt das lange Eck ins Visier. Doch Keeper Baumann ist blitzschnell unten, macht sich ganz lang und leitet das Leder mit den Fingerspitzen zur Seite weg.&#10;"/>
         <action-soccer-other id="ev-407586-1362988" period-minute-elapsed="71" period-value="2" action-type="other" comment="Noch zwanzig Minuten|Es ist spannend, auch wenn nach wie vor ein nennenswerter Mangel an Torchancen herrscht.&#10;"/>
         <action-soccer-substitution id="ev-407586-1362963" period-minute-elapsed="70" period-value="2" comment="Wechsel bei SC Paderborn 07 | Süleyman Koç für Jens Wemmer" team-idref="t-25126" person-original-idref="pl-23113" person-replacing-idref="pl-26973"/>
-        <action-soccer-other id="ev-407586-1362969" period-minute-elapsed="69" period-value="2" action-type="other" comment="Was ist nur mit 1899 los? |Die Sinsheimer bringen in der zweiten Hälfte&amp;nbsp;kaum einen Pass an den Mann. Doch noch steht es 0:0, der Dreier ist also aus Sicht der Gäste absolut in Reichweite.&#10;"/>
+        <action-soccer-other id="ev-407586-1362969" period-minute-elapsed="69" period-value="2" action-type="other" comment="Was ist nur mit 1899 los?|Die Sinsheimer bringen in der zweiten Hälfte kaum einen Pass an den Mann. Doch noch steht es 0:0, der Dreier ist also aus Sicht der Gäste absolut in Reichweite.&#10;"/>
         <action-soccer-other id="ev-407586-1362957" period-minute-elapsed="68" period-value="2" action-type="other" comment="Neue Kraft für die Abwehr|Mit Abraham kommt ein Mann für die Viererkette der Gäste ins Spiel, Elyounoussi fällt diesem taktischen Wechsel zum Opfer.&#10;"/>
         <action-soccer-substitution id="ev-407586-1362939" period-minute-elapsed="67" period-value="2" comment="Wechsel bei 1899 Hoffenheim | David Abraham für Tarik Elyounoussi" team-idref="t-25000" person-original-idref="pl-12789" person-replacing-idref="pl-9118"/>
         <action-soccer-foul id="ev-407586-1362913" period-minute-elapsed="65" period-value="2" comment="Gelb-Rote Karte für Ermin Bičakčić (1899 Hoffenheim)|Zu viel Risiko des bereits gelbverwarnten Bicakcic im Zweikampf mit Rupp. Der Abwehrmann trifft seinen Gegenspieler und muss runter.&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="cautionejection"/>

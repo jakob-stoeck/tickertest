@@ -180,7 +180,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407594-1363023" period-minute-elapsed="75" period-value="2" action-type="other" comment="Junuzovic mit der Hand|Risse flankt von rechts, Junuzovic geht mit ausgestreckter Hand dazwischen. Freistoß.&#10;"/>
+        <action-soccer-foul id="ev-407594-1363019" period-minute-elapsed="73" period-value="2" comment="Gelbe Karte für Deyverson (1. FC Köln)|Erst springt er Garcia ins Kreuz, dann hält er gegen Vestergaard den Fuß drauf. Zweite Gelbe Karte für den Brasilianer.&#10;" fouling-team-idref="t-10" fouling-player-idref="pl-307092" foul-result="caution"/>
         <action-soccer-substitution id="ev-407594-1363004" period-minute-elapsed="73" period-value="2" comment="Wechsel bei 1. FC Köln | Daniel Halfar für Sławomir Peszko" team-idref="t-10" person-original-idref="pl-17529" person-replacing-idref="pl-1874"/>
         <action-soccer-other id="ev-407594-1362995" period-minute-elapsed="72" period-value="2" action-type="other" comment="Hector vorbei|Er dreht Fritz aus und schießt von rechts aus spitzem Winkel in Richtung Eckfahne.&#10;"/>
         <action-soccer-foul id="ev-407594-1362976" period-minute-elapsed="71" period-value="2" comment="Gelbe Karte für Franco di Santo (Werder Bremen)|Seltsame Aktion, Deyverson geht zu Boden, aber das war sicher kein hartes Foul von di Santo - wenn überhaupt. Sechste Gelbe Karte.&#10;" fouling-team-idref="t-8" fouling-player-idref="pl-95125" foul-result="caution"/>
