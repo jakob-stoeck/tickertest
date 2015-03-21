@@ -12,6 +12,7 @@ for j in 407556 407584 407586 407594 407598 407564; do \
 curl -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/1/game/${j}.xml" \
 && curl -s http://mobile.ipnm.sport1.de/v8/soccer/leagues/1/conference.xml > conference1.xml; \
 done; \
+curl -sO http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2014-15/26/2407453/livematch_fc-schalke-04-2_bayer-leverkusen-9.html > k_2226966.html;
 git add . && git commit -m "update"'
 
 
