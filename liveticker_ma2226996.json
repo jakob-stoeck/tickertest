@@ -1095,5 +1095,55 @@
     "headline": "",
     "content": "<p><b>Rustikales Werder</b></p> <p>Schon 20 Fouls der Gäste. Alle Daten zum Speil finden Sie im Statistikbereich.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363154",
+    "tickertime": "21.03.2015 17:14:57",
+    "minute": "87",
+    "headline": "",
+    "content": "<p><b>Elfmeter für Köln!</b></p> <p>Garcia rennt Finne von hinten in die Hacken.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363158",
+    "event": {
+      "id": "15875142",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "1462",
+        "name": "Matthias Lehmann",
+        "firstname": "Matthias",
+        "surname": "Lehmann",
+        "fullname": "Matthias Lehmann",
+        "gender": "male",
+        "birthday": "28.05.1983",
+        "height": "177",
+        "weight": "68"
+      },
+      "action": "goal",
+      "content": "1:1",
+      "kind": "penalty",
+      "minute": "88",
+      "additional_person": {
+        "id": "279101",
+        "name": "Bård Finne",
+        "firstname": "Bård",
+        "surname": "Finne",
+        "fullname": "Bård Finne",
+        "gender": "male",
+        "birthday": "13.02.1995",
+        "height": "174",
+        "weight": "67"
+      },
+      "created": "21.03.2015 17:15"
+    },
+    "tickertime": "21.03.2015 17:15:12",
+    "minute": "88",
+    "headline": "",
+    "content": "<b>Tooor für 1. FC Köln, 1:1 durch Matthias Lehmann</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
