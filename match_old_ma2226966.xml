@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407564">
     <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="35" period-value="1"/>
+      <event-metadata-soccer period-minute-elapsed="42" period-value="1"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -431,6 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-407564-1363663" period-minute-elapsed="42" period-value="1" comment="Wechsel bei FC Schalke 04 | Kevin-Prince Boateng für Leroy Sané" team-idref="t-16" person-original-idref="pl-262055" person-replacing-idref="pl-26461"/>
+        <action-soccer-other id="ev-407564-1363666" period-minute-elapsed="41" period-value="1" action-type="other" comment="Son verstolpert|Der Koreaner bekommt den Ball rechts im Strafraum, er springt ihm zu weit vom Fuß.&#10;"/>
+        <action-soccer-other id="ev-407564-1363651" period-minute-elapsed="40" period-value="1" action-type="other" comment="Papadopoulos wieder drin|Währenddessen macht sich Boateng bereit.&#10;"/>
         <action-soccer-other id="ev-407564-1363648" period-minute-elapsed="40" period-value="1" action-type="other" comment="Zunder drin|Auf allerhöchstem Niveau geht das hier nicht ab, beide gehen aber weiter sehr hohes Tempo.&#10;"/>
         <action-soccer-other id="ev-407564-1363642" period-minute-elapsed="38" period-value="1" action-type="other" comment="Matip sauer|Er ist nach einer Flanke von links vor dem herauslaufenden Leno am Ball, köpft vorbei. Wieso er sich so aufregt, ist nicht ganz klar - ein Foul war es nicht. Er ist auch zuletzt am Ball. Papadopoupols bekommt noch Lenos Faust ab und geht kurz k.o.&#10;"/>
         <action-soccer-score id="ev-407564-1363629" period-minute-elapsed="35" period-value="1" comment="Tooor für Bayer Leverkusen, 0:1 durch Karim Bellarabi|Den Wind spürt Wellenreuther jetzt noch zwischen am Scheitel! Bellarabi bekommt den Ball links von Rolfes in die Allee gespielt, eine Gasse ist das schon lange nicht mehr. Derart luxuriös bedient macht er es aus spitzem Winkel gleich selbst, wemmst das Ding hoch ins kurze Eck, über Wellenreuthers Kopf hinweg. Elftes Saisontor.&#10;" team-idref="t-9" score-team="1" score-team-opposing="0" player-idref="pl-10331" score-attempt-type="regular"/>
