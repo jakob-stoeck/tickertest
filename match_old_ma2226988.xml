@@ -4,8 +4,8 @@
     <sports-title/>
   </sports-metadata>
   <sports-event id="match-407586">
-    <event-metadata event-status="mid-event" site-attendance="14401" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
-      <event-metadata-soccer period-minute-elapsed="90" period-value="2"/>
+    <event-metadata event-status="post-event" site-attendance="14401" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
+      <event-metadata-soccer period-minute-elapsed="90" period-value="0"/>
     </event-metadata>
     <team id="team-25126">
       <team-metadata team-key="SCP" alignment="home">
@@ -391,7 +391,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407586-1363238" period-minute-elapsed="90" period-value="2" action-type="end2" comment="Spielende|"/>
+        <action-soccer-substitution id="ev-407586-1363232" period-minute-elapsed="90" period-value="2" comment="Wechsel bei SC Paderborn 07 | Elias Kachunga für Mahir Sağlık" team-idref="t-25126" person-original-idref="pl-28528" person-replacing-idref="pl-216007"/>
+        <action-soccer-foul id="ev-407586-1363222" period-minute-elapsed="90" period-value="2" comment="Gelbe Karte für Anthony Modeste (1899 Hoffenheim)|&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-19922" foul-result="caution"/>
         <action-soccer-other id="ev-407586-1363212" period-minute-elapsed="90" period-value="2" action-type="other" comment="Reguläre Spielzeit ist gleich vorbei |Zwei Minuten kommen obendrauf. Der SCP wirft alles nach vorne.&#10;"/>
         <action-soccer-substitution id="ev-407586-1363195" period-minute-elapsed="90" period-value="2" comment="Wechsel bei 1899 Hoffenheim | Anthony Modeste für  Roberto Firmino" team-idref="t-25000" person-original-idref="pl-234828" person-replacing-idref="pl-19922"/>
         <action-soccer-other id="ev-407586-1363178" period-minute-elapsed="88" period-value="2" action-type="other" comment="Auf der Gegenseite die nächste Chance|Heinloth steigt am Fünfer der Gäste in die Höhe, köpft ein Zuspiel von links außen jedoch nur über die Latte!&#10;"/>

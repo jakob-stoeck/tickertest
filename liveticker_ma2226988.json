@@ -1039,5 +1039,37 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Anthony Modeste (1899 Hoffenheim)</b> <br/>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363232",
+    "event": {
+      "id": "15875208",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "28528",
+        "name": "Mahir Sağlık",
+        "firstname": "Mahir",
+        "surname": "Sağlık",
+        "fullname": "Mahir Sağlık",
+        "gender": "male",
+        "birthday": "18.01.1983",
+        "height": "178",
+        "weight": "76"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:20"
+    },
+    "tickertime": "21.03.2015 17:20:27",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Paderborn 07 -> Mahir Sağlık</span>",
+    "syndicate": "s1de"
   }
 ]
