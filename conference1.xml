@@ -71,7 +71,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="205" guest-long-name="Bayer Leverkusen" gamestate="2" home-short-name="Schalke" team1-color="plain;20647;20647;16777215;16777215" penalty-score-home="0" eventcount="60" team2-color="plain;16711680;16711680;0;0" referee-name="Peter Gagelmann" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="35;Bellarabi" id="407564" date="2015-03-21T18:30:00Z" home-long-name="FC Schalke 04" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="65" half4-score-guest="0" guest-short-name="Leverkusen" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153352" overtime-score-home="0" home-team-id="694" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="205" guest-long-name="Bayer Leverkusen" gamestate="2" home-short-name="Schalke" team1-color="plain;20647;20647;16777215;16777215" penalty-score-home="0" eventcount="61" team2-color="plain;16711680;16711680;0;0" referee-name="Peter Gagelmann" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="35;Bellarabi" id="407564" date="2015-03-21T18:30:00Z" home-long-name="FC Schalke 04" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="66" half4-score-guest="0" guest-short-name="Leverkusen" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153352" overtime-score-home="0" home-team-id="694" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
       </tab>
@@ -88,173 +88,181 @@
 </games>
 
        <events type="array">
+  <event section="2" label="1_39331_407564_1363917" team-id="0" game-id="407564" text="Bellarabi erobert den Ball von Fuchs, zur Belohnung bekommt er die Gr&#228;tsche von H&#246;ger ab. Kein Ball, nur Bein. Das muss die zweite Gelbe Karte im Spiel sein f&#252;r den Schalker. Gagelmann ermahnt nur.
+" headline="H&#246;ger hat m&#228;chtig Gl&#252;ck" playername="" id="10910471" date="2015-03-21T18:56:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="0" game-minute="66" player-id="0" gameday-id="39331">
+  </event>
+  <event section="2" label="1_39331_407564_1363908" team-id="0" game-id="407564" text="Meyer dreht sich schick rechts im Strafraum, flankt in die Mitte. Boateng geht entschlossener hin als Toprak, k&#246;pft einen halben Meter dr&#252;ber.
+" headline="Boateng dr&#252;ber!" playername="" id="10910451" date="2015-03-21T18:53:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="1" game-minute="65" player-id="0" gameday-id="39331">
+  </event>
+  <event section="2" label="1_39331_407564_1363892" team-id="0" game-id="407564" text=" Leon Goretzka f&#252;r Roman Neust&#228;dter" headline="Wechsel bei FC Schalke 04 " playername="" id="10910461" date="2015-03-21T18:53:53Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="2" game-minute="64" player-id="0" gameday-id="39331">
+  </event>
   <event section="2" label="1_39331_407564_1363888" team-id="0" game-id="407564" text="Er rei&#223;t den Leverkusener um. Mehr als Fouls hat Boateng bis jetzt nicht zu bieten.
-" headline="Boateng gegen Wendell" playername="" id="10910441" date="2015-03-21T18:52:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="2" game-minute="64" player-id="0" gameday-id="39331">
+" headline="Boateng gegen Wendell" playername="" id="10910441" date="2015-03-21T18:52:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="3" game-minute="64" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363875" team-id="0" game-id="407564" text="Aufregung allerorten, ein vern&#252;nftiges Spiel kommt hier gerade nicht zustande. Rolfes sucht Calhanoglu, findet das Seitenaus.
-" headline="Rolfes ins Aus" playername="" id="10910421" date="2015-03-21T18:50:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="3" game-minute="61" player-id="0" gameday-id="39331">
+" headline="Rolfes ins Aus" playername="" id="10910421" date="2015-03-21T18:50:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="4" game-minute="61" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363873" team-id="0" game-id="407564" text="Wieder ein Schalker gegen Calhanoglu, diesmal kreuzt Neust&#228;dter seinen Lauf. F&#252;nfte Gelbe Karte, er hat eine Woche Pause.
-" headline="Gelbe Karte f&#252;r Roman Neust&#228;dter (FC Schalke 04)" playername="" id="10910431" date="2015-03-21T18:50:53Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="4" game-minute="61" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Roman Neust&#228;dter (FC Schalke 04)" playername="" id="10910431" date="2015-03-21T18:50:53Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="5" game-minute="61" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363855" team-id="0" game-id="407564" text="Schalke macht es jetzt deutlich k&#246;rperlicher. Bedeutet: H&#246;ger gr&#228;tscht Calhanoglu von hinten per Beinschere weg. Neunte Gelbe Karte der Saison f&#252;r ihn.
-" headline="Gelbe Karte f&#252;r Marco H&#246;ger (FC Schalke 04)" playername="" id="10910411" date="2015-03-21T18:47:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="5" game-minute="59" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Marco H&#246;ger (FC Schalke 04)" playername="" id="10910411" date="2015-03-21T18:47:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="6" game-minute="59" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363843" team-id="0" game-id="407564" text="Die Schalker Fans schreien jetzt bei jeder Szene auf, hier ist Zunder drin.
-" headline="Stimmung aufgeheizt" playername="" id="10910391" date="2015-03-21T18:45:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="6" game-minute="56" player-id="0" gameday-id="39331">
+" headline="Stimmung aufgeheizt" playername="" id="10910391" date="2015-03-21T18:45:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="7" game-minute="56" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363841" team-id="0" game-id="407564" text="Boateng kratzt den Ball in Leverkusens Strafraum rechts neben dem Tor von der Linie, bringt ihn noch vors Tor. Toprak l&#228;sst ihn abtropfen f&#252;r Wellenreuther, der ihn dann in die Hand nimmt. R&#252;ckpass!, schreien alle Schalker. Tats&#228;chlich m&#252;sste es indirekten Freisto&#223; geben, stattdessen geht es weiter.
-" headline="R&#252;ckpass von Toprak" playername="" id="10910401" date="2015-03-21T18:45:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="7" game-minute="54" player-id="0" gameday-id="39331">
+" headline="R&#252;ckpass von Toprak" playername="" id="10910401" date="2015-03-21T18:45:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="8" game-minute="54" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363825" team-id="0" game-id="407564" text="Kie&#223;ling k&#246;pft leicht unkontrolliert in den Sechzehner, Brandt steht zu weit vorne, schie&#223;t dann Wellenreuther an.
-" headline="Brandt im Abseits" playername="" id="10910381" date="2015-03-21T18:42:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="8" game-minute="52" player-id="0" gameday-id="39331">
+" headline="Brandt im Abseits" playername="" id="10910381" date="2015-03-21T18:42:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="9" game-minute="52" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363813" team-id="0" game-id="407564" text="Scharfer, flacher Pass von rechts in Leverkusens Strafraum, Hilbert gr&#228;tscht gegen Meyer, der Ball fliegt hoch nach links zu Fuchs. Volley nimmt der ihn mit links direkt, zieht aufs lange Eck, knapp rechts vorbei. Es raunt durchs Stadion.
-" headline="Fuchs mit Risiko" playername="" id="10910371" date="2015-03-21T18:41:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="9" game-minute="51" player-id="0" gameday-id="39331">
+" headline="Fuchs mit Risiko" playername="" id="10910371" date="2015-03-21T18:41:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="10" game-minute="51" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363796" team-id="0" game-id="407564" text="Den Leverkusener bekommt die linke Schalker Abwehrseite immer noch nicht richtig in den Griff. Bellarabis Flanke ist zu unpr&#228;zise.
-" headline="Bellarabi ins Nichts" playername="" id="10910361" date="2015-03-21T18:39:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="10" game-minute="49" player-id="0" gameday-id="39331">
+" headline="Bellarabi ins Nichts" playername="" id="10910361" date="2015-03-21T18:39:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="11" game-minute="49" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363789" team-id="0" game-id="407564" text="Schalkes Co-Trainer Sven H&#252;bscher erkl&#228;rt den Wechsel von Sane: &quot;Leverkusen geht hier sehr hart zur Sache, davon hat er sich beeindrucken lassen. Gar kein Vorwurf an Leroy, aber wir brauchen jetzt Leute, die dagegenhalten&quot;, sagt er bei Sky.
-" headline="Sane zu leicht" playername="" id="10910351" date="2015-03-21T18:36:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="11" game-minute="47" player-id="0" gameday-id="39331">
+" headline="Sane zu leicht" playername="" id="10910351" date="2015-03-21T18:36:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="12" game-minute="47" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363768" team-id="0" game-id="407564" text="Zwei Wechsel bei Bayer. Vor allem von Son war tats&#228;chlich nichts zu sehen in der ersten Halbzeit. Und Papadopoulos soll vor allem vor sich selbst gesch&#252;tzt werden.
-" headline="Anpfiff 2. Halbzeit" playername="" id="10910321" date="2015-03-21T18:33:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="12" game-minute="46" player-id="0" gameday-id="39331">
+" headline="Anpfiff 2. Halbzeit" playername="" id="10910321" date="2015-03-21T18:33:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="13" game-minute="46" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407564_1363760" team-id="0" game-id="407564" text=" Hakan &#199;alhano&#287;lu f&#252;r Heung-min Son" headline="Wechsel bei Bayer Leverkusen " playername="" id="10910331" date="2015-03-21T18:33:17Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="13" game-minute="46" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407564_1363760" team-id="0" game-id="407564" text=" Hakan &#199;alhano&#287;lu f&#252;r Heung-min Son" headline="Wechsel bei Bayer Leverkusen " playername="" id="10910331" date="2015-03-21T18:33:17Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="14" game-minute="46" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407564_1363753" team-id="0" game-id="407564" text=" &#214;mer Toprak f&#252;r Kyriakos Papadopoulos" headline="Wechsel bei Bayer Leverkusen " playername="" id="10910341" date="2015-03-21T18:33:17Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="14" game-minute="46" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407564_1363753" team-id="0" game-id="407564" text=" &#214;mer Toprak f&#252;r Kyriakos Papadopoulos" headline="Wechsel bei Bayer Leverkusen " playername="" id="10910341" date="2015-03-21T18:33:17Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="15" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363701" team-id="0" game-id="407564" text="Halbzeit-Fazit: Munteres Spiel, in dem Bayer zielstrebiger nach vorne ist. Die ganz gro&#223;en Chancen fehlen aber insgesamt. Huntelaar vergibt f&#252;r Schalke die beste M&#246;glichkeit, Leno rettet. Das Mittelfeld ist extrem hart umk&#228;mpft. Papadopoulos und Huntelaar liefern sich ein Privatduell, hier k&#246;nnte es noch knallen.
-" headline="Ende 1. Halbzeit" playername="" id="10910311" date="2015-03-21T18:18:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="15" game-minute="45" player-id="0" gameday-id="39331">
+" headline="Ende 1. Halbzeit" playername="" id="10910311" date="2015-03-21T18:18:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="16" game-minute="45" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363682" team-id="0" game-id="407564" text="Erste Offensivaktion des Schweizers, er legt den Ball rechts an Wendell vorbei und rennt ihm links weg. Flanke in die Mitte, Boateng verpasst, Papadopoulos kl&#228;rt.
-" headline="Barnetta &#252;berrennt Wendell" playername="" id="10910301" date="2015-03-21T18:16:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="16" game-minute="44" player-id="0" gameday-id="39331">
+" headline="Barnetta &#252;berrennt Wendell" playername="" id="10910301" date="2015-03-21T18:16:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="17" game-minute="44" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363675" team-id="0" game-id="407564" text="Jetzt ist er dran. Papadopoulos stochert unerlaubt gegen - klar - Huntelaar, regt sich anschlie&#223;end &#252;ber den Pfiff auf. Genug f&#252;r Gagelmann, er zeigt dem Leverkusener dessen vierte Gelbe Karte der Spielzeit.
-" headline="Gelbe Karte f&#252;r Kyriakos Papadopoulos (Bayer Leverkusen)" playername="" id="10910281" date="2015-03-21T18:14:23Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="17" game-minute="43" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Kyriakos Papadopoulos (Bayer Leverkusen)" playername="" id="10910281" date="2015-03-21T18:14:23Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="18" game-minute="43" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363670" team-id="0" game-id="407564" text="Sane sieht zumindest nicht verletzt aus. Boateng soll wohl mehr Autorit&#228;t ins Schalker Mittelfeld bringen.
-" headline="Bemerkenswerter Wechsel" playername="" id="10910291" date="2015-03-21T18:14:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="18" game-minute="42" player-id="0" gameday-id="39331">
+" headline="Bemerkenswerter Wechsel" playername="" id="10910291" date="2015-03-21T18:14:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="19" game-minute="42" player-id="0" gameday-id="39331">
   </event>
-  <event section="1" label="1_39331_407564_1363663" team-id="0" game-id="407564" text=" Kevin-Prince Boateng f&#252;r Leroy San&#233;" headline="Wechsel bei FC Schalke 04 " playername="" id="10910251" date="2015-03-21T18:13:18Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="19" game-minute="42" player-id="0" gameday-id="39331">
+  <event section="1" label="1_39331_407564_1363663" team-id="0" game-id="407564" text=" Kevin-Prince Boateng f&#252;r Leroy San&#233;" headline="Wechsel bei FC Schalke 04 " playername="" id="10910251" date="2015-03-21T18:13:18Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="20" game-minute="42" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363666" team-id="0" game-id="407564" text="Der Koreaner bekommt den Ball rechts im Strafraum, er springt ihm zu weit vom Fu&#223;.
-" headline="Son verstolpert" playername="" id="10910261" date="2015-03-21T18:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="20" game-minute="41" player-id="0" gameday-id="39331">
+" headline="Son verstolpert" playername="" id="10910261" date="2015-03-21T18:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="21" game-minute="41" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363651" team-id="0" game-id="407564" text="W&#228;hrenddessen macht sich Boateng bereit.
-" headline="Papadopoulos wieder drin" playername="" id="10910271" date="2015-03-21T18:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:53Z" sort="21" game-minute="40" player-id="0" gameday-id="39331">
+" headline="Papadopoulos wieder drin" playername="" id="10910271" date="2015-03-21T18:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="22" game-minute="40" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363648" team-id="0" game-id="407564" text="Auf allerh&#246;chstem Niveau geht das hier nicht ab, beide gehen aber weiter sehr hohes Tempo.
-" headline="Zunder drin" playername="" id="10910231" date="2015-03-21T18:11:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="22" game-minute="40" player-id="0" gameday-id="39331">
+" headline="Zunder drin" playername="" id="10910231" date="2015-03-21T18:11:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="23" game-minute="40" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363642" team-id="0" game-id="407564" text="Er ist nach einer Flanke von links vor dem herauslaufenden Leno am Ball, k&#246;pft vorbei. Wieso er sich so aufregt, ist nicht ganz klar - ein Foul war es nicht. Er ist auch zuletzt am Ball. Papadopoupols bekommt noch Lenos Faust ab und geht kurz k.o.
-" headline="Matip sauer" playername="" id="10910241" date="2015-03-21T18:11:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="23" game-minute="38" player-id="0" gameday-id="39331">
+" headline="Matip sauer" playername="" id="10910241" date="2015-03-21T18:11:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="24" game-minute="38" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363629" team-id="0" game-id="407564" text="Den Wind sp&#252;rt Wellenreuther jetzt noch zwischen am Scheitel! Bellarabi bekommt den Ball links von Rolfes in die Allee gespielt, eine Gasse ist das schon lange nicht mehr. Derart luxuri&#246;s bedient macht er es aus spitzem Winkel gleich selbst, wemmst das Ding hoch ins kurze Eck, &#252;ber Wellenreuthers Kopf hinweg. Elftes Saisontor.
-" headline="Tooor f&#252;r Bayer Leverkusen, 0:1 durch Karim Bellarabi" playername="Bellarabi" id="10910221" date="2015-03-21T18:08:17Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T18:53:54Z" sort="24" game-minute="35" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Bayer Leverkusen, 0:1 durch Karim Bellarabi" playername="Bellarabi" id="10910221" date="2015-03-21T18:08:17Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T18:56:23Z" sort="25" game-minute="35" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363622" team-id="0" game-id="407564" text="Bis jetzt war es ein Spiel ohne Kie&#223;ling, jetzt kommt er nach einer Ecke von links mal zum Kopfball gegen Neust&#228;dter. Direkt auf Wellenreuther aus acht Metern.
-" headline="Kie&#223;ling endlich gef&#228;hrlich" playername="" id="10910211" date="2015-03-21T18:06:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="25" game-minute="34" player-id="0" gameday-id="39331">
+" headline="Kie&#223;ling endlich gef&#228;hrlich" playername="" id="10910211" date="2015-03-21T18:06:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="26" game-minute="34" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363619" team-id="0" game-id="407564" text="Schon zum zweiten Mal bietet sich Sane auf der rechten Seite vergeblich an. Schalke macht nichts aus den M&#246;glichkeiten des schnellen Angreifers.
-" headline="Sane &#252;bersehen" playername="" id="10910191" date="2015-03-21T18:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="26" game-minute="33" player-id="0" gameday-id="39331">
+" headline="Sane &#252;bersehen" playername="" id="10910191" date="2015-03-21T18:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:23Z" sort="27" game-minute="33" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363611" team-id="0" game-id="407564" text="Rolfes haut 18 Meter vor dem Tor &#252;ber den hoppelnden Ball.
-" headline="Klassisches Luftloch" playername="" id="10910201" date="2015-03-21T18:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="27" game-minute="32" player-id="0" gameday-id="39331">
+" headline="Klassisches Luftloch" playername="" id="10910201" date="2015-03-21T18:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="28" game-minute="32" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363605" team-id="0" game-id="407564" text="Huntelaar gibt Papadopoulos von hinten mit dem Arm einen mit, schubst den Griechen ins Aus. Lange werden die beiden nicht mehr ohne Karte bleiben.
-" headline="Jetzt erwischt es Papa" playername="" id="10910181" date="2015-03-21T18:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="28" game-minute="31" player-id="0" gameday-id="39331">
+" headline="Jetzt erwischt es Papa" playername="" id="10910181" date="2015-03-21T18:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="29" game-minute="31" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363599" team-id="0" game-id="407564" text="Im Moment ist der Fluss aus dem Spiel.
-" headline="Viele Unterbrechungen" playername="" id="10910171" date="2015-03-21T18:02:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="29" game-minute="29" player-id="0" gameday-id="39331">
+" headline="Viele Unterbrechungen" playername="" id="10910171" date="2015-03-21T18:02:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="30" game-minute="29" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363591" team-id="0" game-id="407564" text="Bellarabi spielt &#252;ber rechts per Doppelpass mit Rolfes durch, geht selbst aufs Tor, weil Kie&#223;ling im Abseits steht. Bellarabis Schuss erwischt Nastasic.
-" headline="H&#252;bsch gemacht" playername="" id="10910161" date="2015-03-21T18:00:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="30" game-minute="27" player-id="0" gameday-id="39331">
+" headline="H&#252;bsch gemacht" playername="" id="10910161" date="2015-03-21T18:00:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="31" game-minute="27" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363579" team-id="0" game-id="407564" text="Er rammt von hinten Sane weg. Gagelmann stellt klar: Beim n&#228;chsten Mal sieht er Gelb.
-" headline="Papadopoulos im Mittelpunkt" playername="" id="10910141" date="2015-03-21T17:57:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="31" game-minute="26" player-id="0" gameday-id="39331">
+" headline="Papadopoulos im Mittelpunkt" playername="" id="10910141" date="2015-03-21T17:57:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="32" game-minute="26" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363570" team-id="0" game-id="407564" text="Sane und Huntelaar warten im Moment vergeblich auf verwertbare Zuspiele.
-" headline="St&#252;rmer unbedient" playername="" id="10910151" date="2015-03-21T17:57:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="32" game-minute="25" player-id="0" gameday-id="39331">
+" headline="St&#252;rmer unbedient" playername="" id="10910151" date="2015-03-21T17:57:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="33" game-minute="25" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363567" team-id="0" game-id="407564" text="Den Ball n&#228;mlich nach dem Eckball von links.
-" headline="Wellenreuther packt ihn" playername="" id="10910111" date="2015-03-21T17:55:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="33" game-minute="25" player-id="0" gameday-id="39331">
+" headline="Wellenreuther packt ihn" playername="" id="10910111" date="2015-03-21T17:55:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="34" game-minute="25" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363565" team-id="0" game-id="407564" text="Eine Flanke von Rolfes von links wird abgef&#228;lscht.
-" headline="Ecke f&#252;r Leverkusen" playername="" id="10910121" date="2015-03-21T17:55:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="34" game-minute="24" player-id="0" gameday-id="39331">
+" headline="Ecke f&#252;r Leverkusen" playername="" id="10910121" date="2015-03-21T17:55:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="35" game-minute="24" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363563" team-id="0" game-id="407564" text="So geht es zu auf dem Platz. Der Ballf&#252;hrende hat weder Platz noch Zeit, immer wieder stochern zwei, drei auf einmal um den Ball.
-" headline="Intensiv und schnell" playername="" id="10910131" date="2015-03-21T17:55:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="35" game-minute="23" player-id="0" gameday-id="39331">
+" headline="Intensiv und schnell" playername="" id="10910131" date="2015-03-21T17:55:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="36" game-minute="23" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363557" team-id="0" game-id="407564" text="Leverkusen auf der anderen Seite giftet im Mittelfeld.
-" headline="Schalke hat die Kontrolle" playername="" id="10910101" date="2015-03-21T17:53:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="36" game-minute="21" player-id="0" gameday-id="39331">
+" headline="Schalke hat die Kontrolle" playername="" id="10910101" date="2015-03-21T17:53:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="37" game-minute="21" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363546" team-id="0" game-id="407564" text="Rolfes lustwandelt da zu sorglos durchs Mittelfeld. Den Konter verfehlpasst Sane jedoch.
-" headline="Sane klaut den Ball" playername="" id="10910091" date="2015-03-21T17:52:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="37" game-minute="19" player-id="0" gameday-id="39331">
+" headline="Sane klaut den Ball" playername="" id="10910091" date="2015-03-21T17:52:22Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="38" game-minute="19" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363536" team-id="0" game-id="407564" text="Bellarabi bekommt rechts zu viel Platz, zieht in Richtung Tor und schie&#223;t aufs lange Eck. Zu unplatziert aus 16 Metern an Nastasic vorbei, Wellenreuther ist da.
-" headline="Wellenreuther auch wach" playername="" id="10910081" date="2015-03-21T17:48:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="38" game-minute="17" player-id="0" gameday-id="39331">
+" headline="Wellenreuther auch wach" playername="" id="10910081" date="2015-03-21T17:48:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="39" game-minute="17" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363517" team-id="0" game-id="407564" text="Wendell flankt von links an allen Leverkusenern vorbei. Bayer bleibt zumindest wieder einmal f&#252;r mehrere Sekunden in Schalkes H&#228;lfte.
-" headline="Mal Entlastung" playername="" id="10910071" date="2015-03-21T17:47:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="39" game-minute="15" player-id="0" gameday-id="39331">
+" headline="Mal Entlastung" playername="" id="10910071" date="2015-03-21T17:47:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="40" game-minute="15" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363512" team-id="0" game-id="407564" text="Auf einmal kommen die Gastgeber durch, Leverkusen hat allergr&#246;&#223;te M&#252;he, den Laden zusammenzuhalten.
-" headline="Schalke mit einem Plopp" playername="" id="10910061" date="2015-03-21T17:45:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="40" game-minute="14" player-id="0" gameday-id="39331">
+" headline="Schalke mit einem Plopp" playername="" id="10910061" date="2015-03-21T17:45:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="41" game-minute="14" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363500" team-id="0" game-id="407564" text="Ein Ball von links in Leverkusens Strafraum und schon herrscht Chaos bei den G&#228;sten. Spahic stolpert &#252;ber den Ball, stochert ihn weiter genau zu Huntelaar, der zieht sofort ab. Leno wirft sich nach vorn, lenkt den Ball noch entscheidend ab. Riesenchance!
-" headline="Leno rettet" playername="" id="10910051" date="2015-03-21T17:44:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="41" game-minute="12" player-id="0" gameday-id="39331">
+" headline="Leno rettet" playername="" id="10910051" date="2015-03-21T17:44:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="42" game-minute="12" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363491" team-id="0" game-id="407564" text="Tief in Schalkes H&#228;lfte legt Hilbert Meyer. Trotzdem ein taktisches Foul, Hilbert sieht seine f&#252;nfte Karte und fehlt n&#228;chste Woche.
-" headline="Gelbe Karte f&#252;r Roberto Hilbert (Bayer Leverkusen)" playername="" id="10910031" date="2015-03-21T17:42:54Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="42" game-minute="11" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Roberto Hilbert (Bayer Leverkusen)" playername="" id="10910031" date="2015-03-21T17:42:54Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="43" game-minute="11" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363489" team-id="0" game-id="407564" text="Papadopoulos gegen Huntelaar: Diese zwei werden heute noch viel Spa&#223; aneinander haben. Der Schalker versucht es auf der linken Seite links vorbei, der Leverkusener l&#228;sst den Ball ins Aus trudeln.
-" headline="Huntelaar kommt nicht vorbei" playername="" id="10910041" date="2015-03-21T17:42:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="43" game-minute="10" player-id="0" gameday-id="39331">
+" headline="Huntelaar kommt nicht vorbei" playername="" id="10910041" date="2015-03-21T17:42:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="44" game-minute="10" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363480" team-id="0" game-id="407564" text="Schalke spielt oft den direkten langen Ball nach vorne, noch ohne Ziel.
-" headline="Kein Durchkommen" playername="" id="10910021" date="2015-03-21T17:41:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="44" game-minute="8" player-id="0" gameday-id="39331">
+" headline="Kein Durchkommen" playername="" id="10910021" date="2015-03-21T17:41:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="45" game-minute="8" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363471" team-id="0" game-id="407564" text="Die Gastgeber beginnen aktiver. Leverkusen geht schon fr&#252;h aggressiv gegen den Ball.
-" headline="Schalke macht mehr" playername="" id="10910011" date="2015-03-21T17:38:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="45" game-minute="6" player-id="0" gameday-id="39331">
+" headline="Schalke macht mehr" playername="" id="10910011" date="2015-03-21T17:38:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="46" game-minute="6" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363461" team-id="0" game-id="407564" text="Freisto&#223; von Castro von ganz weit hinten aus dem rechten Halbfeld, Matip braucht am Strafraum nur aus dem Stand zu springen.
-" headline="Matip kl&#228;rt" playername="" id="10910001" date="2015-03-21T17:36:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="46" game-minute="5" player-id="0" gameday-id="39331">
+" headline="Matip kl&#228;rt" playername="" id="10910001" date="2015-03-21T17:36:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="47" game-minute="5" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363450" team-id="0" game-id="407564" text="Leverkusens Mauer steht eng zusammen, lenkt Huntelaars direkten Freisto&#223; rechts am Tor vorbei.
-" headline="Schuss abgef&#228;lscht" playername="" id="10909981" date="2015-03-21T17:35:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="47" game-minute="3" player-id="0" gameday-id="39331">
+" headline="Schuss abgef&#228;lscht" playername="" id="10909981" date="2015-03-21T17:35:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="48" game-minute="3" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363445" team-id="0" game-id="407564" text="Schalkes Leihgabe Papadopoulos rennt von hinten Huntelaar um, 24 Meter vor dem Tor.
-" headline="Huntelaar liegt" playername="" id="10909991" date="2015-03-21T17:35:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="48" game-minute="2" player-id="0" gameday-id="39331">
+" headline="Huntelaar liegt" playername="" id="10909991" date="2015-03-21T17:35:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="49" game-minute="2" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407564_1363433" team-id="0" game-id="407564" text="Schiedsrichter Peter Gagelmann pfeift die Partie in der Veltins-Arena an.
-" headline="Spielbeginn" playername="" id="10909971" date="2015-03-21T17:32:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="49" game-minute="1" player-id="0" gameday-id="39331">
+" headline="Spielbeginn" playername="" id="10909971" date="2015-03-21T17:32:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="50" game-minute="1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363425" team-id="0" game-id="407564" text="Auch in Gelsenkirchen laufen die Spieler mit T-Shirts gegen Diskriminierung auf und entrollen jetzt ein Banner.
-" headline="Zeichen gegen Diskriminierung" playername="" id="10909961" date="2015-03-21T17:30:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="50" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Zeichen gegen Diskriminierung" playername="" id="10909961" date="2015-03-21T17:30:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="51" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363411" team-id="0" game-id="407564" text="Di Matteo muss gezwungenerma&#223;en einmal wechseln: Kapit&#228;n H&#246;wedes fehlt wegen seiner Gelbsperre. Ayhan vertritt den Weltmeister. Der Abwehrmann bildet zusammen mit Meyer im Mittelfeld und Angreifer Sane heute die Jugend-Achse bei Schalke.
-" headline="Ayhan f&#252;r H&#246;wedes" playername="" id="10909951" date="2015-03-21T17:26:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="51" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Ayhan f&#252;r H&#246;wedes" playername="" id="10909951" date="2015-03-21T17:26:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="52" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363409" team-id="0" game-id="407564" text="&quot;Man braucht nicht zu glauben, dass das eine negative Wirkung hat. Das sind alles Profis. Das ist ein sehr schweres Spiel, Leverkusen ist eine Mannschaft mit ausgesprochen guten Spielern und Charakteren&quot;, sagt Schalkes Sportvorstand Horst Heldt zum vermeintlichen Vorteil nach Leverkusens Aus in der Champions League.
-" headline="Heldt glaubt nicht an Vorteil" playername="" id="10909941" date="2015-03-21T17:25:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="52" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Heldt glaubt nicht an Vorteil" playername="" id="10909941" date="2015-03-21T17:25:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="53" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363399" team-id="0" game-id="407564" text="1 Leno - 13 Hilbert, 5 Spahic, 14 Kyriakos Papadopoulos, 18 Wendell - 27 Castro, 6 Rolfes - 38 Bellarabi, 19 Brandt, 7 Son -&amp;nbsp; 11 Kie&#223;ling
-" headline="Aufstellung Leverkusen" playername="" id="10909931" date="2015-03-21T17:22:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="53" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Aufstellung Leverkusen" playername="" id="10909931" date="2015-03-21T17:22:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="54" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363398" team-id="0" game-id="407564" text="40 Wellenreuther - 31 Nastasic, 32 Matip, 24 Ayhan - 27 Barnetta, 23 Fuchs - 33 Neust&#228;dter, 12 H&#246;ger -&amp;nbsp; 7 Meyer, 19 Leroy Sane - 25 Huntelaar
-" headline="Aufstellung Schalke" playername="" id="10909911" date="2015-03-21T17:20:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="54" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Aufstellung Schalke" playername="" id="10909911" date="2015-03-21T17:20:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="55" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363396" team-id="0" game-id="407564" text="Nach dem auch k&#246;rperlich kr&#228;ftezehrenden Spiel in Madrid wechselt Schmidt kr&#228;ftig durch: Toprak, Bender, Calhanoglu und Drmic bekommen eine Pause und sitzen allesamt auf der Bank. Papadopoulos, Rolfes, Brandt und Kie&#223;ling r&#252;cken in die Startelf.
-" headline="Calhanoglu drau&#223;en" playername="" id="10909921" date="2015-03-21T17:20:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="55" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Calhanoglu drau&#223;en" playername="" id="10909921" date="2015-03-21T17:20:12Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="56" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363385" team-id="0" game-id="407564" text="Beide Mannschaften sind in der Champions League im Achtelfinale jeweils in Madrid ausgeschieden. Leverkusen scheiterte am Dienstag bei Atletico im Elfmeterschie&#223;en, Schalke war schon in der vergangenen Woche bei Real knapp gescheitert.
-" headline="Madrider N&#228;chte" playername="" id="10909901" date="2015-03-21T17:14:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="56" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Madrider N&#228;chte" playername="" id="10909901" date="2015-03-21T17:14:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="57" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363370" team-id="0" game-id="407564" text="Gute Nachrichten von einem Spieler aus dem immer noch gut gef&#252;llten Schalker Lazarett: Jefferson Farfan steht nach fast einj&#228;hriger Verletzungspause wieder im Kader. Der Offensivmann litt an einem hartn&#228;ckigen Knorpelschaden, k&#246;nnte heute aber schon ein paar Minuten Spielpraxis bekommen.
-" headline="Farfan wieder da" playername="" id="10909891" date="2015-03-21T17:05:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="57" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Farfan wieder da" playername="" id="10909891" date="2015-03-21T17:05:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="58" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407564_1363367" team-id="0" game-id="407564" text="Platz f&#252;nf gegen Platz vier: Auf den ersten Blick sieht das nach einem engen Duell um den letzten Champions-League-Platz aus. Schalke steht dabei aber wegen seiner drei Punkte R&#252;ckstand schon deutlich mehr unter Druck als Bayer. Den G&#228;sten reicht heute wohl ein Unentschieden.
-" headline="Schalke unter Druck" playername="" id="10909881" date="2015-03-21T17:04:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:53:54Z" sort="58" game-minute="-1" player-id="0" gameday-id="39331">
+" headline="Schalke unter Druck" playername="" id="10909881" date="2015-03-21T17:04:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T18:56:24Z" sort="59" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
   <event section="0" label="1_39331_407584_1363271" team-id="0" game-id="407584" text="Nach einer temporeichen ersten H&#228;lfte geht es in der zweiten H&#228;lfte genauso weiter. Augsburg kommt besser aus der Kabine, doch Freiburg f&#228;ngt sich wieder. Mitte der zweiten H&#228;lfte sorgt Jonathan Schmid f&#252;r die Freiburger Erl&#246;sung mit seinem F&#252;hrungstor. Augsburg hat dem nicht viel entgegen zu setzen. Joker Petersen sorgt f&#252;r die Entscheidung. Der SC feiert einen&amp;nbsp;absolut verdienten Sieg und springt auf einen Nichtabstiegsplatz.
 " headline="Fazit:" playername="" id="10909871" date="2015-03-21T16:28:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:47:13Z" sort="0" game-minute="-1" player-id="0" gameday-id="39331">
@@ -365,15 +373,6 @@
   </event>
   <event section="2" label="1_39331_407586_1363142" team-id="0" game-id="407586" text="Meha knallt links aus dem Mittelfeld einfach mal aufs Tor. Die Kugel kommt gar nicht schlecht, geht jedoch gut einen halben Meter links am Geh&#228;use der Sinsheimer vorbei.
 " headline="Meha mit sch&#246;nem sch&#246;nem Bumms" playername="" id="10909491" date="2015-03-21T16:15:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:33:18Z" sort="9" game-minute="84" player-id="0" gameday-id="39331">
-  </event>
-  <event section="2" label="1_39331_407584_1363134" team-id="0" game-id="407584" text="H&#246;fler rauscht im Sechzehner in Callsen-Bracker. Freiburg hofft auf einen Elfmeter, doch Schiedsrichter Zwayer l&#228;sst zurecht weiterspielen,&amp;nbsp;denn der Augsburger konnte sich hier auch nicht aufl&#246;sen.
-" headline="Elfmeter? - Das Stadion wird laut!" playername="" id="10909461" date="2015-03-21T16:14:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:47:13Z" sort="8" game-minute="82" player-id="0" gameday-id="39331">
-  </event>
-  <event section="2" label="1_39331_407598_1363121" team-id="0" game-id="407598" text="Der Keeper h&#228;lt einen Kopfball von Zambrano mit einem Blitzreflex. Im Anschluss kl&#228;rt Maxim diese brandhei&#223;e Situation.
-" headline="Wieder Ulreich" playername="" id="10909451" date="2015-03-21T16:13:37Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:32:43Z" sort="8" game-minute="84" player-id="0" gameday-id="39331">
-  </event>
-  <event section="2" label="1_39331_407586_1363122" team-id="0" game-id="407586" text="Die M&#246;glichkeit von Lakic stellte die vierte Gro&#223;chance der Ostwestfalen dar. Ob sich der SCP heute noch belohnt?
-" headline="Vierte Gro&#223;chance" playername="" id="10909441" date="2015-03-21T16:13:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:33:18Z" sort="12" game-minute="82" player-id="0" gameday-id="39331">
   </event>
 </events>
 
