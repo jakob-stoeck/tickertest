@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407584">
     <event-metadata event-status="mid-event" site-attendance="23700" stadium-name="Schwarzwald-Stadion" stadium-city="Freiburg" stadium-capacity="24000" stadium-id="187" game-exitid1="407584" game-exitid2="153409">
-      <event-metadata-soccer period-minute-elapsed="84" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="88" period-value="2"/>
     </event-metadata>
     <team id="team-4">
       <team-metadata team-key="SCF" alignment="home">
@@ -431,7 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-score id="ev-407584-1363131" period-minute-elapsed="84" period-value="2" comment="Tooor für  SC Freiburg, 2:0 durch Nils Petersen|&#10;" team-idref="t-4" score-team="2" score-team-opposing="0" player-idref="pl-9231" score-attempt-type="regular"/>
+        <action-soccer-substitution id="ev-407584-1363170" period-minute-elapsed="88" period-value="2" comment="Wechsel bei SC Freiburg | Julian Schuster für Nicolas Höfler" team-idref="t-4" person-original-idref="pl-142033" person-replacing-idref="pl-22955"/>
+        <action-soccer-score id="ev-407584-1363131" period-minute-elapsed="84" period-value="2" comment="Tooor für SC Freiburg, 2:0 durch Nils Petersen|Das ist die Entscheidung. Petersen führt den Ball. Am Sechzehner legt er raus zu Darida. Der Tscheche geht zur Grundlinie, behält die Übersicht und passt wieder zurück in den Rückraum zu Nils Petersen. Per Direktabnahme versenkt Petersen das Ding zum 2:0 in die Maschen! Sein viertes Saisontor.&#10;" team-idref="t-4" score-team="2" score-team-opposing="0" player-idref="pl-9231" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407584-1363134" period-minute-elapsed="82" period-value="2" action-type="other" comment="Elfmeter? - Das Stadion wird laut!|Höfler rauscht im Sechzehner in Callsen-Bracker. Freiburg hofft auf einen Elfmeter, doch Schiedsrichter Zwayer lässt zurecht weiterspielen,&amp;nbsp;denn der Augsburger konnte sich hier auch nicht auflösen.&#10;"/>
         <action-soccer-substitution id="ev-407584-1363085" period-minute-elapsed="81" period-value="2" comment="Wechsel bei SC Freiburg | Vladimír Darida für Jonathan Schmid" team-idref="t-4" person-original-idref="pl-159559" person-replacing-idref="pl-172176"/>
         <action-soccer-other id="ev-407584-1363105" period-minute-elapsed="79" period-value="2" action-type="other" comment="Kohr verpasst um Zentimeter!|Bobadilla flankt den Ball von rechts scharf an den kurzen Pfosten. Kohr rauscht herbei, verpasst die Kugel aber um Haaresbreite!&amp;nbsp;Bürki bleibt ruhig und nimmt den Ball sicher in die Arme auf.&#10;"/>
@@ -442,6 +443,7 @@
         <action-soccer-substitution id="ev-407584-1363016" period-minute-elapsed="74" period-value="2" comment="Wechsel bei FC Augsburg |  Caiuby für Dominik Kohr" team-idref="t-25403" person-original-idref="pl-231490" person-replacing-idref="pl-95004"/>
         <action-soccer-other id="ev-407584-1363049" period-minute-elapsed="73" period-value="2" action-type="other" comment="Tätlichkeit von&amp;nbsp;Mehmedi!|​Im Zweikampf mit Feulner&amp;nbsp;klatscht der Schweizer dem Augsburger seine Hand ins Gesicht: Das gehört sich nicht! Der Schiedsrichtergespann hat es nicht gesehen.&#10;"/>
         <action-soccer-score id="ev-407584-1362982" period-minute-elapsed="71" period-value="2" comment="Tooor für SC Freiburg, 1:0 durch Jonathan Schmid|Schmid erlöst die Freiburger.&amp;nbsp;Nach einem Einwurf landet der Ball glücklich bei Sorg. Sorg dringt in den Sechzehner ein und legt quer für Schmid auf. Aus zentraler Position elf Meter vor dem Tor legt der Franzose den Ball gezielt rechts an Hitz vorbei und erzielt sein drittes Saisontor zur 1:0-Fürhung für Freiburg!&#10;" team-idref="t-4" score-team="1" score-team-opposing="0" player-idref="pl-159559" score-attempt-type="regular"/>
+        <action-soccer-substitution id="ev-407584-1363180" period-minute-elapsed="70" period-value="2" comment="Wechsel bei FC Augsburg | Tim Matavž für Dong-Won Ji" team-idref="t-25403" person-original-idref="pl-221533" person-replacing-idref="pl-9573"/>
         <action-soccer-other id="ev-407584-1362960" period-minute-elapsed="68" period-value="2" action-type="other" comment="Emotionen kochen hoch|Die Partie wird hitziger und nicht einfacher für Schiedsrichter&amp;nbsp;Zwayer. Beide Trainer schimpfen an der Seitenlinie regelmäßig gegen den vierten Offiziellen. Na klar, es geht ja auch um viel heute.&#10;"/>
         <action-soccer-other id="ev-407584-1362954" period-minute-elapsed="67" period-value="2" action-type="other" comment="Schwacher Standard|Der folgende Freistoß bringt dann allerdings nichts ein.&#10;"/>
         <action-soccer-other id="ev-407584-1362934" period-minute-elapsed="66" period-value="2" action-type="other" comment="SC-Hoffnungsträger Petersen kommt|An Mike Frantz lief die Partie größtenteils vorbei und in der Spitze darf sich nun Nils Petersen versuchen.&#10;"/>

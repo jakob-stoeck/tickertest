@@ -1145,5 +1145,69 @@
     "headline": "",
     "content": "<p><b>Tooor für 1. FC Köln, 1:1 durch Matthias Lehmann</b></p> <p>Lehmann nimmt das Geschenk des tölpelhaften Garcia an und nagelt das Ding oben links rein. Viertes Saisontor für den Kölner Kapitän.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363177",
+    "event": {
+      "id": "15875175",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "13916",
+        "name": "Zlatko Junuzović",
+        "firstname": "Zlatko",
+        "surname": "Junuzović",
+        "fullname": "Zlatko Junuzović",
+        "gender": "male",
+        "birthday": "26.09.1987",
+        "height": "172",
+        "weight": "69"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:16"
+    },
+    "tickertime": "21.03.2015 17:16:36",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Zlatko Junuzović</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363182",
+    "event": {
+      "id": "15875178",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "19077",
+        "name": "Cédric Makiadi",
+        "firstname": "Cédric",
+        "surname": "Makiadi",
+        "fullname": "Cédric Makiadi Mapuata",
+        "gender": "male",
+        "birthday": "23.02.1984",
+        "height": "177",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:16"
+    },
+    "tickertime": "21.03.2015 17:16:44",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Cédric Makiadi</span>",
+    "syndicate": "s1de"
   }
 ]

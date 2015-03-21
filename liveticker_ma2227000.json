@@ -927,5 +927,37 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Daniel Ginczek</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363175",
+    "event": {
+      "id": "15875173",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "22945",
+        "name": "Daniel Schwaab",
+        "firstname": "Daniel",
+        "surname": "Schwaab",
+        "fullname": "Daniel Schwaab",
+        "gender": "male",
+        "birthday": "23.08.1988",
+        "height": "186",
+        "weight": "76"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:16"
+    },
+    "tickertime": "21.03.2015 17:16:29",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfB Stuttgart -> Daniel Schwaab</span>",
+    "syndicate": "s1de"
   }
 ]

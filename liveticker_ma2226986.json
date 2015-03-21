@@ -705,6 +705,70 @@
     "syndicate": "s1de"
   },
   {
+    "id": "1363180",
+    "event": {
+      "id": "15875177",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "221533",
+        "name": "Dong-Won Ji",
+        "firstname": "Dong-Won",
+        "surname": "Ji",
+        "fullname": "Dong-Won Ji",
+        "gender": "male",
+        "birthday": "28.05.1991",
+        "height": "187",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "70",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:58"
+    },
+    "tickertime": "21.03.2015 16:58:09",
+    "minute": "70",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Augsburg -> Dong-Won Ji</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363184",
+    "event": {
+      "id": "15875179",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "9573",
+        "name": "Tim Matavž",
+        "firstname": "Tim",
+        "surname": "Matavž",
+        "fullname": "Tim Matavž",
+        "gender": "male",
+        "birthday": "13.01.1989",
+        "height": "188",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "70",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:58"
+    },
+    "tickertime": "21.03.2015 16:58:09",
+    "minute": "70",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Augsburg -> Tim Matavž</span>",
+    "syndicate": "s1de"
+  },
+  {
     "id": "1362982",
     "event": {
       "id": "15874558",
@@ -961,7 +1025,7 @@
     "tickertime": "21.03.2015 17:12:19",
     "minute": "84",
     "headline": "",
-    "content": "<b>Tooor für SC Freiburg, 2:0 durch Nils Petersen</b> <br/>",
+    "content": "<p><b>Tooor für SC Freiburg, 2:0 durch Nils Petersen</b></p> <p>Das ist die Entscheidung. Petersen führt den Ball. Am Sechzehner legt er raus zu Darida. Der Tscheche geht zur Grundlinie, behält die Übersicht und passt wieder zurück in den Rückraum zu Nils Petersen. Per Direktabnahme versenkt Petersen das Ding zum 2:0 in die Maschen! Sein viertes Saisontor.</p>",
     "syndicate": "s1de"
   },
   {
@@ -970,6 +1034,70 @@
     "minute": "82",
     "headline": "",
     "content": "<p><b>Elfmeter? - Das Stadion wird laut!</b></p> <p>Höfler rauscht im Sechzehner in Callsen-Bracker. Freiburg hofft auf einen Elfmeter, doch Schiedsrichter Zwayer lässt zurecht weiterspielen,&nbsp;denn der Augsburger konnte sich hier auch nicht auflösen.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363170",
+    "event": {
+      "id": "15875151",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "142033",
+        "name": "Nicolas Höfler",
+        "firstname": "Nicolas",
+        "surname": "Höfler",
+        "fullname": "Nicolas Höfler",
+        "gender": "male",
+        "birthday": "09.03.1990",
+        "height": "181",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:16"
+    },
+    "tickertime": "21.03.2015 17:16:19",
+    "minute": "88",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Freiburg -> Nicolas Höfler</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363173",
+    "event": {
+      "id": "15875172",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "22955",
+        "name": "Julian Schuster",
+        "firstname": "Julian",
+        "surname": "Schuster",
+        "fullname": "Julian Schuster",
+        "gender": "male",
+        "birthday": "15.04.1985",
+        "height": "190",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:16"
+    },
+    "tickertime": "21.03.2015 17:16:29",
+    "minute": "88",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Freiburg -> Julian Schuster</span>",
     "syndicate": "s1de"
   }
 ]
