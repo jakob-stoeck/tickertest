@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407594">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="RheinEnergieStadion" stadium-city="Köln" stadium-capacity="50997" stadium-id="1545" game-exitid1="407594" game-exitid2="153466">
-      <event-metadata-soccer period-minute-elapsed="82" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="84" period-value="2"/>
     </event-metadata>
     <team id="team-10">
       <team-metadata team-key="KOE" alignment="home">
@@ -125,7 +125,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -270,7 +270,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,8 +431,11 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-foul id="ev-407594-1363113" period-minute-elapsed="84" period-value="2" comment="Gelbe Karte für Matthias Lehmann (1. FC Köln)|&#10;" fouling-team-idref="t-10" fouling-player-idref="pl-1462" foul-result="caution"/>
+        <action-soccer-other id="ev-407594-1363109" period-minute-elapsed="83" period-value="2" action-type="other" comment="Er geht nicht rein|Risse bringt den Ball von rechts scharf rein, Vestergaard hält sein Bein dazwischen und zwingt Wolf zu einer Parade. Bremen klärt in höchster Not.&#10;"/>
+        <action-soccer-foul id="ev-407594-1363107" period-minute-elapsed="82" period-value="2" comment="Gelbe Karte für Raphael Wolf (Werder Bremen)|&#10;" fouling-team-idref="t-8" fouling-player-idref="pl-7512" foul-result="caution"/>
         <action-soccer-substitution id="ev-407594-1363090" period-minute-elapsed="82" period-value="2" comment="Wechsel bei 1. FC Köln | Bård Finne für Anthony Ujah" team-idref="t-10" person-original-idref="pl-172697" person-replacing-idref="pl-279101"/>
-        <action-soccer-other id="ev-407594-1363079" period-minute-elapsed="80" period-value="2" action-type="other" comment="Horn mit den Fäusten|Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt über Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann in Bedrängnis.&#10;"/>
+        <action-soccer-other id="ev-407594-1363079" period-minute-elapsed="80" period-value="2" action-type="other" comment="Horn mit den Fäusten|Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt über Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann, in Bedrängnis.&#10;"/>
         <action-soccer-other id="ev-407594-1363060" period-minute-elapsed="79" period-value="2" action-type="other" comment="Bremen gewinnt Zeit|Di Santo holt vorne links einen Eckball heraus.&#10;"/>
         <action-soccer-other id="ev-407594-1363047" period-minute-elapsed="77" period-value="2" action-type="other" comment="Wimmer fair|Öztunali legt sich im Laufduell in den Strafraum mit Wimmer hin, das ist aber ein ganz normaler Zweikampf.&#10;"/>
         <action-soccer-other id="ev-407594-1363023" period-minute-elapsed="75" period-value="2" action-type="other" comment="Junuzovic mit der Hand|Risse flankt von rechts, Junuzovic geht mit ausgestreckter Hand dazwischen. Freistoß.&#10;"/>
