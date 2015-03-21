@@ -799,5 +799,37 @@
     "headline": "",
     "content": "<p><b>Tooor für VfB Stuttgart, 3:1 durch Alexandru Maxim</b></p> <p>Dieses Mal bereitet Kostic das Tor überragend mit seinem Dribbling auf der linken Seite vor. Seine Hereingabe schiebt Maxim aus drei Metern ins Tor. Damit dürfte der zweite Heimsieg der Saison für die Stuttgarter besiegelt sein.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363101",
+    "event": {
+      "id": "15875024",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "265034",
+        "name": "Alexandru Maxim",
+        "firstname": "Alexandru",
+        "surname": "Maxim",
+        "fullname": "Alexandru Iulian Maxim",
+        "gender": "male",
+        "birthday": "08.07.1990",
+        "height": "177",
+        "weight": "73"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:09"
+    },
+    "tickertime": "21.03.2015 17:09:43",
+    "minute": "80",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Alexandru Maxim (VfB Stuttgart)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
