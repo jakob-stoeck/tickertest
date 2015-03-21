@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1362745" period-minute-elapsed="47" period-value="2" action-type="other" comment="Starkes Tackling von Subotic|Diesmal grätscht der Serbe am Strafraum Joselu fair den Ball vom Fuß.&#10;"/>
         <action-soccer-foul id="ev-407556-1362734" period-minute-elapsed="46" period-value="2" comment="Gelbe Karte für Neven Subotić (Borussia Dortmund)|Der Innenverteidiger langt mit dem Ellenbogen gegen Bittencourt hin und holt sich dafür seine siebte Verwarnung in dieser Saison ab.&#10;" fouling-team-idref="t-14" fouling-player-idref="pl-451" foul-result="caution"/>
         <action-soccer-other id="ev-407556-1362723" period-minute-elapsed="46" period-value="2" action-type="other" comment="Keine Wechsel|Beide Teams spielen vorerst unverändert weiter.&#10;"/>
         <action-soccer-other id="ev-407556-1362716" period-minute-elapsed="46" period-value="2" action-type="start2" comment="Anpfiff 2. Halbzeit|"/>
