@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407564">
     <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="59" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="61" period-value="2"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -180,7 +180,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407564-1363875" period-minute-elapsed="61" period-value="2" action-type="other" comment="Rolfes ins Aus|Aufregung allerorten, ein vernünftiges Spiel kommt hier gerade nicht zustande. Rolfes sucht Calhanoglu, findet das Seitenaus.&#10;"/>
+        <action-soccer-foul id="ev-407564-1363873" period-minute-elapsed="61" period-value="2" comment="Gelbe Karte für Roman Neustädter (FC Schalke 04)|Wieder ein Schalker gegen Calhanoglu, diesmal kreuzt Neustädter seinen Lauf. Fünfte Gelbe Karte, er hat eine Woche Pause.&#10;" fouling-team-idref="t-16" fouling-player-idref="pl-424" foul-result="caution"/>
         <action-soccer-foul id="ev-407564-1363855" period-minute-elapsed="59" period-value="2" comment="Gelbe Karte für Marco Höger (FC Schalke 04)|Schalke macht es jetzt deutlich körperlicher. Bedeutet: Höger grätscht Calhanoglu von hinten per Beinschere weg. Neunte Gelbe Karte der Saison für ihn.&#10;" fouling-team-idref="t-16" fouling-player-idref="pl-112276" foul-result="caution"/>
         <action-soccer-other id="ev-407564-1363843" period-minute-elapsed="56" period-value="2" action-type="other" comment="Stimmung aufgeheizt|Die Schalker Fans schreien jetzt bei jeder Szene auf, hier ist Zunder drin.&#10;"/>
         <action-soccer-other id="ev-407564-1363841" period-minute-elapsed="54" period-value="2" action-type="other" comment="Rückpass von Toprak|Boateng kratzt den Ball in Leverkusens Strafraum rechts neben dem Tor von der Linie, bringt ihn noch vors Tor. Toprak lässt ihn abtropfen für Wellenreuther, der ihn dann in die Hand nimmt. Rückpass!, schreien alle Schalker. Tatsächlich müsste es indirekten Freistoß geben, stattdessen geht es weiter.&#10;"/>
