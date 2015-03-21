@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="82" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="85" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-407556-1363127" period-minute-elapsed="85" period-value="2" comment="Wechsel bei Hannover 96 | Leon Andreasen für Hiroki Sakai" team-idref="t-1" person-original-idref="pl-146779" person-replacing-idref="pl-12944"/>
         <action-soccer-score id="ev-407556-1363096" period-minute-elapsed="82" period-value="2" comment="Tooor für Hannover 96, 2:3 durch Lars Stindl|Da ist der Anschlusstreffer! Der BVB kriegt den Ball nicht hinten heraus. Kiyotake legt an der Strafraumgrenze ab für Stindl - und der schweißt das Ding mit rechts oben in den Winkel! Absolutes Traumtor und sein sechster Saisontreffer.&#10;" team-idref="t-1" score-team="2" score-team-opposing="3" player-idref="pl-16487" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407556-1363076" period-minute-elapsed="80" period-value="2" action-type="other" comment="Reus ans Aluminium|Nach Vorarbeit von Kuba schießt Reus aus 14 Metern - aber Zieler lenkt den Ball noch mit dem Fuß an den linken Pfosten!&#10;"/>
         <action-soccer-other id="ev-407556-1363064" period-minute-elapsed="80" period-value="2" action-type="other" comment="Zehn Minuten bleiben zu spielen|Und allmählich läuft den Niedersachsen natürlich die Zeit davon. Was kann 96 hier noch in die Waagschale werfen?&#10;"/>

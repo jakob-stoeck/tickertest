@@ -921,5 +921,55 @@
     "headline": "",
     "content": "<p><b>Kohr verpasst im Zentimeter!</b></p> <p>Bobadilla flankt den Ball von rechts scharf an den kurzen Pfosten. Kohr rauscht herbei, verpasst die Kugel aber um Haaresbreite!&nbsp;Bürki bleibt ruhig und nimmt den Ball sicher in die Arme auf.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363131",
+    "event": {
+      "id": "15875051",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "9231",
+        "name": "Nils Petersen",
+        "firstname": "Nils",
+        "surname": "Petersen",
+        "fullname": "Nils Petersen",
+        "gender": "male",
+        "birthday": "06.12.1988",
+        "height": "188",
+        "weight": "80"
+      },
+      "action": "goal",
+      "content": "2:0",
+      "kind": "left-foot",
+      "minute": "84",
+      "additional_person": {
+        "id": "172176",
+        "name": "Vladimír Darida",
+        "firstname": "Vladimír",
+        "surname": "Darida",
+        "fullname": "Vladimír Darida",
+        "gender": "male",
+        "birthday": "08.08.1990",
+        "height": "171",
+        "weight": "64"
+      },
+      "created": "21.03.2015 17:12"
+    },
+    "tickertime": "21.03.2015 17:12:19",
+    "minute": "84",
+    "headline": "",
+    "content": "<b>Tooor für SC Freiburg, 2:0 durch Nils Petersen</b> <br/>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363134",
+    "tickertime": "21.03.2015 17:12:40",
+    "minute": "82",
+    "headline": "",
+    "content": "<p><b>Das Stadion wird laut!</b></p> <p>Höfler rauscht im Sechzehner in Callsen-Bracker. Freiburg hofft auf einen Elfmeter, doch Schiedsrichter Zwayer lässt zurecht weiterspielen.</p>",
+    "syndicate": "s1de"
   }
 ]

@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407598-1363121" period-minute-elapsed="84" period-value="2" action-type="other" comment="Wieder Ulreich|Der Keeper hält einen Kopfball von Zambrano mit einem Blitzreflex. Im Anschluss klärt Maxim diese brandheiße Situation.&#10;"/>
         <action-soccer-other id="ev-407598-1363111" period-minute-elapsed="83" period-value="2" action-type="other" comment="Super pariert|Seferovic kommt rechts am Strafraum per Drehschuss zum Abschluss. Ulreich taucht ab und lenkt den harten Schuss zur Ecke.&#10;"/>
         <action-soccer-foul id="ev-407598-1363101" period-minute-elapsed="80" period-value="2" comment="Gelbe Karte für Alexandru Maxim (VfB Stuttgart)|&#10;" fouling-team-idref="t-6" fouling-player-idref="pl-265034" foul-result="caution"/>
         <action-soccer-score id="ev-407598-1363074" period-minute-elapsed="80" period-value="2" comment="Tooor für VfB Stuttgart, 3:1 durch Alexandru Maxim|Dieses Mal bereitet Kostic das Tor überragend mit seinem Dribbling auf der linken Seite vor. Seine Hereingabe schiebt Maxim aus drei Metern ins Tor. Damit dürfte der zweite Heimsieg der Saison für die Stuttgarter besiegelt sein.&#10;" team-idref="t-6" score-team="3" score-team-opposing="1" player-idref="pl-265034" score-attempt-type="regular"/>

@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407586">
     <event-metadata event-status="mid-event" site-attendance="14401" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
-      <event-metadata-soccer period-minute-elapsed="77" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="83" period-value="2"/>
     </event-metadata>
     <team id="team-25126">
       <team-metadata team-key="SCP" alignment="home">
@@ -358,7 +358,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,7 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-foul id="ev-407586-1363119" period-minute-elapsed="83" period-value="2" comment="Gelbe Karte für Sebastian Rudy (1899 Hoffenheim)|&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-28357" foul-result="caution"/>
         <action-soccer-other id="ev-407586-1363114" period-minute-elapsed="83" period-value="2" action-type="other" comment="Sieg für Paderborn?|Wenn eine Mannschaft jetzt die drei Punkte verdient hat, dann sind es die Gastgeber.&#10;"/>
+        <action-soccer-other id="ev-407586-1363122" period-minute-elapsed="82" period-value="2" action-type="other" comment="Vierte Großchance|Die Möglichkeit von Lakic stellte die vierte Großchance der Ostwestfalen dar. Ob sich der SCP heute noch belohnt?&#10;"/>
         <action-soccer-other id="ev-407586-1363097" period-minute-elapsed="80" period-value="2" action-type="other" comment="Baumann ist erneut zur Stelle |Lakic taucht rechts im Sechzehner blank vor dem Gehäuse auf und knallt die Kugel flach aufs lange Eck. Doch wieder ist der Torhüter rechtzeitig unten, kommt mit den Fingerspitzen an den Ball und leitet das Leder zur Seite weg!&#10;"/>
         <action-soccer-other id="ev-407586-1363072" period-minute-elapsed="79" period-value="2" action-type="other" comment="Zu kompliziert |Saglık legt zentral an der Strafraumgrenze nochmal quer, anstatt einfach zu schießen. Mehas folgende Hereingabe vom linken Strafraumeck landet nur bei Keeper Baumann.&#10;"/>
         <action-soccer-other id="ev-407586-1363062" period-minute-elapsed="78" period-value="2" action-type="other" comment="Saglık kommt für Rupp ins Spiel |Ein eindeutiges Zeichen in Richtung Offensive der Hausherren. Stuttgart und Freiburg liegen vorne, demnach ist ein Remis heute nicht allzu viel wert.&#10;"/>
