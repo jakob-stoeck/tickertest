@@ -1467,6 +1467,157 @@
     "created": "21.03.2015 19:16:27"
   },
   {
+    "id": "15877612",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "20010",
+      "name": "Kyriakos Papadopoulos",
+      "firstname": "Kyriakos",
+      "surname": "Papadopoulos",
+      "fullname": "Kyriakos Papadopoulos",
+      "gender": "male",
+      "birthday": "23.02.1992",
+      "height": "183",
+      "weight": "85"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:31:58"
+  },
+  {
+    "id": "15877613",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "22946",
+      "name": "Ömer Toprak",
+      "firstname": "Ömer",
+      "surname": "Toprak",
+      "fullname": "Ömer Toprak",
+      "gender": "male",
+      "birthday": "21.07.1989",
+      "height": "186",
+      "weight": "83"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:32:06"
+  },
+  {
+    "id": "15877615",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "173278",
+      "name": "Heung-min Son",
+      "firstname": "Heung-min",
+      "surname": "Son",
+      "fullname": "Heung-min Son",
+      "gender": "male",
+      "birthday": "08.07.1992",
+      "height": "183",
+      "weight": "76"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:32:14"
+  },
+  {
+    "id": "15877618",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "232676",
+      "name": "Hakan Çalhanoğlu",
+      "firstname": "Hakan",
+      "surname": "Çalhanoğlu",
+      "fullname": "Hakan Çalhanoğlu",
+      "gender": "male",
+      "birthday": "08.02.1994",
+      "height": "178",
+      "weight": "69"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:32:23"
+  },
+  {
+    "id": "15877632",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "second-half-start",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:32:32"
+  },
+  {
     "id": "1193239",
     "team": {
       "id": "205",
