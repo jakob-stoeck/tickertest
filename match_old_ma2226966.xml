@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407564">
     <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="78" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="81" period-value="2"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -325,7 +325,7 @@
         <player-stats score="1">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-foul id="ev-407564-1364018" period-minute-elapsed="81" period-value="2" comment="Gelbe Karte für Karim Bellarabi (Bayer Leverkusen)|&#10;" fouling-team-idref="t-9" fouling-player-idref="pl-10331" foul-result="caution"/>
+        <action-soccer-other id="ev-407564-1364011" period-minute-elapsed="79" period-value="2" action-type="other" comment="Bellarabi verstolpert|Konter der Gäste, Bellarabi kann es klarmachen. Nur noch Ayhan ist zu überwinden bis Wellenreuther. Bellarabi dreht sich links herum, dreht sich rechts herum, Ayhan streckt im Fallen das Bein aus, Bellarabi fällt drüber - kein Elfmeter.&#10;"/>
         <action-soccer-other id="ev-407564-1364001" period-minute-elapsed="78" period-value="2" action-type="other" comment="Pfiffe und Jubel|Kießling bekommt den Schalker Unmut ab, weil er betont langsam vom Platz geht. Farfan wird natürlich entsprechend gefeiert.&#10;"/>
         <action-soccer-substitution id="ev-407564-1363997" period-minute-elapsed="78" period-value="2" comment="Wechsel bei FC Schalke 04 | Jefferson Farfán für Max Meyer" team-idref="t-16" person-original-idref="pl-231417" person-replacing-idref="pl-10469"/>
         <action-soccer-substitution id="ev-407564-1363990" period-minute-elapsed="78" period-value="2" comment="Wechsel bei Bayer Leverkusen | Lars Bender für Stefan Kießling" team-idref="t-9" person-original-idref="pl-3133" person-replacing-idref="pl-26794"/>
