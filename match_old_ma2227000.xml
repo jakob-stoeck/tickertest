@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407598-1362887" period-minute-elapsed="61" period-value="2" action-type="other" comment="Die Zeit verrinnt|Stuttgart hat nur noch gut 30 Minuten Zeit, um das zurück ins Spiel zu kommen.&#10;"/>
         <action-soccer-other id="ev-407598-1362863" period-minute-elapsed="59" period-value="2" action-type="other" comment="Nichts geht mehr bei Werner|Der Jungstar muss von zwei Betreuern gestützt werden und humpelt in Richtung Kabine. Kostic soll es nun für den VfB richten.&#10;"/>
         <action-soccer-other id="ev-407598-1362844" period-minute-elapsed="58" period-value="2" action-type="other" comment="Werner muss behandelt werden|Das Eigengewächs hält bei einer Flanke von Chandler den Fuß rein, verletzt sich dabei.&#10;"/>
         <action-soccer-substitution id="ev-407598-1362843" period-minute-elapsed="58" period-value="2" comment="Wechsel bei VfB Stuttgart | Filip Kostić für Timo Werner" team-idref="t-6" person-original-idref="pl-263930" person-replacing-idref="pl-255723"/>

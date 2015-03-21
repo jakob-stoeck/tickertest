@@ -431,7 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407586-1362888" period-minute-elapsed="60" period-value="2" action-type="other" comment="Hünemeier wieder da|Der Kapitän der Gastgeber kehrt mit einem dicken Nasen-Pflaster aufs Feld zurück. Außerdem kam Modeste für Schipplock in die Partie. Beide Mannschaften duellieren sich nun also wieder mit elf Mann.&#10;"/>
         <action-soccer-substitution id="ev-407586-1362871" period-minute-elapsed="59" period-value="2" comment="Wechsel bei 1899 Hoffenheim | Anthony Modeste für Sven Schipplock" team-idref="t-25000" person-original-idref="pl-28332" person-replacing-idref="pl-19922"/>
+        <action-soccer-other id="ev-407586-1362880" period-minute-elapsed="58" period-value="2" action-type="other" comment="Ein Paderborner wird behandelt|Die Hausherren stehen aktuell übrigens nur zu zehnt auf dem Spielfeld, da Uwe Hünemeier abseits des Rasens behandelt werden muss.&#10;"/>
         <action-soccer-other id="ev-407586-1362866" period-minute-elapsed="58" period-value="2" action-type="other" comment="Die Ostwestfalen drehen auf|Nicht nur auf dem Rasen: In der Arena herrscht eine Atmosphäre wie zu Beginn der Hinrunde.&#10;"/>
         <action-soccer-other id="ev-407586-1362849" period-minute-elapsed="56" period-value="2" action-type="other" comment="Brisanter Freistoß|Ein Paderborner Freistoß aus dem rechten Halbfeld ist auch nicht grade ungefährlich! Meha tritt an und setzt die Kugel in die Mauer. Der abgefälschte Ball geht nur knapp rechts neben den Kasten!&#10;"/>
         <action-soccer-foul id="ev-407586-1362819" period-minute-elapsed="55" period-value="2" comment="Gelbe Karte für Ermin Bičakčić (1899 Hoffenheim)|&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="caution"/>

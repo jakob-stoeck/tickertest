@@ -1488,6 +1488,166 @@
     "created": "21.03.2015 16:41:54"
   },
   {
+    "id": "15874214",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "71535",
+      "name": "Shinji Kagawa",
+      "firstname": "Shinji",
+      "surname": "Kagawa",
+      "fullname": "Shinji Kagawa",
+      "gender": "male",
+      "birthday": "17.03.1989",
+      "height": "172",
+      "weight": "63"
+    },
+    "action": "goal",
+    "content": "1:2",
+    "kind": "right-foot",
+    "minute": "57",
+    "additional_person": {
+      "id": "22225",
+      "name": "Marco Reus",
+      "firstname": "Marco",
+      "surname": "Reus",
+      "fullname": "Marco Reus",
+      "gender": "male",
+      "birthday": "31.05.1989",
+      "height": "180",
+      "weight": "67"
+    },
+    "created": "21.03.2015 16:44:22"
+  },
+  {
+    "id": "15874217",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "1878",
+      "name": "Oliver Kirch",
+      "firstname": "Oliver",
+      "surname": "Kirch",
+      "fullname": "Oliver Kirch",
+      "gender": "male",
+      "birthday": "21.08.1982",
+      "height": "183",
+      "weight": "70"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:45:40"
+  },
+  {
+    "id": "15874221",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "231542",
+      "name": "Jeremy Dudziak",
+      "firstname": "Jeremy",
+      "surname": "Dudziak",
+      "fullname": "Jeremy Dudziak",
+      "gender": "male",
+      "birthday": "28.08.1995",
+      "height": "176",
+      "weight": "69"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:45:49"
+  },
+  {
+    "id": "15874343",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "134830",
+      "name": "Pierre-Emerick Aubameyang",
+      "firstname": "Pierre-Emerick",
+      "surname": "Aubameyang",
+      "fullname": "Pierre-Emerick Emiliano Aubameyang",
+      "gender": "male",
+      "birthday": "18.06.1989",
+      "height": "187",
+      "weight": "77"
+    },
+    "action": "goal",
+    "content": "1:3",
+    "kind": "head",
+    "minute": "61",
+    "additional_person": {
+      "id": "71535",
+      "name": "Shinji Kagawa",
+      "firstname": "Shinji",
+      "surname": "Kagawa",
+      "fullname": "Shinji Kagawa",
+      "gender": "male",
+      "birthday": "17.03.1989",
+      "height": "172",
+      "weight": "63"
+    },
+    "created": "21.03.2015 16:48:06"
+  },
+  {
     "id": "12412",
     "team": {
       "id": "258",
