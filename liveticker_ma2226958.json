@@ -1137,5 +1137,37 @@
     "headline": "",
     "content": "<p><b>Tooor für Hannover 96, 2:3 durch Lars Stindl</b></p> <p>Da ist der Anschlusstreffer! Der BVB kriegt den Ball nicht hinten heraus. Kiyotake legt an der Strafraumgrenze ab für Stindl - und der schweißt das Ding mit rechts oben in den Winkel! Absolutes Traumtor und sein sechster Saisontreffer.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363127",
+    "event": {
+      "id": "15875047",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "146779",
+        "name": "Hiroki Sakai",
+        "firstname": "Hiroki",
+        "surname": "Sakai",
+        "fullname": "Hiroki Sakai",
+        "gender": "male",
+        "birthday": "12.04.1990",
+        "height": "184",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:11"
+    },
+    "tickertime": "21.03.2015 17:11:50",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Hiroki Sakai</span>",
+    "syndicate": "s1de"
   }
 ]
