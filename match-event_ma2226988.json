@@ -1573,6 +1573,76 @@
     "created": "21.03.2015 16:57:48"
   },
   {
+    "id": "15874834",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "152131",
+      "name": "Lukas Rupp",
+      "firstname": "Lukas",
+      "surname": "Rupp",
+      "fullname": "Lukas Rupp",
+      "gender": "male",
+      "birthday": "08.01.1991",
+      "height": "178",
+      "weight": "73"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "77",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:04:18"
+  },
+  {
+    "id": "15874835",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "28528",
+      "name": "Mahir Sağlık",
+      "firstname": "Mahir",
+      "surname": "Sağlık",
+      "fullname": "Mahir Sağlık",
+      "gender": "male",
+      "birthday": "18.01.1983",
+      "height": "178",
+      "weight": "76"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "77",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:04:26"
+  },
+  {
     "id": "995400",
     "team": {
       "id": "24",
