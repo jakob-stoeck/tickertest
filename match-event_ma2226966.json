@@ -1421,6 +1421,52 @@
     "created": "21.03.2015 19:11:39"
   },
   {
+    "id": "15877080",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "20010",
+      "name": "Kyriakos Papadopoulos",
+      "firstname": "Kyriakos",
+      "surname": "Papadopoulos",
+      "fullname": "Kyriakos Papadopoulos",
+      "gender": "male",
+      "birthday": "23.02.1992",
+      "height": "183",
+      "weight": "85"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "43",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:13:29"
+  },
+  {
+    "id": "15877165",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "first-half-end",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:16:27"
+  },
+  {
     "id": "1193239",
     "team": {
       "id": "205",
