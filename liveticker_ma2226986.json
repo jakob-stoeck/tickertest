@@ -1123,5 +1123,32 @@
     "headline": "",
     "content": "<p><b>Die Nachspielzeit läuft</b></p> <p>Der Sieg der Freiburger ist zum greifen nah</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363243",
+    "tickertime": "21.03.2015 17:21:12",
+    "minute": "90",
+    "headline": "",
+    "content": "<p>Fehler von Baier</p> <p>Klaus springt die Kugel</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363249",
+    "event": {
+      "id": "15875222",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:21"
+    },
+    "tickertime": "21.03.2015 17:21:22",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "s1de"
   }
 ]
