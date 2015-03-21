@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407564">
     <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="61" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="64" period-value="2"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407564-1363908" period-minute-elapsed="65" period-value="2" action-type="other" comment="Boateng drüber!|Meyer dreht sich schick rechts im Strafraum, flankt in die Mitte. Boateng geht entschlossener hin als Toprak, köpft einen halben Meter drüber.&#10;"/>
+        <action-soccer-substitution id="ev-407564-1363892" period-minute-elapsed="64" period-value="2" comment="Wechsel bei FC Schalke 04 | Leon Goretzka für Roman Neustädter" team-idref="t-16" person-original-idref="pl-424" person-replacing-idref="pl-231656"/>
         <action-soccer-other id="ev-407564-1363888" period-minute-elapsed="64" period-value="2" action-type="other" comment="Boateng gegen Wendell|Er reißt den Leverkusener um. Mehr als Fouls hat Boateng bis jetzt nicht zu bieten.&#10;"/>
         <action-soccer-other id="ev-407564-1363875" period-minute-elapsed="61" period-value="2" action-type="other" comment="Rolfes ins Aus|Aufregung allerorten, ein vernünftiges Spiel kommt hier gerade nicht zustande. Rolfes sucht Calhanoglu, findet das Seitenaus.&#10;"/>
         <action-soccer-foul id="ev-407564-1363873" period-minute-elapsed="61" period-value="2" comment="Gelbe Karte für Roman Neustädter (FC Schalke 04)|Wieder ein Schalker gegen Calhanoglu, diesmal kreuzt Neustädter seinen Lauf. Fünfte Gelbe Karte, er hat eine Woche Pause.&#10;" fouling-team-idref="t-16" fouling-player-idref="pl-424" foul-result="caution"/>
