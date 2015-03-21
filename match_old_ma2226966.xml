@@ -431,7 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-other id="ev-407564-1363768" period-minute-elapsed="46" period-value="2" action-type="start2" comment="Anpfiff 2. Halbzeit|"/>
+        <action-soccer-other id="ev-407564-1363789" period-minute-elapsed="47" period-value="2" action-type="other" comment="Sane zu leicht|Schalkes Co-Trainer Sven Hübscher erklärt den Wechsel von Sane: &quot;Leverkusen geht hier sehr hart zur Sache, davon hat er sich beeindrucken lassen. Gar kein Vorwurf an Leroy, aber wir brauchen jetzt Leute, die dagegenhalten&quot;, sagt er bei Sky.&#10;"/>
+        <action-soccer-other id="ev-407564-1363768" period-minute-elapsed="46" period-value="2" action-type="start2" comment="Anpfiff 2. Halbzeit|Zwei Wechsel bei Bayer. Vor allem von Son war tatsächlich nichts zu sehen in der ersten Halbzeit. Und Papadopoulos soll vor allem vor sich selbst geschützt werden.&#10;"/>
         <action-soccer-substitution id="ev-407564-1363760" period-minute-elapsed="46" period-value="2" comment="Wechsel bei Bayer Leverkusen | Hakan Çalhanoğlu für Heung-min Son" team-idref="t-9" person-original-idref="pl-173278" person-replacing-idref="pl-232676"/>
         <action-soccer-substitution id="ev-407564-1363753" period-minute-elapsed="46" period-value="2" comment="Wechsel bei Bayer Leverkusen | Ömer Toprak für Kyriakos Papadopoulos" team-idref="t-9" person-original-idref="pl-20010" person-replacing-idref="pl-22946"/>
         <action-soccer-other id="ev-407564-1363701" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|Halbzeit-Fazit: Munteres Spiel, in dem Bayer zielstrebiger nach vorne ist. Die ganz großen Chancen fehlen aber insgesamt. Huntelaar vergibt für Schalke die beste Möglichkeit, Leno rettet. Das Mittelfeld ist extrem hart umkämpft. Papadopoulos und Huntelaar liefern sich ein Privatduell, hier könnte es noch knallen.&#10;"/>
