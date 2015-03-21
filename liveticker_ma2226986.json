@@ -743,7 +743,71 @@
     "tickertime": "21.03.2015 16:59:09",
     "minute": "71",
     "headline": "",
-    "content": "<b>Tooor für SC Freiburg, 1:0 durch Jonathan Schmid</b> <br/>",
+    "content": "<p><b>Tooor für SC Freiburg, 1:0 durch Jonathan Schmid</b></p> <p>Schmid erlöst die Freiburger.&nbsp;Nach einem Einwurf landet der Ball glücklich bei Sorg. Sorg dringt in den Sechzehner ein und legt quer für Schmid auf. Aus zentraler Position elf Meter vor dem Tor legt der Franzose den Ball gezielt rechts an Hitz vorbei und erzielt sein drittes Saisontor zur 1:0-Fürhung für Freiburg!</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363016",
+    "event": {
+      "id": "15874639",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "231490",
+        "name": "Dominik Kohr",
+        "firstname": "Dominik",
+        "surname": "Kohr",
+        "fullname": "Dominik Kohr",
+        "gender": "male",
+        "birthday": "31.01.1994",
+        "height": "183",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:02"
+    },
+    "tickertime": "21.03.2015 17:02:13",
+    "minute": "74",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Augsburg -> Dominik Kohr</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363021",
+    "event": {
+      "id": "15874642",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "95004",
+        "name": "Caiuby",
+        "firstname": "",
+        "surname": "Caiuby",
+        "fullname": "Caiuby Francisco da Silva",
+        "gender": "male",
+        "birthday": "14.07.1988",
+        "height": "183",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:02"
+    },
+    "tickertime": "21.03.2015 17:02:20",
+    "minute": "74",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Augsburg -> Caiuby</span>",
     "syndicate": "s1de"
   }
 ]
