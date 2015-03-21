@@ -431,9 +431,10 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407594-1363150" period-minute-elapsed="86" period-value="2" action-type="other" comment="Rustikales Werder|Schon 20 Fouls der Gäste. Alle Daten zum Speil finden Sie im Statistikbereich.&#10;"/>
         <action-soccer-foul id="ev-407594-1363113" period-minute-elapsed="84" period-value="2" comment="Gelbe Karte für Matthias Lehmann (1. FC Köln)|Seine achte Karte für ein rüdes Foul.&#10;" fouling-team-idref="t-10" fouling-player-idref="pl-1462" foul-result="caution"/>
         <action-soccer-other id="ev-407594-1363109" period-minute-elapsed="83" period-value="2" action-type="other" comment="Er geht nicht rein|Risse bringt den Ball von rechts scharf rein, Vestergaard hält sein Bein dazwischen und zwingt Wolf zu einer Parade. Bremen klärt in höchster Not.&#10;"/>
-        <action-soccer-foul id="ev-407594-1363107" period-minute-elapsed="82" period-value="2" comment="Gelbe Karte für Raphael Wolf (Werder Bremen)|&#10;" fouling-team-idref="t-8" fouling-player-idref="pl-7512" foul-result="caution"/>
+        <action-soccer-foul id="ev-407594-1363107" period-minute-elapsed="82" period-value="2" comment="Gelbe Karte für Clemens Fritz (Werder Bremen)|Fritz beklagt sich zu laut über einen Pfiff gegen Werder, vierte Karte für ihn.&#10;" fouling-team-idref="t-8" fouling-player-idref="pl-7512" foul-result="caution"/>
         <action-soccer-substitution id="ev-407594-1363090" period-minute-elapsed="82" period-value="2" comment="Wechsel bei 1. FC Köln | Bård Finne für Anthony Ujah" team-idref="t-10" person-original-idref="pl-172697" person-replacing-idref="pl-279101"/>
         <action-soccer-other id="ev-407594-1363079" period-minute-elapsed="80" period-value="2" action-type="other" comment="Horn mit den Fäusten|Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt über Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann, in Bedrängnis.&#10;"/>
         <action-soccer-other id="ev-407594-1363060" period-minute-elapsed="79" period-value="2" action-type="other" comment="Bremen gewinnt Zeit|Di Santo holt vorne links einen Eckball heraus.&#10;"/>

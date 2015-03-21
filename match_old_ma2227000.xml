@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407598">
     <event-metadata event-status="mid-event" site-attendance="50000" stadium-name="Mercedes-Benz Arena" stadium-city="Stuttgart" stadium-capacity="60449" stadium-id="709" game-exitid1="407598" game-exitid2="153333">
-      <event-metadata-soccer period-minute-elapsed="80" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="85" period-value="2"/>
     </event-metadata>
     <team id="team-6">
       <team-metadata team-key="VFB" alignment="home">
@@ -281,7 +281,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407598-1363151" period-minute-elapsed="87" period-value="2" action-type="other" comment="Ginczek zieht ab|Der zweimalige Torschütze&amp;nbsp;knallt nach einer Ecke von rechts am langen Pfosten drauf. Trapp bekommt gerade noch die Fäuste hin und pariert stark.&#10;"/>
+        <action-soccer-foul id="ev-407598-1363139" period-minute-elapsed="85" period-value="2" comment="Gelbe Karte für Alexander Madlung (Eintracht Frankfurt)|&#10;" fouling-team-idref="t-2" fouling-player-idref="pl-28507" foul-result="caution"/>
         <action-soccer-other id="ev-407598-1363121" period-minute-elapsed="84" period-value="2" action-type="other" comment="Wieder Ulreich|Der Keeper hält einen Kopfball von Zambrano mit einem Blitzreflex. Im Anschluss klärt Maxim diese brandheiße Situation.&#10;"/>
         <action-soccer-other id="ev-407598-1363111" period-minute-elapsed="83" period-value="2" action-type="other" comment="Super pariert|Seferovic kommt rechts am Strafraum per Drehschuss zum Abschluss. Ulreich taucht ab und lenkt den harten Schuss zur Ecke.&#10;"/>
         <action-soccer-foul id="ev-407598-1363101" period-minute-elapsed="80" period-value="2" comment="Gelbe Karte für Alexandru Maxim (VfB Stuttgart)|&#10;" fouling-team-idref="t-6" fouling-player-idref="pl-265034" foul-result="caution"/>
