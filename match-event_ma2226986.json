@@ -1363,6 +1363,41 @@
     "created": "21.03.2015 16:33:36"
   },
   {
+    "id": "15874442",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "265",
+      "name": "Mike Frantz",
+      "firstname": "Mike",
+      "surname": "Frantz",
+      "fullname": "Mike Frantz",
+      "gender": "male",
+      "birthday": "14.10.1986",
+      "height": "180",
+      "weight": "79"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:52:25"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
