@@ -623,5 +623,77 @@
     "headline": "",
     "content": "<p><b>Hector läuft umsonst</b></p> <p>Lehmann versteht sich in diesem Fall nicht mit seinem Kollegen, spielt den Ball links ims Seitenaus.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362916",
+    "tickertime": "21.03.2015 16:53:01",
+    "minute": "66",
+    "headline": "",
+    "content": "<p><b>Bremen hinten drin</b></p> <p>Köln blubbert jetzt endlich genug für richtigen Druck. Wann ploppt der Korken?</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362921",
+    "event": {
+      "id": "15874454",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "262804",
+        "name": "Davie Selke",
+        "firstname": "Davie",
+        "surname": "Selke",
+        "fullname": "Davie Selke",
+        "gender": "male",
+        "birthday": "20.01.1995",
+        "height": "192",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "66",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:53"
+    },
+    "tickertime": "21.03.2015 16:53:15",
+    "minute": "66",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Davie Selke</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362923",
+    "event": {
+      "id": "15874461",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "263594",
+        "name": "Levin Öztunali",
+        "firstname": "Levin",
+        "surname": "Öztunali",
+        "fullname": "Levin Mete Öztunali",
+        "gender": "male",
+        "birthday": "15.03.1996",
+        "height": "176",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "66",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:53"
+    },
+    "tickertime": "21.03.2015 16:53:24",
+    "minute": "66",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Levin Öztunali</span>",
+    "syndicate": "s1de"
   }
 ]
