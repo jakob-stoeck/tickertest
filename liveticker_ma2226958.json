@@ -845,7 +845,39 @@
     "tickertime": "21.03.2015 16:58:27",
     "minute": "71",
     "headline": "",
-    "content": "<b>Gelbe Karte für Salif Sané (Hannover 96)</b> <br/>",
+    "content": "<p><b>Gelbe Karte für Salif Sané (Hannover 96)</b></p> <p>Wegen Ballwegschlagens. Für den Senegalesen ist es die vierte Gelbe Karte in dieser Spielzeit.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362979",
+    "event": {
+      "id": "15874557",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "25135",
+        "name": "Jimmy Briand",
+        "firstname": "Jimmy",
+        "surname": "Briand",
+        "fullname": "Jimmy Briand",
+        "gender": "male",
+        "birthday": "02.08.1985",
+        "height": "180",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:58"
+    },
+    "tickertime": "21.03.2015 16:59:00",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Jimmy Briand</span>",
     "syndicate": "s1de"
   }
 ]
