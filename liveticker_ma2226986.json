@@ -415,5 +415,69 @@
     "headline": "",
     "content": "<b>Anpfiff 2. Halbzeit</b>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362737",
+    "event": {
+      "id": "15874075",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "90661",
+        "name": "Nikola Đurđić",
+        "firstname": "Nikola",
+        "surname": "Đurđić",
+        "fullname": "Nikola Đurđić",
+        "gender": "male",
+        "birthday": "01.04.1986",
+        "height": "186",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:33"
+    },
+    "tickertime": "21.03.2015 16:33:30",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Augsburg -> Nikola Đurđić</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362739",
+    "event": {
+      "id": "15874079",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "253321",
+        "name": "Pierre-Emile Højbjerg",
+        "firstname": "Pierre-Emile",
+        "surname": "Højbjerg",
+        "fullname": "Pierre-Emile Højbjerg",
+        "gender": "male",
+        "birthday": "05.08.1995",
+        "height": "186",
+        "weight": "81"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:33"
+    },
+    "tickertime": "21.03.2015 16:33:36",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Augsburg -> Pierre-Emile Højbjerg</span>",
+    "syndicate": "s1de"
   }
 ]
