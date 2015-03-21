@@ -1758,6 +1758,146 @@
     "created": "21.03.2015 19:51:31"
   },
   {
+    "id": "15878416",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "3133",
+      "name": "Stefan Kießling",
+      "firstname": "Stefan",
+      "surname": "Kießling",
+      "fullname": "Stefan Kießling",
+      "gender": "male",
+      "birthday": "25.01.1984",
+      "height": "191",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "21.03.2015 20:04:42"
+  },
+  {
+    "id": "15878418",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "26794",
+      "name": "Lars Bender",
+      "firstname": "Lars",
+      "surname": "Bender",
+      "fullname": "Lars Bender",
+      "gender": "male",
+      "birthday": "27.04.1989",
+      "height": "184",
+      "weight": "77"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "21.03.2015 20:04:52"
+  },
+  {
+    "id": "15878424",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "231417",
+      "name": "Max Meyer",
+      "firstname": "Max",
+      "surname": "Meyer",
+      "fullname": "Maximilian Meyer",
+      "gender": "male",
+      "birthday": "18.09.1995",
+      "height": "172",
+      "weight": "67"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "21.03.2015 20:05:02"
+  },
+  {
+    "id": "15878431",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "10469",
+      "name": "Jefferson Farfán",
+      "firstname": "Jefferson",
+      "surname": "Farfán",
+      "fullname": "Jefferson Agustin Farfán Guadalupe",
+      "gender": "male",
+      "birthday": "26.10.1984",
+      "height": "178",
+      "weight": "84"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "21.03.2015 20:05:08"
+  },
+  {
     "id": "1193239",
     "team": {
       "id": "205",
