@@ -433,5 +433,69 @@
     "headline": "",
     "content": "<p><b>Tooor für Eintracht Frankfurt, 0:1 durch Haris Seferović</b></p> <p>Da ist der Treffer, der sich schon vor der Pause abgezeichnet hat. Über links setzt sich Oczipka stark durch, flankt zur Mitte. Dort kommt Seferovic an den Ball und knallt ihn mit rechts unter die Querlatte. Für den Schweizer ist es das achte Saisontor.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362801",
+    "event": {
+      "id": "15874194",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "10568",
+        "name": "Serey Die",
+        "firstname": "Serey",
+        "surname": "Die",
+        "fullname": "Sereso Geoffroy Gonzaroua Die",
+        "gender": "male",
+        "birthday": "07.11.1984",
+        "height": "179",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "53",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:41"
+    },
+    "tickertime": "21.03.2015 16:41:24",
+    "minute": "53",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Serey Die</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362805",
+    "event": {
+      "id": "15874195",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "158585",
+        "name": "Oriol Romeu",
+        "firstname": "",
+        "surname": "Oriol Romeu",
+        "fullname": "Oriol Romeu Vidal",
+        "gender": "male",
+        "birthday": "24.09.1991",
+        "height": "182",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "53",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:41"
+    },
+    "tickertime": "21.03.2015 16:41:36",
+    "minute": "53",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfB Stuttgart -> Oriol Romeu</span>",
+    "syndicate": "s1de"
   }
 ]
