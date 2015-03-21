@@ -1306,6 +1306,51 @@
     "created": "21.03.2015 18:41:05"
   },
   {
+    "id": "15876937",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "10331",
+      "name": "Karim Bellarabi",
+      "firstname": "Karim",
+      "surname": "Bellarabi",
+      "fullname": "Karim Bellarabi",
+      "gender": "male",
+      "birthday": "08.04.1990",
+      "height": "183",
+      "weight": "76"
+    },
+    "action": "goal",
+    "content": "0:1",
+    "kind": "right-foot",
+    "minute": "35",
+    "additional_person": {
+      "id": "3127",
+      "name": "Simon Rolfes",
+      "firstname": "Simon",
+      "surname": "Rolfes",
+      "fullname": "Simon Rolfes",
+      "gender": "male",
+      "birthday": "21.01.1982",
+      "height": "191",
+      "weight": "83"
+    },
+    "created": "21.03.2015 19:05:44"
+  },
+  {
     "id": "1193239",
     "team": {
       "id": "205",
