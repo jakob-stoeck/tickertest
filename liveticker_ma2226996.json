@@ -951,5 +951,69 @@
     "headline": "",
     "content": "<p><b>Horn mit den Fäusten</b></p> <p>Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt über Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann in Bedrängnis.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363090",
+    "event": {
+      "id": "15874945",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "172697",
+        "name": "Anthony Ujah",
+        "firstname": "Anthony",
+        "surname": "Ujah",
+        "fullname": "Anthony Ujah",
+        "gender": "male",
+        "birthday": "14.10.1990",
+        "height": "183",
+        "weight": "82"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "82",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:08"
+    },
+    "tickertime": "21.03.2015 17:08:45",
+    "minute": "82",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Köln -> Anthony Ujah</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363093",
+    "event": {
+      "id": "15874947",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "279101",
+        "name": "Bård Finne",
+        "firstname": "Bård",
+        "surname": "Finne",
+        "fullname": "Bård Finne",
+        "gender": "male",
+        "birthday": "13.02.1995",
+        "height": "174",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "82",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:08"
+    },
+    "tickertime": "21.03.2015 17:08:52",
+    "minute": "82",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Köln -> Bård Finne</span>",
+    "syndicate": "s1de"
   }
 ]
