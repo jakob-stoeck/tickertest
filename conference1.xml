@@ -43,7 +43,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="2134" guest-long-name="Werder Bremen" gamestate="2" home-short-name="K&#246;ln" team1-color="vstriped;16777215;12534837;16777215;0" penalty-score-home="0" eventcount="54" team2-color="plain;153649;153649;153649;16777215" referee-name="Robert Hartmann" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="27;Selke" id="407594" date="2015-03-21T15:30:00Z" home-long-name="1. FC K&#246;ln" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="52" half4-score-guest="0" guest-short-name="Bremen" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153466" overtime-score-home="0" home-team-id="9" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="2134" guest-long-name="Werder Bremen" gamestate="2" home-short-name="K&#246;ln" team1-color="vstriped;16777215;12534837;16777215;0" penalty-score-home="0" eventcount="55" team2-color="plain;153649;153649;153649;16777215" referee-name="Robert Hartmann" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="27;Selke" id="407594" date="2015-03-21T15:30:00Z" home-long-name="1. FC K&#246;ln" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="54" half4-score-guest="0" guest-short-name="Bremen" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153466" overtime-score-home="0" home-team-id="9" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
       </tab>
@@ -57,7 +57,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="530" guest-long-name="Eintracht Frankfurt" gamestate="2" home-short-name="Stuttgart" team1-color="hstriped;16777215;13501190;13501190;16777215;plain;0;0;0;1" penalty-score-home="0" eventcount="44" team2-color="vstriped;15338780;0;0;16777215" referee-name="Dr. Jochen Drees" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="51;Seferovi&#263;" id="407598" date="2015-03-21T15:30:00Z" home-long-name="VfB Stuttgart" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="53" half4-score-guest="0" guest-short-name="Frankfurt" overtime-score-guest="0" half2-score-guest="1" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153333" overtime-score-home="0" home-team-id="2076" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
+  <game half1-score-home="0" winner="" half3-score-home="0" guest-team-id="530" guest-long-name="Eintracht Frankfurt" gamestate="2" home-short-name="Stuttgart" team1-color="hstriped;16777215;13501190;13501190;16777215;plain;0;0;0;1" penalty-score-home="0" eventcount="45" team2-color="vstriped;15338780;0;0;16777215" referee-name="Dr. Jochen Drees" spectatorcount="" activestate="1" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="51;Seferovi&#263;" id="407598" date="2015-03-21T15:30:00Z" home-long-name="VfB Stuttgart" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="55" half4-score-guest="0" guest-short-name="Frankfurt" overtime-score-guest="0" half2-score-guest="1" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153333" overtime-score-home="0" home-team-id="2076" home-scorer-names="" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="0">
     <tabs type="array">
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
       </tab>
@@ -88,6 +88,12 @@
 </games>
 
        <events type="array">
+  <event section="2" label="1_39331_407598_1362814" team-id="0" game-id="407598" text="Das Eigengew&#228;chs h&#228;lt gut 20 Metern drauf. Ulreich kl&#228;rt mit den F&#228;usten.
+" headline="Stendera versucht es aus der Distanz" playername="" id="10908281" date="2015-03-21T15:43:56Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:56Z" sort="0" game-minute="55" player-id="0" gameday-id="39331">
+  </event>
+  <event section="2" label="1_39331_407594_1362807" team-id="0" game-id="407594" text="&#220;ber Bargfredes Gr&#228;tsche, zehn Meter hinter der Mittellinie. Noch immer keine Karte in diesem Spiel.
+" headline="Vogt fliegt" playername="" id="10908271" date="2015-03-21T15:43:55Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="0" game-minute="54" player-id="0" gameday-id="39331">
+  </event>
   <event section="2" label="1_39331_407584_1362812" team-id="0" game-id="407584" text="Der Freiburger Schlussmann richtet nach der Szene deutliche Worte an seine Vorderm&#228;nner. In der Tat scheinen die Hausherren nach der Pause noch nicht wieder recht auf dem Platz zu sein.
 " headline="Freiburg noch nicht auf der H&#246;he" playername="" id="10908241" date="2015-03-21T15:43:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="0" game-minute="50" player-id="0" gameday-id="39331">
   </event>
@@ -97,10 +103,10 @@
   <event section="2" label="1_39331_407556_1362810" team-id="0" game-id="407556" text="Der Mittelfeldspieler zieht fernab des Strafraums gegen Kehl voll durch und fliegt daf&#252;r mit seiner zweiten Verwarnung in diesem Spiel vom Platz! Unn&#246;tige Aktion!
 " headline="Gelb-Rote Karte f&#252;r Leonardo Bittencourt (Hannover 96)" playername="" id="10908231" date="2015-03-21T15:43:31Z" type-id="32" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="0" game-minute="55" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407598_1362801" team-id="0" game-id="407598" text="   f&#252;r Serey Die" headline="Wechsel bei VfB Stuttgart " playername="" id="10908221" date="2015-03-21T15:42:48Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="0" game-minute="53" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407598_1362801" team-id="0" game-id="407598" text="  Oriol Romeu f&#252;r Serey Die" headline="Wechsel bei VfB Stuttgart " playername="" id="10908221" date="2015-03-21T15:42:48Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="1" game-minute="53" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362794" team-id="0" game-id="407594" text="Lehmann geht von rechts zu zaghaft hin, Bargfrede zimmert von halblinks an Au&#223;ennetz.
-" headline="Bargfrede ans Au&#223;ennetz" playername="" id="10908211" date="2015-03-21T15:42:47Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="0" game-minute="52" player-id="0" gameday-id="39331">
+" headline="Bargfrede ans Au&#223;ennetz" playername="" id="10908211" date="2015-03-21T15:42:47Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="1" game-minute="52" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1362798" team-id="0" game-id="407556" text="Am zweiten Pfosten k&#246;pft Joselu aus spitzem Winkel - doch Hummels kl&#228;rt auf der Linie!
 " headline="Sakai flankt aus vollem Lauf von rechts" playername="" id="10908201" date="2015-03-21T15:42:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="1" game-minute="54" player-id="0" gameday-id="39331">
@@ -109,16 +115,16 @@
 " headline="Augsburg kommt wacher aus der Kabine" playername="" id="10908191" date="2015-03-21T15:42:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="3" game-minute="47" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1362782" team-id="0" game-id="407598" text="Da ist der Treffer, der sich schon vor der Pause abgezeichnet hat. &#220;ber links setzt sich Oczipka stark durch, flankt zur Mitte. Dort kommt Seferovic an den Ball und knallt ihn mit rechts unter die Querlatte. F&#252;r den Schweizer ist es das achte Saisontor.
-" headline="Tooor f&#252;r Eintracht Frankfurt, 0:1 durch Haris Seferovi&#263;" playername="Seferovi&#263;" id="10908171" date="2015-03-21T15:40:06Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T15:42:48Z" sort="1" game-minute="51" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Eintracht Frankfurt, 0:1 durch Haris Seferovi&#263;" playername="Seferovi&#263;" id="10908171" date="2015-03-21T15:40:06Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T15:43:57Z" sort="2" game-minute="51" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1362774" team-id="0" game-id="407598" text="Die Stuttgarter kommen mit mehr Zielstrebigkeit aus der Kabine. Jetzt geht auch nach vorne etwas mehr beim VfB.
-" headline="VfB etwas bem&#252;hter" playername="" id="10908181" date="2015-03-21T15:40:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="2" game-minute="50" player-id="0" gameday-id="39331">
+" headline="VfB etwas bem&#252;hter" playername="" id="10908181" date="2015-03-21T15:40:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="3" game-minute="50" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362778" team-id="0" game-id="407594" text="Hartmann macht klar: Beim n&#228;chsten Mal ist das Gelb f&#252;r den K&#246;lner. Freisto&#223; von der linken Seite.
-" headline="Peszko erwischt Junuzovic" playername="" id="10908161" date="2015-03-21T15:40:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="2" game-minute="51" player-id="0" gameday-id="39331">
+" headline="Peszko erwischt Junuzovic" playername="" id="10908161" date="2015-03-21T15:40:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="3" game-minute="51" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362783" team-id="0" game-id="407594" text="Junuzovic schl&#228;gt den Ball zu weit auf den zweiten Pfosten.
-" headline="Horn packt zu" playername="" id="10908151" date="2015-03-21T15:40:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="1" game-minute="52" player-id="0" gameday-id="39331">
+" headline="Horn packt zu" playername="" id="10908151" date="2015-03-21T15:40:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="2" game-minute="52" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407584_1362785" team-id="0" game-id="407584" text="Interessanterweise hatte der FCA im ersten Abschnitt sogar ein wenig mehr Ballbesitz, das gab das Gesehene nicht unbedingt her. 326 Ballkontakte hatten die Augsburger gegen&#252;ber 268 der Freiburger.&amp;nbsp;Noch mehr Zahlen und Daten finden Sie in unserem Statistik-Bereich. Gute Unterhaltung.
 " headline="SC dominiert - FCA hat aber mehr Spielanteile" playername="" id="10908111" date="2015-03-21T15:40:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="4" game-minute="47" player-id="0" gameday-id="39331">
@@ -133,7 +139,7 @@
 " headline="Sane bei&#223;t auf die Z&#228;hne" playername="" id="10908101" date="2015-03-21T15:40:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="2" game-minute="52" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362771" team-id="0" game-id="407594" text="Es ballt sich im Zentrum. Wieder schafft keiner den Durchstecher nach vorne.
-" headline="Mittelfeld, Mittelfeld, Mittelfeld" playername="" id="10908091" date="2015-03-21T15:38:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="3" game-minute="49" player-id="0" gameday-id="39331">
+" headline="Mittelfeld, Mittelfeld, Mittelfeld" playername="" id="10908091" date="2015-03-21T15:38:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="4" game-minute="49" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1362770" team-id="0" game-id="407586" text="Volland schickt Beck auf dem rechten Fl&#252;gel auf die Reise. Der Au&#223;enverteidiger setzt zur Flanke an, trifft jedoch nur einen Kontrahenten. Das Leder trudelt ins Toraus!
 " headline="Erster Ecksto&#223; f&#252;r die G&#228;ste " playername="" id="10908071" date="2015-03-21T15:38:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="4" game-minute="47" player-id="0" gameday-id="39331">
@@ -145,10 +151,10 @@
 " headline="Gelbe Karte f&#252;r Leonardo Bittencourt (Hannover 96)" playername="" id="10908061" date="2015-03-21T15:38:43Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="4" game-minute="49" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1362746" team-id="0" game-id="407598" text="Der VfB hat tats&#228;chlich eine Torchance. Harnik zieht im Strafraum aus der Drehung ab. Sein Versuch geht jedoch gut einen Meter &#252;ber den Kasten.
-" headline="Nanu, was ist da los?" playername="" id="10908041" date="2015-03-21T15:37:36Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="3" game-minute="47" player-id="0" gameday-id="39331">
+" headline="Nanu, was ist da los?" playername="" id="10908041" date="2015-03-21T15:37:36Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="4" game-minute="47" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362755" team-id="0" game-id="407594" text="Die Gastgeber kommen offensiv raus, Olkowski bekommt den Ball hoch im Strafraum, nimmt ihn mit dem Kopf an. Dann spielt er es zu umst&#228;ndlich, bekommt aber auch keine Hilfe.
-" headline="K&#246;ln zu kompliziert" playername="" id="10908031" date="2015-03-21T15:37:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="4" game-minute="47" player-id="0" gameday-id="39331">
+" headline="K&#246;ln zu kompliziert" playername="" id="10908031" date="2015-03-21T15:37:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="5" game-minute="47" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1362749" team-id="0" game-id="407586" text="320 auf Seiten der Hausherren bei 348 seitens der Hoffenheimer. Noch mehr Zahlen und Daten finden Sie im Statistikbereich.
 " headline="Statistik Ballkontakte" playername="" id="10908021" date="2015-03-21T15:37:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="2" game-minute="49" player-id="0" gameday-id="39331">
@@ -160,7 +166,7 @@
 " headline="Weinzierl reagiert" playername="" id="10908011" date="2015-03-21T15:37:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="5" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1362740" team-id="0" game-id="407598" text="Beide Trainer behalten sich personelle Wechsel vor.
-" headline="Personell alles beim Alten" playername="" id="10907991" date="2015-03-21T15:35:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="4" game-minute="46" player-id="0" gameday-id="39331">
+" headline="Personell alles beim Alten" playername="" id="10907991" date="2015-03-21T15:35:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="5" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1362734" team-id="0" game-id="407556" text="Der Innenverteidiger langt mit dem Ellenbogen gegen Bittencourt hin und holt sich daf&#252;r seine siebte Verwarnung in dieser Saison ab.
 " headline="Gelbe Karte f&#252;r Neven Suboti&#263; (Borussia Dortmund)" playername="" id="10907971" date="2015-03-21T15:35:33Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="6" game-minute="46" player-id="0" gameday-id="39331">
@@ -168,10 +174,10 @@
   <event section="2" label="1_39331_407584_1362737" team-id="0" game-id="407584" text=" Pierre-Emile H&#248;jbjerg f&#252;r Nikola &#272;ur&#273;i&#263;" headline="Wechsel bei FC Augsburg " playername="" id="10907981" date="2015-03-21T15:35:33Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="6" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362720" team-id="0" game-id="407594" text="Weder St&#246;ger noch Skripnik wechseln.
-" headline="Anpfiff 2. Halbzeit" playername="" id="10907951" date="2015-03-21T15:34:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="5" game-minute="46" player-id="0" gameday-id="39331">
+" headline="Anpfiff 2. Halbzeit" playername="" id="10907951" date="2015-03-21T15:34:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="6" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1362725" team-id="0" game-id="407598" text="Weiter geht es in Stuttgart.
-" headline="Anpfiff 2. Halbzeit" playername="" id="10907961" date="2015-03-21T15:34:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="5" game-minute="46" player-id="0" gameday-id="39331">
+" headline="Anpfiff 2. Halbzeit" playername="" id="10907961" date="2015-03-21T15:34:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="6" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1362728" team-id="0" game-id="407586" text="Es geht weiter! Beide Teams stehen personell unver&#228;ndert auf dem Rasen.
 " headline="Anpfiff 2. Halbzeit" playername="" id="10907941" date="2015-03-21T15:34:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="6" game-minute="46" player-id="0" gameday-id="39331">
@@ -185,7 +191,7 @@
   <event section="2" label="1_39331_407556_1362716" team-id="0" game-id="407556" text="Anpfiff 2. Halbzeit" headline="Anpfiff 2. Halbzeit" playername="" id="10907921" date="2015-03-21T15:34:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="8" game-minute="46" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362687" team-id="0" game-id="407594" text="Halbzeit-Fazit: Aus der K&#246;lner Ecke wird nichts, genau wie aus allen anderen Angriffen der Gastgeber. Von denen gibt es bislang aber ohnehin nur sehr wenige. Bremen hat das Spiel im Griff, bekommt aber selbst auch kaum drei anst&#228;ndige P&#228;sse aneinander. Selke macht bislang den Unterschied.
-" headline="Ende 1. Halbzeit" playername="" id="10907891" date="2015-03-21T15:19:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="6" game-minute="45" player-id="0" gameday-id="39331">
+" headline="Ende 1. Halbzeit" playername="" id="10907891" date="2015-03-21T15:19:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="7" game-minute="45" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407586_1362680" team-id="0" game-id="407586" text="Halbzeitfazit: Das torlose Remis geht hier bisher in Ordnung. Beide Teams sind sehr angagiert, aber ganz vorne fehlt das Abschluss-Gl&#252;ck. Es ist trotz null Toren auf beiden Seiten keine unansehnliche Partie.
 " headline="Ende 1. Halbzeit" playername="" id="10907881" date="2015-03-21T15:19:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="7" game-minute="45" player-id="0" gameday-id="39331">
@@ -194,22 +200,22 @@
 " headline="Ende 1. Halbzeit" playername="" id="10907871" date="2015-03-21T15:19:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="8" game-minute="45" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362666" team-id="0" game-id="407598" text="Halbzeit-Fazit: Es l&#228;uft nicht beim VfB. In der Defensive stehen die Schwaben zwar einigerma&#223;en sicher, nach vorne ist aber so wirklich &#252;berhaupt keine Gefahr zu sehen. Die Frankfurter wirken technisch und taktisch reifer, versuchen zumindest, Fu&#223;ball zu spielen. Beim VfB ist das aufgrund der Verunsicherung offenbar nur sehr begrenzt m&#246;glich.
-" headline="Ende 1. Halbzeit" playername="" id="10907861" date="2015-03-21T15:18:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="6" game-minute="45" player-id="0" gameday-id="39331">
+" headline="Ende 1. Halbzeit" playername="" id="10907861" date="2015-03-21T15:18:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="7" game-minute="45" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362677" team-id="0" game-id="407594" text="Pr&#246;dl k&#246;pft eine Flanke von rechts weg, K&#246;ln darf nochmal.
-" headline="Eine Ecke noch" playername="" id="10907851" date="2015-03-21T15:18:24Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="7" game-minute="45" player-id="0" gameday-id="39331">
+" headline="Eine Ecke noch" playername="" id="10907851" date="2015-03-21T15:18:24Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="8" game-minute="45" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407556_1362671" team-id="0" game-id="407556" text="Halbzeit-Fazit: Verdientes Remis nach einer m&#228;&#223;igen ersten H&#228;lfte mit wenigen Highlights. Der BVB ist in der ersten halben Stunde etwas besser bzw. effizienter, aber ohne zu gl&#228;nzen. Hannover gleicht zwar ziemlich &#252;berraschend aus, verdient sich danach aber dieses 1:1 zur Pause mit viel Leidenschaft und Mut.
 " headline="Ende 1. Halbzeit" playername="" id="10907841" date="2015-03-21T15:18:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="9" game-minute="45" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362658" team-id="0" game-id="407594" text="Den Gastgebern gef&#228;llt das hier ganz gut, so ereignisarm.
-" headline="Bremen komfortabel" playername="" id="10907811" date="2015-03-21T15:16:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="8" game-minute="44" player-id="0" gameday-id="39331">
+" headline="Bremen komfortabel" playername="" id="10907811" date="2015-03-21T15:16:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="9" game-minute="44" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362655" team-id="0" game-id="407594" text="Sobald die Gastgeber zehn Meter hinter der Mittellinie sind, stupsen sie den Ball nur noch herum, vornehmlich zu einem Bremer.
-" headline="K&#246;lner Gestupse" playername="" id="10907821" date="2015-03-21T15:16:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="9" game-minute="42" player-id="0" gameday-id="39331">
+" headline="K&#246;lner Gestupse" playername="" id="10907821" date="2015-03-21T15:16:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="10" game-minute="42" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362663" team-id="0" game-id="407598" text="Der Innenverteidiger l&#228;uft Seferovic gekonnt ab und haut im Zweikampf sein ganzes Gewicht rein. Am Ende bekommt er sogar einen Freisto&#223; zugesprochen. Das Publikum dankt es mit Szenenapplaus. Der VfB muss sich jetzt &#252;ber solche kleinen Erfolgserlebnisse emotional hochziehen.
-" headline="Niedermeier legt alles rein" playername="" id="10907831" date="2015-03-21T15:16:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="7" game-minute="44" player-id="0" gameday-id="39331">
+" headline="Niedermeier legt alles rein" playername="" id="10907831" date="2015-03-21T15:16:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="8" game-minute="44" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407586_1362657" team-id="0" game-id="407586" text="Aus Sicht von Andre Breitenreiter ist es jetzt auch wichtig, ohne Gegentor in die Pause zu kommen. Hoffenheim wird immer besser.
 " headline="Torlos in die Kabine" playername="" id="10907791" date="2015-03-21T15:16:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="8" game-minute="44" player-id="0" gameday-id="39331">
@@ -224,10 +230,10 @@
 " headline="Der BVB verliert die B&#228;lle zu schnell" playername="" id="10907771" date="2015-03-21T15:16:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="10" game-minute="44" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362637" team-id="0" game-id="407598" text="Der Ivorer langt im Mittelfeld bei einem Duell zu hart hin und wird verwarnt. Es ist die dritte Gelbe Karte in der Bundesliga f&#252;r den Winterneuzugang.
-" headline="Gelbe Karte f&#252;r Serey Die (VfB Stuttgart)" playername="" id="10907751" date="2015-03-21T15:14:35Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="8" game-minute="42" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Serey Die (VfB Stuttgart)" playername="" id="10907751" date="2015-03-21T15:14:35Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="9" game-minute="42" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362641" team-id="0" game-id="407598" text="Der Rum&#228;ne, als Spielgestalter angedacht, bleibt bislang ebenfalls v&#246;llig unter seinen M&#246;glichkeiten.
-" headline="Was macht eigentlich Maxim?" playername="" id="10907761" date="2015-03-21T15:14:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="9" game-minute="41" player-id="0" gameday-id="39331">
+" headline="Was macht eigentlich Maxim?" playername="" id="10907761" date="2015-03-21T15:14:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="10" game-minute="41" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407584_1362647" team-id="0" game-id="407584" text="Der FCA k&#246;nnte in dieser Phase ein wenig Entlastung gebrauchen, die Weinzierl-Elf kommt momentan nicht gut in die Zweik&#228;mpfe.
 " headline="Augsburg ist klar unterlegen" playername="" id="10907741" date="2015-03-21T15:14:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="11" game-minute="40" player-id="0" gameday-id="39331">
@@ -242,10 +248,10 @@
 " headline="Zielwasser trinken" playername="" id="10907701" date="2015-03-21T15:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="11" game-minute="39" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362635" team-id="0" game-id="407594" text="Fritz best&#252;rmt den K&#246;lner, als der den Ball hinten rausschl&#228;gt. Risse knickt mit dem linken Fu&#223; um, muss behandelt werden.
-" headline="Risse knickt um" playername="" id="10907711" date="2015-03-21T15:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="10" game-minute="40" player-id="0" gameday-id="39331">
+" headline="Risse knickt um" playername="" id="10907711" date="2015-03-21T15:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="11" game-minute="40" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362626" team-id="0" game-id="407594" text="Er gr&#228;tscht einen Steilpass weg, da sehen die K&#246;lner Selke im Abseits. Die Schiedsrichter nicht.
-" headline="Hector kl&#228;rt" playername="" id="10907721" date="2015-03-21T15:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="11" game-minute="40" player-id="0" gameday-id="39331">
+" headline="Hector kl&#228;rt" playername="" id="10907721" date="2015-03-21T15:13:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="12" game-minute="40" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407584_1362642" team-id="0" game-id="407584" text="&#8203;Das ist dann doch des Guten ein wenig zu viel. Ji&amp;nbsp;&#252;berlauft seinen Gegenspieler beim Pressing.
 " headline="Offensivfoul vo Ji" playername="" id="10907671" date="2015-03-21T15:13:17Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="10" game-minute="42" player-id="0" gameday-id="39331">
@@ -257,7 +263,7 @@
 " headline="Freisto&#223; f&#252;r den BVB" playername="" id="10907661" date="2015-03-21T15:13:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="12" game-minute="41" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362625" team-id="0" game-id="407598" text="Harnik und auch der hoch veranlagte Werner &quot;gl&#228;nzen&quot; bislang eher durch Stockfehler und andere technische Unzul&#228;nglichkeiten als durch fu&#223;ballerische F&#228;higkeiten.
-" headline="Unfassbar viele technische Fehler" playername="" id="10907651" date="2015-03-21T15:11:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="10" game-minute="40" player-id="0" gameday-id="39331">
+" headline="Unfassbar viele technische Fehler" playername="" id="10907651" date="2015-03-21T15:11:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="11" game-minute="40" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407584_1362617" team-id="0" game-id="407584" text="Auch der n&#228;chste Angriff hat es in sich, doch unter anderem Christian G&#252;nter bringt den Ball aus spitzem Winkel nicht aufs Tor.
 " headline="Freiburg f&#228;hrt hier Angriff auf Angriff" playername="" id="10907631" date="2015-03-21T15:11:24Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="13" game-minute="37" player-id="0" gameday-id="39331">
@@ -266,7 +272,7 @@
 " headline="Auf der Linie gekl&#228;rt!" playername="" id="10907641" date="2015-03-21T15:11:24Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="14" game-minute="35" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362621" team-id="0" game-id="407594" text="K&#246;lns Angriff pfeift die Luft raus, Bremen schiebt sich jetzt nach vorne. Vor den Toren w&#228;chst so wieder der Klee.
-" headline="Bremen weiter vor" playername="" id="10907621" date="2015-03-21T15:11:15Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="12" game-minute="38" player-id="0" gameday-id="39331">
+" headline="Bremen weiter vor" playername="" id="10907621" date="2015-03-21T15:11:15Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="13" game-minute="38" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407586_1362618" team-id="0" game-id="407586" text="Die Paderborner k&#246;nnen mit der Leistung des SC sehr zufrieden sein. Von Hoffenheim h&#228;tte man im Vorfeld dieser Partie wohl mehr erwartet.
 " headline="Noch zehn Minuten bis zum Pausentee" playername="" id="10907601" date="2015-03-21T15:11:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:04Z" sort="12" game-minute="37" player-id="0" gameday-id="39331">
@@ -281,10 +287,10 @@
 " headline="Aubameyang gegen Felipe" playername="" id="10907591" date="2015-03-21T15:11:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="14" game-minute="37" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362604" team-id="0" game-id="407594" text="Links raus, Pr&#246;dl l&#228;uft nur nebenher. Der Brasilianer schie&#223;t flach ans Au&#223;ennetz.
-" headline="Ujah f&#252;r Deyverson" playername="" id="10907551" date="2015-03-21T15:09:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="13" game-minute="36" player-id="0" gameday-id="39331">
+" headline="Ujah f&#252;r Deyverson" playername="" id="10907551" date="2015-03-21T15:09:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="14" game-minute="36" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362592" team-id="0" game-id="407594" text="Vogts Ellbogen schl&#228;gt bei einer Ecke ein im Hinterkopf des Bremers. Schiri Hartmann findet nichts weiter dabei.
-" headline="Es kracht bei Fritz" playername="" id="10907561" date="2015-03-21T15:09:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="14" game-minute="35" player-id="0" gameday-id="39331">
+" headline="Es kracht bei Fritz" playername="" id="10907561" date="2015-03-21T15:09:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="15" game-minute="35" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407586_1362603" team-id="0" game-id="407586" text="Paderborn setzt auf eine stabile Grundordnung und schnell vorgetragene Angriffe. Dies sieht zunehmend zielf&#252;hrend aus.
 " headline="Paderborn sehr ordentlich&amp;nbsp;" playername="" id="10907541" date="2015-03-21T15:09:24Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:05Z" sort="14" game-minute="35" player-id="0" gameday-id="39331">
@@ -293,10 +299,10 @@
 " headline="Der SCP wird gef&#228;hrlicher" playername="" id="10907511" date="2015-03-21T15:08:07Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:05Z" sort="15" game-minute="32" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362597" team-id="0" game-id="407598" text="Der &#214;sterreicher, bislang unsichtbar, h&#228;lt rechts am Strafraum volley drauf. Sein Schuss geht knapp links am Tor vorbei.
-" headline="Harnik h&#228;lt einfach mal drauf" playername="" id="10907521" date="2015-03-21T15:08:07Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="11" game-minute="36" player-id="0" gameday-id="39331">
+" headline="Harnik h&#228;lt einfach mal drauf" playername="" id="10907521" date="2015-03-21T15:08:07Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="12" game-minute="36" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362587" team-id="0" game-id="407598" text="Die Begegnung und vor allem, wie beide Teams diese f&#252;hren, sagt viel &#252;ber die Trainer aus. Frankfurt mit Offensivverfechter Schaaf spielt gef&#228;llig nach vorne, hat aber Schw&#228;chen in der Defensive. Defensivverfechter Stevens verordnet dem VfB eine strikte Defensivtaktik, worunter das Offensivspiel sichtlich leidet.
-" headline="Spiel symptomatisch f&#252;r die Trainer" playername="" id="10907531" date="2015-03-21T15:08:07Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="12" game-minute="34" player-id="0" gameday-id="39331">
+" headline="Spiel symptomatisch f&#252;r die Trainer" playername="" id="10907531" date="2015-03-21T15:08:07Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="13" game-minute="34" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407584_1362594" team-id="0" game-id="407584" text="Sorg schie&#223;t den Ball aus zentraler Position platziert ins rechte untere Eck: Hitz&amp;nbsp;ist reaktionsschnell zur Stelle und h&#228;lt seinen Kasten mit einer astreinen Hechteinlage sauber!
 " headline="Hitz lenkt den Ball in h&#246;chster Not zur Ecke!" playername="" id="10907501" date="2015-03-21T15:08:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="15" game-minute="35" player-id="0" gameday-id="39331">
@@ -311,7 +317,7 @@
 " headline="Fast die F&#252;hrung f&#252;r 96!" playername="" id="10907491" date="2015-03-21T15:08:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="17" game-minute="35" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362575" team-id="0" game-id="407594" text="Zugetreten vom Bremer, Freisto&#223; f&#252;r K&#246;ln von der rechten Seite. Bremen macht es sich deutlich weiter hinten gem&#252;tlich.
-" headline="Vestergaard gegen Risse" playername="" id="10907461" date="2015-03-21T15:07:15Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="15" game-minute="33" player-id="0" gameday-id="39331">
+" headline="Vestergaard gegen Risse" playername="" id="10907461" date="2015-03-21T15:07:15Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="16" game-minute="33" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407556_1362572" team-id="0" game-id="407556" text="Nachdem es in der ersten halben Stunde kr&#228;ftig geregnet hat, ist nun sogar die Sonne herausgekommen.
 " headline="Aprilwetter in Hannover" playername="" id="10907451" date="2015-03-21T15:06:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="18" game-minute="33" player-id="0" gameday-id="39331">
@@ -323,16 +329,16 @@
 " headline="Drei Meter vor dem Tor: Luftloch von Mehmedi" playername="" id="10907431" date="2015-03-21T15:05:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:32Z" sort="17" game-minute="30" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362570" team-id="0" game-id="407598" text="Nach einer Ecke von rechts durch Inui k&#246;pft Meier am kurzen Pfosten stehend in Richtung langes Eck. Sein Versuch geht nur hauchd&#252;nn am Pfosten vorbei.
-" headline="Gl&#252;ck f&#252;r den VfB" playername="" id="10907411" date="2015-03-21T15:05:20Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="13" game-minute="33" player-id="0" gameday-id="39331">
+" headline="Gl&#252;ck f&#252;r den VfB" playername="" id="10907411" date="2015-03-21T15:05:20Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="14" game-minute="33" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362563" team-id="0" game-id="407594" text="Peszko rechts freigespielt, passt dann quer in Pr&#246;dls F&#252;&#223;e.
-" headline="Geht doch direkt" playername="" id="10907401" date="2015-03-21T15:05:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="16" game-minute="32" player-id="0" gameday-id="39331">
+" headline="Geht doch direkt" playername="" id="10907401" date="2015-03-21T15:05:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="17" game-minute="32" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407586_1362560" team-id="0" game-id="407586" text="Paderborn kam gut in die Partie, fing sogar besser als Hoffenheim an auch durch Heimloth auch die erste richtig gute&amp;nbsp;Chance, die letzten Minuten aber gibt es eine leichte &#220;berlegenheit f&#252;r die G&#228;ste aus dem Kraichgau.
 " headline="30 Minuten ist durch" playername="" id="10907391" date="2015-03-21T15:05:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:05Z" sort="16" game-minute="31" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362555" team-id="0" game-id="407598" text="Die G&#228;ste k&#246;nnten schon l&#228;ngst f&#252;hren, doch vor dem Tor spielen es die Frankfurter bisweilen viel zu umst&#228;ndlich.
-" headline="Umst&#228;ndlich, umst&#228;ndlicher, Eintracht Frankfurt" playername="" id="10907371" date="2015-03-21T15:03:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="14" game-minute="32" player-id="0" gameday-id="39331">
+" headline="Umst&#228;ndlich, umst&#228;ndlicher, Eintracht Frankfurt" playername="" id="10907371" date="2015-03-21T15:03:54Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="15" game-minute="32" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407556_1362559" team-id="0" game-id="407556" text="Aus heiterem Himmel gelingt Hannover der Ausgleich! Bittencourt st&#246;&#223;t &#252;ber links in den Sechzehner vor und spielt dann flach zur&#252;ck in den R&#252;cken der Abwehr. Dort steht Stindl und schie&#223;t aus zehn Metern mit rechts flach ins lange Eck! Sein f&#252;nfter Saisontreffer.
 " headline="Tooor f&#252;r Hannover 96, 1:1 durch Lars Stindl" playername="Stindl" id="10907351" date="2015-03-21T15:03:53Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T15:43:31Z" sort="19" game-minute="31" player-id="0" gameday-id="39331">
@@ -341,13 +347,13 @@
 " headline="Nach einer halben Stunde..." playername="" id="10907361" date="2015-03-21T15:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="20" game-minute="30" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362541" team-id="0" game-id="407598" text="Nach Ecke der Frankfurter schw&#228;rmen die Schwaben aus zum Konter. Serey Die versucht es dann aus 30 Metern mit einem Lupfer. Der Versuch geht rechts am Tor vorbei.
-" headline="Serey Die versucht es k&#252;nstlerisch" playername="" id="10907341" date="2015-03-21T15:03:20Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="15" game-minute="30" player-id="0" gameday-id="39331">
+" headline="Serey Die versucht es k&#252;nstlerisch" playername="" id="10907341" date="2015-03-21T15:03:20Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="16" game-minute="30" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362552" team-id="0" game-id="407594" text="K&#246;ln ist jetzt aktiver. Sch&#246;ner anzusehen ist das Spiel aber nicht, es fehlen die fl&#252;ssigen Kombinationen.
-" headline="Kein Spielfluss" playername="" id="10907331" date="2015-03-21T15:03:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="17" game-minute="31" player-id="0" gameday-id="39331">
+" headline="Kein Spielfluss" playername="" id="10907331" date="2015-03-21T15:03:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="18" game-minute="31" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362542" team-id="0" game-id="407594" text="K&#246;ln jetzt angepiekt, Ujah macht es auch von halbrechts flach aufs lange Eck. Zart vorbei!
-" headline="Und dann Ujah!" playername="" id="10907321" date="2015-03-21T15:02:00Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="18" game-minute="30" player-id="0" gameday-id="39331">
+" headline="Und dann Ujah!" playername="" id="10907321" date="2015-03-21T15:02:00Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="19" game-minute="30" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407586_1362540" team-id="0" game-id="407586" text="Kevin Volland, seit Wochen in bestechender Form,&amp;nbsp;sucht au&#223;erhalb des Sechzehners der Hausherren den Abschluss, bef&#246;rdert das Spielger&#228;t jedoch unplatziert in die Arme von Schlussmann Kruse.
 " headline="Warum denn auch nicht?" playername="" id="10907301" date="2015-03-21T15:01:59Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:05Z" sort="17" game-minute="27" player-id="0" gameday-id="39331">
@@ -365,25 +371,19 @@
 " headline="Immer wieder R&#252;ckp&#228;sse" playername="" id="10907271" date="2015-03-21T15:01:57Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:31Z" sort="21" game-minute="29" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362525" team-id="0" game-id="407598" text="Zambrano kl&#228;rt mit einer perfekten Gr&#228;tsche als letzter Mann gegen Werner. Der Peruaner beweist sein gutes Timing und so sichert er sich den Ball.
-" headline="Starkes Tackling" playername="" id="10907251" date="2015-03-21T15:01:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="16" game-minute="28" player-id="0" gameday-id="39331">
+" headline="Starkes Tackling" playername="" id="10907251" date="2015-03-21T15:01:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="17" game-minute="28" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362532" team-id="0" game-id="407594" text="Maroh zimmert drauf von rechts aufs lange Eck, Wimmer rutscht vorbei, der Ball rollt neben das Tor.
-" headline="Wimmer vorbei" playername="" id="10907241" date="2015-03-21T15:01:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="19" game-minute="29" player-id="0" gameday-id="39331">
+" headline="Wimmer vorbei" playername="" id="10907241" date="2015-03-21T15:01:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="20" game-minute="29" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362522" team-id="0" game-id="407594" text="Schnipp schnapp, so schnell geht das im K&#246;lner Strafraum! Und Selke ist am wachsten. Ecke von links, Ujah verl&#228;ngert im Duell mit Gebre Selassie unfreiwillig auf Selke. Angenommen und mit rechts reingemacht. Horn ist dran, kann nichts machen. Sechster Saisontreffer.
-" headline="Tooor f&#252;r Werder Bremen, 0:1 durch Davie Selke" playername="Selke" id="10907201" date="2015-03-21T14:59:05Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T15:42:47Z" sort="20" game-minute="27" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r Werder Bremen, 0:1 durch Davie Selke" playername="Selke" id="10907201" date="2015-03-21T14:59:05Z" type-id="50" whichteam="2" conference="1" updated-at="2015-03-21T15:43:55Z" sort="21" game-minute="27" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407594_1362517" team-id="0" game-id="407594" text="Der Bremer Angreifer schirmt den Ball ab, dann tritt Peszko zu. Schmerzen!
-" headline="Peszko perforiert di Santo" playername="" id="10907211" date="2015-03-21T14:59:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:47Z" sort="21" game-minute="26" player-id="0" gameday-id="39331">
+" headline="Peszko perforiert di Santo" playername="" id="10907211" date="2015-03-21T14:59:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:55Z" sort="22" game-minute="26" player-id="0" gameday-id="39331">
   </event>
   <event section="1" label="1_39331_407598_1362516" team-id="0" game-id="407598" text="Die Anh&#228;nger der Schwaben geben auf der Trib&#252;ne trotz der Magerkost auf dem Feld Vollgas. Der Funke auf die Profis springt aber nicht &#252;ber.
-" headline="Nur die Fans sind erstligareif" playername="" id="10907221" date="2015-03-21T14:59:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:42:48Z" sort="17" game-minute="26" player-id="0" gameday-id="39331">
-  </event>
-  <event section="1" label="1_39331_407586_1362515" team-id="0" game-id="407586" text="Schipplock probiert es an der rechten Strafraumgrenze aus spitzem Winkel, doch da das Spielger&#228;t klar &#252;ber die Latte saust, muss Torh&#252;ter Kruse nicht ins Geschehen eingreifen.
-" headline="Erster echter Torschuss der G&#228;ste" playername="" id="10907181" date="2015-03-21T14:59:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:05Z" sort="19" game-minute="24" player-id="0" gameday-id="39331">
-  </event>
-  <event section="1" label="1_39331_407586_1362513" team-id="0" game-id="407586" text="Beck setzt Volland an der rechten Eckfahne in Szene. Der Angreifer leitet direkt weiter in den Strafraum, wo SCP-Keeper Kruse jedoch aufpasst und vor Schipplock am Ball ist.
-" headline="Der letzte Pass fehlt zumeist " playername="" id="10907191" date="2015-03-21T14:59:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:40:05Z" sort="20" game-minute="23" player-id="0" gameday-id="39331">
+" headline="Nur die Fans sind erstligareif" playername="" id="10907221" date="2015-03-21T14:59:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T15:43:57Z" sort="18" game-minute="26" player-id="0" gameday-id="39331">
   </event>
 </events>
 

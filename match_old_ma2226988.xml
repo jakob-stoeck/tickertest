@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407586">
     <event-metadata event-status="mid-event" site-attendance="14500" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
-      <event-metadata-soccer period-minute-elapsed="46" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="55" period-value="2"/>
     </event-metadata>
     <team id="team-25126">
       <team-metadata team-key="SCP" alignment="home">
@@ -281,7 +281,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-foul id="ev-407586-1362819" period-minute-elapsed="55" period-value="2" comment="Gelbe Karte für Ermin Bičakčić (1899 Hoffenheim)|&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="caution"/>
+        <action-soccer-other id="ev-407586-1362827" period-minute-elapsed="53" period-value="2" action-type="other" comment="Fast das 1:0 für Paderborn|Brückner zaubert auf der rechten Außenbahn! Der Ostwestfale setzt sich gegen gleich drei Kontrahenten durch und verzückt das Publikum in diesem Zuge mit gleich mehreren technischen Feinheiten. An der Grundlinie angekommen folgt ein flacher Pass in den Rücken der Innenverteidigung, wo Rupp sogleich abzieht. Da Keeper Baumann zuvor abgetaucht ist, ist das Tor leer! Doch das Spielgerät klatscht nur gegen die Brust von Kim.&#10;"/>
         <action-soccer-other id="ev-407586-1362788" period-minute-elapsed="51" period-value="2" action-type="other" comment="Was bringt das Unentschieden?|Das Remis bringt wohl nicht wirklich viel, denn während der SCP dringend Zähler gegen Abstieg sammeln muss, möchte Hoffenheim im Kampf um Europa dreifach punkten.&#10;"/>
         <action-soccer-other id="ev-407586-1362779" period-minute-elapsed="49" period-value="2" action-type="other" comment="Heinloth will es heute wissen|Wieder knallt der junge Mann das Spielgerät von rechts außen in Richtung 1899-Gehäuse, doch erneut schnellt der Ball klar über die Latte.&#10;"/>
         <action-soccer-other id="ev-407586-1362749" period-minute-elapsed="49" period-value="2" action-type="other" comment="Statistik Ballkontakte|320 auf Seiten der Hausherren bei 348 seitens der Hoffenheimer. Noch mehr Zahlen und Daten finden Sie im Statistikbereich.&#10;"/>
