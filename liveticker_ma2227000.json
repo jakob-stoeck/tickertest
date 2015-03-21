@@ -887,5 +887,45 @@
     "headline": "",
     "content": "<p><b>Ginczek zieht ab</b></p> <p>Der zweimalige Torschütze&nbsp;knallt nach einer Ecke von rechts am langen Pfosten drauf. Trapp bekommt gerade noch die Fäuste hin und pariert stark.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363164",
+    "tickertime": "21.03.2015 17:15:51",
+    "minute": "88",
+    "headline": "",
+    "content": "<p><b>Gentner demonstriert das neue Selbstvertrauen</b></p> <p>Der Kapitän hält nach einem kurz abgewehrten Ball volley aus gut 30 Metern drauf. Der Versuch geht zwar in den Oberrang, zeigt aber doch gut&nbsp;das Selbstvertrauen durch die drei Treffer.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363167",
+    "event": {
+      "id": "15875148",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "139048",
+        "name": "Daniel Ginczek",
+        "firstname": "Daniel",
+        "surname": "Ginczek",
+        "fullname": "Daniel Ginczek",
+        "gender": "male",
+        "birthday": "13.04.1991",
+        "height": "188",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:16"
+    },
+    "tickertime": "21.03.2015 17:16:10",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Daniel Ginczek</span>",
+    "syndicate": "s1de"
   }
 ]
