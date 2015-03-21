@@ -905,5 +905,45 @@
     "headline": "",
     "content": "<p><b>Farfan läuft sich warm</b></p> <p>Und die Schalker Fans applaudieren erwartungsfroh.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363987",
+    "tickertime": "21.03.2015 20:04:33",
+    "minute": "76",
+    "headline": "",
+    "content": "<p><b>Zweikampf, Zweikampf, Zweikampf</b></p> <p>Jedes Duell am Rande der Karte. Wenn da eine Sense mal das gegnerische Bein trifft, geht es übel aus.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363990",
+    "event": {
+      "id": "15878416",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "3133",
+        "name": "Stefan Kießling",
+        "firstname": "Stefan",
+        "surname": "Kießling",
+        "fullname": "Stefan Kießling",
+        "gender": "male",
+        "birthday": "25.01.1984",
+        "height": "191",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "21.03.2015 20:04"
+    },
+    "tickertime": "21.03.2015 20:04:42",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bayer Leverkusen -> Stefan Kießling</span>",
+    "syndicate": "s1de"
   }
 ]
