@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="58" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="61" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -222,7 +222,7 @@
       <team-metadata team-key="BVB" alignment="away">
         <name full="Borussia Dortmund" middle="Dortmund" id="t-14" extid="te-258"/>
       </team-metadata>
-      <team-stats score="2" score-attempts="0">
+      <team-stats score="3" score-attempts="0">
         <sports-property formal-name="possession" value="50"/>
         <sports-property formal-name="duels-won" value="0"/>
         <team-stats-soccer>
@@ -399,7 +399,7 @@
         <player-metadata position-event="striker" status="starter" uniform-number="17" lineup-slot="x:0,y:9">
           <name last="Aubameyang"/>
         </player-metadata>
-        <player-stats score="1">
+        <player-stats score="2">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
             <stats-soccer-foul cautions-total="0" ejections-total="0"/>
@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-score id="ev-407556-1362879" period-minute-elapsed="61" period-value="2" comment="Tooor für Borussia Dortmund, 1:3 durch Pierre-Emerick Aubameyang|Kagawa flankt von links mit dem rechten Außenrist mit viel Schnitt an den Fünfer. Dort muss Aubameyang nur noch den Kopf hinhalten - und drin ist das Ding! Sein zwölfter Saisontor wird mit einem eingesprungenen Salto gefeiert!&#10;" team-idref="t-14" score-team="3" score-team-opposing="1" player-idref="pl-134830" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407556-1362864" period-minute-elapsed="60" period-value="2" action-type="other" comment="Eiskalter BVB|Mit dem ersten Torschuss nach dem 1:0 von Aubameyang geht Dortmund hier erneut in Führung. Viele Chancen brauchen die Borussen heute wirklich nicht.&#10;"/>
         <action-soccer-other id="ev-407556-1362858" period-minute-elapsed="59" period-value="2" action-type="other" comment="Debüt für Dudziak|Der 19-Jährige kommt zu seinem ersten Bundesliga-Einsatz für den BVB.&#10;"/>
         <action-soccer-substitution id="ev-407556-1362846" period-minute-elapsed="58" period-value="2" comment="Wechsel bei Borussia Dortmund | Jeremy Dudziak für Oliver Kirch" team-idref="t-14" person-original-idref="pl-1878" person-replacing-idref="pl-231542"/>
