@@ -431,7 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-score id="ev-407598-1362901" period-minute-elapsed="63" period-value="2" comment="Tooor für  VfB Stuttgart, 1:1 durch Daniel Ginczek|&#10;" team-idref="t-6" score-team="1" score-team-opposing="1" player-idref="pl-139048" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-407598-1362917" period-minute-elapsed="65" period-value="2" action-type="other" comment="&quot;Jubiläum&quot; für Frankfurt|Das Tor von Ginczek war gleichzeitig das 50. Gegentor der Hessen in der laufenden Saison.&#10;"/>
+        <action-soccer-score id="ev-407598-1362901" period-minute-elapsed="63" period-value="2" comment="Tooor für VfB Stuttgart, 1:1 durch Daniel Ginczek|Die Stuttgarter gleichen aus - aus dem Nichts. Über rechts wird Harnik in die Tiefe geschickt. Der Österreicher stürmt auf Trapp zurück, spielt im Anschluss quer auf Ginczek. Der Neuzugang macht in seinem zehnten Bundesliga-Spiel für die Schwaben aus zwei Metern Entfernung sein erstes Tor.&#10;" team-idref="t-6" score-team="1" score-team-opposing="1" player-idref="pl-139048" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407598-1362887" period-minute-elapsed="61" period-value="2" action-type="other" comment="Die Zeit verrinnt|Stuttgart hat nur noch gut 30 Minuten Zeit, um das zurück ins Spiel zu kommen.&#10;"/>
         <action-soccer-other id="ev-407598-1362863" period-minute-elapsed="59" period-value="2" action-type="other" comment="Nichts geht mehr bei Werner|Der Jungstar muss von zwei Betreuern gestützt werden und humpelt in Richtung Kabine. Kostic soll es nun für den VfB richten.&#10;"/>
         <action-soccer-other id="ev-407598-1362844" period-minute-elapsed="58" period-value="2" action-type="other" comment="Werner muss behandelt werden|Das Eigengewächs hält bei einer Flanke von Chandler den Fuß rein, verletzt sich dabei.&#10;"/>
