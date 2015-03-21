@@ -43,7 +43,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="0" half3-score-home="0" guest-team-id="2134" guest-long-name="Werder Bremen" gamestate="2" home-short-name="K&#246;ln" team1-color="vstriped;16777215;12534837;16777215;0" penalty-score-home="0" eventcount="88" team2-color="plain;153649;153649;153649;16777215" referee-name="Robert Hartmann" spectatorcount="" activestate="2" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="27;Selke" id="407594" date="2015-03-21T15:30:00Z" home-long-name="1. FC K&#246;ln" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="90" half4-score-guest="0" guest-short-name="Bremen" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153466" overtime-score-home="0" home-team-id="9" home-scorer-names="88;Lehmann" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="1">
+  <game half1-score-home="0" winner="0" half3-score-home="0" guest-team-id="2134" guest-long-name="Werder Bremen" gamestate="2" home-short-name="K&#246;ln" team1-color="vstriped;16777215;12534837;16777215;0" penalty-score-home="0" eventcount="89" team2-color="plain;153649;153649;153649;16777215" referee-name="Robert Hartmann" spectatorcount="" activestate="2" penalty-score-guest="0" half1-score-guest="1" guest-scorer-names="27;Selke" id="407594" date="2015-03-21T15:30:00Z" home-long-name="1. FC K&#246;ln" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="90" half4-score-guest="0" guest-short-name="Bremen" overtime-score-guest="0" half2-score-guest="0" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153466" overtime-score-home="0" home-team-id="9" home-scorer-names="88;Lehmann" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="1">
     <tabs type="array">
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
       </tab>
@@ -57,7 +57,7 @@
       </tab>
     </tabs>
   </game>
-  <game half1-score-home="0" winner="1" half3-score-home="0" guest-team-id="530" guest-long-name="Eintracht Frankfurt" gamestate="2" home-short-name="Stuttgart" team1-color="hstriped;16777215;13501190;13501190;16777215;plain;0;0;0;1" penalty-score-home="0" eventcount="69" team2-color="vstriped;15338780;0;0;16777215" referee-name="Dr. Jochen Drees" spectatorcount="" activestate="2" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="51;Seferovi&#263;" id="407598" date="2015-03-21T15:30:00Z" home-long-name="VfB Stuttgart" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="90" half4-score-guest="0" guest-short-name="Frankfurt" overtime-score-guest="0" half2-score-guest="1" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153333" overtime-score-home="0" home-team-id="2076" home-scorer-names="63;Ginczek|66;Ginczek|80;Maxim" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="3">
+  <game half1-score-home="0" winner="1" half3-score-home="0" guest-team-id="530" guest-long-name="Eintracht Frankfurt" gamestate="2" home-short-name="Stuttgart" team1-color="hstriped;16777215;13501190;13501190;16777215;plain;0;0;0;1" penalty-score-home="0" eventcount="70" team2-color="vstriped;15338780;0;0;16777215" referee-name="Dr. Jochen Drees" spectatorcount="" activestate="2" penalty-score-guest="0" half1-score-guest="0" guest-scorer-names="51;Seferovi&#263;" id="407598" date="2015-03-21T15:30:00Z" home-long-name="VfB Stuttgart" cancel-reason="" half3-score-guest="0" league-id="1" current-minute="90" half4-score-guest="0" guest-short-name="Frankfurt" overtime-score-guest="0" half2-score-guest="1" team2-goalkeeper-color="plain;14342874;16751872;16751872;4468528" sport1-statistic-id="153333" overtime-score-home="0" home-team-id="2076" home-scorer-names="63;Ginczek|66;Ginczek|80;Maxim" group-id="0" team1-goalkeeper-color="plain;4468528;16751872;16751872;14342874" hasevents="1" half4-score-home="0" gameday-id="39331" half2-score-home="3">
     <tabs type="array">
       <tab tab-type="apn" title="Toralarm" controller="apn" has-live-selection="0">
       </tab>
@@ -88,6 +88,12 @@
 </games>
 
        <events type="array">
+  <event section="0" label="1_39331_407598_1363260" team-id="0" game-id="407598" text="Stuttgart feiert den ersten Sieg im Jahr 2015 nach einem zwischenzeitlichen R&#252;ckstand. Vor der Pause agieren die Schwaben jedoch offensiv harmlos. Nach dem Wechsel ist es zwei Toren von Ginczek zu verdanken, dass der VfB wieder Hoffnung sch&#246;pfen darf.
+" headline="Fazit:" playername="" id="10909861" date="2015-03-21T16:25:16Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="0" game-minute="-1" player-id="0" gameday-id="39331">
+  </event>
+  <event section="2" label="1_39331_407594_1363261" team-id="0" game-id="407594" text="K&#246;ln verdient sich in der zweiten Halbzeit dank eines deutlich gr&#246;&#223;eren Einsatzes einen Punkt, hat am Ende aber trotzdem Gl&#252;ck. Erst ein Fehler der Bremer Abwehr erm&#246;glicht den Ausgleich. Werder verpasst dadurch den Anschluss an die internationalen Pl&#228;tze. Der FC ist noch nicht raus aus dem Abstiegskampf.
+" headline="Fazit" playername="" id="10909851" date="2015-03-21T16:25:14Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="0" game-minute="90" player-id="0" gameday-id="39331">
+  </event>
   <event section="0" label="1_39331_407586_1363246" team-id="0" game-id="407586" text="Paderborn muss sich am Ende &#228;rgern, weil man in der zweiten Halbzeit das klar bessere Team war. Die G&#228;ste entt&#228;uschen auf ganzer Linie.
 " headline="Fazit:" playername="" id="10909841" date="2015-03-21T16:23:20Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="0" game-minute="-1" player-id="0" gameday-id="39331">
   </event>
@@ -100,12 +106,12 @@
 " headline="Hoch und weit" playername="" id="10909831" date="2015-03-21T16:23:18Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="2" game-minute="90" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363240" team-id="0" game-id="407598" text="Stuttgart gewinnt nach 0:1-R&#252;ckstand noch mit 3:1 gegen Eintracht Frankfurt.
-" headline="Spielende" playername="" id="10909791" date="2015-03-21T16:22:47Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="0" game-minute="90" player-id="0" gameday-id="39331">
+" headline="Spielende" playername="" id="10909791" date="2015-03-21T16:22:47Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="1" game-minute="90" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363227" team-id="0" game-id="407598" text="Die VfB-Fans feiern schon mal die drei Punkte.
-" headline="Gleich ist Schluss" playername="" id="10909801" date="2015-03-21T16:22:47Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="1" game-minute="90" player-id="0" gameday-id="39331">
+" headline="Gleich ist Schluss" playername="" id="10909801" date="2015-03-21T16:22:47Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="2" game-minute="90" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407594_1363257" team-id="0" game-id="407594" text="Spielende" headline="Spielende" playername="" id="10909781" date="2015-03-21T16:22:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="0" game-minute="90" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407594_1363257" team-id="0" game-id="407594" text="Spielende" headline="Spielende" playername="" id="10909781" date="2015-03-21T16:22:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="1" game-minute="90" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407584_1363249" team-id="0" game-id="407584" text="Spielende" headline="Spielende" playername="" id="10909751" date="2015-03-21T16:22:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="0" game-minute="90" player-id="0" gameday-id="39331">
   </event>
@@ -129,10 +135,10 @@
 " headline="Streich nimmt Zeit von der Uhr" playername="" id="10909701" date="2015-03-21T16:21:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="3" game-minute="89" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363209" team-id="0" game-id="407594" text="Vier Minuten extra. K&#246;ln will es wissen und dr&#228;ngt auf den Sieg.
-" headline="Lange Nachspielzeit" playername="" id="10909681" date="2015-03-21T16:20:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="1" game-minute="90" player-id="0" gameday-id="39331">
+" headline="Lange Nachspielzeit" playername="" id="10909681" date="2015-03-21T16:20:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="2" game-minute="90" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363203" team-id="0" game-id="407598" text="Der Doppeltorsch&#252;tze Ginczek darf vorzeitig raus - unter Riesenapplaus der VfB-Fans nat&#252;rlich.
-" headline="Feierabend f&#252;r den Matchwinner" playername="" id="10909691" date="2015-03-21T16:20:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="2" game-minute="89" player-id="0" gameday-id="39331">
+" headline="Feierabend f&#252;r den Matchwinner" playername="" id="10909691" date="2015-03-21T16:20:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="3" game-minute="89" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363212" team-id="0" game-id="407586" text="Zwei Minuten kommen obendrauf. Der SCP wirft alles nach vorne.
 " headline="Regul&#228;re Spielzeit ist gleich vorbei " playername="" id="10909671" date="2015-03-21T16:20:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="4" game-minute="90" player-id="0" gameday-id="39331">
@@ -143,7 +149,7 @@
   <event section="2" label="1_39331_407584_1363192" team-id="0" game-id="407584" text="Was des einen Befreiungsschlag ist des anderen Leid: Augsburg bleibt zwar Sechster, weil Hoffenheim in Paderborn derzeit nicht &#252;ber ein 0:0 kommt, aber gerade deshalb und da sich am Abend Schalke und Leverkusen noch die Punkte gegenseitig wegnehmen w&#228;re f&#252;r den FCA heute viel mehr dringewesen.
 " headline="Augsburg verpasst Big Point" playername="" id="10909651" date="2015-03-21T16:19:26Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="5" game-minute="86" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407594_1363177" team-id="0" game-id="407594" text=" C&#233;dric Makiadi f&#252;r Zlatko Junuzovi&#263;" headline="Wechsel bei Werder Bremen " playername="" id="10909641" date="2015-03-21T16:18:48Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="2" game-minute="90" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407594_1363177" team-id="0" game-id="407594" text=" C&#233;dric Makiadi f&#252;r Zlatko Junuzovi&#263;" headline="Wechsel bei Werder Bremen " playername="" id="10909641" date="2015-03-21T16:18:48Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="3" game-minute="90" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363195" team-id="0" game-id="407586" text=" Anthony Modeste f&#252;r  Roberto Firmino" headline="Wechsel bei 1899 Hoffenheim " playername="" id="10909611" date="2015-03-21T16:18:46Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="5" game-minute="90" player-id="0" gameday-id="39331">
   </event>
@@ -157,28 +163,28 @@
   </event>
   <event section="2" label="1_39331_407584_1363170" team-id="0" game-id="407584" text=" Julian Schuster f&#252;r Nicolas H&#246;fler" headline="Wechsel bei SC Freiburg " playername="" id="10909581" date="2015-03-21T16:18:03Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="4" game-minute="88" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407598_1363167" team-id="0" game-id="407598" text=" Daniel Schwaab f&#252;r Daniel Ginczek" headline="Wechsel bei VfB Stuttgart " playername="" id="10909561" date="2015-03-21T16:16:55Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="3" game-minute="89" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407598_1363167" team-id="0" game-id="407598" text=" Daniel Schwaab f&#252;r Daniel Ginczek" headline="Wechsel bei VfB Stuttgart " playername="" id="10909561" date="2015-03-21T16:16:55Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="4" game-minute="89" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363164" team-id="0" game-id="407598" text="Der Kapit&#228;n h&#228;lt nach einem kurz abgewehrten Ball volley aus gut 30 Metern drauf. Der Versuch geht zwar in den Oberrang, zeigt aber doch gut&amp;nbsp;das Selbstvertrauen durch die drei Treffer.
-" headline="Gentner demonstriert das neue Selbstvertrauen" playername="" id="10909571" date="2015-03-21T16:16:55Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="4" game-minute="88" player-id="0" gameday-id="39331">
+" headline="Gentner demonstriert das neue Selbstvertrauen" playername="" id="10909571" date="2015-03-21T16:16:55Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="5" game-minute="88" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1363153" team-id="0" game-id="407556" text="Nach einer flachen Hereingabe von Albornoz wirft sich der Keeper am F&#252;nfer vor Joselu &#252;ber den Ball.
 " headline="Weidenfeller ist auf dem Posten" playername="" id="10909531" date="2015-03-21T16:16:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="6" game-minute="87" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363158" team-id="0" game-id="407594" text="Lehmann nimmt das Geschenk des t&#246;lpelhaften Garcia an und nagelt das Ding oben links rein. Viertes Saisontor f&#252;r den K&#246;lner Kapit&#228;n.
-" headline="Tooor f&#252;r 1. FC K&#246;ln, 1:1 durch Matthias Lehmann" playername="Lehmann" id="10909541" date="2015-03-21T16:16:53Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:22:45Z" sort="3" game-minute="88" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r 1. FC K&#246;ln, 1:1 durch Matthias Lehmann" playername="Lehmann" id="10909541" date="2015-03-21T16:16:53Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:25:14Z" sort="4" game-minute="88" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363154" team-id="0" game-id="407594" text="Garcia rennt Finne von hinten in die Hacken.
-" headline="Elfmeter f&#252;r K&#246;ln!" playername="" id="10909551" date="2015-03-21T16:16:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="4" game-minute="87" player-id="0" gameday-id="39331">
+" headline="Elfmeter f&#252;r K&#246;ln!" playername="" id="10909551" date="2015-03-21T16:16:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="5" game-minute="87" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363150" team-id="0" game-id="407594" text="Schon 20 Fouls der G&#228;ste. Alle Daten zum Speil finden Sie im Statistikbereich.
-" headline="Rustikales Werder" playername="" id="10909501" date="2015-03-21T16:15:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="5" game-minute="86" player-id="0" gameday-id="39331">
+" headline="Rustikales Werder" playername="" id="10909501" date="2015-03-21T16:15:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="6" game-minute="86" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363151" team-id="0" game-id="407598" text="Der zweimalige Torsch&#252;tze&amp;nbsp;knallt nach einer Ecke von rechts am langen Pfosten drauf. Trapp bekommt gerade noch die F&#228;uste hin und pariert stark.
-" headline="Ginczek zieht ab" playername="" id="10909511" date="2015-03-21T16:15:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="5" game-minute="87" player-id="0" gameday-id="39331">
+" headline="Ginczek zieht ab" playername="" id="10909511" date="2015-03-21T16:15:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="6" game-minute="87" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363139" team-id="0" game-id="407598" text="
-" headline="Gelbe Karte f&#252;r Alexander Madlung (Eintracht Frankfurt)" playername="" id="10909521" date="2015-03-21T16:15:35Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="6" game-minute="85" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Alexander Madlung (Eintracht Frankfurt)" playername="" id="10909521" date="2015-03-21T16:15:35Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="7" game-minute="85" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1363140" team-id="0" game-id="407556" text="Kehl legt von links quer, in der Mitte rutscht Sokratis der Kopfball &#252;ber den Scheitel und dann wird auch noch der Nachschuss von Subotic abgeblockt!
 " headline="Get&#252;mmel im 96-Strafraum" playername="" id="10909471" date="2015-03-21T16:15:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="7" game-minute="86" player-id="0" gameday-id="39331">
@@ -193,7 +199,7 @@
 " headline="Elfmeter? - Das Stadion wird laut!" playername="" id="10909461" date="2015-03-21T16:14:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="7" game-minute="82" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363121" team-id="0" game-id="407598" text="Der Keeper h&#228;lt einen Kopfball von Zambrano mit einem Blitzreflex. Im Anschluss kl&#228;rt Maxim diese brandhei&#223;e Situation.
-" headline="Wieder Ulreich" playername="" id="10909451" date="2015-03-21T16:13:37Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="7" game-minute="84" player-id="0" gameday-id="39331">
+" headline="Wieder Ulreich" playername="" id="10909451" date="2015-03-21T16:13:37Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="8" game-minute="84" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363122" team-id="0" game-id="407586" text="Die M&#246;glichkeit von Lakic stellte die vierte Gro&#223;chance der Ostwestfalen dar. Ob sich der SCP heute noch belohnt?
 " headline="Vierte Gro&#223;chance" playername="" id="10909441" date="2015-03-21T16:13:35Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="12" game-minute="82" player-id="0" gameday-id="39331">
@@ -207,22 +213,22 @@
   <event section="2" label="1_39331_407556_1363127" team-id="0" game-id="407556" text=" Leon Andreasen f&#252;r Hiroki Sakai" headline="Wechsel bei Hannover 96 " playername="" id="10909411" date="2015-03-21T16:13:33Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="8" game-minute="85" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363111" team-id="0" game-id="407598" text="Seferovic kommt rechts am Strafraum per Drehschuss zum Abschluss. Ulreich taucht ab und lenkt den harten Schuss zur Ecke.
-" headline="Super pariert" playername="" id="10909391" date="2015-03-21T16:12:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="8" game-minute="83" player-id="0" gameday-id="39331">
+" headline="Super pariert" playername="" id="10909391" date="2015-03-21T16:12:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="9" game-minute="83" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363101" team-id="0" game-id="407598" text="
-" headline="Gelbe Karte f&#252;r Alexandru Maxim (VfB Stuttgart)" playername="" id="10909401" date="2015-03-21T16:12:23Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="9" game-minute="80" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Alexandru Maxim (VfB Stuttgart)" playername="" id="10909401" date="2015-03-21T16:12:23Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:25:16Z" sort="10" game-minute="80" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363109" team-id="0" game-id="407594" text="Risse bringt den Ball von rechts scharf rein, Vestergaard h&#228;lt sein Bein dazwischen und zwingt Wolf zu einer Parade. Bremen kl&#228;rt in h&#246;chster Not.
-" headline="Er geht nicht rein" playername="" id="10909371" date="2015-03-21T16:11:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="7" game-minute="83" player-id="0" gameday-id="39331">
+" headline="Er geht nicht rein" playername="" id="10909371" date="2015-03-21T16:11:46Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="8" game-minute="83" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363107" team-id="0" game-id="407594" text="Fritz beklagt sich zu laut &#252;ber einen Pfiff gegen Werder, vierte Karte f&#252;r ihn.
-" headline="Gelbe Karte f&#252;r Clemens Fritz (Werder Bremen)" playername="" id="10909381" date="2015-03-21T16:11:46Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="8" game-minute="82" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Clemens Fritz (Werder Bremen)" playername="" id="10909381" date="2015-03-21T16:11:46Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="9" game-minute="82" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363114" team-id="0" game-id="407586" text="Wenn eine Mannschaft jetzt die drei Punkte verdient hat, dann sind es die Gastgeber.
 " headline="Sieg f&#252;r Paderborn?" playername="" id="10909351" date="2015-03-21T16:11:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="11" game-minute="83" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363113" team-id="0" game-id="407594" text="Seine achte Karte f&#252;r ein r&#252;des Foul.
-" headline="Gelbe Karte f&#252;r Matthias Lehmann (1. FC K&#246;ln)" playername="" id="10909361" date="2015-03-21T16:11:45Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="6" game-minute="84" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Matthias Lehmann (1. FC K&#246;ln)" playername="" id="10909361" date="2015-03-21T16:11:45Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="7" game-minute="84" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407584_1363105" team-id="0" game-id="407584" text="Bobadilla flankt den Ball von rechts scharf an den kurzen Pfosten. Kohr rauscht herbei, verpasst die Kugel aber um Haaresbreite!&amp;nbsp;B&#252;rki bleibt ruhig und nimmt den Ball sicher in die Arme auf.
 " headline="Kohr verpasst um Zentimeter!" playername="" id="10909341" date="2015-03-21T16:11:44Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="9" game-minute="79" player-id="0" gameday-id="39331">
@@ -230,7 +236,7 @@
   <event section="2" label="1_39331_407586_1363097" team-id="0" game-id="407586" text="Lakic taucht rechts im Sechzehner blank vor dem Geh&#228;use auf und knallt die Kugel flach aufs lange Eck. Doch wieder ist der Torh&#252;ter rechtzeitig unten, kommt mit den Fingerspitzen an den Ball und leitet das Leder zur Seite weg!
 " headline="Baumann ist erneut zur Stelle " playername="" id="10909331" date="2015-03-21T16:11:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="13" game-minute="80" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407594_1363090" team-id="0" game-id="407594" text=" B&#229;rd Finne f&#252;r Anthony Ujah" headline="Wechsel bei 1. FC K&#246;ln " playername="" id="10909321" date="2015-03-21T16:10:25Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="9" game-minute="82" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407594_1363090" team-id="0" game-id="407594" text=" B&#229;rd Finne f&#252;r Anthony Ujah" headline="Wechsel bei 1. FC K&#246;ln " playername="" id="10909321" date="2015-03-21T16:10:25Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="10" game-minute="82" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1363096" team-id="0" game-id="407556" text="Da ist der Anschlusstreffer! Der BVB kriegt den Ball nicht hinten heraus. Kiyotake legt an der Strafraumgrenze ab f&#252;r Stindl - und der schwei&#223;t das Ding mit rechts oben in den Winkel! Absolutes Traumtor und sein sechster Saisontreffer.
 " headline="Tooor f&#252;r Hannover 96, 2:3 durch Lars Stindl" playername="Stindl" id="10909281" date="2015-03-21T16:10:23Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:23:18Z" sort="9" game-minute="82" player-id="0" gameday-id="39331">
@@ -244,10 +250,10 @@
 " headline="Ruhige Phase f&#252;r B&#252;rki" playername="" id="10909311" date="2015-03-21T16:10:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="10" game-minute="78" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363074" team-id="0" game-id="407598" text="Dieses Mal bereitet Kostic das Tor &#252;berragend mit seinem Dribbling auf der linken Seite vor. Seine Hereingabe schiebt Maxim aus drei Metern ins Tor. Damit d&#252;rfte der zweite Heimsieg der Saison f&#252;r die Stuttgarter besiegelt sein.
-" headline="Tooor f&#252;r VfB Stuttgart, 3:1 durch Alexandru Maxim" playername="Maxim" id="10909271" date="2015-03-21T16:09:05Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:23:22Z" sort="10" game-minute="80" player-id="0" gameday-id="39331">
+" headline="Tooor f&#252;r VfB Stuttgart, 3:1 durch Alexandru Maxim" playername="Maxim" id="10909271" date="2015-03-21T16:09:05Z" type-id="50" whichteam="1" conference="1" updated-at="2015-03-21T16:25:17Z" sort="11" game-minute="80" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363079" team-id="0" game-id="407594" text="Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt &#252;ber Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann, in Bedr&#228;ngnis.
-" headline="Horn mit den F&#228;usten" playername="" id="10909261" date="2015-03-21T16:09:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="10" game-minute="80" player-id="0" gameday-id="39331">
+" headline="Horn mit den F&#228;usten" playername="" id="10909261" date="2015-03-21T16:09:04Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="11" game-minute="80" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363072" team-id="0" game-id="407586" text="Sagl&#305;k legt zentral an der Strafraumgrenze nochmal quer, anstatt einfach zu schie&#223;en. Mehas folgende Hereingabe vom linken Strafraumeck landet nur bei Keeper Baumann.
 " headline="Zu kompliziert " playername="" id="10909241" date="2015-03-21T16:09:03Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="14" game-minute="79" player-id="0" gameday-id="39331">
@@ -265,10 +271,10 @@
 " headline="Fast das 2:0 durch Petersen!" playername="" id="10909221" date="2015-03-21T16:08:27Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="11" game-minute="76" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363060" team-id="0" game-id="407594" text="Di Santo holt vorne links einen Eckball heraus.
-" headline="Bremen gewinnt Zeit" playername="" id="10909191" date="2015-03-21T16:07:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="11" game-minute="79" player-id="0" gameday-id="39331">
+" headline="Bremen gewinnt Zeit" playername="" id="10909191" date="2015-03-21T16:07:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="12" game-minute="79" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363058" team-id="0" game-id="407598" text="Der VfB-Schlussmann kommt bei einer Flanke aus dem Tor und schnappt sich das Leder vor Meier.
-" headline="Ulreich sicher" playername="" id="10909181" date="2015-03-21T16:07:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="11" game-minute="78" player-id="0" gameday-id="39331">
+" headline="Ulreich sicher" playername="" id="10909181" date="2015-03-21T16:07:45Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:17Z" sort="12" game-minute="78" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363052" team-id="0" game-id="407586" text="Der SCP trifft einfach nicht. In acht der letzten neun Partien durfte kein Torerfolg bejubelt werden. Zuhause durfte der Anhang seit der Winterpause noch keinen einzigen Treffer bezeugen.
 " headline="Das alte Problem" playername="" id="10909171" date="2015-03-21T16:07:43Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="17" game-minute="76" player-id="0" gameday-id="39331">
@@ -285,7 +291,7 @@
 " headline="Drei echte Hochkar&#228;ter" playername="" id="10909141" date="2015-03-21T16:06:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="18" game-minute="75" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363047" team-id="0" game-id="407594" text="&#214;ztunali legt sich im Laufduell in den Strafraum mit Wimmer hin, das ist aber ein ganz normaler Zweikampf.
-" headline="Wimmer fair" playername="" id="10909121" date="2015-03-21T16:05:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="12" game-minute="77" player-id="0" gameday-id="39331">
+" headline="Wimmer fair" playername="" id="10909121" date="2015-03-21T16:05:52Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="13" game-minute="77" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1363031" team-id="0" game-id="407556" text="Der Grieche zwingt Zieler mit einem satten Rechtsschuss aus spitzem Winkel zur Parade!
 " headline="Sokratis mit Gewalt" playername="" id="10909101" date="2015-03-21T16:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="13" game-minute="76" player-id="0" gameday-id="39331">
@@ -294,13 +300,13 @@
 " headline="Sch&#246;ne Kombination" playername="" id="10909111" date="2015-03-21T16:05:13Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="14" game-minute="76" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363029" team-id="0" game-id="407598" text="Die psychologische Folge des Doppelschlags ist augenscheinlich. Der VfB wirkt nun befreit und steht in der Defensive sicher.
-" headline="Wie eine Befreiung" playername="" id="10909091" date="2015-03-21T16:04:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="12" game-minute="75" player-id="0" gameday-id="39331">
+" headline="Wie eine Befreiung" playername="" id="10909091" date="2015-03-21T16:04:34Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:17Z" sort="13" game-minute="75" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363023" team-id="0" game-id="407594" text="Risse flankt von rechts, Junuzovic geht mit ausgestreckter Hand dazwischen. Freisto&#223;.
-" headline="Junuzovic mit der Hand" playername="" id="10909071" date="2015-03-21T16:04:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="13" game-minute="75" player-id="0" gameday-id="39331">
+" headline="Junuzovic mit der Hand" playername="" id="10909071" date="2015-03-21T16:04:33Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="14" game-minute="75" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1363019" team-id="0" game-id="407594" text="Erst springt er Garcia ins Kreuz, dann h&#228;lt er gegen Vestergaard den Fu&#223; drauf. Zweite Gelbe Karte f&#252;r den Brasilianer.
-" headline="Gelbe Karte f&#252;r Deyverson (1. FC K&#246;ln)" playername="" id="10909081" date="2015-03-21T16:04:33Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="14" game-minute="73" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Deyverson (1. FC K&#246;ln)" playername="" id="10909081" date="2015-03-21T16:04:33Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="15" game-minute="73" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1363032" team-id="0" game-id="407586" text="Heinloth setzt sich im rechten Halbfeld unwiderstehlich gegen gleich zwei Bewacher durch und leitet weiter ans rechte Strafraumeck. Koc zieht sogleich flach ab und nimmt das lange Eck ins Visier. Doch Keeper Baumann ist blitzschnell unten, macht sich ganz lang und leitet das Leder mit den Fingerspitzen zur Seite weg.
 " headline="Baumann rettet f&#252;r Hoffenheim" playername="" id="10909061" date="2015-03-21T16:04:32Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="19" game-minute="72" player-id="0" gameday-id="39331">
@@ -309,9 +315,9 @@
 " headline="Reus aus der zweiten Reihe" playername="" id="10909051" date="2015-03-21T16:03:53Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="15" game-minute="75" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1363000" team-id="0" game-id="407598" text="Die Stuttgarter liegen erst zum zweiten Mal im 13. Heimspiel der Saison in F&#252;hrung.
-" headline="Seltenes Gef&#252;hl" playername="" id="10909041" date="2015-03-21T16:03:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="13" game-minute="73" player-id="0" gameday-id="39331">
+" headline="Seltenes Gef&#252;hl" playername="" id="10909041" date="2015-03-21T16:03:23Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:17Z" sort="14" game-minute="73" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407594_1363004" team-id="0" game-id="407594" text=" Daniel Halfar f&#252;r S&#322;awomir Peszko" headline="Wechsel bei 1. FC K&#246;ln " playername="" id="10909031" date="2015-03-21T16:03:21Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="15" game-minute="73" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407594_1363004" team-id="0" game-id="407594" text=" Daniel Halfar f&#252;r S&#322;awomir Peszko" headline="Wechsel bei 1. FC K&#246;ln " playername="" id="10909031" date="2015-03-21T16:03:21Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="16" game-minute="73" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407584_1363016" team-id="0" game-id="407584" text="  Caiuby f&#252;r Dominik Kohr" headline="Wechsel bei FC Augsburg " playername="" id="10909021" date="2015-03-21T16:03:19Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="14" game-minute="74" player-id="0" gameday-id="39331">
   </event>
@@ -322,7 +328,7 @@
 " headline="Noch zwanzig Minuten" playername="" id="10908991" date="2015-03-21T16:01:27Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:20Z" sort="20" game-minute="71" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362995" team-id="0" game-id="407594" text="Er dreht Fritz aus und schie&#223;t von rechts aus spitzem Winkel in Richtung Eckfahne.
-" headline="Hector vorbei" playername="" id="10909001" date="2015-03-21T16:01:27Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="16" game-minute="72" player-id="0" gameday-id="39331">
+" headline="Hector vorbei" playername="" id="10909001" date="2015-03-21T16:01:27Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="17" game-minute="72" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407556_1362992" team-id="0" game-id="407556" text=" Sven Bender f&#252;r &#304;lkay G&#252;ndo&#287;an" headline="Wechsel bei Borussia Dortmund " playername="" id="10908951" date="2015-03-21T16:00:45Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="17" game-minute="72" player-id="0" gameday-id="39331">
   </event>
@@ -334,10 +340,10 @@
 " headline="Gelbe Karte f&#252;r Salif San&#233; (Hannover 96)" playername="" id="10908981" date="2015-03-21T16:00:45Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:23:18Z" sort="20" game-minute="71" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407598_1362980" team-id="0" game-id="407598" text="Jetzt ist nat&#252;rlich wieder alles anders in Stuttgart. Die Frankfurter haben nun nur noch 20 Minuten, um die &#252;berraschende Pleite zu verhindern.
-" headline="Noch 20 Minuten" playername="" id="10908941" date="2015-03-21T16:00:08Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:22Z" sort="14" game-minute="71" player-id="0" gameday-id="39331">
+" headline="Noch 20 Minuten" playername="" id="10908941" date="2015-03-21T16:00:08Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:17Z" sort="15" game-minute="71" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362976" team-id="0" game-id="407594" text="Seltsame Aktion, Deyverson geht zu Boden, aber das war sicher kein hartes Foul von di Santo - wenn &#252;berhaupt. Sechste Gelbe Karte.
-" headline="Gelbe Karte f&#252;r Franco di Santo (Werder Bremen)" playername="" id="10908931" date="2015-03-21T16:00:07Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="17" game-minute="71" player-id="0" gameday-id="39331">
+" headline="Gelbe Karte f&#252;r Franco di Santo (Werder Bremen)" playername="" id="10908931" date="2015-03-21T16:00:07Z" type-id="31" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="18" game-minute="71" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407586_1362963" team-id="0" game-id="407586" text=" S&#252;leyman Ko&#231; f&#252;r Jens Wemmer" headline="Wechsel bei SC Paderborn 07 " playername="" id="10908911" date="2015-03-21T16:00:06Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:23:21Z" sort="21" game-minute="70" player-id="0" gameday-id="39331">
   </event>
@@ -357,15 +363,9 @@
 " headline="Emotionen kochen hoch" playername="" id="10908881" date="2015-03-21T15:59:25Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:24:33Z" sort="18" game-minute="68" player-id="0" gameday-id="39331">
   </event>
   <event section="2" label="1_39331_407594_1362955" team-id="0" game-id="407594" text="Sternberg hat zumindest hinten nichts zugelassen, traute sich auch ab und zu nach vorne.
-" headline="Ordentlicher Auftritt" playername="" id="10908831" date="2015-03-21T15:58:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="18" game-minute="69" player-id="0" gameday-id="39331">
+" headline="Ordentlicher Auftritt" playername="" id="10908831" date="2015-03-21T15:58:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="19" game-minute="69" player-id="0" gameday-id="39331">
   </event>
-  <event section="2" label="1_39331_407594_1362949" team-id="0" game-id="407594" text=" Santiago Garc&#237;a f&#252;r Janek Sternberg" headline="Wechsel bei Werder Bremen " playername="" id="10908841" date="2015-03-21T15:58:06Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="19" game-minute="69" player-id="0" gameday-id="39331">
-  </event>
-  <event section="2" label="1_39331_407594_1362946" team-id="0" game-id="407594" text="Ujah links r&#252;ber, der Japaner mit der rechten Innenseite aus 16 Metern &#252;bers links Lattenkreuz.
-" headline="Wieder Osako" playername="" id="10908851" date="2015-03-21T15:58:06Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:22:45Z" sort="20" game-minute="68" player-id="0" gameday-id="39331">
-  </event>
-  <event section="2" label="1_39331_407586_1362957" team-id="0" game-id="407586" text="Mit Abraham kommt ein Mann f&#252;r die Viererkette der G&#228;ste ins Spiel, Elyounoussi f&#228;llt diesem taktischen Wechsel zum Opfer.
-" headline="Neue Kraft f&#252;r die Abwehr" playername="" id="10908811" date="2015-03-21T15:58:05Z" type-id="0" whichteam="" conference="1" updated-at="2015-03-21T16:23:21Z" sort="23" game-minute="68" player-id="0" gameday-id="39331">
+  <event section="2" label="1_39331_407594_1362949" team-id="0" game-id="407594" text=" Santiago Garc&#237;a f&#252;r Janek Sternberg" headline="Wechsel bei Werder Bremen " playername="" id="10908841" date="2015-03-21T15:58:06Z" type-id="60" whichteam="" conference="1" updated-at="2015-03-21T16:25:14Z" sort="20" game-minute="69" player-id="0" gameday-id="39331">
   </event>
 </events>
 
