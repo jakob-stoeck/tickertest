@@ -455,5 +455,77 @@
     "headline": "",
     "content": "<p><b>Brisanter Freistoß</b></p> <p>Ein Paderborner Freistoß aus dem rechten Halbfeld ist auch nicht grade ungefährlich! Meha tritt an und setzt die Kugel in die Mauer. Der abgefälschte Ball geht nur knapp rechts neben den Kasten!</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362866",
+    "tickertime": "21.03.2015 16:46:28",
+    "minute": "58",
+    "headline": "",
+    "content": "<p><b>Die Ostwestfalen drehen auf</b></p> <p>Nicht nur auf dem Rasen: In der Arena herrscht eine Atmosphäre wie zu Beginn der Hinrunde.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362871",
+    "event": {
+      "id": "15874241",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "28332",
+        "name": "Sven Schipplock",
+        "firstname": "Sven",
+        "surname": "Schipplock",
+        "fullname": "Sven Schipplock",
+        "gender": "male",
+        "birthday": "08.11.1988",
+        "height": "185",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "59",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:47"
+    },
+    "tickertime": "21.03.2015 16:47:22",
+    "minute": "59",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1899 Hoffenheim -> Sven Schipplock</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362875",
+    "event": {
+      "id": "15874244",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "19922",
+        "name": "Anthony Modeste",
+        "firstname": "Anthony",
+        "surname": "Modeste",
+        "fullname": "Anthony Mbu Agogo Modeste",
+        "gender": "male",
+        "birthday": "14.04.1988",
+        "height": "186",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "59",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:47"
+    },
+    "tickertime": "21.03.2015 16:47:33",
+    "minute": "59",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1899 Hoffenheim -> Anthony Modeste</span>",
+    "syndicate": "s1de"
   }
 ]

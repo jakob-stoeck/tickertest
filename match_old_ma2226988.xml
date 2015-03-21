@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407586">
     <event-metadata event-status="mid-event" site-attendance="14500" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
-      <event-metadata-soccer period-minute-elapsed="55" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="59" period-value="2"/>
     </event-metadata>
     <team id="team-25126">
       <team-metadata team-key="SCP" alignment="home">
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-407586-1362871" period-minute-elapsed="59" period-value="2" comment="Wechsel bei 1899 Hoffenheim | Anthony Modeste für Sven Schipplock" team-idref="t-25000" person-original-idref="pl-28332" person-replacing-idref="pl-19922"/>
+        <action-soccer-other id="ev-407586-1362866" period-minute-elapsed="58" period-value="2" action-type="other" comment="Die Ostwestfalen drehen auf|Nicht nur auf dem Rasen: In der Arena herrscht eine Atmosphäre wie zu Beginn der Hinrunde.&#10;"/>
         <action-soccer-other id="ev-407586-1362849" period-minute-elapsed="56" period-value="2" action-type="other" comment="Brisanter Freistoß|Ein Paderborner Freistoß aus dem rechten Halbfeld ist auch nicht grade ungefährlich! Meha tritt an und setzt die Kugel in die Mauer. Der abgefälschte Ball geht nur knapp rechts neben den Kasten!&#10;"/>
         <action-soccer-foul id="ev-407586-1362819" period-minute-elapsed="55" period-value="2" comment="Gelbe Karte für Ermin Bičakčić (1899 Hoffenheim)|&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="caution"/>
         <action-soccer-other id="ev-407586-1362827" period-minute-elapsed="53" period-value="2" action-type="other" comment="Fast das 1:0 für Paderborn|Brückner zaubert auf der rechten Außenbahn! Der Ostwestfale setzt sich gegen gleich drei Kontrahenten durch und verzückt das Publikum in diesem Zuge mit gleich mehreren technischen Feinheiten. An der Grundlinie angekommen folgt ein flacher Pass in den Rücken der Innenverteidigung, wo Rupp sogleich abzieht. Da Keeper Baumann zuvor abgetaucht ist, ist das Tor leer! Doch das Spielgerät klatscht nur gegen die Brust von Kim.&#10;"/>
