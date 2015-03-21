@@ -821,7 +821,71 @@
     "tickertime": "21.03.2015 17:00:06",
     "minute": "72",
     "headline": "",
-    "content": "<p><b>Hector vorbei</b></p> <p>Er dreht Fritz aus und schießt von rechts aus spitzem WInkel in Richtung Eckfahne.</p>",
+    "content": "<p><b>Hector vorbei</b></p> <p>Er dreht Fritz aus und schießt von rechts aus spitzem Winkel in Richtung Eckfahne.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363004",
+    "event": {
+      "id": "15874633",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "17529",
+        "name": "Sławomir Peszko",
+        "firstname": "Sławomir",
+        "surname": "Peszko",
+        "fullname": "Sławomir Peszko",
+        "gender": "male",
+        "birthday": "19.02.1985",
+        "height": "172",
+        "weight": "64"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "73",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:01"
+    },
+    "tickertime": "21.03.2015 17:01:18",
+    "minute": "73",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Köln -> Sławomir Peszko</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363008",
+    "event": {
+      "id": "15874637",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "1874",
+        "name": "Daniel Halfar",
+        "firstname": "Daniel",
+        "surname": "Halfar",
+        "fullname": "Daniel Halfar",
+        "gender": "male",
+        "birthday": "07.01.1988",
+        "height": "172",
+        "weight": "65"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "73",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:01"
+    },
+    "tickertime": "21.03.2015 17:01:27",
+    "minute": "73",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Köln -> Daniel Halfar</span>",
     "syndicate": "s1de"
   }
 ]
