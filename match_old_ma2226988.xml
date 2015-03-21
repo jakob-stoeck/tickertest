@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407586">
     <event-metadata event-status="mid-event" site-attendance="14500" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
-      <event-metadata-soccer period-minute-elapsed="65" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="67" period-value="2"/>
     </event-metadata>
     <team id="team-25126">
       <team-metadata team-key="SCP" alignment="home">
@@ -431,7 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-foul id="ev-407586-1362913" period-minute-elapsed="65" period-value="2" comment="Gelb-Rote Karte für Ermin Bičakčić (1899 Hoffenheim)|Die Gäste muüssen nun eine halbe Stunde zu zehnt spielen. Eine deutliche Schwächung. Paderborn könnte das in die Karten spielen.&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="cautionejection"/>
+        <action-soccer-substitution id="ev-407586-1362939" period-minute-elapsed="67" period-value="2" comment="Wechsel bei 1899 Hoffenheim | David Abraham für Tarik Elyounoussi" team-idref="t-25000" person-original-idref="pl-12789" person-replacing-idref="pl-9118"/>
+        <action-soccer-foul id="ev-407586-1362913" period-minute-elapsed="65" period-value="2" comment="Gelb-Rote Karte für Ermin Bičakčić (1899 Hoffenheim)|Zu viel Risiko des bereits gelbverwarnten Bicakcic im Zweikampf mit Rupp. Der Abwehrmann trifft seinen Gegenspieler und muss runter.&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="cautionejection"/>
         <action-soccer-other id="ev-407586-1362899" period-minute-elapsed="63" period-value="2" action-type="other" comment="Paderborn drückt |Der SCP ist hier klar am Drücker. Hoffenheim hat irgendwie den Faden verloren, während der Aufsteiger immer wieder anrennt. Dennoch ist den Gästen bei der Offensiv-Qualität selbstredend jederzeit ein Treffer zuzutrauen.&#10;"/>
         <action-soccer-other id="ev-407586-1362894" period-minute-elapsed="62" period-value="2" action-type="other" comment="Eine Stunde ist vorbei|Es ist spannend, eng und intensiv, aber fußballerisch&amp;nbsp;hochklassig sieht anders aus. Auch in den Statistiken Zweikampf und ballbesitz ist es absolut ausgeglichen.&#10;"/>
         <action-soccer-other id="ev-407586-1362888" period-minute-elapsed="60" period-value="2" action-type="other" comment="Hünemeier wieder da|Der Kapitän der Gastgeber kehrt mit einem dicken Nasen-Pflaster aufs Feld zurück. Außerdem kam Modeste für Schipplock in die Partie. Beide Mannschaften duellieren sich nun also wieder mit elf Mann.&#10;"/>
