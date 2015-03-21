@@ -4,8 +4,8 @@
     <sports-title/>
   </sports-metadata>
   <sports-event id="match-407564">
-    <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="88" period-value="2"/>
+    <event-metadata event-status="post-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
+      <event-metadata-soccer period-minute-elapsed="90" period-value="0"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407564-1364100" period-minute-elapsed="90" period-value="2" action-type="end2" comment="Spielende|"/>
         <action-soccer-other id="ev-407564-1364084" period-minute-elapsed="90" period-value="2" action-type="other" comment="Wellenreuther klasse|Rolfes steckt durch zu Castro, der ist durch vor Wellenreuther, der Schalker Schlussmann pariert mit dem linken Fuß.&#10;"/>
         <action-soccer-other id="ev-407564-1364078" period-minute-elapsed="90" period-value="2" action-type="other" comment="Nachspielzeit|Vier Minuten noch für Schalke, doch noch etwas mitzunehmen.&#10;"/>
         <action-soccer-other id="ev-407564-1364070" period-minute-elapsed="88" period-value="2" action-type="other" comment="Fouls gut verteilt|Schalke und Leverkusen kommen bislang jeweils auf 15 Fouls. Alle Daten des Spiels finden Sie im Statistik-Bereich.&#10;"/>
