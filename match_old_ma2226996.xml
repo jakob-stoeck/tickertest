@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407594-1363209" period-minute-elapsed="90" period-value="2" action-type="other" comment="Lange Nachspielzeit|Vier Minuten extra. Köln will es wissen und drängt auf den Sieg.&#10;"/>
         <action-soccer-substitution id="ev-407594-1363177" period-minute-elapsed="90" period-value="2" comment="Wechsel bei Werder Bremen | Cédric Makiadi für Zlatko Junuzović" team-idref="t-8" person-original-idref="pl-13916" person-replacing-idref="pl-19077"/>
         <action-soccer-score id="ev-407594-1363158" period-minute-elapsed="88" period-value="2" comment="Tooor für 1. FC Köln, 1:1 durch Matthias Lehmann|Lehmann nimmt das Geschenk des tölpelhaften Garcia an und nagelt das Ding oben links rein. Viertes Saisontor für den Kölner Kapitän.&#10;" team-idref="t-10" score-team="1" score-team-opposing="1" player-idref="pl-1462" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407594-1363154" period-minute-elapsed="87" period-value="2" action-type="other" comment="Elfmeter für Köln!|Garcia rennt Finne von hinten in die Hacken.&#10;"/>
