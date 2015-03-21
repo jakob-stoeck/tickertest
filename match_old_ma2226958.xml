@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="49" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="55" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -125,7 +125,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="1"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-foul id="ev-407556-1362810" period-minute-elapsed="55" period-value="2" comment="Gelb-Rote Karte für Leonardo Bittencourt (Hannover 96)|Der Mittelfeldspieler zieht fernab des Strafraums gegen Kehl voll durch und fliegt dafür mit seiner zweiten Verwarnung in diesem Spiel vom Platz! Unnötige Aktion!&#10;" fouling-team-idref="t-1" fouling-player-idref="pl-231272" foul-result="cautionejection"/>
         <action-soccer-other id="ev-407556-1362798" period-minute-elapsed="54" period-value="2" action-type="other" comment="Sakai flankt aus vollem Lauf von rechts|Am zweiten Pfosten köpft Joselu aus spitzem Winkel - doch Hummels klärt auf der Linie!&#10;"/>
         <action-soccer-other id="ev-407556-1362786" period-minute-elapsed="52" period-value="2" action-type="other" comment="Sane beißt auf die Zähne|Nach kurzer Behandlungspause kehrt der Sechser auf den Rasen zurück. Hannover ist damit wieder vollzählig.&#10;"/>
         <action-soccer-other id="ev-407556-1362773" period-minute-elapsed="50" period-value="2" action-type="other" comment="Sane liegt im eigenen Strafraum am Boden|Der Senegalese krümmt sich nach einem Zweikampf mit Subotic vor Schmerzen und muss behandelt werden. Das Knie scheint ihm Probleme zu machen.&#10;"/>
