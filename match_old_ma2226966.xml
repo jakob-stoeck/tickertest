@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407564">
     <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="64" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="78" period-value="2"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -431,6 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-407564-1363997" period-minute-elapsed="78" period-value="2" comment="Wechsel bei FC Schalke 04 | Jefferson Farfán für Max Meyer" team-idref="t-16" person-original-idref="pl-231417" person-replacing-idref="pl-10469"/>
+        <action-soccer-substitution id="ev-407564-1363990" period-minute-elapsed="78" period-value="2" comment="Wechsel bei Bayer Leverkusen | Lars Bender für Stefan Kießling" team-idref="t-9" person-original-idref="pl-3133" person-replacing-idref="pl-26794"/>
+        <action-soccer-other id="ev-407564-1363987" period-minute-elapsed="76" period-value="2" action-type="other" comment="Zweikampf, Zweikampf, Zweikampf|Jedes Duell am Rande der Karte. Wenn da eine Sense mal das gegnerische Bein trifft, geht es übel aus.&#10;"/>
         <action-soccer-other id="ev-407564-1363969" period-minute-elapsed="75" period-value="2" action-type="other" comment="Farfan läuft sich warm|Und die Schalker Fans applaudieren erwartungsfroh.&#10;"/>
         <action-soccer-other id="ev-407564-1363964" period-minute-elapsed="73" period-value="2" action-type="other" comment="Calhanoglu defensiv aufmerksam|Meyer dribbelt links auf den Türken zu, kommt nicht an ihm vorbei. Schalkes ANgriffe werden schon jetzt ungestümer.&#10;"/>
         <action-soccer-other id="ev-407564-1363943" period-minute-elapsed="70" period-value="2" action-type="other" comment="Boateng und Höger verpassen|Erst wehrt Leno Boatengs Schuss von rechts mit der Faust ab, dann schlägt Höger über den Ball. Leverkusen in Not, bekommt den Ball schließlich aus dem Sechzehner.&#10;"/>
