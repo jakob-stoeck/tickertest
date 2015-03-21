@@ -1217,5 +1217,24 @@
     "headline": "",
     "content": "<p><b>Lange Nachspielzeit</b></p> <p>Vier Minuten extra. Köln will es wissen und drängt auf den Sieg.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363257",
+    "event": {
+      "id": "15875227",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:21"
+    },
+    "tickertime": "21.03.2015 17:21:43",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "s1de"
   }
 ]

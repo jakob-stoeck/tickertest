@@ -4,8 +4,8 @@
     <sports-title/>
   </sports-metadata>
   <sports-event id="match-407556">
-    <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="90" period-value="2"/>
+    <event-metadata event-status="post-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
+      <event-metadata-soccer period-minute-elapsed="90" period-value="0"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -431,6 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1363259" period-minute-elapsed="90" period-value="0" action-type="endGame" comment="Fazit:|Dortmund feiert einen wichtigen Arbeitssieg und bleibt im siebten Spiel in Serie ungeschlagen. Hannover macht dem BVB zwar in der ersten Hälfte das Leben schwer, schlägt sich durch die Gelb-Rote Karte für Leonardo Bittencourt dann aber selbst. In Überzahl nimmt die Borussia das Heft in die Hand und zeigt sich vor dem Tor eiskalt. Der Anschlusstreffer für 96 kommt zu spät - für Trainer Tayfun Korkut dürfte es nun eng werden.&#10;"/>
+        <action-soccer-other id="ev-407556-1363254" period-minute-elapsed="90" period-value="2" action-type="end2" comment="Spielende|"/>
+        <action-soccer-other id="ev-407556-1363247" period-minute-elapsed="90" period-value="2" action-type="other" comment="Hoch und weit|Die 96er schlagen nun nur noch lange Bälle nach vorne - aber die kommen meist postwendend zurück.&#10;"/>
         <action-soccer-other id="ev-407556-1363218" period-minute-elapsed="90" period-value="2" action-type="other" comment="Nochmal Freistoß für 96|Nach Foul von Subotic an Joselu liegt der Ball 20 Meter vor dem Tor parat. Andreasen schießt direkt mit rechts - drüber!&#10;"/>
         <action-soccer-other id="ev-407556-1363200" period-minute-elapsed="90" period-value="2" action-type="other" comment="Die reguläre Spielzeit ist um|Aber satte vier Minuten Nachspielzeit werden angezeigt!&#10;"/>
         <action-soccer-substitution id="ev-407556-1363188" period-minute-elapsed="90" period-value="2" comment="Wechsel bei Borussia Dortmund | Adrián Ramos für Marco Reus" team-idref="t-14" person-original-idref="pl-22225" person-replacing-idref="pl-1565"/>
