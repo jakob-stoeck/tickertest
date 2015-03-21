@@ -391,5 +391,47 @@
     "headline": "",
     "content": "<p><b>VfB etwas bemühter</b></p> <p>Die Stuttgarter kommen mit mehr Zielstrebigkeit aus der Kabine. Jetzt geht auch nach vorne etwas mehr beim VfB.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362782",
+    "event": {
+      "id": "15874177",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "151287",
+        "name": "Haris Seferović",
+        "firstname": "Haris",
+        "surname": "Seferović",
+        "fullname": "Haris Seferović",
+        "gender": "male",
+        "birthday": "22.02.1992",
+        "height": "187",
+        "weight": "84"
+      },
+      "action": "goal",
+      "content": "0:1",
+      "kind": "left-foot",
+      "minute": "51",
+      "additional_person": {
+        "id": "111398",
+        "name": "Bastian Oczipka",
+        "firstname": "Bastian",
+        "surname": "Oczipka",
+        "fullname": "Bastian Oczipka",
+        "gender": "male",
+        "birthday": "12.01.1989",
+        "height": "184",
+        "weight": "87"
+      },
+      "created": "21.03.2015 16:38"
+    },
+    "tickertime": "21.03.2015 16:38:57",
+    "minute": "51",
+    "headline": "",
+    "content": "<b>Tooor für Eintracht Frankfurt, 0:1 durch Haris Seferović</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
