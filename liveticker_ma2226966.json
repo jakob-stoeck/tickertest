@@ -614,5 +614,56 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Bayer Leverkusen -> Heung-min Son</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363764",
+    "event": {
+      "id": "15877618",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "232676",
+        "name": "Hakan Çalhanoğlu",
+        "firstname": "Hakan",
+        "surname": "Çalhanoğlu",
+        "fullname": "Hakan Çalhanoğlu",
+        "gender": "male",
+        "birthday": "08.02.1994",
+        "height": "178",
+        "weight": "69"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:32"
+    },
+    "tickertime": "21.03.2015 19:32:23",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bayer Leverkusen -> Hakan Çalhanoğlu</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363768",
+    "event": {
+      "id": "15877632",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "second-half-start",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:32"
+    },
+    "tickertime": "21.03.2015 19:32:33",
+    "minute": "46",
+    "headline": "",
+    "content": "<b>Anpfiff 2. Halbzeit</b>",
+    "syndicate": "s1de"
   }
 ]
