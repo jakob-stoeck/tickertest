@@ -879,5 +879,165 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Jimmy Briand</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362984",
+    "event": {
+      "id": "15874559",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "24763",
+        "name": "Edgar Prib",
+        "firstname": "Edgar",
+        "surname": "Prib",
+        "fullname": "Edgar Prib",
+        "gender": "male",
+        "birthday": "15.12.1989",
+        "height": "180",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:59"
+    },
+    "tickertime": "21.03.2015 16:59:11",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Edgar Prib</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362986",
+    "event": {
+      "id": "15874564",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "14548",
+        "name": "Christian Schulz",
+        "firstname": "Christian",
+        "surname": "Schulz",
+        "fullname": "Christian Schulz",
+        "gender": "male",
+        "birthday": "01.04.1983",
+        "height": "185",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:59"
+    },
+    "tickertime": "21.03.2015 16:59:26",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Christian Schulz</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362990",
+    "event": {
+      "id": "15874568",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "135592",
+        "name": "Miiko Albornoz",
+        "firstname": "Miiko",
+        "surname": "Albornoz",
+        "fullname": "Miiko Martín Albornoz Inola",
+        "gender": "male",
+        "birthday": "30.11.1990",
+        "height": "180",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:59"
+    },
+    "tickertime": "21.03.2015 16:59:35",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Miiko Albornoz</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362992",
+    "event": {
+      "id": "15874569",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "112350",
+        "name": "İlkay Gündoğan",
+        "firstname": "İlkay",
+        "surname": "Gündoğan",
+        "fullname": "İlkay Gündoğan",
+        "gender": "male",
+        "birthday": "24.10.1990",
+        "height": "180",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:59"
+    },
+    "tickertime": "21.03.2015 16:59:44",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> İlkay Gündoğan</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362994",
+    "event": {
+      "id": "15874570",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "26795",
+        "name": "Sven Bender",
+        "firstname": "Sven",
+        "surname": "Bender",
+        "fullname": "Sven Bender",
+        "gender": "male",
+        "birthday": "27.04.1989",
+        "height": "185",
+        "weight": "72"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:59"
+    },
+    "tickertime": "21.03.2015 16:59:54",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Sven Bender</span>",
+    "syndicate": "s1de"
   }
 ]

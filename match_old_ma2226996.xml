@@ -431,7 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-foul id="ev-407594-1362976" period-minute-elapsed="71" period-value="2" comment="Gelbe Karte für Franco Di Santo (Werder Bremen)|&#10;" fouling-team-idref="t-8" fouling-player-idref="pl-95125" foul-result="caution"/>
+        <action-soccer-other id="ev-407594-1362995" period-minute-elapsed="72" period-value="2" action-type="other" comment="Hector vorbei|Er dreht Fritz aus und schießt von rechts aus spitzem WInkel in Richtung Eckfahne.&#10;"/>
+        <action-soccer-foul id="ev-407594-1362976" period-minute-elapsed="71" period-value="2" comment="Gelbe Karte für Franco di Santo (Werder Bremen)|Seltsame Aktion, Deyverson geht zu Boden, aber das war sicher kein hartes Foul von di Santo - wenn überhaupt. Sechste Gelbe Karte.&#10;" fouling-team-idref="t-8" fouling-player-idref="pl-95125" foul-result="caution"/>
         <action-soccer-other id="ev-407594-1362955" period-minute-elapsed="69" period-value="2" action-type="other" comment="Ordentlicher Auftritt|Sternberg hat zumindest hinten nichts zugelassen, traute sich auch ab und zu nach vorne.&#10;"/>
         <action-soccer-substitution id="ev-407594-1362949" period-minute-elapsed="69" period-value="2" comment="Wechsel bei Werder Bremen | Santiago García für Janek Sternberg" team-idref="t-8" person-original-idref="pl-165025" person-replacing-idref="pl-223663"/>
         <action-soccer-other id="ev-407594-1362946" period-minute-elapsed="68" period-value="2" action-type="other" comment="Wieder Osako|Ujah links rüber, der Japaner mit der rechten Innenseite aus 16 Metern übers links Lattenkreuz.&#10;"/>

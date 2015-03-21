@@ -725,9 +725,19 @@
       },
       "action": "goal",
       "content": "1:0",
-      "kind": "goal",
+      "kind": "left-foot",
       "minute": "71",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "159556",
+        "name": "Oliver Sorg",
+        "firstname": "Oliver",
+        "surname": "Sorg",
+        "fullname": "Oliver Sorg",
+        "gender": "male",
+        "birthday": "29.05.1990",
+        "height": "175",
+        "weight": "77"
+      },
       "created": "21.03.2015 16:59"
     },
     "tickertime": "21.03.2015 16:59:09",
