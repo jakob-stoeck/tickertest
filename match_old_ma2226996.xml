@@ -5,13 +5,13 @@
   </sports-metadata>
   <sports-event id="match-407594">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="RheinEnergieStadion" stadium-city="Köln" stadium-capacity="50997" stadium-id="1545" game-exitid1="407594" game-exitid2="153466">
-      <event-metadata-soccer period-minute-elapsed="84" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="88" period-value="2"/>
     </event-metadata>
     <team id="team-10">
       <team-metadata team-key="KOE" alignment="home">
         <name full="1. FC Köln" middle="Köln" id="t-10" extid="te-9"/>
       </team-metadata>
-      <team-stats score="0" score-attempts="0">
+      <team-stats score="1" score-attempts="0">
         <sports-property formal-name="possession" value="50"/>
         <sports-property formal-name="duels-won" value="0"/>
         <team-stats-soccer>
@@ -122,7 +122,7 @@
         <player-metadata position-event="midfield" status="starter" uniform-number="33" lineup-slot="x:-1,y:4">
           <name last="Lehmann"/>
         </player-metadata>
-        <player-stats score="0">
+        <player-stats score="1">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
             <stats-soccer-foul cautions-total="1" ejections-total="0"/>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-score id="ev-407594-1363158" period-minute-elapsed="88" period-value="2" comment="Tooor für  1. FC Köln, 1:1 durch Matthias Lehmann|&#10;" team-idref="t-10" score-team="1" score-team-opposing="1" player-idref="pl-1462" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-407594-1363154" period-minute-elapsed="87" period-value="2" action-type="other" comment="Elfmeter für Köln!|Garcia rennt Finne von hinten in die Hacken.&#10;"/>
         <action-soccer-other id="ev-407594-1363150" period-minute-elapsed="86" period-value="2" action-type="other" comment="Rustikales Werder|Schon 20 Fouls der Gäste. Alle Daten zum Speil finden Sie im Statistikbereich.&#10;"/>
         <action-soccer-foul id="ev-407594-1363113" period-minute-elapsed="84" period-value="2" comment="Gelbe Karte für Matthias Lehmann (1. FC Köln)|Seine achte Karte für ein rüdes Foul.&#10;" fouling-team-idref="t-10" fouling-player-idref="pl-1462" foul-result="caution"/>
         <action-soccer-other id="ev-407594-1363109" period-minute-elapsed="83" period-value="2" action-type="other" comment="Er geht nicht rein|Risse bringt den Ball von rechts scharf rein, Vestergaard hält sein Bein dazwischen und zwingt Wolf zu einer Parade. Bremen klärt in höchster Not.&#10;"/>
