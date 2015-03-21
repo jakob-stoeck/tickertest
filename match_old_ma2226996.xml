@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports-content>
+  <sports-metadata doc-id="0_407594">
+    <sports-title/>
+  </sports-metadata>
+  <sports-event id="match-407594">
+    <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="RheinEnergieStadion" stadium-city="Köln" stadium-capacity="50997" stadium-id="1545" game-exitid1="407594" game-exitid2="153466">
+      <event-metadata-soccer period-minute-elapsed="45" period-value="1"/>
+    </event-metadata>
+    <team id="team-10">
+      <team-metadata team-key="KOE" alignment="home">
+        <name full="1. FC Köln" middle="Köln" id="t-10" extid="te-9"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-223764">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Horn"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-167">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="18" lineup-slot="x:-100,y:-100">
+          <name last="Kessler"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-170">
+        <player-metadata position-event="defender" status="bench" uniform-number="2" lineup-slot="x:-100,y:-100">
+          <name last="Brečko"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-164622">
+        <player-metadata position-event="defender" status="starter" uniform-number="14" lineup-slot="x:4,y:3">
+          <name last="Hector"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-297">
+        <player-metadata position-event="defender" status="starter" uniform-number="5" lineup-slot="x:-2,y:3">
+          <name last="Maroh"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28392">
+        <player-metadata position-event="defender" status="bench" uniform-number="19" lineup-slot="x:-100,y:-100">
+          <name last="Mavraj"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-227194">
+        <player-metadata position-event="defender" status="starter" uniform-number="16" lineup-slot="x:-4,y:3">
+          <name last="Olkowski"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-225812">
+        <player-metadata position-event="defender" status="starter" uniform-number="28" lineup-slot="x:2,y:3">
+          <name last="Wimmer"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1874">
+        <player-metadata position-event="midfield" status="bench" uniform-number="22" lineup-slot="x:-100,y:-100">
+          <name last="Halfar"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1462">
+        <player-metadata position-event="midfield" status="starter" uniform-number="33" lineup-slot="x:-1,y:4">
+          <name last="Lehmann"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-17529">
+        <player-metadata position-event="midfield" status="starter" uniform-number="17" lineup-slot="x:4,y:6">
+          <name last="Peszko"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3135">
+        <player-metadata position-event="midfield" status="starter" uniform-number="7" lineup-slot="x:-4,y:6">
+          <name last="Risse"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24091">
+        <player-metadata position-event="midfield" status="bench" uniform-number="29" lineup-slot="x:-100,y:-100">
+          <name last="Švento"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-129938">
+        <player-metadata position-event="midfield" status="starter" uniform-number="6" lineup-slot="x:1,y:4">
+          <name last="Vogt"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-307092">
+        <player-metadata position-event="striker" status="starter" uniform-number="20" lineup-slot="x:-2,y:9">
+          <name last="Deyverson"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-279101">
+        <player-metadata position-event="striker" status="bench" uniform-number="26" lineup-slot="x:-100,y:-100">
+          <name last="Finne"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-145770">
+        <player-metadata position-event="striker" status="bench" uniform-number="13" lineup-slot="x:-100,y:-100">
+          <name last="Osako"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-172697">
+        <player-metadata position-event="striker" status="starter" uniform-number="9" lineup-slot="x:2,y:9">
+          <name last="Ujah"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <team id="team-8">
+      <team-metadata team-key="BRE" alignment="away">
+        <name full="Werder Bremen" middle="Bremen" id="t-8" extid="te-2134"/>
+      </team-metadata>
+      <team-stats score="1" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-131531">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="20" lineup-slot="x:-100,y:-100">
+          <name last="Casteels"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-14427">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Wolf"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-223300">
+        <player-metadata position-event="defender" status="bench" uniform-number="3" lineup-slot="x:-100,y:-100">
+          <name last="Caldirola"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-7512">
+        <player-metadata position-event="defender" status="starter" uniform-number="8" lineup-slot="x:-4,y:6">
+          <name last="Fritz"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-223663">
+        <player-metadata position-event="defender" status="bench" uniform-number="2" lineup-slot="x:-100,y:-100">
+          <name last="García"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24080">
+        <player-metadata position-event="defender" status="starter" uniform-number="23" lineup-slot="x:-4,y:3">
+          <name last="Gebre Selassie"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-20266">
+        <player-metadata position-event="defender" status="starter" uniform-number="15" lineup-slot="x:-2,y:3">
+          <name last="Prödl"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-165025">
+        <player-metadata position-event="defender" status="starter" uniform-number="37" lineup-slot="x:4,y:3">
+          <name last="Sternberg"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-225664">
+        <player-metadata position-event="defender" status="starter" uniform-number="7" lineup-slot="x:2,y:3">
+          <name last="Vestergaard"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-233082">
+        <player-metadata position-event="midfield" status="bench" uniform-number="21" lineup-slot="x:-100,y:-100">
+          <name last="Aycicek"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-29246">
+        <player-metadata position-event="midfield" status="starter" uniform-number="44" lineup-slot="x:0,y:4">
+          <name last="Bargfrede"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-14601">
+        <player-metadata position-event="midfield" status="starter" uniform-number="22" lineup-slot="x:0,y:7">
+          <name last="Bartels"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-13916">
+        <player-metadata position-event="midfield" status="starter" uniform-number="16" lineup-slot="x:4,y:6">
+          <name last="Junuzović"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-111528">
+        <player-metadata position-event="midfield" status="bench" uniform-number="18" lineup-slot="x:-100,y:-100">
+          <name last="Kroos"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-19077">
+        <player-metadata position-event="midfield" status="bench" uniform-number="6" lineup-slot="x:-100,y:-100">
+          <name last="Makiadi"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-263594">
+        <player-metadata position-event="midfield" status="bench" uniform-number="11" lineup-slot="x:-100,y:-100">
+          <name last="Öztunali"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-95125">
+        <player-metadata position-event="striker" status="starter" uniform-number="9" lineup-slot="x:2,y:9">
+          <name last="Di Santo"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-262804">
+        <player-metadata position-event="striker" status="starter" uniform-number="27" lineup-slot="x:-2,y:9">
+          <name last="Selke"/>
+        </player-metadata>
+        <player-stats score="1">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <event-actions>
+      <event-actions-soccer>
+        <action-soccer-other id="ev-407594-1362687" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|Halbzeit-Fazit: Aus der Kölner Ecke wird nichts, genau wie aus allen anderen Angriffen der Gastgeber. Von denen gibt es bislang aber ohnehin nur sehr wenige. Bremen hat das Spiel im Griff, bekommt aber selbst auch kaum drei anständige Pässe aneinander. Selke macht bislang den Unterschied.&#10;"/>
+        <action-soccer-other id="ev-407594-1362677" period-minute-elapsed="45" period-value="1" action-type="other" comment="Eine Ecke noch|Prödl köpft eine Flanke von rechts weg, Köln darf nochmal.&#10;"/>
+        <action-soccer-other id="ev-407594-1362658" period-minute-elapsed="44" period-value="1" action-type="other" comment="Bremen komfortabel|Den Gastgebern gefällt das hier ganz gut, so ereignisarm.&#10;"/>
+        <action-soccer-other id="ev-407594-1362655" period-minute-elapsed="42" period-value="1" action-type="other" comment="Kölner Gestupse|Sobald die Gastgeber zehn Meter hinter der Mittellinie sind, stupsen sie den Ball nur noch herum, vornehmlich zu einem Bremer.&#10;"/>
+        <action-soccer-other id="ev-407594-1362635" period-minute-elapsed="40" period-value="1" action-type="other" comment="Risse knickt um|Fritz bestürmt den Kölner, als der den Ball hinten rausschlägt. Risse knickt mit dem linken Fuß um, muss behandelt werden.&#10;"/>
+        <action-soccer-other id="ev-407594-1362626" period-minute-elapsed="40" period-value="1" action-type="other" comment="Hector klärt|Er grätscht einen Steilpass weg, da sehen die Kölner Selke im Abseits. Die Schiedsrichter nicht.&#10;"/>
+        <action-soccer-other id="ev-407594-1362621" period-minute-elapsed="38" period-value="1" action-type="other" comment="Bremen weiter vor|Kölns Angriff pfeift die Luft raus, Bremen schiebt sich jetzt nach vorne. Vor den Toren wächst so wieder der Klee.&#10;"/>
+        <action-soccer-other id="ev-407594-1362604" period-minute-elapsed="36" period-value="1" action-type="other" comment="Ujah für Deyverson|Links raus, Prödl läuft nur nebenher. Der Brasilianer schießt flach ans Außennetz.&#10;"/>
+        <action-soccer-other id="ev-407594-1362592" period-minute-elapsed="35" period-value="1" action-type="other" comment="Es kracht bei Fritz|Vogts Ellbogen schlägt bei einer Ecke ein im Hinterkopf des Bremers. Schiri Hartmann findet nichts weiter dabei.&#10;"/>
+        <action-soccer-other id="ev-407594-1362575" period-minute-elapsed="33" period-value="1" action-type="other" comment="Vestergaard gegen Risse|Zugetreten vom Bremer, Freistoß für Köln von der rechten Seite. Bremen macht es sich deutlich weiter hinten gemütlich.&#10;"/>
+        <action-soccer-other id="ev-407594-1362563" period-minute-elapsed="32" period-value="1" action-type="other" comment="Geht doch direkt|Peszko rechts freigespielt, passt dann quer in Prödls Füße.&#10;"/>
+        <action-soccer-other id="ev-407594-1362552" period-minute-elapsed="31" period-value="1" action-type="other" comment="Kein Spielfluss|Köln ist jetzt aktiver. Schöner anzusehen ist das Spiel aber nicht, es fehlen die flüssigen Kombinationen.&#10;"/>
+        <action-soccer-other id="ev-407594-1362542" period-minute-elapsed="30" period-value="1" action-type="other" comment="Und dann Ujah!|Köln jetzt angepiekt, Ujah macht es auch von halbrechts flach aufs lange Eck. Zart vorbei!&#10;"/>
+        <action-soccer-other id="ev-407594-1362532" period-minute-elapsed="29" period-value="1" action-type="other" comment="Wimmer vorbei|Maroh zimmert drauf von rechts aufs lange Eck, Wimmer rutscht vorbei, der Ball rollt neben das Tor.&#10;"/>
+        <action-soccer-score id="ev-407594-1362522" period-minute-elapsed="27" period-value="1" comment="Tooor für Werder Bremen, 0:1 durch Davie Selke|Schnipp schnapp, so schnell geht das im Kölner Strafraum! Und Selke ist am wachsten. Ecke von links, Ujah verlängert im Duell mit Gebre Selassie unfreiwillig auf Selke. Angenommen und mit rechts reingemacht. Horn ist dran, kann nichts machen. Sechster Saisontreffer.&#10;" team-idref="t-8" score-team="1" score-team-opposing="0" player-idref="pl-262804" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-407594-1362517" period-minute-elapsed="26" period-value="1" action-type="other" comment="Peszko perforiert di Santo|Der Bremer Angreifer schirmt den Ball ab, dann tritt Peszko zu. Schmerzen!&#10;"/>
+        <action-soccer-other id="ev-407594-1362504" period-minute-elapsed="25" period-value="1" action-type="other" comment="Ujah im Abseits|Vom Kölner Angreifer ist heute noch nichts zu sehen.&#10;"/>
+        <action-soccer-other id="ev-407594-1362502" period-minute-elapsed="25" period-value="1" action-type="other" comment="Junuzovic an die Latte|Klingt mächtiger als es ist: Junuzovic zirkelt eine Ecke von links auf die Latte, Horn steht drunter und hat alles im Griff.&#10;"/>
+        <action-soccer-other id="ev-407594-1362495" period-minute-elapsed="23" period-value="1" action-type="other" comment="Kölns Chance|Da ist doch die erste Möglichkeit des FC. Und natürlich über Risse: Er bekommt halbrechts den Ball, macht dribbelnd zehn Meter und knallt dann flach links vorbei.&#10;"/>
+        <action-soccer-other id="ev-407594-1362482" period-minute-elapsed="22" period-value="1" action-type="other" comment="Sternberg darf zweimal|Junuzovic steht beim Freistoß aus 20 Metern, die Position halbrechts ist aber ungünstig für ihn. Sternberg macht es, und zwar richtig mies. mittein in die Mauer. Er bekommt den Ball nochmal, schlenzt ihn dann eher aus der Not hoch aufs Tor, Horn lenkt den gerade so über die Latte.&#10;"/>
+        <action-soccer-other id="ev-407594-1362471" period-minute-elapsed="20" period-value="1" action-type="other" comment="Lehmann aus spitzem Winkel|Hector schiebt den Ball links mit dem Außenrist in Lehmanns Lauf. Eine Flanke? Ein Schuss? Auf jeden Fall fliegt der Ball aus spitzem Winkel übers Lattenkreuz.&#10;"/>
+        <action-soccer-other id="ev-407594-1362453" period-minute-elapsed="19" period-value="1" action-type="other" comment="Olkowski trifft genau|Und zwar Sternberg, der als einziger Bremer weit und breit vor ihm steht. Komplett verunglückte Flanke.&#10;"/>
+        <action-soccer-other id="ev-407594-1362437" period-minute-elapsed="18" period-value="1" action-type="other" comment="Deyverson liegt|Prödl schiebt den Kölner von hinten weg. Diesmal ist die Sache klar. Von Torchancen sind wir wieder weit entfernt.&#10;"/>
+        <action-soccer-other id="ev-407594-1362426" period-minute-elapsed="16" period-value="1" action-type="other" comment="Peszko geht zu Boden|Bargfrede trifft ihn im Zweikampf nicht wirklich, der Kölner bekommt trotzdem einen Freistoß. Die Gastgeber machen nichts draus.&#10;"/>
+        <action-soccer-other id="ev-407594-1362398" period-minute-elapsed="15" period-value="1" action-type="other" comment="Deyverson spürt was|Prödl und Deyverson prallen im Kopfballduell zusammen, der Kölner hält sich danach das Gesicht. Dort hatte Prödl ihn aber gar nicht getroffen.&#10;"/>
+        <action-soccer-other id="ev-407594-1362386" period-minute-elapsed="14" period-value="1" action-type="other" comment="Bartels abgepfiffen|Der Ball fliegt ein paarmal hoch durch den Sechzehner nach der Ecke von rechts, dann tritt Bartels Peszko um. Freistoß für Köln.&#10;"/>
+        <action-soccer-other id="ev-407594-1362370" period-minute-elapsed="13" period-value="1" action-type="other" comment="Erste Ecke|Bartels erwischt vorne rechts den Ball noch vor der Linie, schießt dann Wimmer an.&#10;"/>
+        <action-soccer-other id="ev-407594-1362364" period-minute-elapsed="12" period-value="1" action-type="other" comment="Junuzovic hinterher|Diesmal geht es über rechts bei den Gästen, Gebre Selassie flankt Junuzovic auf den Kopf. Der Ball kommt zentral auf Horn.&#10;"/>
+        <action-soccer-other id="ev-407594-1362358" period-minute-elapsed="11" period-value="1" action-type="other" comment="Di Santo!|Der Bremer hat was gegen die Gemütlichkeit und macht beinahe das erste Tor. Hector kommt nach einem Pass von Selke von der linken Seite zu spät, di Santo nimmt den Ball fein an und drischt ihn dann mit links aus der Drehung drüber.&#10;"/>
+        <action-soccer-other id="ev-407594-1362339" period-minute-elapsed="10" period-value="1" action-type="other" comment="Keine Offensive|Noch warten die Zuschauer auf die erste Chance des Spiels. Beide Mannschaften spielen erst mal so Fußball.&#10;"/>
+        <action-soccer-other id="ev-407594-1362310" period-minute-elapsed="8" period-value="1" action-type="other" comment="Peszko geht drauf|Gebre Selassie hinten rechts im Aufbau, Peszko attackiert Bremens Verteidiger früh. Köln presst insgesamt aber eher zaghaft und empfängt die Bremer erst hinter der Mittellinie.&#10;"/>
+        <action-soccer-other id="ev-407594-1362293" period-minute-elapsed="7" period-value="1" action-type="other" comment="Köln kommt|Nach mehreren Minuten greifen die Gastgeber mal wieder an. Olkowski spielt den Ball rechts die Linie entlang, Sternberg hält das Bein dazwischen.&#10;"/>
+        <action-soccer-other id="ev-407594-1362263" period-minute-elapsed="6" period-value="1" action-type="other" comment="Bartels überlegt zu lange|Sternberg flankt von links weit hinüber auf die andere Seite. Am langen Pfosten lassen die Kölner Bartels in Ruhe, der Bremer schaut dem Ball sekundenlang beim Fliegen zu. Er nimmt ihn direkt, bolzt ihn in Horns Arme.&#10;"/>
+        <action-soccer-other id="ev-407594-1362246" period-minute-elapsed="4" period-value="1" action-type="other" comment="Wimmer aufmerksam|Bei Tottenham notieren sie: Wimmer kann eine Halbfeld-Flanke von Fritz wegköpfen.&#10;"/>
+        <action-soccer-other id="ev-407594-1362233" period-minute-elapsed="3" period-value="1" action-type="other" comment="Bremen steht gut|Risse hat etwas Platz im Mittelfeld, über ihn geht alles beim FC in diesen ersten Minuten. Sein Steilpass landet bei Bremen.&#10;"/>
+        <action-soccer-other id="ev-407594-1362211" period-minute-elapsed="2" period-value="1" action-type="other" comment="Zweimal schwach|Gebre Selassie von rechts hinein zu Junuzovic, der zielt schlecht, trifft Wimmer. Der Ball kommt links hinüber zu Sternberg, aus vollem Lauf, weit vorbei.&#10;"/>
+        <action-soccer-other id="ev-407594-1362187" period-minute-elapsed="1" period-value="1" action-type="start1" comment="Spielbeginn|Schiedsrichter Robert Hartmann pfeift die Partie im Rhein-Energie-Stadion an.&#10;"/>
+        <action-soccer-other id="ev-407594-1362169" period-minute-elapsed="0" period-value="0" action-type="other" comment="Köln mit Toleranz auf der Brust|Der Kölner Hauptsponsor gibt die Brust des FC am heutigen Integrationsspieltag frei - dort steht groß &quot;Toleranz&quot;.&#10;"/>
+        <action-soccer-other id="ev-407594-1362131" period-minute-elapsed="0" period-value="0" action-type="other" comment="Di Santo wieder da|Der mit zwölf Saisontoren gefährlichste Bremer Angreifer hat seine Gelbsperre abgesessen und beginnt heute natürlich bei Werder. Hinten links ersetzt Sternberg den leicht angeschlagenen Garcia.&#10;"/>
+        <action-soccer-other id="ev-407594-1362116" period-minute-elapsed="0" period-value="0" action-type="other" comment="Wimmer zurück|Nur ein Wechsel beim FC: Mavraj ist nur Ersatz und macht Platz für den zuletzt rotgesperrten Wimmer. Der Verteidiger beginnt damit seine Abschiedstournee mit den Rheinländern. Nach übereinstimmenden Medienberichten wechselt er im Sommer nach England zu Tottenham Hotspur.&#10;"/>
+        <action-soccer-other id="ev-407594-1362082" period-minute-elapsed="0" period-value="0" action-type="other" comment="Horn nicht unverkäuflich|Kölns Vizepräsident Toni Schumacher ist in Sachen Timo Horn realistisch: &quot;Wir sind durch unsere Verbindlichkeiten auch ein Stück fremdgesteuert. Wenn ein Riesenangebot kommen sollte, können wir nicht kategorisch nein sagen&quot;, sagte im Interview mit dem Bonner Generalanzeiger und der Kölnischen Rundschau über den Kölner Torhüter.&#10;"/>
+        <action-soccer-other id="ev-407594-1362030" period-minute-elapsed="0" period-value="0" action-type="other" comment="Eichin vor Verlängerung|Sportchef Thomas Eichin hat in Bremen noch einen Vertrag bis 2016. Schon jetzt deutet aber vieles auf eine vorzeitige Verlängerung: Aufsichtsratsboss Marco Bode ist zufrieden mit Eichins Arbeit, der Verein will ihn halten. Eichin selbst möchte spätestens bis zum Sommer Klarheit über seine Zukunft.&#10;"/>
+        <action-soccer-other id="ev-407594-1362027" period-minute-elapsed="0" period-value="0" action-type="other" comment="Stabile Bilanz|Bremen hat in der Rückrunde bislang nur gegen den FC Bayern und den VfL Wolfsburg verloren, also gegen die ersten beiden der Tabelle. Aus den letzten drei Auswärtsspielen holte die Mannschaft sieben Punkte.&#10;"/>
+        <action-soccer-other id="ev-407594-1361989" period-minute-elapsed="0" period-value="0" action-type="other" comment="Schneckenrennen|Die Vereine der Abstiegsregion gewinnen kaum noch, darum ist jeder Sieg umso mehr wert. Köln ist Zwölfter, sechs Punkte vor dem Relegationsplatz.&#10;"/>
+        <action-soccer-other id="ev-407594-1361971" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Bremen|1 Wolf - 23 Gebre Selassie, 15 Prödl, 7 Vestergaard, 37 Sternberg - 44 Bargfrede - 8 Fritz, 16 Junuzovic - 22 Bartels - 27 Selke, 9 di Santo&#10;"/>
+        <action-soccer-other id="ev-407594-1361968" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Köln|1 Horn - 16 Olkowski, 5 Maroh, 28 Wimmer, 14 Hector - 33 Lehmann, 6 Vogt - 17 Peszko, 7 Risse - 20 Deyverson, 9 Ujah&#10;"/>
+        <action-soccer-other id="ev-407594-1361962" period-minute-elapsed="0" period-value="0" action-type="other" comment="Wer wird denn da von Europa reden?|Nur drei Punkte liegt Werder vor dem Gastspiel in Köln hinter Platz sieben, der möglicherweise fürs internationale Geschäft reicht. &quot;Bei der Entwicklung muss ich der Mannschaft zutrauen, dass wir uns für die Europa League qualifizieren können, aber wir müssen dafür gewinnen&quot;, sagte Trainer Viktor Skripnik. Der FC auf der anderen Seite kann den Abstiegskampf mit einem Sieg schon fast hinter sich lassen.&#10;"/>
+        <action-soccer-other id="ev-407594-1359597" period-minute-elapsed="0" period-value="0" action-type="other" comment="Herzlich willkommen...|&#10;zum 26. Spieltag der Fußball-Bundesliga. Der 1. FC Köln empfängt den SV Werder Bremen.&#10;"/>
+      </event-actions-soccer>
+    </event-actions>
+  </sports-event>
+</sports-content>

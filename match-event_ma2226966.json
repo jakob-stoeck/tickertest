@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1193239",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "21235",
+      "name": "Roger Schmidt",
+      "firstname": "Roger",
+      "surname": "Schmidt",
+      "fullname": "Roger Schmidt",
+      "gender": "male",
+      "birthday": "13.03.1967",
+      "height": "188",
+      "weight": "82"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "25.04.2014 15:35"
+  },
+  {
+    "id": "1261752",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "18870",
+      "name": "Roberto Di Matteo",
+      "firstname": "Roberto",
+      "surname": "Di Matteo",
+      "fullname": "Roberto Di Matteo",
+      "gender": "male",
+      "birthday": "29.05.1970",
+      "height": "178",
+      "weight": "74"
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "07.10.2014 10:36"
+  }
+]

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports-content>
+  <sports-metadata doc-id="0_407586">
+    <sports-title/>
+  </sports-metadata>
+  <sports-event id="match-407586">
+    <event-metadata event-status="mid-event" site-attendance="14500" stadium-name="Benteler Arena" stadium-city="Paderborn" stadium-capacity="15000" stadium-id="1406" game-exitid1="407586" game-exitid2="153428">
+      <event-metadata-soccer period-minute-elapsed="45" period-value="1"/>
+    </event-metadata>
+    <team id="team-25126">
+      <team-metadata team-key="SCP" alignment="home">
+        <name full="SC Paderborn 07" middle="Paderborn" id="t-25126" extid="te-1651"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-3938">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Kruse"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-225661">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="33" lineup-slot="x:-100,y:-100">
+          <name last="Lück"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-230780">
+        <player-metadata position-event="defender" status="bench" uniform-number="26" lineup-slot="x:-100,y:-100">
+          <name last="Hartherz"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-228766">
+        <player-metadata position-event="defender" status="starter" uniform-number="22" lineup-slot="x:-4,y:3">
+          <name last="Heinloth"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3943">
+        <player-metadata position-event="defender" status="starter" uniform-number="2" lineup-slot="x:2,y:3">
+          <name last="Hünemeier"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-13453">
+        <player-metadata position-event="defender" status="starter" uniform-number="3" lineup-slot="x:-2,y:3">
+          <name last="Rafa"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-104627">
+        <player-metadata position-event="defender" status="bench" uniform-number="13" lineup-slot="x:-100,y:-100">
+          <name last="Strohdiek"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-23113">
+        <player-metadata position-event="defender" status="starter" uniform-number="7" lineup-slot="x:-4,y:6">
+          <name last="Wemmer"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24779">
+        <player-metadata position-event="defender" status="starter" uniform-number="5" lineup-slot="x:0,y:4">
+          <name last="Ziegler"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-21220">
+        <player-metadata position-event="midfield" status="bench" uniform-number="6" lineup-slot="x:-100,y:-100">
+          <name last="Bakalorz"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24744">
+        <player-metadata position-event="midfield" status="starter" uniform-number="21" lineup-slot="x:4,y:3">
+          <name last="Brückner"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-26973">
+        <player-metadata position-event="midfield" status="bench" uniform-number="30" lineup-slot="x:-100,y:-100">
+          <name last="Koç"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24911">
+        <player-metadata position-event="midfield" status="starter" uniform-number="17" lineup-slot="x:4,y:6">
+          <name last="Meha"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-152131">
+        <player-metadata position-event="midfield" status="starter" uniform-number="4" lineup-slot="x:-3,y:6">
+          <name last="Rupp"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-428">
+        <player-metadata position-event="midfield" status="starter" uniform-number="8" lineup-slot="x:3,y:6">
+          <name last="Vrančić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-216007">
+        <player-metadata position-event="striker" status="bench" uniform-number="15" lineup-slot="x:-100,y:-100">
+          <name last="Kachunga"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-14886">
+        <player-metadata position-event="striker" status="starter" uniform-number="29" lineup-slot="x:0,y:9">
+          <name last="Lakić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28528">
+        <player-metadata position-event="striker" status="bench" uniform-number="10" lineup-slot="x:-100,y:-100">
+          <name last="Sağlık"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <team id="team-25000">
+      <team-metadata team-key="HOF" alignment="away">
+        <name full="1899 Hoffenheim" middle="Hoffenheim" id="t-25000" extid="te-24"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-131946">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Baumann"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24737">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="13" lineup-slot="x:-100,y:-100">
+          <name last="Grahl"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-9118">
+        <player-metadata position-event="defender" status="bench" uniform-number="19" lineup-slot="x:-100,y:-100">
+          <name last="Abraham"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-472">
+        <player-metadata position-event="defender" status="starter" uniform-number="2" lineup-slot="x:-4,y:3">
+          <name last="Beck"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-157564">
+        <player-metadata position-event="defender" status="starter" uniform-number="4" lineup-slot="x:2,y:3">
+          <name last="Bičakčić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-257783">
+        <player-metadata position-event="defender" status="starter" uniform-number="20" lineup-slot="x:4,y:3">
+          <name last="Kim"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-234284">
+        <player-metadata position-event="defender" status="bench" uniform-number="15" lineup-slot="x:-100,y:-100">
+          <name last="Toljan"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-297145">
+        <player-metadata position-event="midfield" status="bench" uniform-number="34" lineup-slot="x:-100,y:-100">
+          <name last="Amiri"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-12789">
+        <player-metadata position-event="midfield" status="starter" uniform-number="14" lineup-slot="x:4,y:7">
+          <name last="Elyounoussi"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-13452">
+        <player-metadata position-event="midfield" status="starter" uniform-number="8" lineup-slot="x:1,y:4">
+          <name last="Polanski"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-234828">
+        <player-metadata position-event="midfield" status="starter" uniform-number="10" lineup-slot="x:0,y:7">
+          <name last="Roberto Firmino"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28357">
+        <player-metadata position-event="midfield" status="starter" uniform-number="6" lineup-slot="x:-1,y:4">
+          <name last="Rudy"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-152839">
+        <player-metadata position-event="midfield" status="starter" uniform-number="12" lineup-slot="x:-2,y:3">
+          <name last="Strobl"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-259965">
+        <player-metadata position-event="striker" status="bench" uniform-number="26" lineup-slot="x:-100,y:-100">
+          <name last="Haberer"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-19922">
+        <player-metadata position-event="striker" status="bench" uniform-number="27" lineup-slot="x:-100,y:-100">
+          <name last="Modeste"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28332">
+        <player-metadata position-event="striker" status="starter" uniform-number="9" lineup-slot="x:0,y:9">
+          <name last="Schipplock"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-78189">
+        <player-metadata position-event="striker" status="bench" uniform-number="28" lineup-slot="x:-100,y:-100">
+          <name last="Szalai"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-224290">
+        <player-metadata position-event="striker" status="starter" uniform-number="31" lineup-slot="x:-4,y:7">
+          <name last="Volland"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <event-actions>
+      <event-actions-soccer>
+        <action-soccer-other id="ev-407586-1362680" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|Halbzeitfazit: Das torlose Remis geht hier bisher in Ordnung. Beide Teams sind sehr angagiert, aber ganz vorne fehlt das Abschluss-Glück. Es ist trotz null Toren auf beiden Seiten keine unansehnliche Partie.&#10;"/>
+        <action-soccer-other id="ev-407586-1362657" period-minute-elapsed="44" period-value="1" action-type="other" comment="Torlos in die Kabine|Aus Sicht von Andre Breitenreiter ist es jetzt auch wichtig, ohne Gegentor in die Pause zu kommen. Hoffenheim wird immer besser.&#10;"/>
+        <action-soccer-other id="ev-407586-1362661" period-minute-elapsed="43" period-value="1" action-type="other" comment="Keine eindeutige Chance|Auch wenn es nur eine dicke Möglichkeit zu bestaunen gab: Dieses Duell hat was. Die Fans sehen zwei kämpfende Kontrahenten, die sich hier nichts schenken.&#10;"/>
+        <action-soccer-other id="ev-407586-1362640" period-minute-elapsed="39" period-value="1" action-type="other" comment="Gute Chance für den SCP|Paderborn bekommt einen verheißungsvollen Freistoß zugesprochen! Kim trifft Wemmer am rechten Strafraumeck mit dem Ellenbogen am Kopf. Wie gefährlich wird dieser Standard?&#10;"/>
+        <action-soccer-other id="ev-407586-1362632" period-minute-elapsed="39" period-value="1" action-type="other" comment="Zielwasser trinken|1899 macht jetzt definitiv das Spiel, die Ostwestfalen kontern. Torchancen springen dabei insgesamt nur selten raus.&#10;"/>
+        <action-soccer-other id="ev-407586-1362618" period-minute-elapsed="37" period-value="1" action-type="other" comment="Noch zehn Minuten bis zum Pausentee|Die Paderborner können mit der Leistung des SC sehr zufrieden sein. Von Hoffenheim hätte man im Vorfeld dieser Partie wohl mehr erwartet.&#10;"/>
+        <action-soccer-other id="ev-407586-1362609" period-minute-elapsed="36" period-value="1" action-type="other" comment="Immer wieder böse Abspielfehler|Beide Teams leisten sich immer&amp;nbsp;wieder den einen oder anderen Abspielfehler. Dies liegt auch an der riskanten Spielweise: Fast alles wird scharf vorne rein geschlagen. Hoffenheim ist jetzt mehr und mehr dabei das Spiel zu kontrollieren.&#10;"/>
+        <action-soccer-other id="ev-407586-1362603" period-minute-elapsed="35" period-value="1" action-type="other" comment="Paderborn sehr ordentlich&amp;nbsp;|Paderborn setzt auf eine stabile Grundordnung und schnell vorgetragene Angriffe. Dies sieht zunehmend zielführend aus.&#10;"/>
+        <action-soccer-other id="ev-407586-1362584" period-minute-elapsed="32" period-value="1" action-type="other" comment="Der SCP wird gefährlicher|Wemmer zirkelt das Leder von rechts außen wunderbar hochkant in den Fünfer der Gäste. Lakić hat vor dem Kasten überraschend viel Platz, gerät jedoch leicht in Rücklage. So befördert der Angreifer die Kugel aus verheißungsvoller Position per Kopf über den Querbalken!&#10;"/>
+        <action-soccer-other id="ev-407586-1362560" period-minute-elapsed="31" period-value="1" action-type="other" comment="30 Minuten ist durch|Paderborn kam gut in die Partie, fing sogar besser als Hoffenheim an auch durch Heimloth auch die erste richtig gute&amp;nbsp;Chance, die letzten Minuten aber gibt es eine leichte Überlegenheit für die Gäste aus dem Kraichgau.&#10;"/>
+        <action-soccer-other id="ev-407586-1362540" period-minute-elapsed="27" period-value="1" action-type="other" comment="Warum denn auch nicht?|Kevin Volland, seit Wochen in bestechender Form,&amp;nbsp;sucht außerhalb des Sechzehners der Hausherren den Abschluss, befördert das Spielgerät jedoch unplatziert in die Arme von Schlussmann Kruse.&#10;"/>
+        <action-soccer-other id="ev-407586-1362530" period-minute-elapsed="27" period-value="1" action-type="other" comment="Typisches 0:0|Vielleicht wäre diese Bezeichnung aktuell etwas zu hart für dieses Spiel. Das Publikum bekommt hier keinen Langweiler geboten, weil Einsatz und Laufbereitschaft beiderseits stimmen. Doch in Puncto Torgefahr herrscht noch sehr viel Luft nach oben.&#10;"/>
+        <action-soccer-other id="ev-407586-1362515" period-minute-elapsed="24" period-value="1" action-type="other" comment="Erster echter Torschuss der Gäste|Schipplock probiert es an der rechten Strafraumgrenze aus spitzem Winkel, doch da das Spielgerät klar über die Latte saust, muss Torhüter Kruse nicht ins Geschehen eingreifen.&#10;"/>
+        <action-soccer-other id="ev-407586-1362513" period-minute-elapsed="23" period-value="1" action-type="other" comment="Der letzte Pass fehlt zumeist |Beck setzt Volland an der rechten Eckfahne in Szene. Der Angreifer leitet direkt weiter in den Strafraum, wo SCP-Keeper Kruse jedoch aufpasst und vor Schipplock am Ball ist.&#10;"/>
+        <action-soccer-other id="ev-407586-1362478" period-minute-elapsed="22" period-value="1" action-type="other" comment="Vrancic als Taktgeber|Vrancic ordnet und strukturiert das Spiel der Gastgeber, aber auch er alleine kann hier keine Tore erzwingen.&#10;"/>
+        <action-soccer-other id="ev-407586-1362466" period-minute-elapsed="19" period-value="1" action-type="other" comment="20 Minuten rum|Gleich sind die ersten 20 Minuten vorüber. Insgesamt findet hier eine ausgeglichene Begegnung statt. Kampf und Leidenschaft ist zuhauf vorhanden, nur die Torchancen fehlen noch. Paderborns Lakic ist bemüht, aber noch nicht wirklich zwingend.&#10;"/>
+        <action-soccer-other id="ev-407586-1362454" period-minute-elapsed="17" period-value="1" action-type="other" comment="Fan-Performance top|Die Stimmung ist hier nach wie vor toll. Das Publikum sieht zwar kein hochklassiges Fußballspiel, doch umkämpft ist dieses Duell dafür allemal.&#10;"/>
+        <action-soccer-other id="ev-407586-1362440" period-minute-elapsed="15" period-value="1" action-type="other" comment="Erste echte Torannäherung|Heinloth tankt sich halbrechts bis auf Strafraumhöhe durch und knallt die Kugel einfach mal hoch aufs lange Eck. Auch wenn dieser Schuss letztendlich deutlich über den Kasten der Gäste zischt, könnte dies doch zumindest als Aufwecker dienen. Beide Teams suchen hier weiter die Offensive.&#10;"/>
+        <action-soccer-other id="ev-407586-1362403" period-minute-elapsed="15" period-value="1" action-type="other" comment="Zu Hause torlos|Paderborn hat in der Rückrunde im eigenen Stadion noch kein Tor erzielt, was für eine schlimme Serie. Ob es heute besser wird? Bisher sieht es ganz gut aus.&#10;"/>
+        <action-soccer-other id="ev-407586-1362414" period-minute-elapsed="14" period-value="1" action-type="other" comment="Referee muss eingreifen|Das Engagement beider Teams führt dazu, dass die Pfeife von Schiedsrichter Markus Schmidt das eine oder andere Mal laut zu vernehmen ist. Betont unfair geht hier allerdings niemand zu Werke.&#10;"/>
+        <action-soccer-other id="ev-407586-1362381" period-minute-elapsed="13" period-value="1" action-type="other" comment="Zwölf Minuten sind gespielt|Noch durfte kein nennenswerter Torschuss bezeugt werden. Hoffenheim beginnt jedoch allmählich, die Partie an sich zu reißen.&#10;"/>
+        <action-soccer-other id="ev-407586-1362365" period-minute-elapsed="13" period-value="1" action-type="other" comment="Ähnliche Spielausrichtung|Beide Mannschaften sind in ihrer Spielausrichtung durchaus ähnlich, verteidigen im Vorwärtsgang sehr konsequent und lassen dem Gegner im Spiel nach vorne wenig Raum. Ein wirklich kampfbetonte Anfangsphase. Taktisch hochinteressant zu beobachten, wie sich Paderborn verhält.&#10;"/>
+        <action-soccer-other id="ev-407586-1362368" period-minute-elapsed="11" period-value="1" action-type="other" comment="Baumann oft im Fokus|So allmählich rückt 1899-Keeper Oliver Baumann immer häufiger in den Fokus. Zwar musste der Torhüter noch keine spektakuläre Parade auspacken, doch die Tatsache, dass sich die Ballkontakte des ehemaligen Freiburgers häufen, zeigt, dass der SCP hier durchaus nach vorne spielt.&#10;"/>
+        <action-soccer-other id="ev-407586-1362340" period-minute-elapsed="9" period-value="1" action-type="other" comment="Spritzige Gastgeber|Die Akteure der Gastgeber präsentieren sich hier in der Anfangsphase übrigens äußerst spritzig und machen einen selbstbewussten Eindruck. Von fehlender Motivation oder dem Auftritt eines Absteigers kann absolut keine Rede sein.&#10;"/>
+        <action-soccer-other id="ev-407586-1362297" period-minute-elapsed="8" period-value="1" action-type="other" comment="Viel Kampf|Beide Teams schenken sich nichts, es gibt viele kleine Fouls und Nickligkeiten. Hier wird um jeden Grashalm gekämpft.&#10;"/>
+        <action-soccer-other id="ev-407586-1362318" period-minute-elapsed="7" period-value="1" action-type="other" comment="Bälle ohne Ziel|Ein langer Ball - mit diesem Titel konnte man bislang so gut wie jeden Spielzug hier in der Benteler Arena versehen. Doch es bleibt dabei: Diese hohen Zuspiel geraten häufig viel zu weit und trudeln hinten ins Toraus.&#10;"/>
+        <action-soccer-other id="ev-407586-1362309" period-minute-elapsed="6" period-value="1" action-type="other" comment="Kurioses vor dem Spiel|Vor dem Anpfiff war übrigens lange Zeit nicht klar, ob SCP-Stürmer Srdjan Lakic heute tatsächlich in der Startelf stehen würde. Denn das Computer-System der DFL führte den ehemaligen Lauterer fälschlicher Weise als gesperrten Akteur, obgleich der Winter-Neuzugang bei seinem alten Verein nur zwei Gelbe Karten sah. Kurz vor Spielbeginn löste sich das Missverständnis dann allerdings auf.&#10;"/>
+        <action-soccer-other id="ev-407586-1362264" period-minute-elapsed="4" period-value="1" action-type="other" comment="Die ersten Minuten|Das Publikum sieht einen flotten Beginn beider Mannschaften. Es wird beiderseits viel mit langen Bällen operiert, welche allerdings bislang noch zu ungenau kommen. Eine Torchance gab es noch nicht zu bestaunen.&#10;"/>
+        <action-soccer-other id="ev-407586-1362256" period-minute-elapsed="3" period-value="1" action-type="other" comment="Hervorragende Stimmung|Die Stimmung in der Benteler Arena ist trotz der sportlichen Krise einmal mehr hervorragend. Die Fans aus Ostwestfalen scheinen zu wissen, dass ein potentieller Dreier heute nur geschlossen eingefahren werden kann.&#10;"/>
+        <action-soccer-other id="ev-407586-1362227" period-minute-elapsed="2" period-value="1" action-type="other" comment="Achtungserfolg oder Aufwärtstrend?|Kann sich der SC Paderborn heute endlich einmal wieder einen Achtungserfolg erkämpfen? Oder bestätigt 1899 den Aufwärtstrend?&#10;"/>
+        <action-soccer-other id="ev-407586-1362192" period-minute-elapsed="1" period-value="1" action-type="start1" comment="Spielbeginn|"/>
+        <action-soccer-other id="ev-407586-1362194" period-minute-elapsed="0" period-value="0" action-type="other" comment="Hoffenheim ohne Schwegler|Auf Seiten der Gäste gibt es nur eine personelle Veränderung: Pirmin Schwegler fehlt gelbgesperrt, Tarik Elyounoussi soll anstelle des ehemaligen Frankfurts links außen für Betrieb sorgen.&#10;"/>
+        <action-soccer-other id="ev-407586-1362165" period-minute-elapsed="0" period-value="0" action-type="other" comment="DFB-Aktion|Die Spieler beider Mannschaften halten vor dem Spiel gemeinsam ein Banner. Eine Aktion gegen Ausgrenzung und Diskriminierung. Daumen hoch!&#10;"/>
+        <action-soccer-other id="ev-407586-1362065" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Hoffenheim|1 Baumann - 2 Beck, 12 Strobl, 4 Bicakcic, 20 Kim - 6 Rudy, 8 Polanski - 10 Firmino, 14 Elyounoussi - 9 Schipplock, 31 Volland&#10;"/>
+        <action-soccer-other id="ev-407586-1362062" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Paderborn|1 Lukas Kruse - 22 Heinloth, 3 Lopez, 2 Hünemeier, 21 Brückner - 5 Ziegler - 7 Wemmer, 4 Rupp, 8 Vrancic, 17 Meha - 29 Lakic&#10;"/>
+        <action-soccer-other id="ev-407586-1362050" period-minute-elapsed="0" period-value="0" action-type="other" comment="Gute Serie|1899 gewann alle bisherigen drei Duelle gegen Paderborn, beide Spiele zu Zweitligazeiten und auch das Hinspiel mit 1:0.&#10;"/>
+        <action-soccer-other id="ev-407586-1362032" period-minute-elapsed="0" period-value="0" action-type="other" comment="Beide brauchen die Punkte|Nicht nur das Team von der Pader braucht jeden Zähler, um sich im Abstiegskampf zu behaupten. Die&amp;nbsp;Gäste verfolgen ihre eigenen Ziele und schnuppern an den Europa-League-Plätzen. Nach dem jüngsten 3:0-Sieg gegen den Hamburger SV haben die Kraichgauer 36 Punkte auf dem Konto, davor sind Augsburg (38) und Schalke (39) in Reichweite.&#10;"/>
+        <action-soccer-other id="ev-407586-1362005" period-minute-elapsed="0" period-value="0" action-type="other" comment="Am HSV vorbei?|Ein Sieg und die Ostwestfalen springen auf Platz 15 vor. Denn der HSV erlebte am Freitagabend gegen Hertha BSC den nächsten Tiefschlag und bleibt nach der 0:1-Niederlage bei 25 Punkten stehen. 14:36&#10;"/>
+        <action-soccer-other id="ev-407586-1361998" period-minute-elapsed="0" period-value="0" action-type="other" comment="Trendwende für Paderborn?|Schafft Paderborn gegen Hoffenheim die Trendwende? Erst ein Sieg steht 2015 zu Buche. (2:1 in Hannover) Vier Pleiten in Serie ohne eigenes Tor gab es zuletzt bei 15 Gegentreffern. Das soll heute aufhören, wenn man den Verantwortlichen Glauben schenken kann.&#10;"/>
+        <action-soccer-other id="ev-407586-1359596" period-minute-elapsed="0" period-value="0" action-type="other" comment="Herzlich willkommen...|&#10;zum 26. Spieltag der Fußball-Bundesliga. 1899 Hoffenheim tritt beim SC Paderborn an.&#10;"/>
+      </event-actions-soccer>
+    </event-actions>
+  </sports-event>
+</sports-content>

@@ -1,0 +1,131 @@
+{
+  "match": {
+    "id": "2227000",
+    "round_id": "47269",
+    "matchday": "26",
+    "group_matchday": "0",
+    "match_date": "21.03.2015",
+    "match_time": "15:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "first-half-end",
+    "current_period_start": "2015-03-21 16:15:47",
+    "current_minute": "45",
+    "attendance": "50000",
+    "home": {
+      "id": "2076",
+      "name": "VfB Stuttgart"
+    },
+    "away": {
+      "id": "530",
+      "name": "Eintracht Frankfurt"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel3.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel3.mp3"
+      }
+    ],
+    "venue": {
+      "id": "709",
+      "name": "Mercedes-Benz Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "709",
+        "capacity": "60449",
+        "built": "1933"
+      },
+      "town": {
+        "id": "1446",
+        "name": "Stuttgart"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "41933",
+      "name": "Dr. Jochen Drees",
+      "firstname": "Dr. Jochen",
+      "surname": "Drees",
+      "fullname": "Dr. Jochen Drees",
+      "gender": "male",
+      "birthday": "15.03.1970",
+      "height": "183",
+      "weight": "70",
+      "person_detail": {
+        "id": "2330",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "Bad Kreuznach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

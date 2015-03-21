@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports-content>
+  <sports-metadata doc-id="0_407556">
+    <sports-title/>
+  </sports-metadata>
+  <sports-event id="match-407556">
+    <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
+      <event-metadata-soccer period-minute-elapsed="45" period-value="1"/>
+    </event-metadata>
+    <team id="team-1">
+      <team-metadata team-key="H96" alignment="home">
+        <name full="Hannover 96" middle="Hannover" id="t-1" extid="te-951"/>
+      </team-metadata>
+      <team-stats score="1" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-2797">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="39" lineup-slot="x:-100,y:-100">
+          <name last="Almer"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-94113">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Zieler"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-6394">
+        <player-metadata position-event="defender" status="starter" uniform-number="20" lineup-slot="x:2,y:3">
+          <name last="Felipe"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22737">
+        <player-metadata position-event="defender" status="starter" uniform-number="25" lineup-slot="x:-2,y:3">
+          <name last="Marcelo"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-146779">
+        <player-metadata position-event="defender" status="starter" uniform-number="4" lineup-slot="x:-4,y:3">
+          <name last="Sakai"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-235359">
+        <player-metadata position-event="defender" status="starter" uniform-number="5" lineup-slot="x:0,y:4">
+          <name last="Sané"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-14548">
+        <player-metadata position-event="defender" status="starter" uniform-number="19" lineup-slot="x:4,y:3">
+          <name last="Schulz"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-135592">
+        <player-metadata position-event="midfield" status="bench" uniform-number="3" lineup-slot="x:-100,y:-100">
+          <name last="Albornoz"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-12944">
+        <player-metadata position-event="midfield" status="bench" uniform-number="2" lineup-slot="x:-100,y:-100">
+          <name last="Andreasen"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-231272">
+        <player-metadata position-event="midfield" status="starter" uniform-number="32" lineup-slot="x:4,y:6">
+          <name last="Bittencourt"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-79024">
+        <player-metadata position-event="midfield" status="bench" uniform-number="6" lineup-slot="x:-100,y:-100">
+          <name last="Gülselam"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-19944">
+        <player-metadata position-event="midfield" status="starter" uniform-number="28" lineup-slot="x:3,y:6">
+          <name last="Kiyotake"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-24763">
+        <player-metadata position-event="midfield" status="bench" uniform-number="7" lineup-slot="x:-100,y:-100">
+          <name last="Prib"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-14970">
+        <player-metadata position-event="midfield" status="bench" uniform-number="8" lineup-slot="x:-100,y:-100">
+          <name last="Schmiedebach"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-16487">
+        <player-metadata position-event="midfield" status="starter" uniform-number="10" lineup-slot="x:-3,y:6">
+          <name last="Stindl"/>
+        </player-metadata>
+        <player-stats score="1">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-25135">
+        <player-metadata position-event="striker" status="starter" uniform-number="21" lineup-slot="x:-4,y:6">
+          <name last="Briand"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-152175">
+        <player-metadata position-event="striker" status="starter" uniform-number="11" lineup-slot="x:0,y:9">
+          <name last="Joselu"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22208">
+        <player-metadata position-event="striker" status="bench" uniform-number="30" lineup-slot="x:-100,y:-100">
+          <name last="Ya Konan"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <team id="team-14">
+      <team-metadata team-key="BVB" alignment="away">
+        <name full="Borussia Dortmund" middle="Dortmund" id="t-14" extid="te-258"/>
+      </team-metadata>
+      <team-stats score="1" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-18683">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="22" lineup-slot="x:-100,y:-100">
+          <name last="Langerak"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3939">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Weidenfeller"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-231542">
+        <player-metadata position-event="defender" status="bench" uniform-number="40" lineup-slot="x:-100,y:-100">
+          <name last="Dudziak"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3214">
+        <player-metadata position-event="defender" status="starter" uniform-number="15" lineup-slot="x:2,y:3">
+          <name last="Hummels"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1138">
+        <player-metadata position-event="defender" status="starter" uniform-number="25" lineup-slot="x:4,y:3">
+          <name last="Papastathopoulos"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-451">
+        <player-metadata position-event="defender" status="starter" uniform-number="4" lineup-slot="x:-2,y:3">
+          <name last="Subotić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-26795">
+        <player-metadata position-event="midfield" status="bench" uniform-number="6" lineup-slot="x:-100,y:-100">
+          <name last="Bender"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3949">
+        <player-metadata position-event="midfield" status="starter" uniform-number="16" lineup-slot="x:-4,y:7">
+          <name last="Błaszczykowski"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-112350">
+        <player-metadata position-event="midfield" status="starter" uniform-number="8" lineup-slot="x:1,y:4">
+          <name last="Gündoğan"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-71535">
+        <player-metadata position-event="midfield" status="starter" uniform-number="7" lineup-slot="x:0,y:7">
+          <name last="Kagawa"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-111404">
+        <player-metadata position-event="midfield" status="bench" uniform-number="23" lineup-slot="x:-100,y:-100">
+          <name last="Kampl"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3953">
+        <player-metadata position-event="midfield" status="starter" uniform-number="5" lineup-slot="x:-1,y:4">
+          <name last="Kehl"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1878">
+        <player-metadata position-event="midfield" status="starter" uniform-number="21" lineup-slot="x:-4,y:3">
+          <name last="Kirch"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-101437">
+        <player-metadata position-event="midfield" status="bench" uniform-number="10" lineup-slot="x:-100,y:-100">
+          <name last="Mkhitaryan"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22225">
+        <player-metadata position-event="midfield" status="starter" uniform-number="11" lineup-slot="x:4,y:7">
+          <name last="Reus"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-134830">
+        <player-metadata position-event="striker" status="starter" uniform-number="17" lineup-slot="x:0,y:9">
+          <name last="Aubameyang"/>
+        </player-metadata>
+        <player-stats score="1">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-147122">
+        <player-metadata position-event="striker" status="bench" uniform-number="9" lineup-slot="x:-100,y:-100">
+          <name last="Immobile"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1565">
+        <player-metadata position-event="striker" status="bench" uniform-number="20" lineup-slot="x:-100,y:-100">
+          <name last="Ramos"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <event-actions>
+      <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1362671" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|Halbzeit-Fazit: Verdientes Remis nach einer mäßigen ersten Hälfte mit wenigen Highlights. Der BVB ist in der ersten halben Stunde etwas besser bzw. effizienter, aber ohne zu glänzen. Hannover gleicht zwar ziemlich überraschend aus, verdient sich danach aber dieses 1:1 zur Pause mit viel Leidenschaft und Mut.&#10;"/>
+        <action-soccer-other id="ev-407556-1362659" period-minute-elapsed="44" period-value="1" action-type="other" comment="Der BVB verliert die Bälle zu schnell|Und kommt darum momentan kaum noch über die Mittellinie. Da ist seit dem Ausgleich schon ein Bruch im Spiel zu erkennen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362648" period-minute-elapsed="42" period-value="1" action-type="other" comment="Fünfte Ecke für die Hausherren|Kiyotake serviert von links, aber am Fünfer lässt Hummels nichts anbrennen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362638" period-minute-elapsed="41" period-value="1" action-type="other" comment="Freistoß für den BVB|Nach Foul von Sakai an Reus, der den ruhenden Ball aus dem Mittelfeld hoch in den Sechzehner schaufelt - aber genau auf Zieler.&#10;"/>
+        <action-soccer-other id="ev-407556-1362615" period-minute-elapsed="39" period-value="1" action-type="other" comment="Weidenfeller ist da|Der Schlussmann entschärft eine Flanke von Stindl.&#10;"/>
+        <action-soccer-other id="ev-407556-1362610" period-minute-elapsed="37" period-value="1" action-type="other" comment="Aubameyang gegen Felipe|Der Stürmer ist schneller als der Verteidiger, bugsiert den Ball auch noch am herausstürmenden Zieler vorbei, doch bei dem Pressschlag kriegt die Kugel zu viel Drall und trudelt ins Toraus.&#10;"/>
+        <action-soccer-other id="ev-407556-1362599" period-minute-elapsed="36" period-value="1" action-type="other" comment="Marcelo per Kopf|Nach einer Ecke von rechts setzt der Brasilianer den Ball aus sechs Metern über die Latte.&#10;"/>
+        <action-soccer-other id="ev-407556-1362595" period-minute-elapsed="36" period-value="1" action-type="other" comment="Kirch passt auf |Der Rechtsverteidiger kehrt eine flache Hereingabe von Sakai aus dem Fünfer. Jetzt macht 96 plötzlich Dampf!&#10;"/>
+        <action-soccer-other id="ev-407556-1362585" period-minute-elapsed="35" period-value="1" action-type="other" comment="Fast die Führung für 96!|Hannover kontert im eigenen Stadion. Briand legt mustergültig quer zum mitgelaufenen Bittencourt. Der hat aus 17 Metern freie Schussbahn, verzieht aber mit links - weit vorbei!&#10;"/>
+        <action-soccer-other id="ev-407556-1362572" period-minute-elapsed="33" period-value="1" action-type="other" comment="Aprilwetter in Hannover|Nachdem es in der ersten halben Stunde kräftig geregnet hat, ist nun sogar die Sonne herausgekommen.&#10;"/>
+        <action-soccer-score id="ev-407556-1362559" period-minute-elapsed="31" period-value="1" comment="Tooor für Hannover 96, 1:1 durch Lars Stindl|Aus heiterem Himmel gelingt Hannover der Ausgleich! Bittencourt stößt über links in den Sechzehner vor und spielt dann flach zurück in den Rücken der Abwehr. Dort steht Stindl und schießt aus zehn Metern mit rechts flach ins lange Eck! Sein fünfter Saisontreffer.&#10;" team-idref="t-1" score-team="1" score-team-opposing="1" player-idref="pl-16487" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-407556-1362550" period-minute-elapsed="30" period-value="1" action-type="other" comment="Nach einer halben Stunde...|sind klare Torchancen hier absolute Mangelware. Hannover fällt nichts ein und Dortmund beschränkt sich momentan auf Konter.&#10;"/>
+        <action-soccer-other id="ev-407556-1362539" period-minute-elapsed="29" period-value="1" action-type="other" comment="Immer wieder Rückpässe|Die Hausherren wirken momentan ein wenig ratlos und spielen den Ball ein ums andere Mal nach hinten statt nach vorne. Zieler hat darum mehr Ballkontakte, als ihm lieb sein dürfte.&#10;"/>
+        <action-soccer-other id="ev-407556-1362519" period-minute-elapsed="27" period-value="1" action-type="other" comment="Bittencourt in den Lauf von Stindl|Der Ball segelt aber einen Tick zu hoch in den Sechzehner und ist für den Kapitän nicht zu erreichen. Weidenfeller schnappt sich die Kugel.&#10;"/>
+        <action-soccer-other id="ev-407556-1362508" period-minute-elapsed="26" period-value="1" action-type="other" comment="Ausgeglichene Verhältnisse|Nach Torschüssen steht es momentan 3:3 und auch beim Ballbesitz halten sich die Teams die Waage. Mehr Daten zum Spiel finden Sie im LIVETICKER im Bereich Statistik.&#10;"/>
+        <action-soccer-other id="ev-407556-1362496" period-minute-elapsed="24" period-value="1" action-type="other" comment="Ecke für die 96er|Aber die Standards der Hausherren sind bislang komplett harmlos.&#10;"/>
+        <action-soccer-other id="ev-407556-1362487" period-minute-elapsed="23" period-value="1" action-type="other" comment="Stindl bringt Joselu in Stellung|Der Spanier nimmt den Ball aus 15 Metern direkt mit rechts - abgeblockt!&#10;"/>
+        <action-soccer-other id="ev-407556-1362476" period-minute-elapsed="21" period-value="1" action-type="other" comment="Zweite Torchance, erster Treffer|Über mangelnde Effizienz können sich die Borussen heute im Gegensatz zu den vergangenen beiden Partien nicht beschweren.&#10;"/>
+        <action-soccer-score id="ev-407556-1362456" period-minute-elapsed="19" period-value="1" comment="Tooor für Borussia Dortmund, 0:1 durch Pierre-Emerick Aubameyang|Nach Vorarbeit von Kuba spielt Reus den Ball perfekt in die Gasse für Aubameyang. Der Stürmer startet durch und schießt aus zwölf Metern mit rechts ins lange Eck! Sein elfter Saisontreffer.&#10;" team-idref="t-14" score-team="1" score-team-opposing="0" player-idref="pl-134830" score-attempt-type="regular"/>
+        <action-soccer-other id="ev-407556-1362436" period-minute-elapsed="18" period-value="1" action-type="other" comment="Robuster Einsatz von Hummels|Der Weltmeister klärt gegen Stindl mit vollem Körpereinsatz zur Ecke. Diese bleibt ohne Folgen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362399" period-minute-elapsed="15" period-value="1" action-type="other" comment="Kagawa setzt zum Übersteiger an|Das sieht elegant aus, die Flanke des Japaners von der linken Seite landet allerdings direkt in Zielers Armen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362383" period-minute-elapsed="14" period-value="1" action-type="other" comment="Rückgabe von Stindl|Der 96-Kapitän bringt im Strafraum aus zwölf Metern keinen Druck hinter seinen Linksschuss - dankbarer erster Ball für Weidenfeller.&#10;"/>
+        <action-soccer-other id="ev-407556-1362366" period-minute-elapsed="13" period-value="1" action-type="other" comment="Der BVB lässt den Ball laufen|Die Gäste kombinieren sich durchaus gefällig nach vorne. Am Strafraum wird es aber sehr schnell sehr eng. Und dann fällt Kirchs Flanke von rechts auch noch viel zu ungenau aus.&#10;"/>
+        <action-soccer-other id="ev-407556-1362333" period-minute-elapsed="11" period-value="1" action-type="other" comment="Zehn Minuten sind gespielt|Das Tempo ist noch sehr überschaubar. Beide Teams belauern sich im Mittelfeld, wollen aber noch nicht das ganz große Risiko eingehen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362315" period-minute-elapsed="9" period-value="1" action-type="other" comment="Missverständnis zwischen Weidenfeller und Hummels|Der BVB-Keeper will einen hohen Ball wegfausten, doch der Abwehrchef geht mit dem Kopf dazwischen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362295" period-minute-elapsed="8" period-value="1" action-type="other" comment="Schöner Seitenwechsel von Bittencourt|Doch dann jagt Briand den Ball von rechts unbedrängt ins Toraus. Da geht schon ein Raunen durchs Stadion...&#10;"/>
+        <action-soccer-other id="ev-407556-1362265" period-minute-elapsed="6" period-value="1" action-type="other" comment="Aubameyang gegen Felipe|Der BVB-Stürmer fällt in Strafraumnähe aufreizend leicht und wartet daher vergeblich auf einen Freistoßpfiff.&#10;"/>
+        <action-soccer-other id="ev-407556-1362245" period-minute-elapsed="4" period-value="1" action-type="other" comment="Briand kommt über rechts|Der Franzose sucht den Doppelpass mit Joselu, doch der spielt den Ball nicht genau genug zurück.&#10;"/>
+        <action-soccer-other id="ev-407556-1362219" period-minute-elapsed="3" period-value="1" action-type="other" comment="Erste Ecke für Hannover|Die Flanke von links bringt aber keine Gefahr.&#10;"/>
+        <action-soccer-other id="ev-407556-1362208" period-minute-elapsed="1" period-value="1" action-type="other" comment="Erste Chance für den BVB|Zieler lässt einen verdeckten Linksschuss von Kuba aus 16 Metern nach vorne abprallen! Aubameyang lauert am Fünfer auf den zweiten Ball, kommt aber nicht dran.&#10;"/>
+        <action-soccer-other id="ev-407556-1362171" period-minute-elapsed="1" period-value="1" action-type="start1" comment="Spielbeginn|"/>
+        <action-soccer-other id="ev-407556-1362167" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aktion gegen Diskriminierung|Gemeinsam setzen DFL, DFB und die Bundesregierung an diesem Spieltag ein Zeichen gegen Diskriminierung. Die Spieler tragen daher entsprechende T-Shirts und halten an der Mittellinie ein großes Banner hoch.&#10;"/>
+        <action-soccer-other id="ev-407556-1362135" period-minute-elapsed="0" period-value="0" action-type="other" comment="Schnelllebiges Geschäft|Nach der Hinrunde lag Hannover übrigens noch neun Punkte vor dem BVB und gewann auch das direkte Duell im Signal Iduna Park mit 1:0.&#10;"/>
+        <action-soccer-other id="ev-407556-1362107" period-minute-elapsed="0" period-value="0" action-type="other" comment="BVB-Quartett muss passen|Bei den Gästen fehlen Marcel Schmelzer (Muskelfaserriss), Lukasz Piszczek (Teilriss der Syndesmose), Kevin Großkreutz (Muskelbündelriss) und Nuri Sahin (Trainingsrückstand).&#10;"/>
+        <action-soccer-other id="ev-407556-1362083" period-minute-elapsed="0" period-value="0" action-type="other" comment="Hannover ohne Fünf|Verzichten müssen die Niedersachsen heute auf die langzeitverletzten Markus Miller und Andre Hoffmann sowie auf Christian Pander (Knieprobleme), Kenan Karaman (grippaler Infekt) und Artur Sobiech (Innenbandprobleme).&#10;"/>
+        <action-soccer-other id="ev-407556-1362066" period-minute-elapsed="0" period-value="0" action-type="other" comment="Die Hoffnung stirbt zuletzt|&quot;Mit dem nächsten Spiel kann sich alles in die andere Richtung entwickeln. Es ist wichtig, dass die Verantwortlichen in so einer Situation zusammenhalten&quot;, übte sich Korkut im Vorfeld in Durchhalteparolen.&#10;"/>
+        <action-soccer-other id="ev-407556-1362048" period-minute-elapsed="0" period-value="0" action-type="other" comment="Mit dem Rücken zur Wand|In Hannover hat man derweil ganz andere Sorgen. Nach neun Spielen ohne Sieg steckt 96 mitten im Abstiegskampf.&amp;nbsp;Der Druck auf Trainer Tayfun Korkut ist enorm. Dennoch sagte Präsident Martin Kind zur Bild: &quot;Eine Niederlage ist nicht gleichbedeutend mit Trennung vom Trainer. Es kommt auf die Leistung an.&quot;&#10;"/>
+        <action-soccer-other id="ev-407556-1362031" period-minute-elapsed="0" period-value="0" action-type="other" comment="Volle Konzentration|&quot;Warum haben wir nur 30 Punkte? Weil wir verschiedene Sachen nicht richtig machen. Es geht darum, Konstanz reinzubekommen. Der Hauptgrund zur Zeit sind die falschen Entscheidungen in den falschen Momenten. Wir müssen uns in den Räumen, die sich uns bieten, richtig verhalten&quot;, gab BVB-Coach Jürgen Klopp die Marschroute vor.&#10;"/>
+        <action-soccer-other id="ev-407556-1361996" period-minute-elapsed="0" period-value="0" action-type="other" comment="Weiter Weg|Auch wenn der Vorsprung der Westfalen auf die Abstiegszone mittlerweile komfortable sieben Punkte beträgt, sind die internationalen Plätze noch lange nicht in Sicht. Acht Zähler Rückstand hat man momentan auf Rang sechs.&#10;"/>
+        <action-soccer-other id="ev-407556-1361977" period-minute-elapsed="0" period-value="0" action-type="other" comment="Kopf hoch und weiter|Für den BVB geht es heute nicht nur um drei Punkte, sondern auch darum, die herbe 0:3-Pleite im Achtelfinal-Rückspiel der Champions League gegen Juventus Turin aus den Köpfen zu kriegen. In der Liga ist man immerhin schon seit sechs Spielen ungeschlagen, auch wenn es zuletzt nur zwei magere 0:0 gab.&#10;"/>
+        <action-soccer-other id="ev-407556-1361969" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Borussia Dortmund|1 Weidenfeller - 21 Kirch, 4 Subotic, 15 Hummels, 25 Sokratis - 5 Kehl, 8 Gündogan - 16 Blaszczykowski, 7 Kagawa, 11 Reus - 17 Aubameyang&#10;"/>
+        <action-soccer-other id="ev-407556-1361954" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Hannover 96|1 Zieler - 4 Sakai, 25 Marcelo, 20 Felipe, 19 Schulz - 10 Stindl, 5 Sane - 21 Briand, 28 Kiyotake, 32 Bittencourt - 11 Joselu&#10;"/>
+        <action-soccer-other id="ev-407556-1361951" period-minute-elapsed="0" period-value="0" action-type="other" comment="Zur Ausgangslage|Hannover 96 liegt nach 26 Spieltagen mit 27 Punkten auf Platz 14, Borussia Dortmund steht mit drei Zählern mehr auf Rang zehn. Von der Tabellensituation her ist es also durchaus ein Spiel auf Augenhöhe.&#10;"/>
+        <action-soccer-other id="ev-407556-1359594" period-minute-elapsed="0" period-value="0" action-type="other" comment="Herzlich willkommen...|&#10;zum 26. Spieltag der Fußball-Bundesliga. Borussia Dortmund ist bei Hannover 96 zu Gast.&#10;"/>
+      </event-actions-soccer>
+    </event-actions>
+  </sports-event>
+</sports-content>

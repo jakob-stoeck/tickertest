@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports-content>
+  <sports-metadata doc-id="0_407598">
+    <sports-title/>
+  </sports-metadata>
+  <sports-event id="match-407598">
+    <event-metadata event-status="mid-event" site-attendance="50000" stadium-name="Mercedes-Benz Arena" stadium-city="Stuttgart" stadium-capacity="60449" stadium-id="709" game-exitid1="407598" game-exitid2="153333">
+      <event-metadata-soccer period-minute-elapsed="45" period-value="1"/>
+    </event-metadata>
+    <team id="team-6">
+      <team-metadata team-key="VFB" alignment="home">
+        <name full="VfB Stuttgart" middle="Stuttgart" id="t-6" extid="te-2076"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-470">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="22" lineup-slot="x:-100,y:-100">
+          <name last="Kirschbaum"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28316">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Ulreich"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-263860">
+        <player-metadata position-event="defender" status="starter" uniform-number="32" lineup-slot="x:-2,y:3">
+          <name last="Baumgartl"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-17348">
+        <player-metadata position-event="defender" status="starter" uniform-number="16" lineup-slot="x:-4,y:3">
+          <name last="Klein"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3240">
+        <player-metadata position-event="defender" status="starter" uniform-number="6" lineup-slot="x:2,y:3">
+          <name last="Niedermeier"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-146659">
+        <player-metadata position-event="defender" status="bench" uniform-number="2" lineup-slot="x:-100,y:-100">
+          <name last="Sakai"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22945">
+        <player-metadata position-event="defender" status="bench" uniform-number="3" lineup-slot="x:-100,y:-100">
+          <name last="Schwaab"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-10568">
+        <player-metadata position-event="midfield" status="starter" uniform-number="26" lineup-slot="x:-1,y:4">
+          <name last="Die"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28516">
+        <player-metadata position-event="midfield" status="starter" uniform-number="20" lineup-slot="x:1,y:4">
+          <name last="Gentner"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-11773">
+        <player-metadata position-event="midfield" status="starter" uniform-number="21" lineup-slot="x:4,y:3">
+          <name last="Hloušek"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-255723">
+        <player-metadata position-event="midfield" status="bench" uniform-number="18" lineup-slot="x:-100,y:-100">
+          <name last="Kostić"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-265034">
+        <player-metadata position-event="midfield" status="starter" uniform-number="44" lineup-slot="x:0,y:7">
+          <name last="Maxim"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-158585">
+        <player-metadata position-event="midfield" status="bench" uniform-number="13" lineup-slot="x:-100,y:-100">
+          <name last="Oriol Romeu"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-315399">
+        <player-metadata position-event="midfield" status="bench" uniform-number="28" lineup-slot="x:-100,y:-100">
+          <name last="Wanitzek"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-139048">
+        <player-metadata position-event="striker" status="starter" uniform-number="33" lineup-slot="x:0,y:9">
+          <name last="Ginczek"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-20270">
+        <player-metadata position-event="striker" status="starter" uniform-number="7" lineup-slot="x:-4,y:7">
+          <name last="Harnik"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-492">
+        <player-metadata position-event="striker" status="bench" uniform-number="9" lineup-slot="x:-100,y:-100">
+          <name last="Ibišević"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-263930">
+        <player-metadata position-event="striker" status="starter" uniform-number="19" lineup-slot="x:4,y:7">
+          <name last="Werner"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <team id="team-2">
+      <team-metadata team-key="FFM" alignment="away">
+        <name full="Eintracht Frankfurt" middle="Frankfurt" id="t-2" extid="te-530"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+      <player id="pl-87">
+        <player-metadata position-event="goalkeeper" status="starter" uniform-number="1" lineup-slot="x:0,y:0">
+          <name last="Trapp"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-157574">
+        <player-metadata position-event="goalkeeper" status="bench" uniform-number="30" lineup-slot="x:-100,y:-100">
+          <name last="Wiedwald"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-130250">
+        <player-metadata position-event="defender" status="bench" uniform-number="23" lineup-slot="x:-100,y:-100">
+          <name last="Bamba Anderson"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-8167">
+        <player-metadata position-event="defender" status="starter" uniform-number="22" lineup-slot="x:-4,y:3">
+          <name last="Chandler"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28507">
+        <player-metadata position-event="defender" status="starter" uniform-number="17" lineup-slot="x:2,y:3">
+          <name last="Madlung"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-111398">
+        <player-metadata position-event="defender" status="starter" uniform-number="6" lineup-slot="x:4,y:3">
+          <name last="Oczipka"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-10466">
+        <player-metadata position-event="defender" status="starter" uniform-number="5" lineup-slot="x:-2,y:3">
+          <name last="Zambrano"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-1873">
+        <player-metadata position-event="midfield" status="starter" uniform-number="16" lineup-slot="x:-4,y:7">
+          <name last="Aigner"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-22948">
+        <player-metadata position-event="midfield" status="bench" uniform-number="18" lineup-slot="x:-100,y:-100">
+          <name last="Flum"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-28517">
+        <player-metadata position-event="midfield" status="starter" uniform-number="20" lineup-slot="x:0,y:4">
+          <name last="Hasebe"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-149603">
+        <player-metadata position-event="midfield" status="bench" uniform-number="27" lineup-slot="x:-100,y:-100">
+          <name last="Ignjovski"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-29650">
+        <player-metadata position-event="midfield" status="starter" uniform-number="8" lineup-slot="x:4,y:7">
+          <name last="Inui"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-222962">
+        <player-metadata position-event="midfield" status="bench" uniform-number="28" lineup-slot="x:-100,y:-100">
+          <name last="Kittel"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-242979">
+        <player-metadata position-event="midfield" status="bench" uniform-number="19" lineup-slot="x:-100,y:-100">
+          <name last="Lucas Piazón"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-8134">
+        <player-metadata position-event="midfield" status="starter" uniform-number="14" lineup-slot="x:2,y:9">
+          <name last="Meier"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-233631">
+        <player-metadata position-event="midfield" status="starter" uniform-number="21" lineup-slot="x:0,y:7">
+          <name last="Stendera"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-151287">
+        <player-metadata position-event="striker" status="starter" uniform-number="9" lineup-slot="x:-2,y:9">
+          <name last="Seferović"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+      <player id="pl-3964">
+        <player-metadata position-event="striker" status="bench" uniform-number="11" lineup-slot="x:-100,y:-100">
+          <name last="Valdez"/>
+        </player-metadata>
+        <player-stats score="0">
+          <player-stats-soccer>
+            <stats-soccer-offensive assists-total="0"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+          </player-stats-soccer>
+        </player-stats>
+      </player>
+    </team>
+    <event-actions>
+      <event-actions-soccer>
+        <action-soccer-other id="ev-407598-1362666" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|Halbzeit-Fazit: Es läuft nicht beim VfB. In der Defensive stehen die Schwaben zwar einigermaßen sicher, nach vorne ist aber so wirklich überhaupt keine Gefahr zu sehen. Die Frankfurter wirken technisch und taktisch reifer, versuchen zumindest, Fußball zu spielen. Beim VfB ist das aufgrund der Verunsicherung offenbar nur sehr begrenzt möglich.&#10;"/>
+        <action-soccer-other id="ev-407598-1362663" period-minute-elapsed="44" period-value="1" action-type="other" comment="Niedermeier legt alles rein|Der Innenverteidiger läuft Seferovic gekonnt ab und haut im Zweikampf sein ganzes Gewicht rein. Am Ende bekommt er sogar einen Freistoß zugesprochen. Das Publikum dankt es mit Szenenapplaus. Der VfB muss sich jetzt über solche kleinen Erfolgserlebnisse emotional hochziehen.&#10;"/>
+        <action-soccer-foul id="ev-407598-1362637" period-minute-elapsed="42" period-value="1" comment="Gelbe Karte für Serey Die (VfB Stuttgart)|Der Ivorer langt im Mittelfeld bei einem Duell zu hart hin und wird verwarnt. Es ist die dritte Gelbe Karte in der Bundesliga für den Winterneuzugang.&#10;" fouling-team-idref="t-6" fouling-player-idref="pl-10568" foul-result="caution"/>
+        <action-soccer-other id="ev-407598-1362641" period-minute-elapsed="41" period-value="1" action-type="other" comment="Was macht eigentlich Maxim?|Der Rumäne, als Spielgestalter angedacht, bleibt bislang ebenfalls völlig unter seinen Möglichkeiten.&#10;"/>
+        <action-soccer-other id="ev-407598-1362625" period-minute-elapsed="40" period-value="1" action-type="other" comment="Unfassbar viele technische Fehler|Harnik und auch der hoch veranlagte Werner &quot;glänzen&quot; bislang eher durch Stockfehler und andere technische Unzulänglichkeiten als durch fußballerische Fähigkeiten.&#10;"/>
+        <action-soccer-other id="ev-407598-1362597" period-minute-elapsed="36" period-value="1" action-type="other" comment="Harnik hält einfach mal drauf|Der Österreicher, bislang unsichtbar, hält rechts am Strafraum volley drauf. Sein Schuss geht knapp links am Tor vorbei.&#10;"/>
+        <action-soccer-other id="ev-407598-1362587" period-minute-elapsed="34" period-value="1" action-type="other" comment="Spiel symptomatisch für die Trainer|Die Begegnung und vor allem, wie beide Teams diese führen, sagt viel über die Trainer aus. Frankfurt mit Offensivverfechter Schaaf spielt gefällig nach vorne, hat aber Schwächen in der Defensive. Defensivverfechter Stevens verordnet dem VfB eine strikte Defensivtaktik, worunter das Offensivspiel sichtlich leidet.&#10;"/>
+        <action-soccer-other id="ev-407598-1362570" period-minute-elapsed="33" period-value="1" action-type="other" comment="Glück für den VfB|Nach einer Ecke von rechts durch Inui köpft Meier am kurzen Pfosten stehend in Richtung langes Eck. Sein Versuch geht nur hauchdünn am Pfosten vorbei.&#10;"/>
+        <action-soccer-other id="ev-407598-1362555" period-minute-elapsed="32" period-value="1" action-type="other" comment="Umständlich, umständlicher, Eintracht Frankfurt|Die Gäste könnten schon längst führen, doch vor dem Tor spielen es die Frankfurter bisweilen viel zu umständlich.&#10;"/>
+        <action-soccer-other id="ev-407598-1362541" period-minute-elapsed="30" period-value="1" action-type="other" comment="Serey Die versucht es künstlerisch|Nach Ecke der Frankfurter schwärmen die Schwaben aus zum Konter. Serey Die versucht es dann aus 30 Metern mit einem Lupfer. Der Versuch geht rechts am Tor vorbei.&#10;"/>
+        <action-soccer-other id="ev-407598-1362525" period-minute-elapsed="28" period-value="1" action-type="other" comment="Starkes Tackling|Zambrano klärt mit einer perfekten Grätsche als letzter Mann gegen Werner. Der Peruaner beweist sein gutes Timing und so sichert er sich den Ball.&#10;"/>
+        <action-soccer-other id="ev-407598-1362516" period-minute-elapsed="26" period-value="1" action-type="other" comment="Nur die Fans sind erstligareif|Die Anhänger der Schwaben geben auf der Tribüne trotz der Magerkost auf dem Feld Vollgas. Der Funke auf die Profis springt aber nicht über.&#10;"/>
+        <action-soccer-other id="ev-407598-1362490" period-minute-elapsed="23" period-value="1" action-type="other" comment="Viel Verunsicherung|Obwohl die Hessen in der Defensive nicht überragend spielen, ist der VfB nicht in der Lage, sich auch nur mal dem Tor anzunähern. Die Verunsicherung bei den Schwaben ist einfach offensichtlich.&#10;"/>
+        <action-soccer-other id="ev-407598-1362468" period-minute-elapsed="20" period-value="1" action-type="other" comment="Stuttgart harmlos|Der VfB spielt nach vorne hin viel zu schwach. Die Stuttgarter sind noch ohne jeden Torschuss.&#10;"/>
+        <action-soccer-other id="ev-407598-1362450" period-minute-elapsed="18" period-value="1" action-type="other" comment="Frankfurt nun aktiver|Die Gäste kommen nun besser ins Spiel und diktieren das Geschehen.&#10;"/>
+        <action-soccer-other id="ev-407598-1362404" period-minute-elapsed="16" period-value="1" action-type="other" comment="Schmerzen bei Niedermeier|Der Verteidiger bekommt einen Schuss von Aigner in den Unterleib. Deshalb braucht er ein paar Momente, um sich davon zu erholen.&#10;"/>
+        <action-soccer-other id="ev-407598-1362384" period-minute-elapsed="15" period-value="1" action-type="other" comment="Seferovic hält drauf|Der Schweizer wird 20 Meter vor dem Tor angespielt, hält direkt mit rechts drauf. Sein Versuch geht weit rechts am Tor vorbei.&#10;"/>
+        <action-soccer-other id="ev-407598-1362372" period-minute-elapsed="14" period-value="1" action-type="other" comment="Frankfurt nicht immer sattelfest|Die Eintracht macht in der Abwehr nicht immer einen sicheren Eindruck. Es ist zu erahnen, wieso die Hessen bereits 49 Gegentore kassiert haben.&#10;"/>
+        <action-soccer-other id="ev-407598-1362351" period-minute-elapsed="12" period-value="1" action-type="other" comment="Freistoß Eintracht|Vielleicht geht was nach einem ruhenden Ball. Die Hessen erarbeiten sich einen Freistoß zehn Meter hinter der Mittellinie und bringen ihre langen Leute im Strafraum in Position...&#10;"/>
+        <action-soccer-other id="ev-407598-1362336" period-minute-elapsed="10" period-value="1" action-type="other" comment="Stevens stinksauer|Nach einer vermeintlichen Abseitsposition von Seferovic, die das Schiedsrichtergespann jedoch nicht ahndet, ist der Niederländer nicht mehr zu beruhigen. Die vierte Offizielle Bibiana Steinhaus braucht einige Zeit, um die Gemüter&amp;nbsp;wieder zu beruhigen. Aus der Chance für Seferovic wurde aber ohnehin nichts.&#10;"/>
+        <action-soccer-other id="ev-407598-1362285" period-minute-elapsed="8" period-value="1" action-type="other" comment="Starker Beginn von Inui|Der Japaner Inui fällt in der Anfangsphase besonders positiv auf. Er erkennt bei Kontersituationen schnell, wohin der Ball kommen muss.&#10;"/>
+        <action-soccer-other id="ev-407598-1362261" period-minute-elapsed="6" period-value="1" action-type="other" comment="Seferovic zielt zu hoch|Inui sieht am Strafraum Seferovic, spielt den Stürmer an. Der Schweizer hält links am Strafaum volley drauf. Sein Versuch geht weit über den Kasten.&#10;"/>
+        <action-soccer-other id="ev-407598-1362257" period-minute-elapsed="5" period-value="1" action-type="other" comment="Serey Die der Mann für den Aufbau|Der Ivorer ist die erste Anspielstation im Aufbauspiel der Schwaben.&#10;"/>
+        <action-soccer-other id="ev-407598-1362229" period-minute-elapsed="3" period-value="1" action-type="other" comment="Offener Beginn|Nach einer kurzen Phase der Verunsicherung nimmt nun auch der&amp;nbsp; Gastgeber aktiv am Spiel teil. Dadurch ergibt sich schon ganz zu Beginn an ansehnliches Spiel.&#10;"/>
+        <action-soccer-other id="ev-407598-1362205" period-minute-elapsed="1" period-value="1" action-type="other" comment="Erste Chance für Frankfurt|Inui kommt von rechts in den Strafraum, legt sich den Ball zu weit vor. Klein schlägt den Ball weg, trifft dabei jedoch genau Inui. Der Japaner blockt den Ball, so wird er zum Torschuss. Dieser geht knappt über den Kasten. Erste Schrecksekunde für den VfB nach nicht einmal 60 Sekunden.&#10;"/>
+        <action-soccer-other id="ev-407598-1362175" period-minute-elapsed="1" period-value="1" action-type="start1" comment="Spielbeginn|Schiedsrichter Dr. Drees pfeift das Spiel an.&#10;"/>
+        <action-soccer-other id="ev-407598-1362161" period-minute-elapsed="0" period-value="0" action-type="other" comment="Spieltag unter dem Motto der Integration|Der 26. Spieltag wurde von der DFL zum Integrations-Spieltag ausgerufen. Es soll ein Zeichen gegen Ausgrenzung und Diskriminierung gesetzt werden.&#10;"/>
+        <action-soccer-other id="ev-407598-1362124" period-minute-elapsed="0" period-value="0" action-type="other" comment="Gleich geht es los|Soeben führt der Unparteiische die Akteure auf das Spielfeld.&#10;"/>
+        <action-soccer-other id="ev-407598-1362098" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Frankfurt |1 Trapp - 22 Chandler, 5 Zambrano, 17 Madlung, 6 Oczipka - 20 Hasebe - 16 Aigner, 8 Inui, 21 Stendera - 9 Seferovic, 14 Meier&#10;"/>
+        <action-soccer-other id="ev-407598-1362057" period-minute-elapsed="0" period-value="0" action-type="other" comment="Aufstellung Stuttgart |1 Ulreich - 16 Klein, 6 Niedermeier, 32 Baumgartl, 21 Hlousek - 26 Serey Die, 20 Gentner - 7 Harnik, 44 Maxim, 19 Timo Werner - 33 Ginczek.&#10;"/>
+        <action-soccer-other id="ev-407598-1362053" period-minute-elapsed="0" period-value="0" action-type="other" comment="Schiedsrichteransetzung |Schiedsrichter der Begegnung ist Dr. Jochen Drees.&#10;"/>
+        <action-soccer-other id="ev-407598-1362024" period-minute-elapsed="0" period-value="0" action-type="other" comment="Vier Punkte Rückstand…|hat die Eintracht auf Platz 6, der für den Start in der Europa League berechtigen würde.&#10;"/>
+        <action-soccer-other id="ev-407598-1362013" period-minute-elapsed="0" period-value="0" action-type="other" comment="Fünf Punkte Rückstand… |hat der VfB aktuell auf das rettende Ufer. Ein Sieg heute ist also fast schon Pflicht.&#10;"/>
+        <action-soccer-other id="ev-407598-1362009" period-minute-elapsed="0" period-value="0" action-type="other" comment="Saisonaus für Didavi |Das Eigengewächs wird wohl erst nächste Saison wieder am Ball sein können. Seine Knieprobleme beenden die Saison des Mittelfeldspielers vorzeitig.&#10;"/>
+        <action-soccer-other id="ev-407598-1361988" period-minute-elapsed="0" period-value="0" action-type="other" comment="So lief das Hinrundenduell|Das Hinspiel am 9. Spieltag hatte es in sich. Die Schwaben siegten nach 1:2-Pausenführung am Ende mit 5:4.&#10;"/>
+        <action-soccer-other id="ev-407598-1361986" period-minute-elapsed="0" period-value="0" action-type="other" comment="So lief es am vergangenen Wochenende|Die Stuttgarter kamen trotz guter Anfangsphase in Leverkusen mit 0:4 unter die Räder. Frankfurt besiegte Aufsteiger Paderborn mit 4:0.&#10;"/>
+        <action-soccer-other id="ev-407598-1361952" period-minute-elapsed="0" period-value="0" action-type="other" comment="Ausgangslage |Die Gäste aus Frankfurt liegen mit 34 Punkten auf Platz 8 und schielen mit einem Auge noch auf Europa. Ganz anders beim VfB: Die Schwaben sind mit nur 20 Punkten Schlusslicht der Bundesliga&#10;"/>
+        <action-soccer-other id="ev-407598-1359598" period-minute-elapsed="0" period-value="0" action-type="other" comment="Herzlich willkommen...|&#10;zum 26. Spieltag der Fußball-Bundesliga. Schlusslicht VfB Stuttgart hat Eintracht Frankfurt zu Gast.&#10;"/>
+      </event-actions-soccer>
+    </event-actions>
+  </sports-event>
+</sports-content>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports-content>
+  <sports-metadata doc-id="0_407564">
+    <sports-title/>
+  </sports-metadata>
+  <sports-event id="match-407564">
+    <event-metadata event-status="pre-event" site-attendance="0" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
+      <event-metadata-soccer period-minute-elapsed="" period-value="0"/>
+    </event-metadata>
+    <team id="team-16">
+      <team-metadata team-key="S04" alignment="home">
+        <name full="FC Schalke 04" middle="Schalke" id="t-16" extid="te-694"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+    </team>
+    <team id="team-9">
+      <team-metadata team-key="LEV" alignment="away">
+        <name full="Bayer Leverkusen" middle="Leverkusen" id="t-9" extid="te-205"/>
+      </team-metadata>
+      <team-stats score="0" score-attempts="0">
+        <sports-property formal-name="possession" value="50"/>
+        <sports-property formal-name="duels-won" value="0"/>
+        <team-stats-soccer>
+          <stats-soccer-offensive corner-kicks="0" offsides="0"/>
+          <stats-soccer-foul fouls-commited="0"/>
+        </team-stats-soccer>
+      </team-stats>
+    </team>
+    <event-actions>
+      <event-actions-soccer>
+        <action-soccer-other id="ev-407564-1359599" period-minute-elapsed="0" period-value="0" action-type="other" comment="Herzlich willkommen...|&#10;zum 26. Spieltag der Fußball-Bundesliga.&amp;nbsp;Unter Flutlicht treffen der FC Schalke 04 und Bayer Leverkusen aufeinander.&#10;"/>
+      </event-actions-soccer>
+    </event-actions>
+  </sports-event>
+</sports-content>
