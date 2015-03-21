@@ -379,5 +379,37 @@
     "headline": "",
     "content": "<p><b>Papadopoulos wieder drin</b></p> <p>Währenddessen macht sich Boateng bereit.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363663",
+    "event": {
+      "id": "15877073",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "262055",
+        "name": "Leroy Sané",
+        "firstname": "Leroy",
+        "surname": "Sané",
+        "fullname": "Leroy Sané",
+        "gender": "male",
+        "birthday": "11.01.1996",
+        "height": "172",
+        "weight": "63"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "42",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:11"
+    },
+    "tickertime": "21.03.2015 19:11:33",
+    "minute": "42",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Leroy Sané</span>",
+    "syndicate": "s1de"
   }
 ]
