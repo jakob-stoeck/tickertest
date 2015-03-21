@@ -1328,6 +1328,76 @@
     "created": "21.03.2015 16:32:28"
   },
   {
+    "id": "15874215",
+    "team": {
+      "id": "9",
+      "name": "1. FC Köln",
+      "shortname": "Köln",
+      "microname": "KOE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "227194",
+      "name": "Paweł Olkowski",
+      "firstname": "Paweł",
+      "surname": "Olkowski",
+      "fullname": "Paweł Olkowski",
+      "gender": "male",
+      "birthday": "13.02.1990",
+      "height": "184",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:45:32"
+  },
+  {
+    "id": "15874218",
+    "team": {
+      "id": "9",
+      "name": "1. FC Köln",
+      "shortname": "Köln",
+      "microname": "KOE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "145770",
+      "name": "Yuya Osako",
+      "firstname": "Yuya",
+      "surname": "Osako",
+      "fullname": "Yuya Osako",
+      "gender": "male",
+      "birthday": "18.05.1990",
+      "height": "182",
+      "weight": "70"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:45:41"
+  },
+  {
     "id": "1022434",
     "team": {
       "id": "9",

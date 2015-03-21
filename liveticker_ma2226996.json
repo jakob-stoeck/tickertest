@@ -511,5 +511,69 @@
     "headline": "",
     "content": "<p><b>Ujah beinahe!</b></p> <p>Hector tritt die Ecke von rechts, Ujah am kurzen Pfosten, ganz knapp rechts vorbei.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362840",
+    "event": {
+      "id": "15874215",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "227194",
+        "name": "Paweł Olkowski",
+        "firstname": "Paweł",
+        "surname": "Olkowski",
+        "fullname": "Paweł Olkowski",
+        "gender": "male",
+        "birthday": "13.02.1990",
+        "height": "184",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:45"
+    },
+    "tickertime": "21.03.2015 16:45:32",
+    "minute": "58",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Köln -> Paweł Olkowski</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362848",
+    "event": {
+      "id": "15874218",
+      "team": {
+        "id": "9",
+        "name": "1. FC Köln"
+      },
+      "person": {
+        "id": "145770",
+        "name": "Yuya Osako",
+        "firstname": "Yuya",
+        "surname": "Osako",
+        "fullname": "Yuya Osako",
+        "gender": "male",
+        "birthday": "18.05.1990",
+        "height": "182",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:45"
+    },
+    "tickertime": "21.03.2015 16:45:41",
+    "minute": "58",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Köln -> Yuya Osako</span>",
+    "syndicate": "s1de"
   }
 ]

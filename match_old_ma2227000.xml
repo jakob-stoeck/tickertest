@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407598">
     <event-metadata event-status="mid-event" site-attendance="50000" stadium-name="Mercedes-Benz Arena" stadium-city="Stuttgart" stadium-capacity="60449" stadium-id="709" game-exitid1="407598" game-exitid2="153333">
-      <event-metadata-soccer period-minute-elapsed="53" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="58" period-value="2"/>
     </event-metadata>
     <team id="team-6">
       <team-metadata team-key="VFB" alignment="home">
@@ -431,6 +431,9 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407598-1362844" period-minute-elapsed="58" period-value="2" action-type="other" comment="Werner muss behandelt werden|Das Eigengewächs hält bei einer Flanke von Chandler den Fuß rein, verletzt sich dabei.&#10;"/>
+        <action-soccer-substitution id="ev-407598-1362843" period-minute-elapsed="58" period-value="2" comment="Wechsel bei VfB Stuttgart | Filip Kostić für Timo Werner" team-idref="t-6" person-original-idref="pl-263930" person-replacing-idref="pl-255723"/>
+        <action-soccer-other id="ev-407598-1362836" period-minute-elapsed="57" period-value="2" action-type="other" comment="VfB wirkt geschockt|Die Schwaben sind nach dem Gegentor sichtlich ernüchtert. Die Hessen rennen weiter an.&#10;"/>
         <action-soccer-other id="ev-407598-1362814" period-minute-elapsed="55" period-value="2" action-type="other" comment="Stendera versucht es aus der Distanz|Das Eigengewächs hält gut 20 Metern drauf. Ulreich klärt mit den Fäusten.&#10;"/>
         <action-soccer-substitution id="ev-407598-1362801" period-minute-elapsed="53" period-value="2" comment="Wechsel bei VfB Stuttgart |  Oriol Romeu für Serey Die" team-idref="t-6" person-original-idref="pl-10568" person-replacing-idref="pl-158585"/>
         <action-soccer-score id="ev-407598-1362782" period-minute-elapsed="51" period-value="2" comment="Tooor für Eintracht Frankfurt, 0:1 durch Haris Seferović|Da ist der Treffer, der sich schon vor der Pause abgezeichnet hat. Über links setzt sich Oczipka stark durch, flankt zur Mitte. Dort kommt Seferovic an den Ball und knallt ihn mit rechts unter die Querlatte. Für den Schweizer ist es das achte Saisontor.&#10;" team-idref="t-2" score-team="1" score-team-opposing="0" player-idref="pl-151287" score-attempt-type="regular"/>
