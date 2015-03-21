@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="46" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="49" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -125,7 +125,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1362773" period-minute-elapsed="50" period-value="2" action-type="other" comment="Sane liegt im eigenen Strafraum am Boden|Der Senegalese krümmt sich nach einem Zweikampf mit Subotic vor Schmerzen und muss behandelt werden. Das Knie scheint ihm Probleme zu machen.&#10;"/>
+        <action-soccer-foul id="ev-407556-1362762" period-minute-elapsed="49" period-value="2" comment="Gelbe Karte für Leonardo Bittencourt (Hannover 96)|Der Youngster steigt Kuba im Mittelfeld auf den Fuß und wird dafür zum sechsten Mal in dieser Saison verwarnt.&#10;" fouling-team-idref="t-1" fouling-player-idref="pl-231272" foul-result="caution"/>
         <action-soccer-other id="ev-407556-1362745" period-minute-elapsed="47" period-value="2" action-type="other" comment="Starkes Tackling von Subotic|Diesmal grätscht der Serbe am Strafraum Joselu fair den Ball vom Fuß.&#10;"/>
         <action-soccer-foul id="ev-407556-1362734" period-minute-elapsed="46" period-value="2" comment="Gelbe Karte für Neven Subotić (Borussia Dortmund)|Der Innenverteidiger langt mit dem Ellenbogen gegen Bittencourt hin und holt sich dafür seine siebte Verwarnung in dieser Saison ab.&#10;" fouling-team-idref="t-14" fouling-player-idref="pl-451" foul-result="caution"/>
         <action-soccer-other id="ev-407556-1362723" period-minute-elapsed="46" period-value="2" action-type="other" comment="Keine Wechsel|Beide Teams spielen vorerst unverändert weiter.&#10;"/>
