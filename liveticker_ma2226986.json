@@ -575,5 +575,69 @@
     "headline": "",
     "content": "<p><b>FC im Angriff</b></p> <p>Baba passt zu Ji am Sechzehner. Ji wird von den Freiburgern zugestellt und dreht wieder ab.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362908",
+    "event": {
+      "id": "15874442",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "265",
+        "name": "Mike Frantz",
+        "firstname": "Mike",
+        "surname": "Frantz",
+        "fullname": "Mike Frantz",
+        "gender": "male",
+        "birthday": "14.10.1986",
+        "height": "180",
+        "weight": "79"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "65",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:52"
+    },
+    "tickertime": "21.03.2015 16:52:25",
+    "minute": "65",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Freiburg -> Mike Frantz</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362910",
+    "event": {
+      "id": "15874444",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "9231",
+        "name": "Nils Petersen",
+        "firstname": "Nils",
+        "surname": "Petersen",
+        "fullname": "Nils Petersen",
+        "gender": "male",
+        "birthday": "06.12.1988",
+        "height": "188",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "65",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:52"
+    },
+    "tickertime": "21.03.2015 16:52:35",
+    "minute": "65",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Freiburg -> Nils Petersen</span>",
+    "syndicate": "s1de"
   }
 ]
