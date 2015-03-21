@@ -601,5 +601,47 @@
     "headline": "",
     "content": "<p><b>Die Zeit verrinnt</b></p> <p>Stuttgart hat nur noch gut 30 Minuten Zeit, um das zurück ins Spiel zu kommen.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362901",
+    "event": {
+      "id": "15874430",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "139048",
+        "name": "Daniel Ginczek",
+        "firstname": "Daniel",
+        "surname": "Ginczek",
+        "fullname": "Daniel Ginczek",
+        "gender": "male",
+        "birthday": "13.04.1991",
+        "height": "188",
+        "weight": "79"
+      },
+      "action": "goal",
+      "content": "1:1",
+      "kind": "goal",
+      "minute": "63",
+      "additional_person": {
+        "id": "20270",
+        "name": "Martin Harnik",
+        "firstname": "Martin",
+        "surname": "Harnik",
+        "fullname": "Martin Harnik",
+        "gender": "male",
+        "birthday": "10.06.1987",
+        "height": "185",
+        "weight": "73"
+      },
+      "created": "21.03.2015 16:51"
+    },
+    "tickertime": "21.03.2015 16:51:16",
+    "minute": "63",
+    "headline": "",
+    "content": "<b>Tooor für VfB Stuttgart, 1:1 durch Daniel Ginczek</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
