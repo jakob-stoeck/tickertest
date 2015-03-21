@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407564-1364078" period-minute-elapsed="90" period-value="2" action-type="other" comment="Nachspielzeit|Vier Minuten noch für Schalke, doch noch etwas mitzunehmen.&#10;"/>
         <action-soccer-other id="ev-407564-1364070" period-minute-elapsed="88" period-value="2" action-type="other" comment="Fouls gut verteilt|Schalke und Leverkusen kommen bislang jeweils auf 15 Fouls. Alle Daten des Spiels finden Sie im Statistik-Bereich.&#10;"/>
         <action-soccer-foul id="ev-407564-1364066" period-minute-elapsed="88" period-value="2" comment="Gelbe Karte für Wendell (Bayer Leverkusen)|Siebte Gelbe Karte für den Brasilianer, auch er langt zu sehr hin.&#10;" fouling-team-idref="t-9" fouling-player-idref="pl-330026" foul-result="caution"/>
         <action-soccer-other id="ev-407564-1364044" period-minute-elapsed="84" period-value="2" action-type="other" comment="Bellarabi vergibt Entscheidung|Schalke macht auf, Bellarabi ist wieder durch. Und schießt aus 17 Metern mit der rechten Innenseite hoch rechts drüber.&#10;"/>
