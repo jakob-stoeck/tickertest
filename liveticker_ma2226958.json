@@ -1169,5 +1169,37 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Hiroki Sakai</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363129",
+    "event": {
+      "id": "15875048",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "12944",
+        "name": "Leon Andreasen",
+        "firstname": "Leon",
+        "surname": "Andreasen",
+        "fullname": "Leon Hougaard Andreasen",
+        "gender": "male",
+        "birthday": "23.04.1983",
+        "height": "188",
+        "weight": "81"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:11"
+    },
+    "tickertime": "21.03.2015 17:11:57",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Leon Andreasen</span>",
+    "syndicate": "s1de"
   }
 ]

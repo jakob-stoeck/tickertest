@@ -1678,6 +1678,146 @@
     "created": "21.03.2015 17:02:19"
   },
   {
+    "id": "15874945",
+    "team": {
+      "id": "9",
+      "name": "1. FC Köln",
+      "shortname": "Köln",
+      "microname": "KOE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "172697",
+      "name": "Anthony Ujah",
+      "firstname": "Anthony",
+      "surname": "Ujah",
+      "fullname": "Anthony Ujah",
+      "gender": "male",
+      "birthday": "14.10.1990",
+      "height": "183",
+      "weight": "82"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "82",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:08:44"
+  },
+  {
+    "id": "15874947",
+    "team": {
+      "id": "9",
+      "name": "1. FC Köln",
+      "shortname": "Köln",
+      "microname": "KOE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "279101",
+      "name": "Bård Finne",
+      "firstname": "Bård",
+      "surname": "Finne",
+      "fullname": "Bård Finne",
+      "gender": "male",
+      "birthday": "13.02.1995",
+      "height": "174",
+      "weight": "67"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "82",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:08:52"
+  },
+  {
+    "id": "15875025",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "7512",
+      "name": "Clemens Fritz",
+      "firstname": "Clemens",
+      "surname": "Fritz",
+      "fullname": "Clemens Fritz",
+      "gender": "male",
+      "birthday": "07.12.1980",
+      "height": "183",
+      "weight": "81"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "82",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:10:14"
+  },
+  {
+    "id": "15875039",
+    "team": {
+      "id": "9",
+      "name": "1. FC Köln",
+      "shortname": "Köln",
+      "microname": "KOE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "1462",
+      "name": "Matthias Lehmann",
+      "firstname": "Matthias",
+      "surname": "Lehmann",
+      "fullname": "Matthias Lehmann",
+      "gender": "male",
+      "birthday": "28.05.1983",
+      "height": "177",
+      "weight": "68"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "84",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:10:48"
+  },
+  {
     "id": "1022434",
     "team": {
       "id": "9",
