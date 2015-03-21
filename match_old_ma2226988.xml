@@ -281,7 +281,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="1" ejections-total="1"/>
+            <stats-soccer-foul cautions-total="0" ejections-total="1"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -464,7 +464,7 @@
         <action-soccer-other id="ev-407586-1362880" period-minute-elapsed="58" period-value="2" action-type="other" comment="Ein Paderborner wird behandelt|Die Hausherren stehen aktuell übrigens nur zu zehnt auf dem Spielfeld, da Uwe Hünemeier abseits des Rasens behandelt werden muss.&#10;"/>
         <action-soccer-other id="ev-407586-1362866" period-minute-elapsed="58" period-value="2" action-type="other" comment="Die Ostwestfalen drehen auf|Nicht nur auf dem Rasen: In der Arena herrscht eine Atmosphäre wie zu Beginn der Hinrunde.&#10;"/>
         <action-soccer-other id="ev-407586-1362849" period-minute-elapsed="56" period-value="2" action-type="other" comment="Brisanter Freistoß|Ein Paderborner Freistoß aus dem rechten Halbfeld ist auch nicht grade ungefährlich! Meha tritt an und setzt die Kugel in die Mauer. Der abgefälschte Ball geht nur knapp rechts neben den Kasten!&#10;"/>
-        <action-soccer-foul id="ev-407586-1362819" period-minute-elapsed="55" period-value="2" comment="Gelbe Karte für Ermin Bičakčić (1899 Hoffenheim)|&#10;" fouling-team-idref="t-25000" fouling-player-idref="pl-157564" foul-result="caution"/>
+        <action-soccer-other id="ev-407586-1362819" period-minute-elapsed="55" period-value="2" action-type="other" comment="Gelbe Karte für Ermin Bičakčić (1899 Hoffenheim)|&#10;"/>
         <action-soccer-other id="ev-407586-1362827" period-minute-elapsed="53" period-value="2" action-type="other" comment="Fast das 1:0 für Paderborn|Brückner zaubert auf der rechten Außenbahn! Der Ostwestfale setzt sich gegen gleich drei Kontrahenten durch und verzückt das Publikum in diesem Zuge mit gleich mehreren technischen Feinheiten. An der Grundlinie angekommen folgt ein flacher Pass in den Rücken der Innenverteidigung, wo Rupp sogleich abzieht. Da Keeper Baumann zuvor abgetaucht ist, ist das Tor leer! Doch das Spielgerät klatscht nur gegen die Brust von Kim.&#10;"/>
         <action-soccer-other id="ev-407586-1362788" period-minute-elapsed="51" period-value="2" action-type="other" comment="Was bringt das Unentschieden?|Das Remis bringt wohl nicht wirklich viel, denn während der SCP dringend Zähler gegen Abstieg sammeln muss, möchte Hoffenheim im Kampf um Europa dreifach punkten.&#10;"/>
         <action-soccer-other id="ev-407586-1362779" period-minute-elapsed="49" period-value="2" action-type="other" comment="Heinloth will es heute wissen|Wieder knallt der junge Mann das Spielgerät von rechts außen in Richtung 1899-Gehäuse, doch erneut schnellt der Ball klar über die Latte.&#10;"/>
