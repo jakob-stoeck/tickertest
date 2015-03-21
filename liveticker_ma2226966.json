@@ -518,5 +518,101 @@
     "headline": "",
     "content": "<p><b>Ende 1. Halbzeit</b></p> <p>Halbzeit-Fazit: Munteres Spiel, in dem Bayer zielstrebiger nach vorne ist. Die ganz großen Chancen fehlen aber insgesamt. Huntelaar vergibt für Schalke die beste Möglichkeit, Leno rettet. Das Mittelfeld ist extrem hart umkämpft. Papadopoulos und Huntelaar liefern sich ein Privatduell, hier könnte es noch knallen.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363753",
+    "event": {
+      "id": "15877612",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "20010",
+        "name": "Kyriakos Papadopoulos",
+        "firstname": "Kyriakos",
+        "surname": "Papadopoulos",
+        "fullname": "Kyriakos Papadopoulos",
+        "gender": "male",
+        "birthday": "23.02.1992",
+        "height": "183",
+        "weight": "85"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:31"
+    },
+    "tickertime": "21.03.2015 19:31:59",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bayer Leverkusen -> Kyriakos Papadopoulos</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363756",
+    "event": {
+      "id": "15877613",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "22946",
+        "name": "Ömer Toprak",
+        "firstname": "Ömer",
+        "surname": "Toprak",
+        "fullname": "Ömer Toprak",
+        "gender": "male",
+        "birthday": "21.07.1989",
+        "height": "186",
+        "weight": "83"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:32"
+    },
+    "tickertime": "21.03.2015 19:32:06",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bayer Leverkusen -> Ömer Toprak</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363760",
+    "event": {
+      "id": "15877615",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "173278",
+        "name": "Heung-min Son",
+        "firstname": "Heung-min",
+        "surname": "Son",
+        "fullname": "Heung-min Son",
+        "gender": "male",
+        "birthday": "08.07.1992",
+        "height": "183",
+        "weight": "76"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:32"
+    },
+    "tickertime": "21.03.2015 19:32:14",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bayer Leverkusen -> Heung-min Son</span>",
+    "syndicate": "s1de"
   }
 ]
