@@ -633,7 +633,39 @@
     "tickertime": "21.03.2015 16:44:22",
     "minute": "57",
     "headline": "",
-    "content": "<b>Tooor für Borussia Dortmund, 1:2 durch Shinji Kagawa</b> <br/>",
+    "content": "<p><b>Tooor für Borussia Dortmund, 1:2 durch Shinji Kagawa</b></p> <p>Kuba treibt den Ball durchs Mittelfeld und schickt Reus schön in den Strafraum. Der hat das Auge für den mitgelaufenen Kagawa, der aus acht Metern zu seinem zweiten Saisontor ins leere Tor einschiebt! Toller Angriff!</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362846",
+    "event": {
+      "id": "15874217",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "1878",
+        "name": "Oliver Kirch",
+        "firstname": "Oliver",
+        "surname": "Kirch",
+        "fullname": "Oliver Kirch",
+        "gender": "male",
+        "birthday": "21.08.1982",
+        "height": "183",
+        "weight": "70"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:45"
+    },
+    "tickertime": "21.03.2015 16:45:40",
+    "minute": "58",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Oliver Kirch</span>",
     "syndicate": "s1de"
   }
 ]

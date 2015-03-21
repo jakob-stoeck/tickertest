@@ -1373,6 +1373,146 @@
     "created": "21.03.2015 16:38:57"
   },
   {
+    "id": "15874194",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "10568",
+      "name": "Serey Die",
+      "firstname": "Serey",
+      "surname": "Die",
+      "fullname": "Sereso Geoffroy Gonzaroua Die",
+      "gender": "male",
+      "birthday": "07.11.1984",
+      "height": "179",
+      "weight": "77"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "53",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:41:24"
+  },
+  {
+    "id": "15874195",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "158585",
+      "name": "Oriol Romeu",
+      "firstname": "",
+      "surname": "Oriol Romeu",
+      "fullname": "Oriol Romeu Vidal",
+      "gender": "male",
+      "birthday": "24.09.1991",
+      "height": "182",
+      "weight": "79"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "53",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:41:35"
+  },
+  {
+    "id": "15874216",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "263930",
+      "name": "Timo Werner",
+      "firstname": "Timo",
+      "surname": "Werner",
+      "fullname": "Timo Werner",
+      "gender": "male",
+      "birthday": "06.03.1996",
+      "height": "180",
+      "weight": "75"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:45:35"
+  },
+  {
+    "id": "15874219",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "255723",
+      "name": "Filip Kostić",
+      "firstname": "Filip",
+      "surname": "Kostić",
+      "fullname": "Filip Kostić",
+      "gender": "male",
+      "birthday": "01.11.1992",
+      "height": "180",
+      "weight": "68"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "58",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:45:45"
+  },
+  {
     "id": "1200699",
     "team": {
       "id": "530",

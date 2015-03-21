@@ -505,5 +505,53 @@
     "headline": "",
     "content": "<p><b>Stendera versucht es aus der Distanz</b></p> <p>Das Eigengewächs hält gut 20 Metern drauf. Ulreich klärt mit den Fäusten.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362836",
+    "tickertime": "21.03.2015 16:45:05",
+    "minute": "57",
+    "headline": "",
+    "content": "<p><b>VfB wirkt geschockt</b></p> <p>Die Schwaben sind nach dem Gegentor sichtlich ernüchtert. Die Hessen rennen weiter an.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362843",
+    "event": {
+      "id": "15874216",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "263930",
+        "name": "Timo Werner",
+        "firstname": "Timo",
+        "surname": "Werner",
+        "fullname": "Timo Werner",
+        "gender": "male",
+        "birthday": "06.03.1996",
+        "height": "180",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:45"
+    },
+    "tickertime": "21.03.2015 16:45:35",
+    "minute": "58",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Timo Werner</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362844",
+    "tickertime": "21.03.2015 16:45:36",
+    "minute": "58",
+    "headline": "",
+    "content": "<p><b>Werner muss behandelt werden</b></p> <p>Das Eigengewächs hält bei einer Flanke von Chandler den Fuß rein, verletzt sich dabei.</p>",
+    "syndicate": "s1de"
   }
 ]
