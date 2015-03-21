@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407598">
     <event-metadata event-status="mid-event" site-attendance="50000" stadium-name="Mercedes-Benz Arena" stadium-city="Stuttgart" stadium-capacity="60449" stadium-id="709" game-exitid1="407598" game-exitid2="153333">
-      <event-metadata-soccer period-minute-elapsed="66" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="68" period-value="2"/>
     </event-metadata>
     <team id="team-6">
       <team-metadata team-key="VFB" alignment="home">
@@ -413,7 +413,7 @@
         <player-stats score="1">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,7 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
-        <action-soccer-score id="ev-407598-1362928" period-minute-elapsed="66" period-value="2" comment="Tooor für  VfB Stuttgart, 2:1 durch Daniel Ginczek|&#10;" team-idref="t-6" score-team="2" score-team-opposing="1" player-idref="pl-139048" score-attempt-type="regular"/>
+        <action-soccer-foul id="ev-407598-1362944" period-minute-elapsed="68" period-value="2" comment="Gelbe Karte für Haris Seferović (Eintracht Frankfurt)|&#10;" fouling-team-idref="t-2" fouling-player-idref="pl-151287" foul-result="caution"/>
+        <action-soccer-score id="ev-407598-1362928" period-minute-elapsed="66" period-value="2" comment="Tooor für VfB Stuttgart, 2:1 durch Daniel Ginczek|Unglaublich! Der VfB dreht das Spiel in nicht einmal zwei Minuten. Der Mittelstürmer wird optimal von Maxim bedient, der die Verteidigung einfach überlupft. Ginczek ist vor dem Tor eiskalt und vollendet genau ins linke Eck.&#10;" team-idref="t-6" score-team="2" score-team-opposing="1" player-idref="pl-139048" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407598-1362917" period-minute-elapsed="65" period-value="2" action-type="other" comment="&quot;Jubiläum&quot; für Frankfurt|Das Tor von Ginczek war gleichzeitig das 50. Gegentor der Hessen in der laufenden Saison.&#10;"/>
         <action-soccer-score id="ev-407598-1362901" period-minute-elapsed="63" period-value="2" comment="Tooor für VfB Stuttgart, 1:1 durch Daniel Ginczek|Die Stuttgarter gleichen aus - aus dem Nichts. Über rechts wird Harnik in die Tiefe geschickt. Der Österreicher stürmt auf Trapp zurück, spielt im Anschluss quer auf Ginczek. Der Neuzugang macht in seinem zehnten Bundesliga-Spiel für die Schwaben aus zwei Metern Entfernung sein erstes Tor.&#10;" team-idref="t-6" score-team="1" score-team-opposing="1" player-idref="pl-139048" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407598-1362887" period-minute-elapsed="61" period-value="2" action-type="other" comment="Die Zeit verrinnt|Stuttgart hat nur noch gut 30 Minuten Zeit, um das zurück ins Spiel zu kommen.&#10;"/>

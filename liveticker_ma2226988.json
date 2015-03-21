@@ -589,7 +589,71 @@
     "tickertime": "21.03.2015 16:52:45",
     "minute": "65",
     "headline": "",
-    "content": "<p><b>Gelb-Rote Karte für Ermin Bičakčić (1899 Hoffenheim)</b></p> <p>Die Gäste muüssen nun eine halbe Stunde zu zehnt spielen. Eine deutliche Schwächung. Paderborn könnte das in die Karten spielen.</p>",
+    "content": "<p><b>Gelb-Rote Karte für Ermin Bičakčić (1899 Hoffenheim)</b></p> <p>Zu viel Risiko des bereits gelbverwarnten Bicakcic im Zweikampf mit Rupp. Der Abwehrmann trifft seinen Gegenspieler und muss runter.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362939",
+    "event": {
+      "id": "15874495",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "12789",
+        "name": "Tarik Elyounoussi",
+        "firstname": "Tarik",
+        "surname": "Elyounoussi",
+        "fullname": "Tarik Elyounoussi",
+        "gender": "male",
+        "birthday": "23.02.1988",
+        "height": "172",
+        "weight": "62"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:55"
+    },
+    "tickertime": "21.03.2015 16:55:30",
+    "minute": "67",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1899 Hoffenheim -> Tarik Elyounoussi</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362942",
+    "event": {
+      "id": "15874496",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "9118",
+        "name": "David Abraham",
+        "firstname": "David",
+        "surname": "Abraham",
+        "fullname": "David Ángel Abraham",
+        "gender": "male",
+        "birthday": "15.07.1986",
+        "height": "187",
+        "weight": "85"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:55"
+    },
+    "tickertime": "21.03.2015 16:55:38",
+    "minute": "67",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1899 Hoffenheim -> David Abraham</span>",
     "syndicate": "s1de"
   }
 ]
