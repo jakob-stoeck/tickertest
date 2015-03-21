@@ -949,7 +949,7 @@
     "tickertime": "21.03.2015 17:07:59",
     "minute": "80",
     "headline": "",
-    "content": "<p><b>Horn mit den Fäusten</b></p> <p>Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt über Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann in Bedrängnis.</p>",
+    "content": "<p><b>Horn mit den Fäusten</b></p> <p>Junuzovic zieht den Eckball zu nah vors Tor. Der Ball kommt über Umwege zu Vestergaard, der ihn nur noch sachte in Richtung Tor schubsen kann, in Bedrängnis.</p>",
     "syndicate": "s1de"
   },
   {
@@ -1014,6 +1014,46 @@
     "minute": "82",
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Köln -> Bård Finne</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363107",
+    "event": {
+      "id": "15875025",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "7512",
+        "name": "Clemens Fritz",
+        "firstname": "Clemens",
+        "surname": "Fritz",
+        "fullname": "Clemens Fritz",
+        "gender": "male",
+        "birthday": "07.12.1980",
+        "height": "183",
+        "weight": "81"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "82",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:10"
+    },
+    "tickertime": "21.03.2015 17:10:14",
+    "minute": "82",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Raphael Wolf (Werder Bremen)</b> <br/>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363109",
+    "tickertime": "21.03.2015 17:10:32",
+    "minute": "83",
+    "headline": "",
+    "content": "<p><b>Er geht nicht rein</b></p> <p>Risse bringt den Ball von rechts scharf rein, Vestergaard hält sein Bein dazwischen und zwingt Wolf zu einer Parade. Bremen klärt in höchster Not.</p>",
     "syndicate": "s1de"
   }
 ]
