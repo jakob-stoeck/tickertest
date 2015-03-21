@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1363012" period-minute-elapsed="75" period-value="2" action-type="other" comment="Reus aus der zweiten Reihe|Nach einer zu kurz geklärten Ecke von links setzt der Nationalspieler den Nachschuss aus 18 Metern übers Tor.&#10;"/>
         <action-soccer-other id="ev-407556-1362997" period-minute-elapsed="73" period-value="2" action-type="other" comment="Ecke für den BVB|Kuba flankt von links, aber 96 kann sich erstmal befreien.&#10;"/>
         <action-soccer-substitution id="ev-407556-1362992" period-minute-elapsed="72" period-value="2" comment="Wechsel bei Borussia Dortmund | Sven Bender für İlkay Gündoğan" team-idref="t-14" person-original-idref="pl-112350" person-replacing-idref="pl-26795"/>
         <action-soccer-substitution id="ev-407556-1362986" period-minute-elapsed="72" period-value="2" comment="Wechsel bei Hannover 96 | Miiko Albornoz für Christian Schulz" team-idref="t-1" person-original-idref="pl-14548" person-replacing-idref="pl-135592"/>
