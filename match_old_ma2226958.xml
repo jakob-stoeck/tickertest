@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="85" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="90" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-407556-1363188" period-minute-elapsed="90" period-value="2" comment="Wechsel bei Borussia Dortmund | Adrián Ramos für Marco Reus" team-idref="t-14" person-original-idref="pl-22225" person-replacing-idref="pl-1565"/>
         <action-soccer-other id="ev-407556-1363153" period-minute-elapsed="87" period-value="2" action-type="other" comment="Weidenfeller ist auf dem Posten|Nach einer flachen Hereingabe von Albornoz wirft sich der Keeper am Fünfer vor Joselu über den Ball.&#10;"/>
         <action-soccer-other id="ev-407556-1363140" period-minute-elapsed="86" period-value="2" action-type="other" comment="Getümmel im 96-Strafraum|Kehl legt von links quer, in der Mitte rutscht Sokratis der Kopfball über den Scheitel und dann wird auch noch der Nachschuss von Subotic abgeblockt!&#10;"/>
         <action-soccer-substitution id="ev-407556-1363127" period-minute-elapsed="85" period-value="2" comment="Wechsel bei Hannover 96 | Leon Andreasen für Hiroki Sakai" team-idref="t-1" person-original-idref="pl-146779" person-replacing-idref="pl-12944"/>

@@ -1217,5 +1217,69 @@
     "headline": "",
     "content": "<p><b>Weidenfeller ist auf dem Posten</b></p> <p>Nach einer flachen Hereingabe von Albornoz wirft sich der Keeper am Fünfer vor Joselu über den Ball.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363188",
+    "event": {
+      "id": "15875184",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "22225",
+        "name": "Marco Reus",
+        "firstname": "Marco",
+        "surname": "Reus",
+        "fullname": "Marco Reus",
+        "gender": "male",
+        "birthday": "31.05.1989",
+        "height": "180",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:17"
+    },
+    "tickertime": "21.03.2015 17:17:06",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Marco Reus</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363190",
+    "event": {
+      "id": "15875185",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "1565",
+        "name": "Adrián Ramos",
+        "firstname": "Adrián",
+        "surname": "Ramos",
+        "fullname": "Gustavo Adrián Ramos Vásquez",
+        "gender": "male",
+        "birthday": "22.01.1986",
+        "height": "186",
+        "weight": "81"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:17"
+    },
+    "tickertime": "21.03.2015 17:17:16",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Adrián Ramos</span>",
+    "syndicate": "s1de"
   }
 ]
