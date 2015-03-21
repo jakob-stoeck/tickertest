@@ -5,13 +5,13 @@
   </sports-metadata>
   <sports-event id="match-407598">
     <event-metadata event-status="mid-event" site-attendance="50000" stadium-name="Mercedes-Benz Arena" stadium-city="Stuttgart" stadium-capacity="60449" stadium-id="709" game-exitid1="407598" game-exitid2="153333">
-      <event-metadata-soccer period-minute-elapsed="68" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="80" period-value="2"/>
     </event-metadata>
     <team id="team-6">
       <team-metadata team-key="VFB" alignment="home">
         <name full="VfB Stuttgart" middle="Stuttgart" id="t-6" extid="te-2076"/>
       </team-metadata>
-      <team-stats score="2" score-attempts="0">
+      <team-stats score="3" score-attempts="0">
         <sports-property formal-name="possession" value="50"/>
         <sports-property formal-name="duels-won" value="0"/>
         <team-stats-soccer>
@@ -144,7 +144,7 @@
         <player-metadata position-event="midfield" status="starter" uniform-number="44" lineup-slot="x:0,y:7">
           <name last="Maxim"/>
         </player-metadata>
-        <player-stats score="0">
+        <player-stats score="1">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
             <stats-soccer-foul cautions-total="0" ejections-total="0"/>
@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-score id="ev-407598-1363074" period-minute-elapsed="80" period-value="2" comment="Tooor für  VfB Stuttgart, 3:1 durch Alexandru Maxim|&#10;" team-idref="t-6" score-team="3" score-team-opposing="1" player-idref="pl-265034" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407598-1363058" period-minute-elapsed="78" period-value="2" action-type="other" comment="Ulreich sicher|Der VfB-Schlussmann kommt bei einer Flanke aus dem Tor und schnappt sich das Leder vor Meier.&#10;"/>
         <action-soccer-other id="ev-407598-1363029" period-minute-elapsed="75" period-value="2" action-type="other" comment="Wie eine Befreiung|Die psychologische Folge des Doppelschlags ist augenscheinlich. Der VfB wirkt nun befreit und steht in der Defensive sicher.&#10;"/>
         <action-soccer-other id="ev-407598-1363000" period-minute-elapsed="73" period-value="2" action-type="other" comment="Seltenes Gefühl|Die Stuttgarter liegen erst zum zweiten Mal im 13. Heimspiel der Saison in Führung.&#10;"/>
