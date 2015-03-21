@@ -655,5 +655,53 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei 1899 Hoffenheim -> David Abraham</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362957",
+    "tickertime": "21.03.2015 16:56:18",
+    "minute": "68",
+    "headline": "",
+    "content": "<p>Mit Abraham kommt ein Mann für die Viererkette der Gäste ins Spiel, Elyounoussi fällt diesem taktischen Wechsel zum Opfer.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362953",
+    "tickertime": "21.03.2015 16:56:56",
+    "minute": "68",
+    "headline": "",
+    "content": "<p>Gisdol justiert sein Team neu. Er will hier jetzt klar auf Sieg spielen.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362963",
+    "event": {
+      "id": "15874551",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "23113",
+        "name": "Jens Wemmer",
+        "firstname": "Jens",
+        "surname": "Wemmer",
+        "fullname": "Jens Wemmer",
+        "gender": "male",
+        "birthday": "31.10.1985",
+        "height": "185",
+        "weight": "75"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "70",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:57"
+    },
+    "tickertime": "21.03.2015 16:57:41",
+    "minute": "70",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Paderborn 07 -> Jens Wemmer</span>",
+    "syndicate": "s1de"
   }
 ]
