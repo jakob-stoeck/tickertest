@@ -1398,6 +1398,76 @@
     "created": "21.03.2015 16:52:25"
   },
   {
+    "id": "15874444",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "9231",
+      "name": "Nils Petersen",
+      "firstname": "Nils",
+      "surname": "Petersen",
+      "fullname": "Nils Petersen",
+      "gender": "male",
+      "birthday": "06.12.1988",
+      "height": "188",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:52:35"
+  },
+  {
+    "id": "15874468",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "28520",
+      "name": "Sascha Riether",
+      "firstname": "Sascha",
+      "surname": "Riether",
+      "fullname": "Sascha Riether",
+      "gender": "male",
+      "birthday": "23.03.1983",
+      "height": "174",
+      "weight": "70"
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "66",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:53:45"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
