@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407584">
     <event-metadata event-status="mid-event" site-attendance="23000" stadium-name="Schwarzwald-Stadion" stadium-city="Freiburg" stadium-capacity="24000" stadium-id="187" game-exitid1="407584" game-exitid2="153409">
-      <event-metadata-soccer period-minute-elapsed="65" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="66" period-value="2"/>
     </event-metadata>
     <team id="team-4">
       <team-metadata team-key="SCF" alignment="home">
@@ -431,7 +431,10 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407584-1362934" period-minute-elapsed="66" period-value="2" action-type="other" comment="SC-Hoffnungsträger Petersen kommt|An Mike Frantz lief die Partie größtenteils vorbei und in der Spitze darf sich nun Nils Petersen versuchen.&#10;"/>
+        <action-soccer-foul id="ev-407584-1362926" period-minute-elapsed="66" period-value="2" comment="Gelbe Karte für Sascha Riether (SC Freiburg)|&#10;" fouling-team-idref="t-4" fouling-player-idref="pl-28520" foul-result="caution"/>
         <action-soccer-substitution id="ev-407584-1362908" period-minute-elapsed="65" period-value="2" comment="Wechsel bei SC Freiburg | Nils Petersen für Mike Frantz" team-idref="t-4" person-original-idref="pl-265" person-replacing-idref="pl-9231"/>
+        <action-soccer-other id="ev-407584-1362930" period-minute-elapsed="64" period-value="2" action-type="other" comment="Hojbjerg setzt sich durch|Im Mittelfeld nimmt er Höfler den Ball ab, nimmt fahrt auf und schießt das Spielgerät aus mittiger Position flach links am Tor vorbei.- das war knapp!&#10;"/>
         <action-soccer-other id="ev-407584-1362895" period-minute-elapsed="62" period-value="2" action-type="other" comment="FC im Angriff|Baba passt zu Ji am Sechzehner. Ji wird von den Freiburgern zugestellt und dreht wieder ab.&#10;"/>
         <action-soccer-other id="ev-407584-1362883" period-minute-elapsed="60" period-value="2" action-type="other" comment="Mehmedi&amp;nbsp;kommt frei zum Kopfball!|Vier Meter vor dem Tor wird Mehmedi&amp;nbsp;mustergültig von Oliver Sorg bedient. Der Schweizer köpft den Ball knapp über den Querbalken!&#10;"/>
         <action-soccer-other id="ev-407584-1362859" period-minute-elapsed="57" period-value="2" action-type="other" comment="SC kommt über links|Admir Mehmedi geht die linke Seite runter, ihm fehlen aber in der Mitte die Mitspieler und er muss abdrehen.&#10;"/>
