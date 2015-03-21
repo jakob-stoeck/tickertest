@@ -643,5 +643,55 @@
     "headline": "",
     "content": "<p><b>Tooor für VfB Stuttgart, 1:1 durch Daniel Ginczek</b></p> <p>Die Stuttgarter gleichen aus - aus dem Nichts. Über rechts wird Harnik in die Tiefe geschickt. Der Österreicher stürmt auf Trapp zurück, spielt im Anschluss quer auf Ginczek. Der Neuzugang macht in seinem zehnten Bundesliga-Spiel für die Schwaben aus zwei Metern Entfernung sein erstes Tor.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362917",
+    "tickertime": "21.03.2015 16:53:09",
+    "minute": "65",
+    "headline": "",
+    "content": "<p><b>\"Jubiläum\" für Frankfurt</b></p> <p>Das Tor von Ginczek war gleichzeitig das 50. Gegentor der Hessen in der laufenden Saison.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362928",
+    "event": {
+      "id": "15874469",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "139048",
+        "name": "Daniel Ginczek",
+        "firstname": "Daniel",
+        "surname": "Ginczek",
+        "fullname": "Daniel Ginczek",
+        "gender": "male",
+        "birthday": "13.04.1991",
+        "height": "188",
+        "weight": "79"
+      },
+      "action": "goal",
+      "content": "2:1",
+      "kind": "right-foot",
+      "minute": "66",
+      "additional_person": {
+        "id": "265034",
+        "name": "Alexandru Maxim",
+        "firstname": "Alexandru",
+        "surname": "Maxim",
+        "fullname": "Alexandru Iulian Maxim",
+        "gender": "male",
+        "birthday": "08.07.1990",
+        "height": "177",
+        "weight": "73"
+      },
+      "created": "21.03.2015 16:53"
+    },
+    "tickertime": "21.03.2015 16:53:46",
+    "minute": "66",
+    "headline": "",
+    "content": "<b>Tooor für VfB Stuttgart, 2:1 durch Daniel Ginczek</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
