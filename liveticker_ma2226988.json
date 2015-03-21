@@ -935,5 +935,69 @@
     "headline": "",
     "content": "<p><b>Auf der Gegenseite die nächste Chance</b></p> <p>Heinloth steigt am Fünfer der Gäste in die Höhe, köpft ein Zuspiel von links außen jedoch nur über die Latte!</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363195",
+    "event": {
+      "id": "15875186",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "234828",
+        "name": "Roberto Firmino",
+        "firstname": "",
+        "surname": "Roberto Firmino",
+        "fullname": "Roberto Firmino Barbosa de Oliveira",
+        "gender": "male",
+        "birthday": "02.10.1991",
+        "height": "180",
+        "weight": "76"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:17"
+    },
+    "tickertime": "21.03.2015 17:17:26",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1899 Hoffenheim -> Roberto Firmino</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363199",
+    "event": {
+      "id": "15875187",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "19922",
+        "name": "Anthony Modeste",
+        "firstname": "Anthony",
+        "surname": "Modeste",
+        "fullname": "Anthony Mbu Agogo Modeste",
+        "gender": "male",
+        "birthday": "14.04.1988",
+        "height": "186",
+        "weight": "74"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:17"
+    },
+    "tickertime": "21.03.2015 17:17:34",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1899 Hoffenheim -> Anthony Modeste</span>",
+    "syndicate": "s1de"
   }
 ]
