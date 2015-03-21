@@ -1433,6 +1433,146 @@
     "created": "21.03.2015 16:52:44"
   },
   {
+    "id": "15874495",
+    "team": {
+      "id": "24",
+      "name": "1899 Hoffenheim",
+      "shortname": "Hoffenheim",
+      "microname": "HOF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "12789",
+      "name": "Tarik Elyounoussi",
+      "firstname": "Tarik",
+      "surname": "Elyounoussi",
+      "fullname": "Tarik Elyounoussi",
+      "gender": "male",
+      "birthday": "23.02.1988",
+      "height": "172",
+      "weight": "62"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:55:30"
+  },
+  {
+    "id": "15874496",
+    "team": {
+      "id": "24",
+      "name": "1899 Hoffenheim",
+      "shortname": "Hoffenheim",
+      "microname": "HOF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "9118",
+      "name": "David Abraham",
+      "firstname": "David",
+      "surname": "Abraham",
+      "fullname": "David Ángel Abraham",
+      "gender": "male",
+      "birthday": "15.07.1986",
+      "height": "187",
+      "weight": "85"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:55:38"
+  },
+  {
+    "id": "15874551",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "23113",
+      "name": "Jens Wemmer",
+      "firstname": "Jens",
+      "surname": "Wemmer",
+      "fullname": "Jens Wemmer",
+      "gender": "male",
+      "birthday": "31.10.1985",
+      "height": "185",
+      "weight": "75"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:57:40"
+  },
+  {
+    "id": "15874552",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "26973",
+      "name": "Süleyman Koç",
+      "firstname": "Süleyman",
+      "surname": "Koç",
+      "fullname": "Süleyman Koç",
+      "gender": "male",
+      "birthday": "09.06.1989",
+      "height": "178",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:57:48"
+  },
+  {
     "id": "995400",
     "team": {
       "id": "24",
