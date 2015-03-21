@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407564">
     <event-metadata event-status="mid-event" site-attendance="61973" stadium-name="Veltins-Arena" stadium-city="Gelsenkirchen" stadium-capacity="61973" stadium-id="2120" game-exitid1="407564" game-exitid2="153352">
-      <event-metadata-soccer period-minute-elapsed="1" period-value="1"/>
+      <event-metadata-soccer period-minute-elapsed="11" period-value="1"/>
     </event-metadata>
     <team id="team-16">
       <team-metadata team-key="S04" alignment="home">
@@ -270,7 +270,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-foul id="ev-407564-1363491" period-minute-elapsed="11" period-value="1" comment="Gelbe Karte für Roberto Hilbert (Bayer Leverkusen)|&#10;" fouling-team-idref="t-9" fouling-player-idref="pl-28322" foul-result="caution"/>
+        <action-soccer-other id="ev-407564-1363489" period-minute-elapsed="10" period-value="1" action-type="other" comment="Huntelaar kommt nicht vorbei|Papadopoulos gegen Huntelaar: Diese zwei werden heute noch viel Spaß aneinander haben. Der Schalker versucht es auf der linken Seite links vorbei, der Leverkusener lässt den Ball ins Aus trudeln.&#10;"/>
         <action-soccer-other id="ev-407564-1363480" period-minute-elapsed="8" period-value="1" action-type="other" comment="Kein Durchkommen|Schalke spielt oft den direkten langen Ball nach vorne, noch ohne Ziel.&#10;"/>
         <action-soccer-other id="ev-407564-1363471" period-minute-elapsed="6" period-value="1" action-type="other" comment="Schalke macht mehr|Die Gastgeber beginnen aktiver. Leverkusen geht schon früh aggressiv gegen den Ball.&#10;"/>
         <action-soccer-other id="ev-407564-1363461" period-minute-elapsed="5" period-value="1" action-type="other" comment="Matip klärt|Freistoß von Castro von ganz weit hinten aus dem rechten Halbfeld, Matip braucht am Strafraum nur aus dem Stand zu springen.&#10;"/>

@@ -137,5 +137,45 @@
     "headline": "",
     "content": "<p><b>Kein Durchkommen</b></p> <p>Schalke spielt oft den direkten langen Ball nach vorne, noch ohne Ziel.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363489",
+    "tickertime": "21.03.2015 18:41:03",
+    "minute": "10",
+    "headline": "",
+    "content": "<p><b>Huntelaar kommt nicht vorbei</b></p> <p>Papadopoulos gegen Huntelaar: Diese zwei werden heute noch viel Spaß aneinander haben. Der Schalker versucht es auf der linken Seite links vorbei, der Leverkusener lässt den Ball ins Aus trudeln.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363491",
+    "event": {
+      "id": "15876500",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "28322",
+        "name": "Roberto Hilbert",
+        "firstname": "Roberto",
+        "surname": "Hilbert",
+        "fullname": "Roberto Hilbert",
+        "gender": "male",
+        "birthday": "16.10.1984",
+        "height": "182",
+        "weight": "74"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "11",
+      "additional_person_id": "0",
+      "created": "21.03.2015 18:41"
+    },
+    "tickertime": "21.03.2015 18:41:05",
+    "minute": "11",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Roberto Hilbert (Bayer Leverkusen)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
