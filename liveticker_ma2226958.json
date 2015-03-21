@@ -595,5 +595,45 @@
     "headline": "",
     "content": "<p><b>Gelb-Rote Karte für Leonardo Bittencourt (Hannover 96)</b></p> <p>Der Mittelfeldspieler zieht fernab des Strafraums gegen Kehl voll durch und fliegt dafür mit seiner zweiten Verwarnung in diesem Spiel vom Platz! Unnötige Aktion!</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362825",
+    "tickertime": "21.03.2015 16:43:52",
+    "minute": "57",
+    "headline": "",
+    "content": "<p><b>Ecke für die Niedersachsen</b></p> <p>Kiyotake flankt von rechts zum zweiten Pfosten, findet jedoch keinen Abnehmer.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362830",
+    "event": {
+      "id": "15874214",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "71535",
+        "name": "Shinji Kagawa",
+        "firstname": "Shinji",
+        "surname": "Kagawa",
+        "fullname": "Shinji Kagawa",
+        "gender": "male",
+        "birthday": "17.03.1989",
+        "height": "172",
+        "weight": "63"
+      },
+      "action": "goal",
+      "content": "1:2",
+      "kind": "right-foot",
+      "minute": "57",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:44"
+    },
+    "tickertime": "21.03.2015 16:44:22",
+    "minute": "57",
+    "headline": "",
+    "content": "<b>Tooor für Borussia Dortmund, 1:2 durch Shinji Kagawa</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
