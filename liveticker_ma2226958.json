@@ -667,5 +667,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Oliver Kirch</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362854",
+    "event": {
+      "id": "15874221",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "231542",
+        "name": "Jeremy Dudziak",
+        "firstname": "Jeremy",
+        "surname": "Dudziak",
+        "fullname": "Jeremy Dudziak",
+        "gender": "male",
+        "birthday": "28.08.1995",
+        "height": "176",
+        "weight": "69"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:45"
+    },
+    "tickertime": "21.03.2015 16:45:49",
+    "minute": "58",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Jeremy Dudziak</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362858",
+    "tickertime": "21.03.2015 16:46:14",
+    "minute": "59",
+    "headline": "",
+    "content": "<p><b>Debüt für Dudziak</b></p> <p>Der 19-Jährige kommt zu seinem ersten Bundesliga-Einsatz für den BVB.</p>",
+    "syndicate": "s1de"
   }
 ]
