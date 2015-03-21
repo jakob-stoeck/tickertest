@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407594-1363261" period-minute-elapsed="90" period-value="2" action-type="other" comment="Fazit|Köln verdient sich in der zweiten Halbzeit dank eines deutlich größeren Einsatzes einen Punkt, hat am Ende aber trotzdem Glück. Erst ein Fehler der Bremer Abwehr ermöglicht den Ausgleich. Werder verpasst dadurch den Anschluss an die internationalen Plätze. Der FC ist noch nicht raus aus dem Abstiegskampf.&#10;"/>
         <action-soccer-other id="ev-407594-1363257" period-minute-elapsed="90" period-value="2" action-type="end2" comment="Spielende|"/>
         <action-soccer-other id="ev-407594-1363209" period-minute-elapsed="90" period-value="2" action-type="other" comment="Lange Nachspielzeit|Vier Minuten extra. Köln will es wissen und drängt auf den Sieg.&#10;"/>
         <action-soccer-substitution id="ev-407594-1363177" period-minute-elapsed="90" period-value="2" comment="Wechsel bei Werder Bremen | Cédric Makiadi für Zlatko Junuzović" team-idref="t-8" person-original-idref="pl-13916" person-replacing-idref="pl-19077"/>
