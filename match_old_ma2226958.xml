@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="61" period-value="2"/>
+      <event-metadata-soccer period-minute-elapsed="72" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -81,7 +81,7 @@
         <player-stats score="0">
           <player-stats-soccer>
             <stats-soccer-offensive assists-total="0"/>
-            <stats-soccer-foul cautions-total="0" ejections-total="0"/>
+            <stats-soccer-foul cautions-total="1" ejections-total="0"/>
           </player-stats-soccer>
         </player-stats>
       </player>
@@ -431,6 +431,10 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-substitution id="ev-407556-1362992" period-minute-elapsed="72" period-value="2" comment="Wechsel bei Borussia Dortmund | Miiko Albornoz für İlkay Gündoğan" team-idref="t-14" person-original-idref="pl-112350" person-replacing-idref="pl-135592"/>
+        <action-soccer-substitution id="ev-407556-1362986" period-minute-elapsed="72" period-value="2" comment="Wechsel bei Hannover 96 | Edgar Prib für Christian Schulz" team-idref="t-1" person-original-idref="pl-14548" person-replacing-idref="pl-24763"/>
+        <action-soccer-substitution id="ev-407556-1362979" period-minute-elapsed="72" period-value="2" comment="Wechsel bei Hannover 96 | Jeremy Dudziak für Jimmy Briand" team-idref="t-1" person-original-idref="pl-25135" person-replacing-idref="pl-231542"/>
+        <action-soccer-foul id="ev-407556-1362972" period-minute-elapsed="71" period-value="2" comment="Gelbe Karte für Salif Sané (Hannover 96)|Wegen Ballwegschlagens. Für den Senegalesen ist es die vierte Gelbe Karte in dieser Spielzeit.&#10;" fouling-team-idref="t-1" fouling-player-idref="pl-235359" foul-result="caution"/>
         <action-soccer-other id="ev-407556-1362967" period-minute-elapsed="70" period-value="2" action-type="other" comment="Gündogan schickt Aubameyang steil|Der pfeilschnelle Stürmer sucht das Laufduell mit Felipe, doch der stellt ganz geschickt den Körper dazwischen und schnappt sich den Ball.&#10;"/>
         <action-soccer-other id="ev-407556-1362956" period-minute-elapsed="69" period-value="2" action-type="other" comment="Achte Ecke für Hannover|Aber es bleibt dabei: Gefahr entsteht daraus nicht. Was aber auch daran liegt, dass die Hintermannschaft des BVB wirklich einen guten Job macht.&#10;"/>
         <action-soccer-other id="ev-407556-1362933" period-minute-elapsed="68" period-value="2" action-type="other" comment="96 steckt nicht auf|Trotz Unterzahl erhöhen die Hannoveraner nun notgedrungen das Risiko, um hier vielleicht doch nochmal für Spannung zu sorgen.&#10;"/>
@@ -440,7 +444,7 @@
         <action-soccer-score id="ev-407556-1362879" period-minute-elapsed="61" period-value="2" comment="Tooor für Borussia Dortmund, 1:3 durch Pierre-Emerick Aubameyang|Kagawa flankt von links mit dem rechten Außenrist mit viel Schnitt an den Fünfer. Dort muss Aubameyang nur noch den Kopf hinhalten - und drin ist das Ding! Sein zwölfter Saisontor wird mit einem eingesprungenen Salto gefeiert!&#10;" team-idref="t-14" score-team="3" score-team-opposing="1" player-idref="pl-134830" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407556-1362864" period-minute-elapsed="60" period-value="2" action-type="other" comment="Eiskalter BVB|Mit dem ersten Torschuss nach dem 1:0 von Aubameyang geht Dortmund hier erneut in Führung. Viele Chancen brauchen die Borussen heute wirklich nicht.&#10;"/>
         <action-soccer-other id="ev-407556-1362858" period-minute-elapsed="59" period-value="2" action-type="other" comment="Debüt für Dudziak|Der 19-Jährige kommt zu seinem ersten Bundesliga-Einsatz für den BVB.&#10;"/>
-        <action-soccer-substitution id="ev-407556-1362846" period-minute-elapsed="58" period-value="2" comment="Wechsel bei Borussia Dortmund | Jeremy Dudziak für Oliver Kirch" team-idref="t-14" person-original-idref="pl-1878" person-replacing-idref="pl-231542"/>
+        <action-soccer-substitution id="ev-407556-1362846" period-minute-elapsed="58" period-value="2" comment="Wechsel bei Borussia Dortmund |   für Oliver Kirch" team-idref="t-14" person-original-idref="pl-1878" person-replacing-idref="pl-"/>
         <action-soccer-score id="ev-407556-1362830" period-minute-elapsed="57" period-value="2" comment="Tooor für Borussia Dortmund, 1:2 durch Shinji Kagawa|Kuba treibt den Ball durchs Mittelfeld und schickt Reus schön in den Strafraum. Der hat das Auge für den mitgelaufenen Kagawa, der aus acht Metern zu seinem zweiten Saisontor ins leere Tor einschiebt! Toller Angriff!&#10;" team-idref="t-14" score-team="2" score-team-opposing="1" player-idref="pl-71535" score-attempt-type="regular"/>
         <action-soccer-other id="ev-407556-1362825" period-minute-elapsed="57" period-value="2" action-type="other" comment="Ecke für die Niedersachsen|Kiyotake flankt von rechts zum zweiten Pfosten, findet jedoch keinen Abnehmer.&#10;"/>
         <action-soccer-foul id="ev-407556-1362810" period-minute-elapsed="55" period-value="2" comment="Gelb-Rote Karte für Leonardo Bittencourt (Hannover 96)|Der Mittelfeldspieler zieht fernab des Strafraums gegen Kehl voll durch und fliegt dafür mit seiner zweiten Verwarnung in diesem Spiel vom Platz! Unnötige Aktion!&#10;" fouling-team-idref="t-1" fouling-player-idref="pl-231272" foul-result="cautionejection"/>
