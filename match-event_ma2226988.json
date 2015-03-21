@@ -1328,6 +1328,76 @@
     "created": "21.03.2015 16:43:17"
   },
   {
+    "id": "15874241",
+    "team": {
+      "id": "24",
+      "name": "1899 Hoffenheim",
+      "shortname": "Hoffenheim",
+      "microname": "HOF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "28332",
+      "name": "Sven Schipplock",
+      "firstname": "Sven",
+      "surname": "Schipplock",
+      "fullname": "Sven Schipplock",
+      "gender": "male",
+      "birthday": "08.11.1988",
+      "height": "185",
+      "weight": "79"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "59",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:47:22"
+  },
+  {
+    "id": "15874244",
+    "team": {
+      "id": "24",
+      "name": "1899 Hoffenheim",
+      "shortname": "Hoffenheim",
+      "microname": "HOF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "19922",
+      "name": "Anthony Modeste",
+      "firstname": "Anthony",
+      "surname": "Modeste",
+      "fullname": "Anthony Mbu Agogo Modeste",
+      "gender": "male",
+      "birthday": "14.04.1988",
+      "height": "186",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "59",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:47:32"
+  },
+  {
     "id": "995400",
     "team": {
       "id": "24",
