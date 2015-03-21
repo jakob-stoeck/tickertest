@@ -1007,5 +1007,37 @@
     "headline": "",
     "content": "<p><b>Reguläre Spielzeit ist gleich vorbei </b></p> <p>Zwei Minuten kommen obendrauf. Der SCP wirft alles nach vorne.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363222",
+    "event": {
+      "id": "15875204",
+      "team": {
+        "id": "24",
+        "name": "1899 Hoffenheim"
+      },
+      "person": {
+        "id": "19922",
+        "name": "Anthony Modeste",
+        "firstname": "Anthony",
+        "surname": "Modeste",
+        "fullname": "Anthony Mbu Agogo Modeste",
+        "gender": "male",
+        "birthday": "14.04.1988",
+        "height": "186",
+        "weight": "74"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "21.03.2015 17:19"
+    },
+    "tickertime": "21.03.2015 17:19:39",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Anthony Modeste (1899 Hoffenheim)</b> <br/>",
+    "syndicate": "s1de"
   }
 ]

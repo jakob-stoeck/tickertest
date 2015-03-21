@@ -1468,6 +1468,76 @@
     "created": "21.03.2015 16:53:45"
   },
   {
+    "id": "15875177",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "221533",
+      "name": "Dong-Won Ji",
+      "firstname": "Dong-Won",
+      "surname": "Ji",
+      "fullname": "Dong-Won Ji",
+      "gender": "male",
+      "birthday": "28.05.1991",
+      "height": "187",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:58:09"
+  },
+  {
+    "id": "15875179",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "9573",
+      "name": "Tim Matavž",
+      "firstname": "Tim",
+      "surname": "Matavž",
+      "fullname": "Tim Matavž",
+      "gender": "male",
+      "birthday": "13.01.1989",
+      "height": "188",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "70",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:58:09"
+  },
+  {
     "id": "15874558",
     "team": {
       "id": "1639",
@@ -1696,6 +1766,76 @@
       "weight": "64"
     },
     "created": "21.03.2015 17:12:19"
+  },
+  {
+    "id": "15875151",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "142033",
+      "name": "Nicolas Höfler",
+      "firstname": "Nicolas",
+      "surname": "Höfler",
+      "fullname": "Nicolas Höfler",
+      "gender": "male",
+      "birthday": "09.03.1990",
+      "height": "181",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:16:19"
+  },
+  {
+    "id": "15875172",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "22955",
+      "name": "Julian Schuster",
+      "firstname": "Julian",
+      "surname": "Schuster",
+      "fullname": "Julian Schuster",
+      "gender": "male",
+      "birthday": "15.04.1985",
+      "height": "190",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "21.03.2015 17:16:29"
   },
   {
     "id": "860315",
