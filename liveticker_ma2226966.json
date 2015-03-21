@@ -945,5 +945,101 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Bayer Leverkusen -> Stefan Kießling</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363994",
+    "event": {
+      "id": "15878418",
+      "team": {
+        "id": "205",
+        "name": "Bayer Leverkusen"
+      },
+      "person": {
+        "id": "26794",
+        "name": "Lars Bender",
+        "firstname": "Lars",
+        "surname": "Bender",
+        "fullname": "Lars Bender",
+        "gender": "male",
+        "birthday": "27.04.1989",
+        "height": "184",
+        "weight": "77"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "21.03.2015 20:04"
+    },
+    "tickertime": "21.03.2015 20:04:52",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bayer Leverkusen -> Lars Bender</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363997",
+    "event": {
+      "id": "15878424",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "231417",
+        "name": "Max Meyer",
+        "firstname": "Max",
+        "surname": "Meyer",
+        "fullname": "Maximilian Meyer",
+        "gender": "male",
+        "birthday": "18.09.1995",
+        "height": "172",
+        "weight": "67"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "21.03.2015 20:05"
+    },
+    "tickertime": "21.03.2015 20:05:02",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Max Meyer</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363999",
+    "event": {
+      "id": "15878431",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "10469",
+        "name": "Jefferson Farfán",
+        "firstname": "Jefferson",
+        "surname": "Farfán",
+        "fullname": "Jefferson Agustin Farfán Guadalupe",
+        "gender": "male",
+        "birthday": "26.10.1984",
+        "height": "178",
+        "weight": "84"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "21.03.2015 20:05"
+    },
+    "tickertime": "21.03.2015 20:05:08",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Jefferson Farfán</span>",
+    "syndicate": "s1de"
   }
 ]
