@@ -411,5 +411,45 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Leroy Sané</span>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363665",
+    "event": {
+      "id": "15877075",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "26461",
+        "name": "Kevin-Prince Boateng",
+        "firstname": "Kevin-Prince",
+        "surname": "Boateng",
+        "fullname": "Kevin-Prince Boateng",
+        "gender": "male",
+        "birthday": "06.03.1987",
+        "height": "185",
+        "weight": "86"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "42",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:11"
+    },
+    "tickertime": "21.03.2015 19:11:39",
+    "minute": "42",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Kevin-Prince Boateng</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363666",
+    "tickertime": "21.03.2015 19:11:42",
+    "minute": "41",
+    "headline": "",
+    "content": "<p><b>Son verstolpert</b></p> <p>Der Koreaner bekommt den Ball rechts im Strafraum, er springt ihm zu weit vom Fuß.</p>",
+    "syndicate": "s1de"
   }
 ]
