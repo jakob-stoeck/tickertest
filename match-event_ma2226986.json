@@ -1653,6 +1653,51 @@
     "created": "21.03.2015 17:08:44"
   },
   {
+    "id": "15875051",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "9231",
+      "name": "Nils Petersen",
+      "firstname": "Nils",
+      "surname": "Petersen",
+      "fullname": "Nils Petersen",
+      "gender": "male",
+      "birthday": "06.12.1988",
+      "height": "188",
+      "weight": "80"
+    },
+    "action": "goal",
+    "content": "2:0",
+    "kind": "left-foot",
+    "minute": "84",
+    "additional_person": {
+      "id": "172176",
+      "name": "Vladimír Darida",
+      "firstname": "Vladimír",
+      "surname": "Darida",
+      "fullname": "Vladimír Darida",
+      "gender": "male",
+      "birthday": "08.08.1990",
+      "height": "171",
+      "weight": "64"
+    },
+    "created": "21.03.2015 17:12:19"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
