@@ -745,5 +745,45 @@
     "headline": "",
     "content": "<p><b>Gelbe Karte für Marco Höger (FC Schalke 04)</b></p> <p>Schalke macht es jetzt deutlich körperlicher. Bedeutet: Höger grätscht Calhanoglu von hinten per Beinschere weg. Neunte Gelbe Karte der Saison für ihn.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363873",
+    "event": {
+      "id": "15877949",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "424",
+        "name": "Roman Neustädter",
+        "firstname": "Roman",
+        "surname": "Neustädter",
+        "fullname": "Roman Neustädter",
+        "gender": "male",
+        "birthday": "18.02.1988",
+        "height": "190",
+        "weight": "83"
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "61",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:48"
+    },
+    "tickertime": "21.03.2015 19:48:42",
+    "minute": "61",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Roman Neustädter (FC Schalke 04)</b> <br/>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363875",
+    "tickertime": "21.03.2015 19:48:53",
+    "minute": "61",
+    "headline": "",
+    "content": "<p><b>Rolfes ins Aus</b></p> <p>Aufregung allerorten, ein vernünftiges Spiel kommt hier gerade nicht zustande. Rolfes sucht Calhanoglu, findet das Seitenaus.</p>",
+    "syndicate": "s1de"
   }
 ]
