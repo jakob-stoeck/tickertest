@@ -703,5 +703,77 @@
     "headline": "",
     "content": "<p><b>Nix sonst</b></p> <p>Außer seinem Treffer hat Selke heute nichts aufs Grün bekommen.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1362946",
+    "tickertime": "21.03.2015 16:56:03",
+    "minute": "68",
+    "headline": "",
+    "content": "<p><b>Wieder Osako</b></p> <p>Ujah links rüber, der Japaner mit der rechten Innenseite aus 16 Metern übers links Lattenkreuz.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362949",
+    "event": {
+      "id": "15874513",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "165025",
+        "name": "Janek Sternberg",
+        "firstname": "Janek",
+        "surname": "Sternberg",
+        "fullname": "Janek Sternberg",
+        "gender": "male",
+        "birthday": "19.10.1992",
+        "height": "181",
+        "weight": "78"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "69",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:56"
+    },
+    "tickertime": "21.03.2015 16:56:26",
+    "minute": "69",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Janek Sternberg</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1362952",
+    "event": {
+      "id": "15874514",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "223663",
+        "name": "Santiago García",
+        "firstname": "Santiago",
+        "surname": "García",
+        "fullname": "Santiago García",
+        "gender": "male",
+        "birthday": "08.07.1988",
+        "height": "191",
+        "weight": "80"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "69",
+      "additional_person_id": "0",
+      "created": "21.03.2015 16:56"
+    },
+    "tickertime": "21.03.2015 16:56:32",
+    "minute": "69",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Santiago García</span>",
+    "syndicate": "s1de"
   }
 ]

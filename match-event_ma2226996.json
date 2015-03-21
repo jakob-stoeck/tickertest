@@ -1398,6 +1398,146 @@
     "created": "21.03.2015 16:45:41"
   },
   {
+    "id": "15874454",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "262804",
+      "name": "Davie Selke",
+      "firstname": "Davie",
+      "surname": "Selke",
+      "fullname": "Davie Selke",
+      "gender": "male",
+      "birthday": "20.01.1995",
+      "height": "192",
+      "weight": "70"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "66",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:53:15"
+  },
+  {
+    "id": "15874461",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "263594",
+      "name": "Levin Öztunali",
+      "firstname": "Levin",
+      "surname": "Öztunali",
+      "fullname": "Levin Mete Öztunali",
+      "gender": "male",
+      "birthday": "15.03.1996",
+      "height": "176",
+      "weight": "74"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "66",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:53:24"
+  },
+  {
+    "id": "15874513",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "165025",
+      "name": "Janek Sternberg",
+      "firstname": "Janek",
+      "surname": "Sternberg",
+      "fullname": "Janek Sternberg",
+      "gender": "male",
+      "birthday": "19.10.1992",
+      "height": "181",
+      "weight": "78"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "69",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:56:25"
+  },
+  {
+    "id": "15874514",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "223663",
+      "name": "Santiago García",
+      "firstname": "Santiago",
+      "surname": "García",
+      "fullname": "Santiago García",
+      "gender": "male",
+      "birthday": "08.07.1988",
+      "height": "191",
+      "weight": "80"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "69",
+    "additional_person_id": "0",
+    "created": "21.03.2015 16:56:32"
+  },
+  {
     "id": "1022434",
     "team": {
       "id": "9",
