@@ -757,5 +757,47 @@
     "headline": "",
     "content": "<p><b>Ulreich sicher</b></p> <p>Der VfB-Schlussmann kommt bei einer Flanke aus dem Tor und schnappt sich das Leder vor Meier.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363074",
+    "event": {
+      "id": "15874880",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "265034",
+        "name": "Alexandru Maxim",
+        "firstname": "Alexandru",
+        "surname": "Maxim",
+        "fullname": "Alexandru Iulian Maxim",
+        "gender": "male",
+        "birthday": "08.07.1990",
+        "height": "177",
+        "weight": "73"
+      },
+      "action": "goal",
+      "content": "3:1",
+      "kind": "right-foot",
+      "minute": "80",
+      "additional_person": {
+        "id": "255723",
+        "name": "Filip Kostić",
+        "firstname": "Filip",
+        "surname": "Kostić",
+        "fullname": "Filip Kostić",
+        "gender": "male",
+        "birthday": "01.11.1992",
+        "height": "180",
+        "weight": "68"
+      },
+      "created": "21.03.2015 17:07"
+    },
+    "tickertime": "21.03.2015 17:07:48",
+    "minute": "80",
+    "headline": "",
+    "content": "<b>Tooor für VfB Stuttgart, 3:1 durch Alexandru Maxim</b> <br/>",
+    "syndicate": "s1de"
   }
 ]
