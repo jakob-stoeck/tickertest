@@ -5,7 +5,7 @@
   </sports-metadata>
   <sports-event id="match-407556">
     <event-metadata event-status="mid-event" site-attendance="49000" stadium-name="HDI-Arena" stadium-city="Hannover" stadium-capacity="49000" stadium-id="177" game-exitid1="407556" game-exitid2="153332">
-      <event-metadata-soccer period-minute-elapsed="45" period-value="1"/>
+      <event-metadata-soccer period-minute-elapsed="46" period-value="2"/>
     </event-metadata>
     <team id="team-1">
       <team-metadata team-key="H96" alignment="home">
@@ -431,6 +431,8 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1362723" period-minute-elapsed="46" period-value="2" action-type="other" comment="Keine Wechsel|Beide Teams spielen vorerst unverändert weiter.&#10;"/>
+        <action-soccer-other id="ev-407556-1362716" period-minute-elapsed="46" period-value="2" action-type="start2" comment="Anpfiff 2. Halbzeit|"/>
         <action-soccer-other id="ev-407556-1362671" period-minute-elapsed="45" period-value="1" action-type="end1" comment="Ende 1. Halbzeit|Halbzeit-Fazit: Verdientes Remis nach einer mäßigen ersten Hälfte mit wenigen Highlights. Der BVB ist in der ersten halben Stunde etwas besser bzw. effizienter, aber ohne zu glänzen. Hannover gleicht zwar ziemlich überraschend aus, verdient sich danach aber dieses 1:1 zur Pause mit viel Leidenschaft und Mut.&#10;"/>
         <action-soccer-other id="ev-407556-1362659" period-minute-elapsed="44" period-value="1" action-type="other" comment="Der BVB verliert die Bälle zu schnell|Und kommt darum momentan kaum noch über die Mittellinie. Da ist seit dem Ausgleich schon ein Bruch im Spiel zu erkennen.&#10;"/>
         <action-soccer-other id="ev-407556-1362648" period-minute-elapsed="42" period-value="1" action-type="other" comment="Fünfte Ecke für die Hausherren|Kiyotake serviert von links, aber am Fünfer lässt Hummels nichts anbrennen.&#10;"/>
