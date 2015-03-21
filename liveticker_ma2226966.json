@@ -785,5 +785,77 @@
     "headline": "",
     "content": "<p><b>Rolfes ins Aus</b></p> <p>Aufregung allerorten, ein vernünftiges Spiel kommt hier gerade nicht zustande. Rolfes sucht Calhanoglu, findet das Seitenaus.</p>",
     "syndicate": "s1de"
+  },
+  {
+    "id": "1363888",
+    "tickertime": "21.03.2015 19:51:07",
+    "minute": "64",
+    "headline": "",
+    "content": "<p><b>Boateng gegen Wendell</b></p> <p>Er reißt den Leverkusener um. Mehr als Fouls hat Boateng bis jetzt nicht zu bieten.</p>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363892",
+    "event": {
+      "id": "15878038",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "424",
+        "name": "Roman Neustädter",
+        "firstname": "Roman",
+        "surname": "Neustädter",
+        "fullname": "Roman Neustädter",
+        "gender": "male",
+        "birthday": "18.02.1988",
+        "height": "190",
+        "weight": "83"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "64",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:51"
+    },
+    "tickertime": "21.03.2015 19:51:25",
+    "minute": "64",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Roman Neustädter</span>",
+    "syndicate": "s1de"
+  },
+  {
+    "id": "1363895",
+    "event": {
+      "id": "15878039",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "231656",
+        "name": "Leon Goretzka",
+        "firstname": "Leon",
+        "surname": "Goretzka",
+        "fullname": "Leon Goretzka",
+        "gender": "male",
+        "birthday": "06.02.1995",
+        "height": "189",
+        "weight": "76"
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "64",
+      "additional_person_id": "0",
+      "created": "21.03.2015 19:51"
+    },
+    "tickertime": "21.03.2015 19:51:31",
+    "minute": "64",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Leon Goretzka</span>",
+    "syndicate": "s1de"
   }
 ]
