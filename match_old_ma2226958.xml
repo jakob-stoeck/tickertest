@@ -431,6 +431,7 @@
     </team>
     <event-actions>
       <event-actions-soccer>
+        <action-soccer-other id="ev-407556-1363218" period-minute-elapsed="90" period-value="2" action-type="other" comment="Nochmal Freistoß für 96|Nach Foul von Subotic an Joselu liegt der Ball 20 Meter vor dem Tor parat. Andreasen schießt direkt mit rechts - drüber!&#10;"/>
         <action-soccer-other id="ev-407556-1363200" period-minute-elapsed="90" period-value="2" action-type="other" comment="Die reguläre Spielzeit ist um|Aber satte vier Minuten Nachspielzeit werden angezeigt!&#10;"/>
         <action-soccer-substitution id="ev-407556-1363188" period-minute-elapsed="90" period-value="2" comment="Wechsel bei Borussia Dortmund | Adrián Ramos für Marco Reus" team-idref="t-14" person-original-idref="pl-22225" person-replacing-idref="pl-1565"/>
         <action-soccer-other id="ev-407556-1363153" period-minute-elapsed="87" period-value="2" action-type="other" comment="Weidenfeller ist auf dem Posten|Nach einer flachen Hereingabe von Albornoz wirft sich der Keeper am Fünfer vor Joselu über den Ball.&#10;"/>
