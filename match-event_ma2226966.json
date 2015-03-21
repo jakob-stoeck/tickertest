@@ -1688,6 +1688,76 @@
     "created": "21.03.2015 19:48:42"
   },
   {
+    "id": "15878038",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "424",
+      "name": "Roman Neustädter",
+      "firstname": "Roman",
+      "surname": "Neustädter",
+      "fullname": "Roman Neustädter",
+      "gender": "male",
+      "birthday": "18.02.1988",
+      "height": "190",
+      "weight": "83"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "64",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:51:24"
+  },
+  {
+    "id": "15878039",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "person": {
+      "id": "231656",
+      "name": "Leon Goretzka",
+      "firstname": "Leon",
+      "surname": "Goretzka",
+      "fullname": "Leon Goretzka",
+      "gender": "male",
+      "birthday": "06.02.1995",
+      "height": "189",
+      "weight": "76"
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "64",
+    "additional_person_id": "0",
+    "created": "21.03.2015 19:51:31"
+  },
+  {
     "id": "1193239",
     "team": {
       "id": "205",
