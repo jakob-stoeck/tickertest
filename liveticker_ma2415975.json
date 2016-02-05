@@ -843,5 +843,58 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Thorgan Hazard</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621266",
+    "event": {
+      "id": "19157464",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "14954",
+        "name": "Ibrahima Traoré",
+        "firstname": "Ibrahima",
+        "surname": "Traoré",
+        "fullname": "Ibrahima Traoré",
+        "gender": "male",
+        "birthday": "21.04.1988",
+        "height": "172",
+        "weight": "62",
+        "person_detail": {
+          "id": "73226",
+          "position_1": "6",
+          "position_2": "8",
+          "preferred_side": "left",
+          "birth_place": "Villepinte",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "75"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "05.02.2016 21:53"
+    },
+    "tickertime": "05.02.2016 21:53:40",
+    "minute": "67",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Ibrahima Traoré</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621269",
+    "tickertime": "05.02.2016 21:54:27",
+    "minute": "68",
+    "headline": "",
+    "content": "André Schubert setzt einen Impuls in der schwächelnden Gladbacher Offensive und bringt für den in der ersten Halbzeit überragenden Thorgan Hazard Ibrahima Traoré neu in die Partie.",
+    "syndicate": "heimspiel"
   }
 ]
