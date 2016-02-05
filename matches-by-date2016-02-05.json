@@ -424,7 +424,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:32:52",
-                "current_minute": "64",
+                "current_minute": "65",
                 "attendance": "",
                 "winner_team_id": "1868",
                 "home": {
@@ -604,8 +604,8 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:32:27",
-                "current_minute": "64",
-                "attendance": "",
+                "current_minute": "65",
+                "attendance": "21829",
                 "winner_team_id": "6",
                 "home": {
                   "id": "6",
@@ -2608,7 +2608,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:30:49",
-                "current_minute": "8",
+                "current_minute": "11",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -8160,7 +8160,7 @@
                 "current_period_start": "2016-02-05 19:01:31",
                 "current_minute": "45",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "18645",
                 "home": {
                   "id": "842",
                   "name": "FSV Budissa Bautzen",
@@ -8223,7 +8223,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -13632,7 +13632,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:08:30",
-                "current_minute": "88",
+                "current_minute": "89",
                 "attendance": "",
                 "winner_team_id": "211",
                 "home": {
