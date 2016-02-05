@@ -3641,9 +3641,35 @@
     },
     "action": "goal",
     "content": "2:0",
-    "kind": "goal",
+    "kind": "back-heel",
     "minute": "67",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "16470",
+      "name": "Stefano Celozzi",
+      "firstname": "Stefano",
+      "surname": "Celozzi",
+      "fullname": "Stefano Celozzi",
+      "gender": "male",
+      "birthday": "02.11.1988",
+      "height": "171",
+      "weight": "65",
+      "person_detail": {
+        "id": "37032",
+        "position_1": "5",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Günzburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
     "created": "05.02.2016 19:56:20"
   },
   {
