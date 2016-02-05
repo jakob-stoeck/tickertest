@@ -1200,5 +1200,50 @@
     "headline": "",
     "content": "Nach einer erneut harmlosen Ecke der Gäste leitet Nordtveit den Gladbacher Konter ein und geht im Zusammenspiel mit Raffael über die rechte Seite. Leon Guwara ist aber rechtzeitig wieder hinten und erkämpft sich das Leder.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621294",
+    "event": {
+      "id": "19157739",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "262027",
+        "name": "Mahmoud Dahoud",
+        "firstname": "Mahmoud",
+        "surname": "Dahoud",
+        "fullname": "Mahmoud Dahoud",
+        "gender": "male",
+        "birthday": "01.01.1996",
+        "height": "176",
+        "weight": "76",
+        "person_detail": {
+          "id": "197701",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Amouda",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "84",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:11"
+    },
+    "tickertime": "05.02.2016 22:11:09",
+    "minute": "84",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Mahmoud Dahoud</span>",
+    "syndicate": "heimspiel"
   }
 ]
