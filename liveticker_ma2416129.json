@@ -518,5 +518,58 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Marcel Gaus (1. FC Kaiserslautern)</b> <br/>Der Fast-Doppelpacker hält den Fuß drauf und kassiert dafür den Gelben Karton.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620837",
+    "tickertime": "05.02.2016 19:42:49",
+    "minute": "52",
+    "headline": "",
+    "content": "Bei einem Eckball steigt Vučur am ersten Pfosten ziemlich ungestört zum Kopfball hoch, trifft aber den eigenen Mitspieler am Rücken. Da war mehr drin für die Gastgeber.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620838",
+    "event": {
+      "id": "19156511",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "15126",
+        "name": "Damir Kreilach",
+        "firstname": "Damir",
+        "surname": "Kreilach",
+        "fullname": "Damir Kreilach",
+        "gender": "male",
+        "birthday": "16.04.1989",
+        "height": "188",
+        "weight": "79",
+        "person_detail": {
+          "id": "117661",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "109"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "55",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:42"
+    },
+    "tickertime": "05.02.2016 19:42:59",
+    "minute": "55",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Damir Kreilach (1. FC Union Berlin)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
