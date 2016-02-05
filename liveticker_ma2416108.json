@@ -846,15 +846,38 @@
       },
       "action": "goal",
       "content": "2:0",
-      "kind": "goal",
+      "kind": "back-heel",
       "minute": "67",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "16470",
+        "name": "Stefano Celozzi",
+        "firstname": "Stefano",
+        "surname": "Celozzi",
+        "fullname": "Stefano Celozzi",
+        "gender": "male",
+        "birthday": "02.11.1988",
+        "height": "171",
+        "weight": "65",
+        "person_detail": {
+          "id": "37032",
+          "position_1": "5",
+          "position_2": "9",
+          "preferred_side": "right",
+          "birth_place": "Günzburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
       "created": "05.02.2016 19:56"
     },
     "tickertime": "05.02.2016 19:56:21",
     "minute": "67",
     "headline": "",
-    "content": "<b>Tooor für VfL Bochum, 2:0 durch Tim Hoogland</b> <br/>",
+    "content": "<b>Tooor für VfL Bochum, 2:0 durch Tim Hoogland</b> <br/> Der VfL legt nach!",
     "syndicate": "heimspiel"
   }
 ]

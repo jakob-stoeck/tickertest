@@ -783,5 +783,95 @@
     "headline": "",
     "content": "Kaiserslautern hat hier alles im Griff. Nichts deutet auf eine Aufholjagd der Gäste hin, die sich weiterhin extrem schwer tun, für Gefahr zu sorgen. Ein enttäuschender Auftritt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620890",
+    "event": {
+      "id": "19156722",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "222525",
+        "name": "Jón Bödvarsson",
+        "firstname": "Jón",
+        "surname": "Bödvarsson",
+        "fullname": "Jón Dadi Bödvarsson",
+        "gender": "male",
+        "birthday": "25.05.1992",
+        "height": "190",
+        "weight": "85",
+        "person_detail": {
+          "id": "165742",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "87"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "70",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:56"
+    },
+    "tickertime": "05.02.2016 19:56:49",
+    "minute": "70",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Kaiserslautern -> Jón Bödvarsson</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620891",
+    "event": {
+      "id": "19156723",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "229654",
+        "name": "Antonio Čolak",
+        "firstname": "Antonio",
+        "surname": "Čolak",
+        "fullname": "Antonio-Mirko Čolak",
+        "gender": "male",
+        "birthday": "17.09.1993",
+        "height": "187",
+        "weight": "73",
+        "person_detail": {
+          "id": "172229",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Ludwigsburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "109"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "70",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:56"
+    },
+    "tickertime": "05.02.2016 19:56:56",
+    "minute": "70",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Kaiserslautern -> Antonio Čolak</span>",
+    "syndicate": "heimspiel"
   }
 ]
