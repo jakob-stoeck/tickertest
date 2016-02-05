@@ -1114,5 +1114,95 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei 1. FC Union Berlin -> Maxi Thiel</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620934",
+    "event": {
+      "id": "19156758",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "259970",
+        "name": "Kenny Redondo",
+        "firstname": "Kenny",
+        "surname": "Redondo",
+        "fullname": "Kenny Prince Redondo",
+        "gender": "male",
+        "birthday": "29.08.1994",
+        "height": "182",
+        "weight": "69",
+        "person_detail": {
+          "id": "196119",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "München",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:04"
+    },
+    "tickertime": "05.02.2016 20:04:30",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Union Berlin -> Kenny Redondo</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620937",
+    "event": {
+      "id": "19156760",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "96",
+        "name": "Fabian Schönheim",
+        "firstname": "Fabian",
+        "surname": "Schönheim",
+        "fullname": "Fabian Schönheim",
+        "gender": "male",
+        "birthday": "14.02.1987",
+        "height": "191",
+        "weight": "83",
+        "person_detail": {
+          "id": "34718",
+          "position_1": "4",
+          "position_2": "3",
+          "preferred_side": "left",
+          "birth_place": "Kirn",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:1",
+      "kind": "head",
+      "minute": "76",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:04"
+    },
+    "tickertime": "05.02.2016 20:04:47",
+    "minute": "76",
+    "headline": "",
+    "content": "<b>Tooor für 1. FC Union Berlin, 2:1 durch Fabian Schönheim</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
