@@ -979,5 +979,140 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Bobby Wood (1. FC Union Berlin)</b> <br/>Da hat sich Frust aufgestaut: Der Ami verliert die Kugel an Heubach und bringt den Lauterer anschließend zu Fall.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620928",
+    "event": {
+      "id": "19156753",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "139057",
+        "name": "Mateusz Klich",
+        "firstname": "Mateusz",
+        "surname": "Klich",
+        "fullname": "Mateusz Klich",
+        "gender": "male",
+        "birthday": "13.06.1990",
+        "height": "183",
+        "weight": "68",
+        "person_detail": {
+          "id": "128415",
+          "position_1": "13",
+          "position_2": "7",
+          "preferred_side": "right",
+          "birth_place": "Tarnów",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "166"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:03"
+    },
+    "tickertime": "05.02.2016 20:03:59",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Kaiserslautern -> Mateusz Klich</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620929",
+    "event": {
+      "id": "19156754",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "225576",
+        "name": "Alexander Ring",
+        "firstname": "Alexander",
+        "surname": "Ring",
+        "fullname": "Alexander Ring",
+        "gender": "male",
+        "birthday": "09.04.1991",
+        "height": "173",
+        "weight": "72",
+        "person_detail": {
+          "id": "168492",
+          "position_1": "9",
+          "position_2": "7",
+          "preferred_side": "right",
+          "birth_place": "Helsinki",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "60"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:04"
+    },
+    "tickertime": "05.02.2016 20:04:07",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Kaiserslautern -> Alexander Ring</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620932",
+    "event": {
+      "id": "19156756",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "223052",
+        "name": "Maxi Thiel",
+        "firstname": "Maxi",
+        "surname": "Thiel",
+        "fullname": "Maximilian Thiel",
+        "gender": "male",
+        "birthday": "03.02.1993",
+        "height": "185",
+        "weight": "74",
+        "person_detail": {
+          "id": "166228",
+          "position_1": "6",
+          "position_2": "10",
+          "preferred_side": "left",
+          "birth_place": "Altötting",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:04"
+    },
+    "tickertime": "05.02.2016 20:04:18",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Union Berlin -> Maxi Thiel</span>",
+    "syndicate": "heimspiel"
   }
 ]
