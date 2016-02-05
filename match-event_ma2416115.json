@@ -2993,7 +2993,33 @@
     "content": "1:0",
     "kind": "right-foot",
     "minute": "49",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "21536",
+      "name": "Stefan Kulovits",
+      "firstname": "Stefan",
+      "surname": "Kulovits",
+      "fullname": "Stefan Kulovits",
+      "gender": "male",
+      "birthday": "19.04.1983",
+      "height": "178",
+      "weight": "65",
+      "person_detail": {
+        "id": "14218",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Wien",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
     "created": "05.02.2016 19:36:22"
   },
   {
