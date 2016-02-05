@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
 Server: Apache
 Access-Control-Allow-Origin: *
-ETag: "e0dcf391fe2f141b3d682f44bcdf0dd3"
-Expires: Fri, 05 Feb 2016 18:26:35 GMT
+ETag: "b299353eca7d111b11f2ee8ab86d9382"
+Expires: Fri, 05 Feb 2016 18:27:27 GMT
 Cache-Control: public, max-age=40
 Content-Encoding: gzip
 Content-Type: application/json; charset=utf-8
 Accept-Ranges: bytes
-Content-Length: 27406
-Date: Fri, 05 Feb 2016 18:26:30 GMT
+Content-Length: 27396
+Date: Fri, 05 Feb 2016 18:26:47 GMT
 Connection: keep-alive
 Vary: Accept-Encoding
 
@@ -1010,7 +1010,7 @@ Vary: Accept-Encoding
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:49",
-                "current_minute": "24",
+                "current_minute": "25",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -1150,7 +1150,7 @@ Vary: Accept-Encoding
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:06",
-                "current_minute": "25",
+                "current_minute": "26",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -7922,7 +7922,7 @@ Vary: Accept-Encoding
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:31",
-                "current_minute": "24",
+                "current_minute": "25",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -8062,7 +8062,7 @@ Vary: Accept-Encoding
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:31",
-                "current_minute": "24",
+                "current_minute": "25",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -13512,7 +13512,7 @@ Vary: Accept-Encoding
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:08:30",
-                "current_minute": "63",
+                "current_minute": "64",
                 "attendance": "",
                 "winner_team_id": "211",
                 "home": {
@@ -13864,7 +13864,7 @@ Vary: Accept-Encoding
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:03:31",
-                "current_minute": "68",
+                "current_minute": "69",
                 "attendance": "",
                 "winner_team_id": "55",
                 "home": {
