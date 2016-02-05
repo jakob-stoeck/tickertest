@@ -4037,6 +4037,162 @@
     "created": "05.02.2016 20:08:28"
   },
   {
+    "id": "19156778",
+    "team": {
+      "id": "1868",
+      "name": "SV Sandhausen",
+      "shortname": "Sandhausen",
+      "microname": "SVS",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1868",
+        "members": "760",
+        "fullname": "Sportverein Sandhausen 1916",
+        "foundation": "1916-08-01",
+        "colours": "schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "780",
+        "name": "Hardtwaldstadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "780",
+          "capacity": "10231",
+          "built": "1951"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1199655",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "24789",
+      "name": "Robert Zillner",
+      "firstname": "Robert",
+      "surname": "Zillner",
+      "fullname": "Robert Zillner",
+      "gender": "male",
+      "birthday": "04.08.1985",
+      "height": "183",
+      "weight": "74",
+      "person_detail": {
+        "id": "51884",
+        "position_1": "6",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Passau",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:12:43"
+  },
+  {
+    "id": "19156779",
+    "team": {
+      "id": "1868",
+      "name": "SV Sandhausen",
+      "shortname": "Sandhausen",
+      "microname": "SVS",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1868",
+        "members": "760",
+        "fullname": "Sportverein Sandhausen 1916",
+        "foundation": "1916-08-01",
+        "colours": "schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "780",
+        "name": "Hardtwaldstadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "780",
+          "capacity": "10231",
+          "built": "1951"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1014900",
+      "shirtnumber": "7",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "229764",
+      "name": "Marco Thiede",
+      "firstname": "Marco",
+      "surname": "Thiede",
+      "fullname": "Marco Thiede",
+      "gender": "male",
+      "birthday": "20.05.1992",
+      "height": "175",
+      "weight": "70",
+      "person_detail": {
+        "id": "172337",
+        "position_1": "6",
+        "position_2": "8",
+        "preferred_side": "right",
+        "birth_place": "Augsburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:12:50"
+  },
+  {
     "id": "1452150",
     "team": {
       "id": "1651",
