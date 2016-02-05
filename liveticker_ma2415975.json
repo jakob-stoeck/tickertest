@@ -1033,5 +1033,140 @@
     "headline": "",
     "content": "Fast die Antwort der Bremer! Claudio Pizarro setzt Fin Bartels in der linken Strafraumhälfte ein, wo der eingewechselte Rechtsaußen vollkommen frei steht, seinen Schuss aber verzieht und das Leder weit am langen Pfosten vorbeisetzt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621280",
+    "event": {
+      "id": "19157564",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "13916",
+        "name": "Zlatko Junuzović",
+        "firstname": "Zlatko",
+        "surname": "Junuzović",
+        "fullname": "Zlatko Junuzović",
+        "gender": "male",
+        "birthday": "26.09.1987",
+        "height": "172",
+        "weight": "69",
+        "person_detail": {
+          "id": "32818",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Loznica",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:01"
+    },
+    "tickertime": "05.02.2016 22:01:39",
+    "minute": "74",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Zlatko Junuzović (Werder Bremen)</b> <br/>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621281",
+    "event": {
+      "id": "19157566",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "299833",
+        "name": "László Kleinheisler",
+        "firstname": "László",
+        "surname": "Kleinheisler",
+        "fullname": "László Kleinheisler",
+        "gender": "male",
+        "birthday": "08.04.1994",
+        "height": "173",
+        "weight": "69",
+        "person_detail": {
+          "id": "227698",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Kazincbarcika",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "226"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:01"
+    },
+    "tickertime": "05.02.2016 22:01:58",
+    "minute": "74",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> László Kleinheisler</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621282",
+    "event": {
+      "id": "19157567",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "295922",
+        "name": "Maximilian Eggestein",
+        "firstname": "Maximilian",
+        "surname": "Eggestein",
+        "fullname": "Maximilian Eggestein",
+        "gender": "male",
+        "birthday": "08.12.1996",
+        "height": "181",
+        "weight": "75",
+        "person_detail": {
+          "id": "223907",
+          "position_1": "8",
+          "position_2": "13",
+          "preferred_side": "unknown",
+          "birth_place": "Hannover",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "74",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:02"
+    },
+    "tickertime": "05.02.2016 22:02:07",
+    "minute": "74",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Maximilian Eggestein</span>",
+    "syndicate": "heimspiel"
   }
 ]
