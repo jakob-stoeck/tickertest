@@ -1080,51 +1080,6 @@
     "syndicate": "heimspiel"
   },
   {
-    "id": "1621282",
-    "event": {
-      "id": "19157567",
-      "team": {
-        "id": "2134",
-        "name": "Werder Bremen"
-      },
-      "person": {
-        "id": "295922",
-        "name": "Maximilian Eggestein",
-        "firstname": "Maximilian",
-        "surname": "Eggestein",
-        "fullname": "Maximilian Eggestein",
-        "gender": "male",
-        "birthday": "08.12.1996",
-        "height": "181",
-        "weight": "75",
-        "person_detail": {
-          "id": "223907",
-          "position_1": "8",
-          "position_2": "13",
-          "preferred_side": "unknown",
-          "birth_place": "Hannover",
-          "died": "no"
-        },
-        "country": [
-          {
-            "id": "47"
-          }
-        ]
-      },
-      "action": "playing",
-      "content": "",
-      "kind": "substitute-in",
-      "minute": "75",
-      "additional_person_id": "0",
-      "created": "05.02.2016 22:02"
-    },
-    "tickertime": "05.02.2016 22:02:07",
-    "minute": "74",
-    "headline": "",
-    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Maximilian Eggestein</span>",
-    "syndicate": "heimspiel"
-  },
-  {
     "id": "1621281",
     "event": {
       "id": "19157566",
@@ -1167,6 +1122,51 @@
     "minute": "75",
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> László Kleinheisler</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621282",
+    "event": {
+      "id": "19157567",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "295922",
+        "name": "Maximilian Eggestein",
+        "firstname": "Maximilian",
+        "surname": "Eggestein",
+        "fullname": "Maximilian Eggestein",
+        "gender": "male",
+        "birthday": "08.12.1996",
+        "height": "181",
+        "weight": "75",
+        "person_detail": {
+          "id": "223907",
+          "position_1": "8",
+          "position_2": "13",
+          "preferred_side": "unknown",
+          "birth_place": "Hannover",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:02"
+    },
+    "tickertime": "05.02.2016 22:02:51",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Maximilian Eggestein</span>",
     "syndicate": "heimspiel"
   },
   {
@@ -1297,51 +1297,6 @@
     "minute": "85",
     "headline": "",
     "content": "Mit Applaus und Sprechchören begrüßen die Gladbacher Fans Martin Stranzl auf dem Rasen, der nach langer Verletzung für die letzten Minuten sein Comeback gibt. Dafür hat Mahmoud Dahoud Feierabend.",
-    "syndicate": "heimspiel"
-  },
-  {
-    "id": "1621298",
-    "event": {
-      "id": "19157756",
-      "team": {
-        "id": "2134",
-        "name": "Werder Bremen"
-      },
-      "person": {
-        "id": "13916",
-        "name": "Zlatko Junuzović",
-        "firstname": "Zlatko",
-        "surname": "Junuzović",
-        "fullname": "Zlatko Junuzović",
-        "gender": "male",
-        "birthday": "26.09.1987",
-        "height": "172",
-        "weight": "69",
-        "person_detail": {
-          "id": "32818",
-          "position_1": "8",
-          "position_2": "0",
-          "preferred_side": "right",
-          "birth_place": "Loznica",
-          "died": "no"
-        },
-        "country": [
-          {
-            "id": "158"
-          }
-        ]
-      },
-      "action": "playing",
-      "content": "",
-      "kind": "substitute-out",
-      "minute": "86",
-      "additional_person_id": "0",
-      "created": "05.02.2016 22:12"
-    },
-    "tickertime": "05.02.2016 22:12:44",
-    "minute": "85",
-    "headline": "",
-    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Zlatko Junuzović</span>",
     "syndicate": "heimspiel"
   },
   {
@@ -1485,6 +1440,51 @@
     "minute": "87",
     "headline": "",
     "content": "Beide Trainer greifen zu ihrem letzten Wechsel: Bei Gladbach kommt Branimir Hrgota für Raffael, die Niedersachsen schicken Lukas Fröde für Zlatko Junuzović in die Schlussphase.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621298",
+    "event": {
+      "id": "19157756",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "13916",
+        "name": "Zlatko Junuzović",
+        "firstname": "Zlatko",
+        "surname": "Junuzović",
+        "fullname": "Zlatko Junuzović",
+        "gender": "male",
+        "birthday": "26.09.1987",
+        "height": "172",
+        "weight": "69",
+        "person_detail": {
+          "id": "32818",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Loznica",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:12"
+    },
+    "tickertime": "05.02.2016 22:16:55",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Zlatko Junuzović</span>",
     "syndicate": "heimspiel"
   },
   {
