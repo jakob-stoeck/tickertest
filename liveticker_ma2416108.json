@@ -668,5 +668,140 @@
     "headline": "",
     "content": "In der ersten Viertelstunde nach Wiederbeginn hat sich der Favorit keine Möglichkeit herausspielen können. Christian Streich wird in Kürze erstmals personell auf diese negative Entwicklung reagieren.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620873",
+    "event": {
+      "id": "19156677",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "134923",
+        "name": "Peniel Mlapa",
+        "firstname": "Peniel",
+        "surname": "Mlapa",
+        "fullname": "Peniel Kokou Mlapa",
+        "gender": "male",
+        "birthday": "20.02.1991",
+        "height": "195",
+        "weight": "89",
+        "person_detail": {
+          "id": "124281",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Lomé",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "61",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:51"
+    },
+    "tickertime": "05.02.2016 19:51:11",
+    "minute": "61",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Peniel Mlapa (VfL Bochum)</b> <br/>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620876",
+    "event": {
+      "id": "19156679",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "26281",
+        "name": "Karim Guédé",
+        "firstname": "Karim",
+        "surname": "Guédé",
+        "fullname": "Karim Abdul-Jabbar Guédé",
+        "gender": "male",
+        "birthday": "07.01.1985",
+        "height": "184",
+        "weight": "85",
+        "person_detail": {
+          "id": "29869",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Hamburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "190"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:51"
+    },
+    "tickertime": "05.02.2016 19:51:24",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Freiburg -> Karim Guédé</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620877",
+    "event": {
+      "id": "19156680",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "229821",
+        "name": "Amir Falahen",
+        "firstname": "Amir",
+        "surname": "Falahen",
+        "fullname": "Amir Falahen",
+        "gender": "male",
+        "birthday": "15.03.1993",
+        "height": "193",
+        "weight": "84",
+        "person_detail": {
+          "id": "172394",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:51"
+    },
+    "tickertime": "05.02.2016 19:51:32",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Freiburg -> Amir Falahen</span>",
+    "syndicate": "heimspiel"
   }
 ]
