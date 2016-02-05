@@ -1205,5 +1205,50 @@
     "headline": "",
     "content": "Der bemühte, aber gerade nach dem Seitenwechsel wirkungslose und am zweiten Gegentreffer nicht unschuldige Debütant Nielsen verabschiedet sich aus dem Spiel. Mit Kath schickt Streich für die letzten Minuten einen Außenbahnakteur auf den Rasen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620987",
+    "event": {
+      "id": "19156783",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "2609",
+        "name": "Florian Kath",
+        "firstname": "Florian",
+        "surname": "Kath",
+        "fullname": "Florian Kath",
+        "gender": "male",
+        "birthday": "21.10.1994",
+        "height": "185",
+        "weight": "70",
+        "person_detail": {
+          "id": "106225",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Balingen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:14"
+    },
+    "tickertime": "05.02.2016 20:14:30",
+    "minute": "85",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Florian Kath (SC Freiburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
