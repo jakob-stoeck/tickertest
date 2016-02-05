@@ -524,5 +524,73 @@
     "headline": "",
     "content": "Was Eckbälle angeht, hat Bremen zumindest quantitativ die Nase vorn. Auch die nächsten Ecke bleibt jedoch ohne Ertrag, Djilobodji wird für ein Stürmerfoul zurückgepfiffen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621232",
+    "event": {
+      "id": "19157316",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "303116",
+        "name": "Andreas Christensen",
+        "firstname": "Andreas",
+        "surname": "Christensen",
+        "fullname": "Andreas Christensen",
+        "gender": "male",
+        "birthday": "10.04.1996",
+        "height": "188",
+        "weight": "68",
+        "person_detail": {
+          "id": "230898",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Allerod",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "45"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "3:0",
+      "kind": "head",
+      "minute": "50",
+      "additional_person": {
+        "id": "14959",
+        "name": "Raffael",
+        "firstname": "",
+        "surname": "Raffael",
+        "fullname": "Raffael Caetano de Araújo",
+        "gender": "male",
+        "birthday": "28.03.1985",
+        "height": "174",
+        "weight": "69",
+        "person_detail": {
+          "id": "34804",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "both",
+          "birth_place": "Fortaleza",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
+      "created": "05.02.2016 21:37"
+    },
+    "tickertime": "05.02.2016 21:37:35",
+    "minute": "50",
+    "headline": "",
+    "content": "<b>Tooor für Bor. Mönchengladbach, 3:0 durch Andreas Christensen</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
