@@ -1493,5 +1493,32 @@
     "headline": "",
     "content": "Nochmal Marc Brašnić und nochmal Ecke! Alles nach vorne, auch Lukas Kruse kommt!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621024",
+    "tickertime": "05.02.2016 20:22:18",
+    "minute": "90",
+    "headline": "",
+    "content": "Nein, es gibt Offenivfoul und das sollte es doch gewesen sein!",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621025",
+    "event": {
+      "id": "19156878",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:22"
+    },
+    "tickertime": "05.02.2016 20:22:21",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
   }
 ]

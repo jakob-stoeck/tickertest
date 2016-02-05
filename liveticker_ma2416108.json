@@ -1274,5 +1274,32 @@
     "headline": "",
     "content": "Die Nachspielzeit an der Castroper Straße beträgt <b>zwei</b> Minuten.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621022",
+    "tickertime": "05.02.2016 20:22:10",
+    "minute": "90",
+    "headline": "",
+    "content": "Hoogland schnürt beinahe den Doppelpack! Der erfahrene Defensivmann verlängert eine Freistoßflanke aus der Drehung mit dem rechten Spann beinahe in den linken Winkel. Das dürfte die letzte Aktion des Abends gewesen sein.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621023",
+    "event": {
+      "id": "19156877",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:22"
+    },
+    "tickertime": "05.02.2016 20:22:13",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
   }
 ]
