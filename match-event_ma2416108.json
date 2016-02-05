@@ -3569,6 +3569,84 @@
     "created": "05.02.2016 19:51:32"
   },
   {
+    "id": "19156721",
+    "team": {
+      "id": "2079",
+      "name": "VfL Bochum",
+      "shortname": "Bochum",
+      "microname": "BOC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2079",
+        "members": "5500",
+        "fullname": "Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft e.V.",
+        "foundation": "1848-07-01",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1541",
+        "name": "rewirpowerSTADION",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1541",
+          "capacity": "29299",
+          "built": "1979"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1379036",
+      "shirtnumber": "2",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "413",
+      "name": "Tim Hoogland",
+      "firstname": "Tim",
+      "surname": "Hoogland",
+      "fullname": "Tim Hoogland",
+      "gender": "male",
+      "birthday": "11.06.1985",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "19881",
+        "position_1": "5",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Marl",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "2:0",
+    "kind": "goal",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:56:20"
+  },
+  {
     "id": "775322",
     "team": {
       "id": "1639",
