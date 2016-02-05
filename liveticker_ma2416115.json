@@ -1379,5 +1379,50 @@
     "headline": "",
     "content": "Damit haben beide Trainer ihr Kontingent ausgeschöpft. Robert Zillner geht ausgepumpt runter.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620985",
+    "event": {
+      "id": "19156782",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "21220",
+        "name": "Marvin Bakalorz",
+        "firstname": "Marvin",
+        "surname": "Bakalorz",
+        "fullname": "Marvin Bakalorz",
+        "gender": "male",
+        "birthday": "13.09.1989",
+        "height": "180",
+        "weight": "73",
+        "person_detail": {
+          "id": "114403",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Offenbach",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "87",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:14"
+    },
+    "tickertime": "05.02.2016 20:14:20",
+    "minute": "87",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Marvin Bakalorz (SC Paderborn 07)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
