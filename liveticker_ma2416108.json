@@ -423,5 +423,50 @@
     "headline": "",
     "content": "Da war mehr drin! Ein langer Schlag von Keeper Schwolow rutscht im Zentrum durch. Abrashi kommt an die Kugel, kann sie jedoch nicht",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620766",
+    "event": {
+      "id": "19156296",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "26281",
+        "name": "Karim Guédé",
+        "firstname": "Karim",
+        "surname": "Guédé",
+        "fullname": "Karim Abdul-Jabbar Guédé",
+        "gender": "male",
+        "birthday": "07.01.1985",
+        "height": "184",
+        "weight": "85",
+        "person_detail": {
+          "id": "29869",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Hamburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "190"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:15"
+    },
+    "tickertime": "05.02.2016 19:15:43",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Karim Guédé (SC Freiburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]

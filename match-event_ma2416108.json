@@ -3079,6 +3079,84 @@
     "created": "05.02.2016 19:10:37"
   },
   {
+    "id": "19156296",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1639",
+        "members": "9000",
+        "fullname": "Sport Club Freiburg",
+        "foundation": "1904-05-30",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "187",
+        "name": "Schwarzwald-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "187",
+          "capacity": "24000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "783198",
+      "shirtnumber": "31",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "26281",
+      "name": "Karim Guédé",
+      "firstname": "Karim",
+      "surname": "Guédé",
+      "fullname": "Karim Abdul-Jabbar Guédé",
+      "gender": "male",
+      "birthday": "07.01.1985",
+      "height": "184",
+      "weight": "85",
+      "person_detail": {
+        "id": "29869",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Hamburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "190",
+          "name": "Slowakei",
+          "code": "SVK",
+          "iso": "SK"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:15:43"
+  },
+  {
     "id": "775322",
     "team": {
       "id": "1639",
