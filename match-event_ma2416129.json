@@ -3985,6 +3985,240 @@
     "created": "05.02.2016 20:00:53"
   },
   {
+    "id": "19156753",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "6",
+        "members": "20000",
+        "fullname": "1. Fußball Club Kaiserslautern e.V",
+        "foundation": "1900-06-02",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "647",
+        "name": "Fritz-Walter-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "647",
+          "capacity": "49780",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1294371",
+      "shirtnumber": "23",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "139057",
+      "name": "Mateusz Klich",
+      "firstname": "Mateusz",
+      "surname": "Klich",
+      "fullname": "Mateusz Klich",
+      "gender": "male",
+      "birthday": "13.06.1990",
+      "height": "183",
+      "weight": "68",
+      "person_detail": {
+        "id": "128415",
+        "position_1": "13",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Tarnów",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen",
+          "code": "POL",
+          "iso": "PL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:03:59"
+  },
+  {
+    "id": "19156754",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "6",
+        "members": "20000",
+        "fullname": "1. Fußball Club Kaiserslautern e.V",
+        "foundation": "1900-06-02",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "647",
+        "name": "Fritz-Walter-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "647",
+          "capacity": "49780",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1026064",
+      "shirtnumber": "6",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "225576",
+      "name": "Alexander Ring",
+      "firstname": "Alexander",
+      "surname": "Ring",
+      "fullname": "Alexander Ring",
+      "gender": "male",
+      "birthday": "09.04.1991",
+      "height": "173",
+      "weight": "72",
+      "person_detail": {
+        "id": "168492",
+        "position_1": "9",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Helsinki",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "60",
+          "name": "Finnland",
+          "code": "FIN",
+          "iso": "FI"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:04:07"
+  },
+  {
+    "id": "19156756",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "19",
+        "members": "12000",
+        "fullname": "1. Fußball Club Union Berlin",
+        "foundation": "1966-01-20",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "89",
+        "name": "An der Alten Försterei",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "89",
+          "capacity": "21410",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1243753",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "223052",
+      "name": "Maxi Thiel",
+      "firstname": "Maxi",
+      "surname": "Thiel",
+      "fullname": "Maximilian Thiel",
+      "gender": "male",
+      "birthday": "03.02.1993",
+      "height": "185",
+      "weight": "74",
+      "person_detail": {
+        "id": "166228",
+        "position_1": "6",
+        "position_2": "10",
+        "preferred_side": "left",
+        "birth_place": "Altötting",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:04:18"
+  },
+  {
     "id": "1442620",
     "team": {
       "id": "6",

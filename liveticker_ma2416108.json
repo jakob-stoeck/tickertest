@@ -903,5 +903,95 @@
     "headline": "",
     "content": "Terodde verpasst die Entscheidung! Infolge eines langen Schlages von Losilla aus dem Mittelkreis in den Sechzehner taucht der Bochumer Angreifer frei vor Schwolow auf. Der sehr spät herausgelaufene Keeper baut sich breit vor Terodde auf und kann damit einen Abschluss verhindern.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620931",
+    "event": {
+      "id": "19156755",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "29251",
+        "name": "Timo Perthel",
+        "firstname": "Timo",
+        "surname": "Perthel",
+        "fullname": "Timo Perthel",
+        "gender": "male",
+        "birthday": "11.02.1989",
+        "height": "185",
+        "weight": "72",
+        "person_detail": {
+          "id": "96668",
+          "position_1": "3",
+          "position_2": "6",
+          "preferred_side": "left",
+          "birth_place": "Kaiserslautern",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:04"
+    },
+    "tickertime": "05.02.2016 20:04:14",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Bochum -> Timo Perthel</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620933",
+    "event": {
+      "id": "19156757",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "28510",
+        "name": "Jan Šimůnek",
+        "firstname": "Jan",
+        "surname": "Šimůnek",
+        "fullname": "Jan Šimůnek",
+        "gender": "male",
+        "birthday": "20.02.1987",
+        "height": "189",
+        "weight": "79",
+        "person_detail": {
+          "id": "33071",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Praha",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "217"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:04"
+    },
+    "tickertime": "05.02.2016 20:04:25",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Bochum -> Jan Šimůnek</span>",
+    "syndicate": "heimspiel"
   }
 ]
