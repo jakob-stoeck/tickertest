@@ -153,5 +153,73 @@
     "headline": "",
     "content": "Die Borussia dreht auf. Thorgan Hazard geht über die rechte Seite und bringt die Flanke relativ unbedrängt flach an den Fünfer. Fabian Johnson ist zwar mitgelaufen, kommt aber einen Schritt zu spät, um die Hereingabe zu verwerten.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621102",
+    "event": {
+      "id": "19156930",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "16487",
+        "name": "Lars Stindl",
+        "firstname": "Lars",
+        "surname": "Stindl",
+        "fullname": "Lars Stindl",
+        "gender": "male",
+        "birthday": "26.08.1988",
+        "height": "180",
+        "weight": "78",
+        "person_detail": {
+          "id": "77248",
+          "position_1": "8",
+          "position_2": "9",
+          "preferred_side": "right",
+          "birth_place": "Speyer",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "right-foot",
+      "minute": "12",
+      "additional_person": {
+        "id": "249977",
+        "name": "Thorgan Hazard",
+        "firstname": "Thorgan",
+        "surname": "Hazard",
+        "fullname": "Thorgan Hazard",
+        "gender": "male",
+        "birthday": "29.03.1993",
+        "height": "174",
+        "weight": "69",
+        "person_detail": {
+          "id": "187858",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "La Louvière",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "23"
+          }
+        ]
+      },
+      "created": "05.02.2016 20:42"
+    },
+    "tickertime": "05.02.2016 20:42:48",
+    "minute": "12",
+    "headline": "",
+    "content": "<b>Tooor für Bor. Mönchengladbach, 1:0 durch Lars Stindl</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
