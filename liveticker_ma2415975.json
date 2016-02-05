@@ -1290,5 +1290,58 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Martin Stranzl</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621297",
+    "tickertime": "05.02.2016 22:12:31",
+    "minute": "85",
+    "headline": "",
+    "content": "Mit Applaus und Sprechchören begrüßen die Gladbacher Fans Martin Stranzl auf dem Rasen, der nach langer Verletzung für die letzten Minuten sein Comeback gibt. Dafür hat Mahmoud Dahoud Feierabend.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621298",
+    "event": {
+      "id": "19157756",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "13916",
+        "name": "Zlatko Junuzović",
+        "firstname": "Zlatko",
+        "surname": "Junuzović",
+        "fullname": "Zlatko Junuzović",
+        "gender": "male",
+        "birthday": "26.09.1987",
+        "height": "172",
+        "weight": "69",
+        "person_detail": {
+          "id": "32818",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Loznica",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:12"
+    },
+    "tickertime": "05.02.2016 22:12:44",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Zlatko Junuzović</span>",
+    "syndicate": "heimspiel"
   }
 ]
