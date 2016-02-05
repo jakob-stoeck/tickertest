@@ -957,5 +957,73 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Jannik Vestergaard (Werder Bremen)</b> <br/>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621275",
+    "event": {
+      "id": "19157515",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "14959",
+        "name": "Raffael",
+        "firstname": "",
+        "surname": "Raffael",
+        "fullname": "Raffael Caetano de Araújo",
+        "gender": "male",
+        "birthday": "28.03.1985",
+        "height": "174",
+        "weight": "69",
+        "person_detail": {
+          "id": "34804",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "both",
+          "birth_place": "Fortaleza",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "4:1",
+      "kind": "penalty",
+      "minute": "70",
+      "additional_person": {
+        "id": "16487",
+        "name": "Lars Stindl",
+        "firstname": "Lars",
+        "surname": "Stindl",
+        "fullname": "Lars Stindl",
+        "gender": "male",
+        "birthday": "26.08.1988",
+        "height": "180",
+        "weight": "78",
+        "person_detail": {
+          "id": "77248",
+          "position_1": "8",
+          "position_2": "9",
+          "preferred_side": "right",
+          "birth_place": "Speyer",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "created": "05.02.2016 21:57"
+    },
+    "tickertime": "05.02.2016 21:57:13",
+    "minute": "70",
+    "headline": "",
+    "content": "<b>Tooor für Bor. Mönchengladbach, 4:1 durch Raffael</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
