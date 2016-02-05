@@ -1009,5 +1009,95 @@
     "headline": "",
     "content": "Wie in der gesamten bisherigen zweiten Halbzeit können die Breisgauer einfach keinen Zug zum Tor entwickeln. Minute um Minute verstreicht ohne Abschluss. Nach dem starken Beginn deutet jetzt alles auf die vierte Saisonniederlage hin.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620959",
+    "event": {
+      "id": "19156771",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "19083",
+        "name": "Simon Terodde",
+        "firstname": "Simon",
+        "surname": "Terodde",
+        "fullname": "Simon Terodde",
+        "gender": "male",
+        "birthday": "02.03.1988",
+        "height": "192",
+        "weight": "78",
+        "person_detail": {
+          "id": "84124",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Bocholt",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:09"
+    },
+    "tickertime": "05.02.2016 20:09:50",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Bochum -> Simon Terodde</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620960",
+    "event": {
+      "id": "19156772",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "259965",
+        "name": "Janik Haberer",
+        "firstname": "Janik",
+        "surname": "Haberer",
+        "fullname": "Janik Haberer",
+        "gender": "male",
+        "birthday": "02.04.1994",
+        "height": "187",
+        "weight": "71",
+        "person_detail": {
+          "id": "196114",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Wangen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:09"
+    },
+    "tickertime": "05.02.2016 20:09:58",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Bochum -> Janik Haberer</span>",
+    "syndicate": "heimspiel"
   }
 ]
