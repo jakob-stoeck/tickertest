@@ -293,5 +293,50 @@
     "headline": "",
     "content": "Hazard verpasst das 2:0! Nachdem Gladbachs Angriff eigentlich schon entschärft ist, gelangt das Leder doch noch eher zufällig zum Belgier in der rechten Strafraumhälfte, der sträflich freigelassen wird, seinen Abschluss jedoch aus aus spitzem Winkel nehmen muss und die Murmel am langen Pfosten vorbeisetzt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621153",
+    "event": {
+      "id": "19157014",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "249977",
+        "name": "Thorgan Hazard",
+        "firstname": "Thorgan",
+        "surname": "Hazard",
+        "fullname": "Thorgan Hazard",
+        "gender": "male",
+        "birthday": "29.03.1993",
+        "height": "174",
+        "weight": "69",
+        "person_detail": {
+          "id": "187858",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "La Louvière",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "23"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "30",
+      "additional_person_id": "0",
+      "created": "05.02.2016 21:00"
+    },
+    "tickertime": "05.02.2016 21:00:12",
+    "minute": "30",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Thorgan Hazard (Bor. Mönchengladbach)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
