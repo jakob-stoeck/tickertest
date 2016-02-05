@@ -934,5 +934,50 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Felix Kroos (1. FC Union Berlin)</b> <br/>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620905",
+    "event": {
+      "id": "19156736",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "221561",
+        "name": "Bobby Wood",
+        "firstname": "Bobby",
+        "surname": "Wood",
+        "fullname": "Bobby Shou Wood",
+        "gender": "male",
+        "birthday": "15.11.1992",
+        "height": "180",
+        "weight": "75",
+        "person_detail": {
+          "id": "164828",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Honolulu, HI",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "229"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "73",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:00"
+    },
+    "tickertime": "05.02.2016 20:00:53",
+    "minute": "73",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Bobby Wood (1. FC Union Berlin)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
