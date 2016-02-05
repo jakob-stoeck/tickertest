@@ -1273,5 +1273,103 @@
     "headline": "",
     "content": "<b>Neeeeeee!</b> Über rechts kommt eine Flanke super in die Mitte und im Gestochere hat Nicklas Helenius aus vier Metern den Ausgleich auf dem Fuß, bringt das Leder aber nicht an Rick Wulle vorbei!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620972",
+    "tickertime": "05.02.2016 20:12:21",
+    "minute": "85",
+    "headline": "",
+    "content": "Wird es jetzt hinten raus doch noch einmal richtig eng für Sandhausen? Bis hierhin war ein echtes Aufbäumen der Paderborner nicht wirklich zu erkennen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620976",
+    "event": {
+      "id": "19156778",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "24789",
+        "name": "Robert Zillner",
+        "firstname": "Robert",
+        "surname": "Zillner",
+        "fullname": "Robert Zillner",
+        "gender": "male",
+        "birthday": "04.08.1985",
+        "height": "183",
+        "weight": "74",
+        "person_detail": {
+          "id": "51884",
+          "position_1": "6",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Passau",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:12"
+    },
+    "tickertime": "05.02.2016 20:12:43",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SV Sandhausen -> Robert Zillner</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620978",
+    "event": {
+      "id": "19156779",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "229764",
+        "name": "Marco Thiede",
+        "firstname": "Marco",
+        "surname": "Thiede",
+        "fullname": "Marco Thiede",
+        "gender": "male",
+        "birthday": "20.05.1992",
+        "height": "175",
+        "weight": "70",
+        "person_detail": {
+          "id": "172337",
+          "position_1": "6",
+          "position_2": "8",
+          "preferred_side": "right",
+          "birth_place": "Augsburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:12"
+    },
+    "tickertime": "05.02.2016 20:12:50",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SV Sandhausen -> Marco Thiede</span>",
+    "syndicate": "heimspiel"
   }
 ]
