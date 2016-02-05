@@ -1343,5 +1343,140 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Zlatko Junuzović</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621299",
+    "event": {
+      "id": "19157758",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "233076",
+        "name": "Lukas Fröde",
+        "firstname": "Lukas",
+        "surname": "Fröde",
+        "fullname": "Lukas Fröde",
+        "gender": "male",
+        "birthday": "23.01.1995",
+        "height": "192",
+        "weight": "85",
+        "person_detail": {
+          "id": "175305",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:12"
+    },
+    "tickertime": "05.02.2016 22:12:52",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Lukas Fröde</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621300",
+    "event": {
+      "id": "19157759",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "14959",
+        "name": "Raffael",
+        "firstname": "",
+        "surname": "Raffael",
+        "fullname": "Raffael Caetano de Araújo",
+        "gender": "male",
+        "birthday": "28.03.1985",
+        "height": "174",
+        "weight": "69",
+        "person_detail": {
+          "id": "34804",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "both",
+          "birth_place": "Fortaleza",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:13"
+    },
+    "tickertime": "05.02.2016 22:13:01",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Raffael</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621301",
+    "event": {
+      "id": "19157760",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "244769",
+        "name": "Branimir Hrgota",
+        "firstname": "Branimir",
+        "surname": "Hrgota",
+        "fullname": "Branimir Hrgota",
+        "gender": "male",
+        "birthday": "12.01.1993",
+        "height": "185",
+        "weight": "74",
+        "person_detail": {
+          "id": "183210",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Zenica",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "182"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:13"
+    },
+    "tickertime": "05.02.2016 22:13:12",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Branimir Hrgota</span>",
+    "syndicate": "heimspiel"
   }
 ]
