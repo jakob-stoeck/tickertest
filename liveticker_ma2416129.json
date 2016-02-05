@@ -266,7 +266,30 @@
       "content": "2:0",
       "kind": "left-foot",
       "minute": "40",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "229556",
+        "name": "Jean Zimmer",
+        "firstname": "Jean",
+        "surname": "Zimmer",
+        "fullname": "Jean Zimmer",
+        "gender": "male",
+        "birthday": "06.12.1993",
+        "height": "171",
+        "weight": "68",
+        "person_detail": {
+          "id": "172132",
+          "position_1": "5",
+          "position_2": "3",
+          "preferred_side": "right",
+          "birth_place": "Bad Dürkheim",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
       "created": "05.02.2016 19:10"
     },
     "tickertime": "05.02.2016 19:10:25",
