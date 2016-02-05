@@ -244,7 +244,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:32:06",
-                "current_minute": "53",
+                "current_minute": "54",
                 "attendance": "19000",
                 "winner_team_id": "2079",
                 "home": {
@@ -424,7 +424,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:32:52",
-                "current_minute": "52",
+                "current_minute": "53",
                 "attendance": "",
                 "winner_team_id": "1868",
                 "home": {
@@ -604,7 +604,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:32:27",
-                "current_minute": "53",
+                "current_minute": "54",
                 "attendance": "",
                 "winner_team_id": "6",
                 "home": {
@@ -996,7 +996,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:49",
-                "current_minute": "37",
+                "current_minute": "38",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -1136,7 +1136,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:06",
-                "current_minute": "38",
+                "current_minute": "39",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -1624,7 +1624,7 @@
                 "live_status": "result",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:33:44",
-                "current_minute": "3",
+                "current_minute": "5",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -1673,7 +1673,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "4",
+                    "match_result": "12",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
@@ -1684,7 +1684,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "6",
+                    "match_result": "10",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -2564,7 +2564,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:30:49",
-                "current_minute": "1",
+                "current_minute": "5",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -7930,7 +7930,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:31",
-                "current_minute": "38",
+                "current_minute": "39",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -8070,7 +8070,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:01:31",
-                "current_minute": "38",
+                "current_minute": "39",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -8255,7 +8255,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:33:03",
-                "current_minute": "6",
+                "current_minute": "7",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -13544,7 +13544,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:08:30",
-                "current_minute": "77",
+                "current_minute": "78",
                 "attendance": "",
                 "winner_team_id": "211",
                 "home": {
@@ -13706,7 +13706,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 19:02:24",
-                "current_minute": "37",
+                "current_minute": "38",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -13896,7 +13896,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 19:03:31",
-                "current_minute": "82",
+                "current_minute": "83",
                 "attendance": "",
                 "winner_team_id": "55",
                 "home": {
@@ -17102,7 +17102,7 @@
                 "live_status": "result",
                 "current_period": "third-third-start",
                 "current_period_start": "2016-02-05 19:21:04",
-                "current_minute": "41",
+                "current_minute": "55",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -17151,7 +17151,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "4",
+                    "match_result": "5",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
@@ -17350,13 +17350,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "17:30",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
-                "current_period": "third-third-start",
-                "current_period_start": "2016-02-05 19:12:28",
-                "current_minute": "41",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-05 19:39:32",
+                "current_minute": "60",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "30909",
                 "home": {
                   "id": "17223",
                   "name": "Spartak Moskva",
@@ -17460,6 +17460,28 @@
                   {
                     "match_result": "2",
                     "match_result_at": "2",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "30909",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "17223",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
