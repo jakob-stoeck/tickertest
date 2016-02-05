@@ -1,18 +1,12 @@
 #!/bin/bash
 watch -n5 '\
-for i in 2226958 2226986 2226988 2226996 2227000 2226966; do \
+for i in 2415975 2416108 2416115 2416129; do \
 curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}.json" \
 && curl --compressed -s "http://sportsapi.sport1.de/match/ma${i}" | jq '.' > "match_ma${i}.json" \
-&& curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json" \
-&& curl --compressed -s "http://sport1-xml-old.c.ergebnis-dienst.de/match/ma${i}/" > "match_old_ma${i}.xml"; \
+&& curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json"; \
 done; \
-curl --compressed -sO http://lb.iph.sp1-tek.de/v8/media/live.xml; \
+curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-02-05" | jq '.' > "matches-by-date2016-02-05.json"; \
 curl --compressed -sO http://mobile.ipnm.sport1.de/v8/media/live.xml; \
-for j in 407556 407584 407586 407594 407598 407564; do \
-curl --compressed -sO "http://mobile.ipnm.sport1.de/v8/soccer/leagues/1/game/${j}.xml" \
-&& curl --compressed -s http://mobile.ipnm.sport1.de/v8/soccer/leagues/1/conference.xml > conference1.xml; \
-done; \
-curl --compressed -s "http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2014-15/26/2407453/livematch_fc-schalke-04-2_bayer-leverkusen-9.html" > k_2226966.html;
 git add . && git commit -m "update"'
 
 

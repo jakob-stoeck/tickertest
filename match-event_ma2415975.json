@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1441825",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "person": {
+      "id": "152306",
+      "name": "André Schubert",
+      "firstname": "André",
+      "surname": "Schubert",
+      "fullname": "André Schubert",
+      "gender": "male",
+      "birthday": "24.07.1971",
+      "height": "183",
+      "weight": "86",
+      "person_detail": {
+        "id": "141654",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Kassel",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "13.11.2015 09:48"
+  },
+  {
+    "id": "1268848",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2134",
+        "members": "36500",
+        "fullname": "Sport Verein Werder Bremen",
+        "foundation": "1899-02-04",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2193",
+        "name": "Weser-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2193",
+          "capacity": "42100",
+          "built": "1926"
+        }
+      }
+    },
+    "person": {
+      "id": "40764",
+      "name": "Viktor Skripnik",
+      "firstname": "Viktor",
+      "surname": "Skripnik",
+      "fullname": "Viktor Anatoljewitsch Skripnik",
+      "gender": "male",
+      "birthday": "19.11.1969",
+      "height": "184",
+      "weight": "73",
+      "person_detail": {
+        "id": "252",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Nowomoskowsk",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "225",
+          "name": "Ukraine",
+          "code": "UKR",
+          "iso": "UA"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "27.11.2014 12:30"
+  }
+]
