@@ -579,5 +579,95 @@
     "headline": "",
     "content": "<b>Karl fast mit der Entscheidung!</b>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620855",
+    "event": {
+      "id": "19156611",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "230334",
+        "name": "Kacper Przybyłko",
+        "firstname": "Kacper",
+        "surname": "Przybyłko",
+        "fullname": "Kacper Przybyłko",
+        "gender": "male",
+        "birthday": "25.03.1993",
+        "height": "192",
+        "weight": "82",
+        "person_detail": {
+          "id": "172882",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Bielefeld",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "166"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "60",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:47"
+    },
+    "tickertime": "05.02.2016 19:47:19",
+    "minute": "60",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Kaiserslautern -> Kacper Przybyłko</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620856",
+    "event": {
+      "id": "19156613",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "240154",
+        "name": "Maurice Deville",
+        "firstname": "Maurice",
+        "surname": "Deville",
+        "fullname": "Maurice John Deville",
+        "gender": "male",
+        "birthday": "31.07.1992",
+        "height": "193",
+        "weight": "83",
+        "person_detail": {
+          "id": "179828",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Solingen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "120"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "60",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:47"
+    },
+    "tickertime": "05.02.2016 19:47:25",
+    "minute": "60",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Kaiserslautern -> Maurice Deville</span>",
+    "syndicate": "heimspiel"
   }
 ]
