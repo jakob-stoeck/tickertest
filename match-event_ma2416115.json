@@ -2994,29 +2994,29 @@
     "kind": "right-foot",
     "minute": "49",
     "additional_person": {
-      "id": "21536",
-      "name": "Stefan Kulovits",
-      "firstname": "Stefan",
-      "surname": "Kulovits",
-      "fullname": "Stefan Kulovits",
+      "id": "234251",
+      "name": "Thomas Pledl",
+      "firstname": "Thomas",
+      "surname": "Pledl",
+      "fullname": "Thomas Pledl",
       "gender": "male",
-      "birthday": "19.04.1983",
-      "height": "178",
+      "birthday": "23.05.1994",
+      "height": "174",
       "weight": "65",
       "person_detail": {
-        "id": "14218",
-        "position_1": "7",
-        "position_2": "0",
-        "preferred_side": "right",
-        "birth_place": "Wien",
+        "id": "176378",
+        "position_1": "6",
+        "position_2": "9",
+        "preferred_side": "unknown",
+        "birth_place": "Bischofsmais",
         "died": "no"
       },
       "country": [
         {
-          "id": "158",
-          "name": "Österreich",
-          "code": "AUT",
-          "iso": "AT"
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
         }
       ]
     },
@@ -3879,6 +3879,84 @@
     "minute": "79",
     "additional_person_id": "0",
     "created": "05.02.2016 20:06:22"
+  },
+  {
+    "id": "19156764",
+    "team": {
+      "id": "1868",
+      "name": "SV Sandhausen",
+      "shortname": "Sandhausen",
+      "microname": "SVS",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1868",
+        "members": "760",
+        "fullname": "Sportverein Sandhausen 1916",
+        "foundation": "1916-08-01",
+        "colours": "schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "780",
+        "name": "Hardtwaldstadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "780",
+          "capacity": "10231",
+          "built": "1951"
+        }
+      }
+    },
+    "team_person": {
+      "id": "415083",
+      "shirtnumber": "5",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "375",
+      "name": "Daniel Schulz",
+      "firstname": "Daniel",
+      "surname": "Schulz",
+      "fullname": "Daniel Schulz",
+      "gender": "male",
+      "birthday": "21.02.1986",
+      "height": "190",
+      "weight": "87",
+      "person_detail": {
+        "id": "23038",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "79",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:06:35"
   },
   {
     "id": "1452150",
