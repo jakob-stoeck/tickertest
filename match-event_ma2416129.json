@@ -2819,6 +2819,110 @@
     "created": "05.02.2016 18:31:34"
   },
   {
+    "id": "19156281",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "6",
+        "members": "20000",
+        "fullname": "1. Fußball Club Kaiserslautern e.V",
+        "foundation": "1900-06-02",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "647",
+        "name": "Fritz-Walter-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "647",
+          "capacity": "49780",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1034541",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "26688",
+      "name": "Ruben Jenssen",
+      "firstname": "Ruben",
+      "surname": "Jenssen",
+      "fullname": "Ruben Yttergård Jenssen",
+      "gender": "male",
+      "birthday": "04.05.1988",
+      "height": "173",
+      "weight": "71",
+      "person_detail": {
+        "id": "47040",
+        "position_1": "9",
+        "position_2": "13",
+        "preferred_side": "left",
+        "birth_place": "Tromsø",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "156",
+          "name": "Norwegen",
+          "code": "NOR",
+          "iso": "NO"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "1:0",
+    "kind": "head",
+    "minute": "34",
+    "additional_person": {
+      "id": "229556",
+      "name": "Jean Zimmer",
+      "firstname": "Jean",
+      "surname": "Zimmer",
+      "fullname": "Jean Zimmer",
+      "gender": "male",
+      "birthday": "06.12.1993",
+      "height": "171",
+      "weight": "68",
+      "person_detail": {
+        "id": "172132",
+        "position_1": "5",
+        "position_2": "3",
+        "preferred_side": "right",
+        "birth_place": "Bad Dürkheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "created": "05.02.2016 19:04:02"
+  },
+  {
     "id": "1442620",
     "team": {
       "id": "6",
