@@ -4371,7 +4371,33 @@
     "content": "2:1",
     "kind": "head",
     "minute": "76",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "111528",
+      "name": "Felix Kroos",
+      "firstname": "Felix",
+      "surname": "Kroos",
+      "fullname": "Felix Kroos",
+      "gender": "male",
+      "birthday": "12.03.1991",
+      "height": "184",
+      "weight": "70",
+      "person_detail": {
+        "id": "96927",
+        "position_1": "8",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Greifswald",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
     "created": "05.02.2016 20:04:46"
   },
   {
