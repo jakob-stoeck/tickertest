@@ -3491,6 +3491,318 @@
     "created": "05.02.2016 20:01:33"
   },
   {
+    "id": "19156747",
+    "team": {
+      "id": "1868",
+      "name": "SV Sandhausen",
+      "shortname": "Sandhausen",
+      "microname": "SVS",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1868",
+        "members": "760",
+        "fullname": "Sportverein Sandhausen 1916",
+        "foundation": "1916-08-01",
+        "colours": "schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "780",
+        "name": "Hardtwaldstadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "780",
+          "capacity": "10231",
+          "built": "1951"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1202809",
+      "shirtnumber": "19",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "231484",
+      "name": "Leart Paqarada",
+      "firstname": "Leart",
+      "surname": "Paqarada",
+      "fullname": "Leart Paqarada",
+      "gender": "male",
+      "birthday": "08.10.1994",
+      "height": "184",
+      "weight": "76",
+      "person_detail": {
+        "id": "173934",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Bremen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:03:19"
+  },
+  {
+    "id": "19156748",
+    "team": {
+      "id": "1868",
+      "name": "SV Sandhausen",
+      "shortname": "Sandhausen",
+      "microname": "SVS",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1868",
+        "members": "760",
+        "fullname": "Sportverein Sandhausen 1916",
+        "foundation": "1916-08-01",
+        "colours": "schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "780",
+        "name": "Hardtwaldstadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "780",
+          "capacity": "10231",
+          "built": "1951"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1385355",
+      "shirtnumber": "29",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "111834",
+      "name": "Eric Schaaf",
+      "firstname": "Eric",
+      "surname": "Schaaf",
+      "fullname": "Eric Schaaf",
+      "gender": "male",
+      "birthday": "29.05.1990",
+      "height": "173",
+      "weight": "73",
+      "person_detail": {
+        "id": "97250",
+        "position_1": "6",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:03:28"
+  },
+  {
+    "id": "19156751",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1651",
+        "members": "10000",
+        "fullname": "Sport Club Paderborn 07",
+        "foundation": "1985-05-20",
+        "colours": "schwarz-weiß-blau"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1406",
+        "name": "Benteler Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1406",
+          "capacity": "15000",
+          "built": "2008"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1207422",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "22386",
+      "name": "Moritz Stoppelkamp",
+      "firstname": "Moritz",
+      "surname": "Stoppelkamp",
+      "fullname": "Moritz Stoppelkamp",
+      "gender": "male",
+      "birthday": "11.12.1986",
+      "height": "180",
+      "weight": "75",
+      "person_detail": {
+        "id": "35991",
+        "position_1": "8",
+        "position_2": "6",
+        "preferred_side": "right",
+        "birth_place": "Duisburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "77",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:03:38"
+  },
+  {
+    "id": "19156752",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1651",
+        "members": "10000",
+        "fullname": "Sport Club Paderborn 07",
+        "foundation": "1985-05-20",
+        "colours": "schwarz-weiß-blau"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1406",
+        "name": "Benteler Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1406",
+          "capacity": "15000",
+          "built": "2008"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1500756",
+      "shirtnumber": "8",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "221659",
+      "name": "Nicklas Helenius",
+      "firstname": "Nicklas",
+      "surname": "Helenius",
+      "fullname": "Nicklas Helenius Jensen",
+      "gender": "male",
+      "birthday": "08.05.1991",
+      "height": "196",
+      "weight": "83",
+      "person_detail": {
+        "id": "164916",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Svenstrup",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "45",
+          "name": "Dänemark",
+          "code": "DEN",
+          "iso": "DK"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "77",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:03:44"
+  },
+  {
     "id": "1452150",
     "team": {
       "id": "1651",
