@@ -912,5 +912,50 @@
     "headline": "",
     "content": "<b>Elfmeter für Borussia Mönchengladbach!</b>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621274",
+    "event": {
+      "id": "19157469",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "225664",
+        "name": "Jannik Vestergaard",
+        "firstname": "Jannik",
+        "surname": "Vestergaard",
+        "fullname": "Jannik Vestergaard",
+        "gender": "male",
+        "birthday": "03.08.1992",
+        "height": "199",
+        "weight": "98",
+        "person_detail": {
+          "id": "168561",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "København",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "45"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "69",
+      "additional_person_id": "0",
+      "created": "05.02.2016 21:56"
+    },
+    "tickertime": "05.02.2016 21:56:10",
+    "minute": "69",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Jannik Vestergaard (Werder Bremen)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
