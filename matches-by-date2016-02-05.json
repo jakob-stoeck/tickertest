@@ -2599,7 +2599,7 @@
     "gender": "male",
     "current_season_id": "18719",
     "current_round_id": "57881",
-    "current_matchday": "43",
+    "current_matchday": "44",
     "age_id": "1",
     "policy": {
       "id": "6031",
@@ -2623,7 +2623,7 @@
             "id": "57881",
             "season_id": "18719",
             "name": "Spieltag",
-            "current_matchday": "43",
+            "current_matchday": "44",
             "round_order": "0",
             "match": [
               {
@@ -15002,8 +15002,8 @@
                 "match_time": "21:30",
                 "finished": "no",
                 "live_status": "data",
-                "current_period": "game-start",
-                "current_period_start": "2016-02-05 21:34:58",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-02-05 22:20:06",
                 "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "1731",
@@ -15076,6 +15076,28 @@
                   {
                     "match_result": "1",
                     "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1731",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1433",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
