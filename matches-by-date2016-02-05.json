@@ -4891,7 +4891,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "place": "none_away",
                     "rounds": "0",
@@ -4935,8 +4935,30 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "6",
+                    "match_result": "7",
                     "match_result_at": "2",
+                    "place": "none_away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "14393",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
+                    "place": "none_home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "15230",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
                     "place": "none_away",
                     "rounds": "0",
                     "points": "0.000",
@@ -4952,7 +4974,7 @@
                 "matchday": "0",
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
-                "match_time": "22:30",
+                "match_time": "22:40",
                 "finished": "no",
                 "live_status": "result",
                 "current_period": "",
@@ -11567,7 +11589,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:50:12",
-                "current_minute": "74",
+                "current_minute": "75",
                 "attendance": "",
                 "winner_team_id": "276",
                 "home": {
@@ -14982,7 +15004,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 21:34:58",
-                "current_minute": "43",
+                "current_minute": "44",
                 "attendance": "",
                 "winner_team_id": "1731",
                 "home": {
@@ -20514,13 +20536,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "19:45",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
                 "current_period": "overtime-end",
-                "current_period_start": "2016-02-05 22:06:34",
+                "current_period_start": "2016-02-05 22:18:56",
                 "current_minute": "70",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "2949",
                 "home": {
                   "id": "17227",
                   "name": "HC Ambri-Piotta",
@@ -20578,7 +20600,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "3",
+                    "match_result": "4",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -20653,8 +20675,35 @@
                     "comment": "",
                     "team_id": "2949",
                     "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "21",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "17227",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "21",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2949",
+                    "person_id": "0"
                   }
-                ]
+                ],
+                "match_incident": {
+                  "id": "8",
+                  "name": "nach Penaltyschießen",
+                  "shortname": "n.P."
+                }
               },
               {
                 "id": "2421968",
