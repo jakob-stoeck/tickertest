@@ -4297,6 +4297,240 @@
     "created": "05.02.2016 22:12:44"
   },
   {
+    "id": "19157758",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2134",
+        "members": "36500",
+        "fullname": "Sport Verein Werder Bremen",
+        "foundation": "1899-02-04",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2193",
+        "name": "Weser-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2193",
+          "capacity": "42100",
+          "built": "1926"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1325845",
+      "shirtnumber": "39",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "233076",
+      "name": "Lukas Fröde",
+      "firstname": "Lukas",
+      "surname": "Fröde",
+      "fullname": "Lukas Fröde",
+      "gender": "male",
+      "birthday": "23.01.1995",
+      "height": "192",
+      "weight": "85",
+      "person_detail": {
+        "id": "175305",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "85",
+    "additional_person_id": "0",
+    "created": "05.02.2016 22:12:52"
+  },
+  {
+    "id": "19157759",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1029336",
+      "shirtnumber": "11",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "14959",
+      "name": "Raffael",
+      "firstname": "",
+      "surname": "Raffael",
+      "fullname": "Raffael Caetano de Araújo",
+      "gender": "male",
+      "birthday": "28.03.1985",
+      "height": "174",
+      "weight": "69",
+      "person_detail": {
+        "id": "34804",
+        "position_1": "11",
+        "position_2": "8",
+        "preferred_side": "both",
+        "birth_place": "Fortaleza",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "05.02.2016 22:13:01"
+  },
+  {
+    "id": "19157760",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "team_person": {
+      "id": "866672",
+      "shirtnumber": "31",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "244769",
+      "name": "Branimir Hrgota",
+      "firstname": "Branimir",
+      "surname": "Hrgota",
+      "fullname": "Branimir Hrgota",
+      "gender": "male",
+      "birthday": "12.01.1993",
+      "height": "185",
+      "weight": "74",
+      "person_detail": {
+        "id": "183210",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Zenica",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "182",
+          "name": "Schweden",
+          "code": "SWE",
+          "iso": "SE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "05.02.2016 22:13:12"
+  },
+  {
     "id": "1441825",
     "team": {
       "id": "253",
