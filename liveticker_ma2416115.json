@@ -201,5 +201,50 @@
     "headline": "",
     "content": "Auswärts waren die Ostwestfalen mit im Schnitt zwei Gegentoren pro Partie allerdings oft verwundbar.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620709",
+    "event": {
+      "id": "19156234",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "21536",
+        "name": "Stefan Kulovits",
+        "firstname": "Stefan",
+        "surname": "Kulovits",
+        "fullname": "Stefan Kulovits",
+        "gender": "male",
+        "birthday": "19.04.1983",
+        "height": "178",
+        "weight": "65",
+        "person_detail": {
+          "id": "14218",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Wien",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "22",
+      "additional_person_id": "0",
+      "created": "05.02.2016 18:51"
+    },
+    "tickertime": "05.02.2016 18:51:48",
+    "minute": "22",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Stefan Kulovits (SV Sandhausen)</b> <br/>Der Kapitän holt sich nach einem Ellenbogeneinsatz den ersten Karton der Partie ab.",
+    "syndicate": "heimspiel"
   }
 ]
