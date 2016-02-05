@@ -4219,6 +4219,162 @@
     "created": "05.02.2016 20:04:18"
   },
   {
+    "id": "19156758",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "19",
+        "members": "12000",
+        "fullname": "1. Fußball Club Union Berlin",
+        "foundation": "1966-01-20",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "89",
+        "name": "An der Alten Försterei",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "89",
+          "capacity": "21410",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1366689",
+      "shirtnumber": "18",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "259970",
+      "name": "Kenny Redondo",
+      "firstname": "Kenny",
+      "surname": "Redondo",
+      "fullname": "Kenny Prince Redondo",
+      "gender": "male",
+      "birthday": "29.08.1994",
+      "height": "182",
+      "weight": "69",
+      "person_detail": {
+        "id": "196119",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "75",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:04:30"
+  },
+  {
+    "id": "19156760",
+    "team": {
+      "id": "19",
+      "name": "1. FC Union Berlin",
+      "shortname": "U. Berlin",
+      "microname": "FCU",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "19",
+        "members": "12000",
+        "fullname": "1. Fußball Club Union Berlin",
+        "foundation": "1966-01-20",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "89",
+        "name": "An der Alten Försterei",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "89",
+          "capacity": "21410",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "873103",
+      "shirtnumber": "34",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "96",
+      "name": "Fabian Schönheim",
+      "firstname": "Fabian",
+      "surname": "Schönheim",
+      "fullname": "Fabian Schönheim",
+      "gender": "male",
+      "birthday": "14.02.1987",
+      "height": "191",
+      "weight": "83",
+      "person_detail": {
+        "id": "34718",
+        "position_1": "4",
+        "position_2": "3",
+        "preferred_side": "left",
+        "birth_place": "Kirn",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "2:1",
+    "kind": "head",
+    "minute": "76",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:04:46"
+  },
+  {
     "id": "1442620",
     "team": {
       "id": "6",
