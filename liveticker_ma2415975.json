@@ -1245,5 +1245,50 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Mahmoud Dahoud</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621295",
+    "event": {
+      "id": "19157740",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "20267",
+        "name": "Martin Stranzl",
+        "firstname": "Martin",
+        "surname": "Stranzl",
+        "fullname": "Martin Stranzl",
+        "gender": "male",
+        "birthday": "16.06.1980",
+        "height": "190",
+        "weight": "83",
+        "person_detail": {
+          "id": "279",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Güssing",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "84",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:11"
+    },
+    "tickertime": "05.02.2016 22:11:20",
+    "minute": "84",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Martin Stranzl</span>",
+    "syndicate": "heimspiel"
   }
 ]
