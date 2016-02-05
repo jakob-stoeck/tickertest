@@ -44,7 +44,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:32:08",
-                "current_minute": "71",
+                "current_minute": "72",
                 "attendance": "",
                 "winner_team_id": "253",
                 "home": {
@@ -1516,7 +1516,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:32:11",
-                "current_minute": "71",
+                "current_minute": "72",
                 "attendance": "",
                 "winner_team_id": "1262",
                 "home": {
@@ -2588,11 +2588,11 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "19:30",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "full",
-                "current_period": "third-third-start",
-                "current_period_start": "2016-02-05 21:14:34",
-                "current_minute": "58",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-05 21:57:40",
+                "current_minute": "60",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -2708,6 +2708,28 @@
                   {
                     "match_result": "0",
                     "match_result_at": "2",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2970",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "3",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2971",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "3",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
@@ -10949,9 +10971,9 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:33:06",
-                "current_minute": "70",
+                "current_minute": "71",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "1591",
                 "home": {
                   "id": "1173",
                   "name": "KV Mechelen",
@@ -11019,7 +11041,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -11457,7 +11479,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:50:12",
-                "current_minute": "53",
+                "current_minute": "54",
                 "attendance": "",
                 "winner_team_id": "276",
                 "home": {
@@ -12906,7 +12928,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:34:26",
-                "current_minute": "69",
+                "current_minute": "70",
                 "attendance": "",
                 "winner_team_id": "132",
                 "home": {
@@ -14708,7 +14730,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 21:29:02",
-                "current_minute": "28",
+                "current_minute": "29",
                 "attendance": "",
                 "winner_team_id": "587",
                 "home": {
@@ -14850,7 +14872,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 21:34:58",
-                "current_minute": "22",
+                "current_minute": "23",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -20508,13 +20530,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "19:45",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
-                "current_period": "third-third-start",
-                "current_period_start": "2016-02-05 21:20:42",
-                "current_minute": "53",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-05 21:57:50",
+                "current_minute": "60",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "2950",
                 "home": {
                   "id": "2996",
                   "name": "SC Bern",
@@ -20625,6 +20647,28 @@
                     "comment": "",
                     "team_id": "2950",
                     "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2996",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "3",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2950",
+                    "person_id": "0"
                   }
                 ]
               },
@@ -20634,13 +20678,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "19:45",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
-                "current_period": "third-third-start",
-                "current_period_start": "2016-02-05 21:20:41",
-                "current_minute": "50",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-05 21:57:50",
+                "current_minute": "60",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "2935",
                 "home": {
                   "id": "17229",
                   "name": "SCL Tigers",
@@ -20744,6 +20788,28 @@
                   {
                     "match_result": "2",
                     "match_result_at": "2",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2935",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "3",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "17229",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "3",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
