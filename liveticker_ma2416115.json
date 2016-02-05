@@ -436,5 +436,50 @@
     "headline": "",
     "content": "Allerdings mit mehr Schwung! Stefan Kulovits serviert einen gefährlichen Freistoß von der rechten Seite vor den Kasten, gegen den Lukas Kruse erst spät reagieren kann und auf der Linie reflexartig abwehren muss. Bei der Szene hatte der Assistent aber ohnehin die Fahne oben.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620814",
+    "event": {
+      "id": "19156486",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "22323",
+        "name": "Tim Kister",
+        "firstname": "Tim",
+        "surname": "Kister",
+        "fullname": "Tim Kister",
+        "gender": "male",
+        "birthday": "30.12.1986",
+        "height": "193",
+        "weight": "86",
+        "person_detail": {
+          "id": "92216",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Frankfurt am Main",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "right-foot",
+      "minute": "49",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:36"
+    },
+    "tickertime": "05.02.2016 19:36:22",
+    "minute": "49",
+    "headline": "",
+    "content": "<b>Tooor für SV Sandhausen, 1:0 durch Tim Kister</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
