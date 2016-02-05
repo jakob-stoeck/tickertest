@@ -727,5 +727,50 @@
     "headline": "",
     "content": "Die nächste knifflige Szene im Strafraum des SVS schließt sich an. Andrew Wooten und Florian Hartherz kommen im Zweikampf zu Fall und der Amerikaner berührt hier schon den Fuß seines Gegenspielers. Da hätte sich der Gastgeber über einen Pfiff nicht beschweren dürfen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620874",
+    "event": {
+      "id": "19156678",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "318345",
+        "name": "Mirnes Pepić",
+        "firstname": "Mirnes",
+        "surname": "Pepić",
+        "fullname": "Mirnes Pepić",
+        "gender": "male",
+        "birthday": "19.12.1995",
+        "height": "175",
+        "weight": "75",
+        "person_detail": {
+          "id": "243881",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Podgorica",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "137"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "64",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:51"
+    },
+    "tickertime": "05.02.2016 19:51:14",
+    "minute": "64",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Mirnes Pepić (SC Paderborn 07)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
