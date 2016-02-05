@@ -1204,7 +1204,30 @@
       "content": "2:1",
       "kind": "head",
       "minute": "76",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "111528",
+        "name": "Felix Kroos",
+        "firstname": "Felix",
+        "surname": "Kroos",
+        "fullname": "Felix Kroos",
+        "gender": "male",
+        "birthday": "12.03.1991",
+        "height": "184",
+        "weight": "70",
+        "person_detail": {
+          "id": "96927",
+          "position_1": "8",
+          "position_2": "4",
+          "preferred_side": "right",
+          "birth_place": "Greifswald",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
       "created": "05.02.2016 20:04"
     },
     "tickertime": "05.02.2016 20:04:47",
@@ -1322,7 +1345,7 @@
     "tickertime": "05.02.2016 20:23:53",
     "minute": "90",
     "headline": "",
-    "content": "<b>Fazit:</b><br/>Union Berlin zeigt tolle Moral und entführt dank eines späten Comebacks einen Zähler vom Betzenberg! Nach 90 spannenden Minuten trennen sich der 1. FC Kaiserslautern und die Gäste aus der Hauptstadt 2:2. Für die Pfälzer ist das am Ende deutlich zu wenig, wähnte man sich lange Zeit doch auf der Siegerstraße. Nach einer zerfahrenen ersten halben Stunde brachte ein Doppelschlag der Hausherren Schwung in die Begegnung, der in einem klaren Chancenplus der Roten Teufel mündete. Mehrmals lag das dritte Tor in der Luft, doch die Lauterer scheiterten immer wieder an Keeper Busk oder den eigenen Nerven. Das rächte sich in der Schlussviertelstunde, als die Fünfstück-Elf plötzlich den Faden verlor und Union quasi zu Toren einlud. Schönheim und Wood bedankten sich artig und brachten das Fritz-Walter-Stadion mit ihren späten Buden zum Schweigen. Eine gefühlte Niederlage für die Gastgeber.",
+    "content": "<b>Fazit:</b><br/>Union Berlin zeigt tolle Moral und entführt dank eines späten Comebacks einen Zähler vom Betzenberg! Nach 90 spannenden Minuten trennen sich der 1. FC Kaiserslautern und die Gäste aus der Hauptstadt 2:2. Für die Pfälzer ist das am Ende deutlich zu wenig, wähnte man sich lange Zeit doch auf der Siegerstraße. Nach einer zerfahrenen ersten halben Stunde brachte ein Doppelschlag der Hausherren Schwung in die Begegnung, der in einem klaren Chancenplus der Roten Teufel mündete. Mehrmals lag das dritte Tor in der Luft, doch die Lauterer scheiterten immer wieder an Keeper Busk oder den eigenen Nerven. Das rächte sich in der Schlussviertelstunde, als die Fünfstück-Elf plötzlich den Faden verlor und Union quasi zu Toren einlud. Schönheim und Wood bedankten sich artig und brachten das Fritz-Walter-Stadion mit ihren späten Buden zum Schweigen. Eine gefühlte Niederlage für die Gastgeber.<br/>Sascha Lewandowski darf heute stolz auf sein Team sein, dass sich nicht aufgegeben hat und für den Aufwand schließlich belohnt wurde. Eine Punkteteilung, die beiden Klubs tabellarisch nicht weiterhilft. Mittelmaß hüben wie drüben. Damit verabschieden wir uns aus der Pfalz und danken für Euer Interesse. Bis zum nächsten Mal!",
     "syndicate": "heimspiel"
   }
 ]
