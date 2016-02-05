@@ -153,5 +153,73 @@
     "headline": "",
     "content": "Die Berliner agieren mittlerweile etwas defensiver als zu Beginn und lassen den FCK kommen. Mit dem Mehr an Ballbesitz können die Pfälzer allerdings nicht viel anfangen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620735",
+    "event": {
+      "id": "19156281",
+      "team": {
+        "id": "6",
+        "name": "1. FC Kaiserslautern"
+      },
+      "person": {
+        "id": "26688",
+        "name": "Ruben Jenssen",
+        "firstname": "Ruben",
+        "surname": "Jenssen",
+        "fullname": "Ruben Yttergård Jenssen",
+        "gender": "male",
+        "birthday": "04.05.1988",
+        "height": "173",
+        "weight": "71",
+        "person_detail": {
+          "id": "47040",
+          "position_1": "9",
+          "position_2": "13",
+          "preferred_side": "left",
+          "birth_place": "Tromsø",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "156"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "head",
+      "minute": "34",
+      "additional_person": {
+        "id": "229556",
+        "name": "Jean Zimmer",
+        "firstname": "Jean",
+        "surname": "Zimmer",
+        "fullname": "Jean Zimmer",
+        "gender": "male",
+        "birthday": "06.12.1993",
+        "height": "171",
+        "weight": "68",
+        "person_detail": {
+          "id": "172132",
+          "position_1": "5",
+          "position_2": "3",
+          "preferred_side": "right",
+          "birth_place": "Bad Dürkheim",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "created": "05.02.2016 19:04"
+    },
+    "tickertime": "05.02.2016 19:04:02",
+    "minute": "34",
+    "headline": "",
+    "content": "<b>Tooor für 1. FC Kaiserslautern, 1:0 durch Ruben Jenssen</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
