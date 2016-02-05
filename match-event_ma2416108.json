@@ -3168,6 +3168,95 @@
     "created": "05.02.2016 19:17:47"
   },
   {
+    "id": "19156437",
+    "team_id": "0",
+    "person_id": "0",
+    "action": "match",
+    "content": "",
+    "kind": "second-half-start",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:32:06"
+  },
+  {
+    "id": "19156438",
+    "team": {
+      "id": "2079",
+      "name": "VfL Bochum",
+      "shortname": "Bochum",
+      "microname": "BOC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2079",
+        "members": "5500",
+        "fullname": "Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft e.V.",
+        "foundation": "1848-07-01",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1541",
+        "name": "rewirpowerSTADION",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1541",
+          "capacity": "29299",
+          "built": "1979"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1381996",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "134690",
+      "name": "Marco Terrazzino",
+      "firstname": "Marco",
+      "surname": "Terrazzino",
+      "fullname": "Marco Terrazzino",
+      "gender": "male",
+      "birthday": "15.04.1991",
+      "height": "176",
+      "weight": "74",
+      "person_detail": {
+        "id": "124049",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Mannheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "46",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:32:19"
+  },
+  {
     "id": "775322",
     "team": {
       "id": "1639",
