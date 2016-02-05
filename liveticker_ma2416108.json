@@ -362,5 +362,50 @@
     "headline": "",
     "content": "Der Tabellenzweite kann die offensive Schlagzahl wieder erhöhen. Er lässt die Hausherren kaum noch durchatmen, verlagert das Geschehen komplett in die gegnerische Hälfte. Für den VfL geht es erst einmal nur darum, die Führung in die Pause zu retten.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620752",
+    "event": {
+      "id": "19156290",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "8555",
+        "name": "Torrejón",
+        "firstname": "",
+        "surname": "Torrejón",
+        "fullname": "Marc Torrejón Moya",
+        "gender": "male",
+        "birthday": "18.02.1986",
+        "height": "187",
+        "weight": "87",
+        "person_detail": {
+          "id": "57890",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Barcelona",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "193"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "40",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:10"
+    },
+    "tickertime": "05.02.2016 19:10:37",
+    "minute": "40",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Torrejón (SC Freiburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
