@@ -1300,51 +1300,6 @@
     "syndicate": "heimspiel"
   },
   {
-    "id": "1621299",
-    "event": {
-      "id": "19157758",
-      "team": {
-        "id": "2134",
-        "name": "Werder Bremen"
-      },
-      "person": {
-        "id": "233076",
-        "name": "Lukas Fröde",
-        "firstname": "Lukas",
-        "surname": "Fröde",
-        "fullname": "Lukas Fröde",
-        "gender": "male",
-        "birthday": "23.01.1995",
-        "height": "192",
-        "weight": "85",
-        "person_detail": {
-          "id": "175305",
-          "position_1": "7",
-          "position_2": "0",
-          "preferred_side": "unknown",
-          "birth_place": "",
-          "died": "no"
-        },
-        "country": [
-          {
-            "id": "47"
-          }
-        ]
-      },
-      "action": "playing",
-      "content": "",
-      "kind": "substitute-in",
-      "minute": "86",
-      "additional_person_id": "0",
-      "created": "05.02.2016 22:12"
-    },
-    "tickertime": "05.02.2016 22:12:52",
-    "minute": "85",
-    "headline": "",
-    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Lukas Fröde</span>",
-    "syndicate": "heimspiel"
-  },
-  {
     "id": "1621300",
     "event": {
       "id": "19157759",
@@ -1485,6 +1440,51 @@
     "minute": "86",
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Werder Bremen -> Zlatko Junuzović</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621299",
+    "event": {
+      "id": "19157758",
+      "team": {
+        "id": "2134",
+        "name": "Werder Bremen"
+      },
+      "person": {
+        "id": "233076",
+        "name": "Lukas Fröde",
+        "firstname": "Lukas",
+        "surname": "Fröde",
+        "fullname": "Lukas Fröde",
+        "gender": "male",
+        "birthday": "23.01.1995",
+        "height": "192",
+        "weight": "85",
+        "person_detail": {
+          "id": "175305",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 22:12"
+    },
+    "tickertime": "05.02.2016 22:16:55",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Werder Bremen -> Lukas Fröde</span>",
     "syndicate": "heimspiel"
   },
   {
