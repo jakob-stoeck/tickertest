@@ -1204,5 +1204,50 @@
     "headline": "",
     "content": "Das muntere Wechselspiel geht weiter und der Vorbereiter des vielleicht goldenen Treffer geht nach einem guten Debüt für den neuen Verein runter.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620953",
+    "event": {
+      "id": "19156768",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "111834",
+        "name": "Eric Schaaf",
+        "firstname": "Eric",
+        "surname": "Schaaf",
+        "fullname": "Eric Schaaf",
+        "gender": "male",
+        "birthday": "29.05.1990",
+        "height": "173",
+        "weight": "73",
+        "person_detail": {
+          "id": "97250",
+          "position_1": "6",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:08"
+    },
+    "tickertime": "05.02.2016 20:08:28",
+    "minute": "81",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Eric Schaaf (SV Sandhausen)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
