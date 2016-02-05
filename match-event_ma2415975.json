@@ -3491,6 +3491,162 @@
     "created": "05.02.2016 21:45:38"
   },
   {
+    "id": "19157462",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1380134",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "249977",
+      "name": "Thorgan Hazard",
+      "firstname": "Thorgan",
+      "surname": "Hazard",
+      "fullname": "Thorgan Hazard",
+      "gender": "male",
+      "birthday": "29.03.1993",
+      "height": "174",
+      "weight": "69",
+      "person_detail": {
+        "id": "187858",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "La Louvière",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "23",
+          "name": "Belgien",
+          "code": "BEL",
+          "iso": "BE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "05.02.2016 21:53:30"
+  },
+  {
+    "id": "19157464",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1380135",
+      "shirtnumber": "16",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "14954",
+      "name": "Ibrahima Traoré",
+      "firstname": "Ibrahima",
+      "surname": "Traoré",
+      "fullname": "Ibrahima Traoré",
+      "gender": "male",
+      "birthday": "21.04.1988",
+      "height": "172",
+      "weight": "62",
+      "person_detail": {
+        "id": "73226",
+        "position_1": "6",
+        "position_2": "8",
+        "preferred_side": "left",
+        "birth_place": "Villepinte",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "75",
+          "name": "Guinea",
+          "code": "GUI",
+          "iso": "GN"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "05.02.2016 21:53:40"
+  },
+  {
     "id": "1441825",
     "team": {
       "id": "253",
