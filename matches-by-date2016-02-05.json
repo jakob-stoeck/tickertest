@@ -44,7 +44,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:32:08",
-                "current_minute": "89",
+                "current_minute": "90",
                 "attendance": "51569",
                 "winner_team_id": "253",
                 "home": {
@@ -1516,7 +1516,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:32:11",
-                "current_minute": "89",
+                "current_minute": "90",
                 "attendance": "",
                 "winner_team_id": "1262",
                 "home": {
@@ -4935,7 +4935,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "5",
+                    "match_result": "6",
                     "match_result_at": "2",
                     "place": "none_away",
                     "rounds": "0",
@@ -5936,7 +5936,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "2",
                     "place": "none_away",
                     "rounds": "0",
@@ -11059,7 +11059,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:33:06",
-                "current_minute": "88",
+                "current_minute": "89",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -11567,7 +11567,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:50:12",
-                "current_minute": "71",
+                "current_minute": "72",
                 "attendance": "",
                 "winner_team_id": "276",
                 "home": {
@@ -14816,8 +14816,8 @@
                 "match_time": "21:30",
                 "finished": "no",
                 "live_status": "goals",
-                "current_period": "game-start",
-                "current_period_start": "2016-02-05 21:29:02",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-02-05 22:15:17",
                 "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "587",
@@ -14897,6 +14897,28 @@
                     "comment": "",
                     "team_id": "587",
                     "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "21877",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "1",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "587",
+                    "person_id": "0"
                   }
                 ]
               }
@@ -14960,9 +14982,9 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-05 21:34:58",
-                "current_minute": "40",
+                "current_minute": "41",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "1731",
                 "home": {
                   "id": "1433",
                   "name": "Os Belenenses",
@@ -15030,7 +15052,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -16972,13 +16994,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "20:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
-                "current_period": "third-third-start",
-                "current_period_start": "2016-02-05 21:45:15",
-                "current_minute": "41",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-05 22:15:31",
+                "current_minute": "60",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "2999",
                 "home": {
                   "id": "2999",
                   "name": "SC Riessersee",
@@ -17082,6 +17104,28 @@
                   {
                     "match_result": "2",
                     "match_result_at": "2",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2940",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "4",
+                    "match_result_at": "3",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2999",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
