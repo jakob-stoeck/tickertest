@@ -669,5 +669,50 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Kaiserslautern -> Maurice Deville</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620862",
+    "event": {
+      "id": "19156671",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "265045",
+        "name": "Eroll Zejnullahu",
+        "firstname": "Eroll",
+        "surname": "Zejnullahu",
+        "fullname": "Eroll Zejnullahu",
+        "gender": "male",
+        "birthday": "19.10.1994",
+        "height": "180",
+        "weight": "70",
+        "person_detail": {
+          "id": "200246",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "60",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:48"
+    },
+    "tickertime": "05.02.2016 19:48:42",
+    "minute": "60",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Union Berlin -> Eroll Zejnullahu</span>",
+    "syndicate": "heimspiel"
   }
 ]
