@@ -24,8 +24,8 @@
     "match_time": "18:30",
     "finished": "no",
     "live_status": "full",
-    "current_period": "game-start",
-    "current_period_start": "2016-02-05 18:30:38",
+    "current_period": "first-half-end",
+    "current_period_start": "2016-02-05 19:16:26",
     "current_minute": "45",
     "attendance": "",
     "home": {
@@ -47,6 +47,16 @@
       {
         "match_result": "0",
         "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
         "place": "away"
       }
     ],
