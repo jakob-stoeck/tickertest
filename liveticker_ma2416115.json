@@ -621,5 +621,103 @@
     "headline": "",
     "content": "<b>Wooten hat es doch auf dem Fuß!?</b> Per Doppelpass geht es Amerikaner in den Strafraum durch und hat freie Bahn. Doch der Offensive schaut einmal zu oft in der Mitte nach eine Anspielstation und wird so geblockt. Da hätte er viel konsequenter selbst den Abschluss suchen müssen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620860",
+    "event": {
+      "id": "19156670",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "8780",
+        "name": "Idir Ouali",
+        "firstname": "Idir",
+        "surname": "Ouali",
+        "fullname": "Idir Ouali",
+        "gender": "male",
+        "birthday": "21.05.1988",
+        "height": "176",
+        "weight": "65",
+        "person_detail": {
+          "id": "87130",
+          "position_1": "10",
+          "position_2": "8",
+          "preferred_side": "left",
+          "birth_place": "Roubaix",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:48"
+    },
+    "tickertime": "05.02.2016 19:48:41",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Paderborn 07 -> Idir Ouali</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620863",
+    "event": {
+      "id": "19156672",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "261939",
+        "name": "Marc Brašnić",
+        "firstname": "Marc",
+        "surname": "Brašnić",
+        "fullname": "Marc Brašnić",
+        "gender": "male",
+        "birthday": "21.10.1996",
+        "height": "184",
+        "weight": "84",
+        "person_detail": {
+          "id": "197654",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "109"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:48"
+    },
+    "tickertime": "05.02.2016 19:48:48",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Paderborn 07 -> Marc Brašnić</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620866",
+    "tickertime": "05.02.2016 19:49:31",
+    "minute": "62",
+    "headline": "",
+    "content": "Stefan Effenberg zieht seine erste Option und probiert es mit einem Youngster in der Spitze. Paderborn dürfte auf ein 4-4-2 umstellen und Moritz Stoppelkamp rückt auf die Außenposition.",
+    "syndicate": "heimspiel"
   }
 ]
