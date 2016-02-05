@@ -1228,5 +1228,50 @@
     "headline": "",
     "content": "Acht Minuten bleiben den Berlinern noch, um hier zumindest einen Punkt mitzunehmen und einen Fehlstart ins neue Jahr abzuwenden. Der Gästeblock gibt dafür nochmal Vollgas.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620980",
+    "event": {
+      "id": "19156780",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "221561",
+        "name": "Bobby Wood",
+        "firstname": "Bobby",
+        "surname": "Wood",
+        "fullname": "Bobby Shou Wood",
+        "gender": "male",
+        "birthday": "15.11.1992",
+        "height": "180",
+        "weight": "75",
+        "person_detail": {
+          "id": "164828",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Honolulu, HI",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "229"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:2",
+      "kind": "left-foot",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:13"
+    },
+    "tickertime": "05.02.2016 20:13:04",
+    "minute": "86",
+    "headline": "",
+    "content": "<b>Tooor für 1. FC Union Berlin, 2:2 durch Bobby Wood</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]

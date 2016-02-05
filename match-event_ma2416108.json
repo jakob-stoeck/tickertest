@@ -3985,6 +3985,162 @@
     "created": "05.02.2016 20:09:58"
   },
   {
+    "id": "19156775",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1639",
+        "members": "9000",
+        "fullname": "Sport Club Freiburg",
+        "foundation": "1904-05-30",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "187",
+        "name": "Schwarzwald-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "187",
+          "capacity": "24000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1478633",
+      "shirtnumber": "14",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "165174",
+      "name": "Håvard Nielsen",
+      "firstname": "Håvard",
+      "surname": "Nielsen",
+      "fullname": "Håvard Kallevik Nielsen",
+      "gender": "male",
+      "birthday": "15.07.1993",
+      "height": "187",
+      "weight": "80",
+      "person_detail": {
+        "id": "154519",
+        "position_1": "12",
+        "position_2": "11",
+        "preferred_side": "right",
+        "birth_place": "Oslo",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "156",
+          "name": "Norwegen",
+          "code": "NOR",
+          "iso": "NO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "83",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:12:33"
+  },
+  {
+    "id": "19156777",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1639",
+        "members": "9000",
+        "fullname": "Sport Club Freiburg",
+        "foundation": "1904-05-30",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "187",
+        "name": "Schwarzwald-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "187",
+          "capacity": "24000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1379831",
+      "shirtnumber": "19",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "2609",
+      "name": "Florian Kath",
+      "firstname": "Florian",
+      "surname": "Kath",
+      "fullname": "Florian Kath",
+      "gender": "male",
+      "birthday": "21.10.1994",
+      "height": "185",
+      "weight": "70",
+      "person_detail": {
+        "id": "106225",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Balingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "83",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:12:40"
+  },
+  {
     "id": "775322",
     "team": {
       "id": "1639",
