@@ -11589,8 +11589,8 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 21:50:12",
-                "current_minute": "85",
-                "attendance": "",
+                "current_minute": "86",
+                "attendance": "24096",
                 "winner_team_id": "276",
                 "home": {
                   "id": "276",
@@ -11692,6 +11692,30 @@
                     "person_id": "0"
                   }
                 ],
+                "venue": {
+                  "id": "3057",
+                  "name": "Amex Stadium",
+                  "kind": "Stadion",
+                  "venue_detail": {
+                    "id": "3065",
+                    "capacity": "30750",
+                    "built": "2011",
+                    "length": "105",
+                    "width": "69"
+                  },
+                  "town": {
+                    "id": "252",
+                    "name": "Brighton",
+                    "postcode_start": "",
+                    "postcode_end": ""
+                  },
+                  "country": {
+                    "id": "55",
+                    "name": "England",
+                    "code": "ENG",
+                    "iso": "GB"
+                  }
+                },
                 "referee": {
                   "id": "56432",
                   "name": "Keith Stroud",
@@ -14838,9 +14862,9 @@
                 "match_time": "21:30",
                 "finished": "no",
                 "live_status": "goals",
-                "current_period": "first-half-end",
-                "current_period_start": "2016-02-05 22:15:17",
-                "current_minute": "45",
+                "current_period": "second-half-start",
+                "current_period_start": "2016-02-05 22:29:29",
+                "current_minute": "47",
                 "attendance": "",
                 "winner_team_id": "587",
                 "home": {
