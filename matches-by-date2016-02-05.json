@@ -4968,7 +4968,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "3",
                     "place": "none_home",
                     "rounds": "0",
@@ -5322,7 +5322,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "1",
                     "place": "none_home",
                     "rounds": "0",
@@ -5894,13 +5894,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "21:35",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
                 "current_period": "",
                 "current_period_start": "",
                 "current_minute": "0",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "14591",
                 "home": {
                   "id": "14591",
                   "name": "Dustin Brown",
@@ -5947,7 +5947,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "0",
                     "place": "none_home",
                     "rounds": "0",
@@ -5991,7 +5991,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "5",
+                    "match_result": "6",
                     "match_result_at": "2",
                     "place": "none_home",
                     "rounds": "0",
@@ -14908,7 +14908,7 @@
                 "live_status": "goals",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 22:29:29",
-                "current_minute": "56",
+                "current_minute": "57",
                 "attendance": "",
                 "winner_team_id": "587",
                 "home": {
