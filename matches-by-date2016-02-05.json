@@ -2289,7 +2289,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "86",
+                    "match_result": "89",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
@@ -2300,7 +2300,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "75",
+                    "match_result": "77",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -14908,7 +14908,7 @@
                 "live_status": "goals",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-05 22:29:29",
-                "current_minute": "53",
+                "current_minute": "54",
                 "attendance": "",
                 "winner_team_id": "587",
                 "home": {
@@ -16854,13 +16854,13 @@
                 "group_matchday": "0",
                 "match_date": "05.02.2016",
                 "match_time": "20:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
-                "current_period": "third-third-start",
-                "current_period_start": "2016-02-05 21:54:22",
-                "current_minute": "41",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-05 22:36:59",
+                "current_minute": "60",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "2968",
                 "home": {
                   "id": "2939",
                   "name": "Fischtown Pinguins Bremerhaven",
@@ -16964,6 +16964,28 @@
                   {
                     "match_result": "1",
                     "match_result_at": "2",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2968",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "3",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "2939",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "3",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
