@@ -4475,7 +4475,33 @@
     "content": "2:2",
     "kind": "left-foot",
     "minute": "86",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "259970",
+      "name": "Kenny Redondo",
+      "firstname": "Kenny",
+      "surname": "Redondo",
+      "fullname": "Kenny Prince Redondo",
+      "gender": "male",
+      "birthday": "29.08.1994",
+      "height": "182",
+      "weight": "69",
+      "person_detail": {
+        "id": "196119",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
     "created": "05.02.2016 20:13:04"
   },
   {
