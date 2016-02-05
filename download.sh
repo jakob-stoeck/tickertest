@@ -6,7 +6,7 @@ curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.
 && curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json"; \
 done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-02-05" | jq '.' > "matches-by-date2016-02-05.json"; \
-curl --compressed -sO http://mobile.ipnm.sport1.de/v8/media/live.xml; \
+curl --compressed -s http://mobile.ipnm.sport1.de/v8/media/live.xml | xmllint --format - > live.xml; \
 git add . && git commit -m "update"'
 
 
