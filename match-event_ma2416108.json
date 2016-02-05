@@ -4141,6 +4141,84 @@
     "created": "05.02.2016 20:12:40"
   },
   {
+    "id": "19156783",
+    "team": {
+      "id": "1639",
+      "name": "SC Freiburg",
+      "shortname": "Freiburg",
+      "microname": "SCF",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1639",
+        "members": "9000",
+        "fullname": "Sport Club Freiburg",
+        "foundation": "1904-05-30",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "187",
+        "name": "Schwarzwald-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "187",
+          "capacity": "24000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1379831",
+      "shirtnumber": "19",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "2609",
+      "name": "Florian Kath",
+      "firstname": "Florian",
+      "surname": "Kath",
+      "fullname": "Florian Kath",
+      "gender": "male",
+      "birthday": "21.10.1994",
+      "height": "185",
+      "weight": "70",
+      "person_detail": {
+        "id": "106225",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Balingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "85",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:14:30"
+  },
+  {
     "id": "775322",
     "team": {
       "id": "1639",
