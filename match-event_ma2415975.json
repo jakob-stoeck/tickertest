@@ -4063,6 +4063,84 @@
     "created": "05.02.2016 22:02:07"
   },
   {
+    "id": "19157739",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1380131",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "262027",
+      "name": "Mahmoud Dahoud",
+      "firstname": "Mahmoud",
+      "surname": "Dahoud",
+      "fullname": "Mahmoud Dahoud",
+      "gender": "male",
+      "birthday": "01.01.1996",
+      "height": "176",
+      "weight": "76",
+      "person_detail": {
+        "id": "197701",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Amouda",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "84",
+    "additional_person_id": "0",
+    "created": "05.02.2016 22:11:09"
+  },
+  {
     "id": "1441825",
     "team": {
       "id": "253",
