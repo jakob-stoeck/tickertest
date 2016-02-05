@@ -3361,6 +3361,162 @@
     "created": "05.02.2016 19:42:58"
   },
   {
+    "id": "19156611",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "6",
+        "members": "20000",
+        "fullname": "1. Fußball Club Kaiserslautern e.V",
+        "foundation": "1900-06-02",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "647",
+        "name": "Fritz-Walter-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "647",
+          "capacity": "49780",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1384852",
+      "shirtnumber": "20",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "230334",
+      "name": "Kacper Przybyłko",
+      "firstname": "Kacper",
+      "surname": "Przybyłko",
+      "fullname": "Kacper Przybyłko",
+      "gender": "male",
+      "birthday": "25.03.1993",
+      "height": "192",
+      "weight": "82",
+      "person_detail": {
+        "id": "172882",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Bielefeld",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen",
+          "code": "POL",
+          "iso": "PL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "60",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:47:18"
+  },
+  {
+    "id": "19156613",
+    "team": {
+      "id": "6",
+      "name": "1. FC Kaiserslautern",
+      "shortname": "K'lautern",
+      "microname": "FCK",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "6",
+        "members": "20000",
+        "fullname": "1. Fußball Club Kaiserslautern e.V",
+        "foundation": "1900-06-02",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "647",
+        "name": "Fritz-Walter-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "647",
+          "capacity": "49780",
+          "built": "1920"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1416781",
+      "shirtnumber": "27",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "240154",
+      "name": "Maurice Deville",
+      "firstname": "Maurice",
+      "surname": "Deville",
+      "fullname": "Maurice John Deville",
+      "gender": "male",
+      "birthday": "31.07.1992",
+      "height": "193",
+      "weight": "83",
+      "person_detail": {
+        "id": "179828",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Solingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "120",
+          "name": "Luxemburg",
+          "code": "LUX",
+          "iso": "LU"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "60",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:47:25"
+  },
+  {
     "id": "1442620",
     "team": {
       "id": "6",
