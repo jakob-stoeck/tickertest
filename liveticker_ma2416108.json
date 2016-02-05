@@ -503,5 +503,69 @@
     "headline": "",
     "content": "<b>Halbzeitfazit:</b><br/> Der VfL Bochum führt in seinem ersten Pflichtspiel im Jahr 2016 nach 45 Minuten mit 1:0 gegen den SC Freiburg. Der Spielstand im Rewirpowerstadion entspricht allerdings nicht den tatsächlichen Kräfteverhältnissen auf dem Rasen. Die Breisgauer haben nicht nur deutlich besser angefangen, sondern sind bis auf eine kleine Auszeit spielerisch die klar überlegene Mannschaft. Die Verbeek-Truppe wackelte in der Anfangsphase bedenklich, konnte jedoch den Führungstreffer in Minute 13 markieren. Bei den Gästen harmonieren die beiden Neuzugänge Nielsen und Niederlechner schon ganz gut mit den anderen Freiburger Offensivleuten. Für den SCF ist noch alles möglich. Bis gleich!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620797",
+    "event": {
+      "id": "19156437",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "second-half-start",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:32"
+    },
+    "tickertime": "05.02.2016 19:32:06",
+    "minute": "46",
+    "headline": "",
+    "content": "<b>Anpfiff 2. Halbzeit</b>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620798",
+    "event": {
+      "id": "19156438",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "134690",
+        "name": "Marco Terrazzino",
+        "firstname": "Marco",
+        "surname": "Terrazzino",
+        "fullname": "Marco Terrazzino",
+        "gender": "male",
+        "birthday": "15.04.1991",
+        "height": "176",
+        "weight": "74",
+        "person_detail": {
+          "id": "124049",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Mannheim",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:32"
+    },
+    "tickertime": "05.02.2016 19:32:19",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Bochum -> Marco Terrazzino</span>",
+    "syndicate": "heimspiel"
   }
 ]
