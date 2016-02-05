@@ -4531,6 +4531,84 @@
     "created": "05.02.2016 22:13:12"
   },
   {
+    "id": "19157772",
+    "team": {
+      "id": "253",
+      "name": "Bor. Mönchengladbach",
+      "shortname": "Gladbach",
+      "microname": "BMG",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "253",
+        "members": "71000",
+        "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+        "foundation": "1900-08-01",
+        "colours": "grün-weiß-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "252",
+        "name": "Borussia-Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "252",
+          "capacity": "54067",
+          "built": "2004"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1380130",
+      "shirtnumber": "6",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "1953",
+      "name": "Håvard Nordtveit",
+      "firstname": "Håvard",
+      "surname": "Nordtveit",
+      "fullname": "Håvard Nordtveit",
+      "gender": "male",
+      "birthday": "21.06.1990",
+      "height": "188",
+      "weight": "85",
+      "person_detail": {
+        "id": "85775",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Vats",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "156",
+          "name": "Norwegen",
+          "code": "NOR",
+          "iso": "NO"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "5:1",
+    "kind": "right-foot",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "05.02.2016 22:14:55"
+  },
+  {
     "id": "1441825",
     "team": {
       "id": "253",
