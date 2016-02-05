@@ -338,5 +338,73 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Thorgan Hazard (Bor. Mönchengladbach)</b> <br/>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621157",
+    "event": {
+      "id": "19157046",
+      "team": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "person": {
+        "id": "303116",
+        "name": "Andreas Christensen",
+        "firstname": "Andreas",
+        "surname": "Christensen",
+        "fullname": "Andreas Christensen",
+        "gender": "male",
+        "birthday": "10.04.1996",
+        "height": "188",
+        "weight": "68",
+        "person_detail": {
+          "id": "230898",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Allerod",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "45"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:0",
+      "kind": "right-foot",
+      "minute": "31",
+      "additional_person": {
+        "id": "262027",
+        "name": "Mahmoud Dahoud",
+        "firstname": "Mahmoud",
+        "surname": "Dahoud",
+        "fullname": "Mahmoud Dahoud",
+        "gender": "male",
+        "birthday": "01.01.1996",
+        "height": "176",
+        "weight": "76",
+        "person_detail": {
+          "id": "197701",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Amouda",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "created": "05.02.2016 21:01"
+    },
+    "tickertime": "05.02.2016 21:01:54",
+    "minute": "31",
+    "headline": "",
+    "content": "<b>Tooor für Bor. Mönchengladbach, 2:0 durch Andreas Christensen</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
