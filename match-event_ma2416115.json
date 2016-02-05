@@ -3101,6 +3101,162 @@
     "created": "05.02.2016 19:46:16"
   },
   {
+    "id": "19156670",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1651",
+        "members": "10000",
+        "fullname": "Sport Club Paderborn 07",
+        "foundation": "1985-05-20",
+        "colours": "schwarz-weiß-blau"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1406",
+        "name": "Benteler Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1406",
+          "capacity": "15000",
+          "built": "2008"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1200659",
+      "shirtnumber": "27",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "8780",
+      "name": "Idir Ouali",
+      "firstname": "Idir",
+      "surname": "Ouali",
+      "fullname": "Idir Ouali",
+      "gender": "male",
+      "birthday": "21.05.1988",
+      "height": "176",
+      "weight": "65",
+      "person_detail": {
+        "id": "87130",
+        "position_1": "10",
+        "position_2": "8",
+        "preferred_side": "left",
+        "birth_place": "Roubaix",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "61",
+          "name": "Frankreich",
+          "code": "FRA",
+          "iso": "FR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "62",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:48:41"
+  },
+  {
+    "id": "19156672",
+    "team": {
+      "id": "1651",
+      "name": "SC Paderborn 07",
+      "shortname": "Paderborn",
+      "microname": "SCP",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1651",
+        "members": "10000",
+        "fullname": "Sport Club Paderborn 07",
+        "foundation": "1985-05-20",
+        "colours": "schwarz-weiß-blau"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1406",
+        "name": "Benteler Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1406",
+          "capacity": "15000",
+          "built": "2008"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1377863",
+      "shirtnumber": "19",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "261939",
+      "name": "Marc Brašnić",
+      "firstname": "Marc",
+      "surname": "Brašnić",
+      "fullname": "Marc Brašnić",
+      "gender": "male",
+      "birthday": "21.10.1996",
+      "height": "184",
+      "weight": "84",
+      "person_detail": {
+        "id": "197654",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "109",
+          "name": "Kroatien",
+          "code": "CRO",
+          "iso": "HR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "62",
+    "additional_person_id": "0",
+    "created": "05.02.2016 19:48:47"
+  },
+  {
     "id": "1452150",
     "team": {
       "id": "1651",
