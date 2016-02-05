@@ -474,35 +474,35 @@
       "kind": "right-foot",
       "minute": "49",
       "additional_person": {
-        "id": "21536",
-        "name": "Stefan Kulovits",
-        "firstname": "Stefan",
-        "surname": "Kulovits",
-        "fullname": "Stefan Kulovits",
+        "id": "234251",
+        "name": "Thomas Pledl",
+        "firstname": "Thomas",
+        "surname": "Pledl",
+        "fullname": "Thomas Pledl",
         "gender": "male",
-        "birthday": "19.04.1983",
-        "height": "178",
+        "birthday": "23.05.1994",
+        "height": "174",
         "weight": "65",
         "person_detail": {
-          "id": "14218",
-          "position_1": "7",
-          "position_2": "0",
-          "preferred_side": "right",
-          "birth_place": "Wien",
+          "id": "176378",
+          "position_1": "6",
+          "position_2": "9",
+          "preferred_side": "unknown",
+          "birth_place": "Bischofsmais",
           "died": "no"
         },
         "country": [
           {
-            "id": "158"
+            "id": "47"
           }
         ]
       },
       "created": "05.02.2016 19:36"
     },
-    "tickertime": "05.02.2016 19:36:12",
+    "tickertime": "05.02.2016 19:37:16",
     "minute": "49",
     "headline": "",
-    "content": "<b>Tooor für SV Sandhausen, 1:0 durch Tim Kister</b> <br/>Reingelümmelt! Stefan Kulovits zieht eine Ecke auf den kurzen Pfosten und von dort abgefälscht kullert der Ball in die Mitte. Der Innenverteidiger schaltet am schnellsten und knallt das Leder aus sechs Metern unter die Latte.",
+    "content": "<b>Tooor für SV Sandhausen, 1:0 durch Tim Kister</b> <br/>Reingelümmelt! Pledl zieht eine Ecke auf den kurzen Pfosten und von dort abgefälscht kullert der Ball in die Mitte. Der Innenverteidiger schaltet am schnellsten und knallt das Leder aus sechs Metern unter die Latte.",
     "syndicate": "heimspiel"
   },
   {
@@ -1105,6 +1105,96 @@
     "minute": "77",
     "headline": "",
     "content": "Stefan Effenberg zieht seine letzte Option und bringt den dänischen Neuzugang aus Aalborg. Auf der anderen Seite ist Paqarada wohl ein wenig angeschlagen und wird in der Viererkette ersetzt.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620942",
+    "event": {
+      "id": "19156762",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "234251",
+        "name": "Thomas Pledl",
+        "firstname": "Thomas",
+        "surname": "Pledl",
+        "fullname": "Thomas Pledl",
+        "gender": "male",
+        "birthday": "23.05.1994",
+        "height": "174",
+        "weight": "65",
+        "person_detail": {
+          "id": "176378",
+          "position_1": "6",
+          "position_2": "9",
+          "preferred_side": "unknown",
+          "birth_place": "Bischofsmais",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:06"
+    },
+    "tickertime": "05.02.2016 20:06:22",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SV Sandhausen -> Thomas Pledl</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620945",
+    "event": {
+      "id": "19156764",
+      "team": {
+        "id": "1868",
+        "name": "SV Sandhausen"
+      },
+      "person": {
+        "id": "375",
+        "name": "Daniel Schulz",
+        "firstname": "Daniel",
+        "surname": "Schulz",
+        "fullname": "Daniel Schulz",
+        "gender": "male",
+        "birthday": "21.02.1986",
+        "height": "190",
+        "weight": "87",
+        "person_detail": {
+          "id": "23038",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:06"
+    },
+    "tickertime": "05.02.2016 20:06:35",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SV Sandhausen -> Daniel Schulz</span>",
     "syndicate": "heimspiel"
   }
 ]
