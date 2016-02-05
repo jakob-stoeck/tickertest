@@ -1432,5 +1432,50 @@
     "headline": "",
     "content": "Es gibt satte vier Minuten oben drauf! Was kann Paderborn noch?",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1621005",
+    "event": {
+      "id": "19156867",
+      "team": {
+        "id": "1651",
+        "name": "SC Paderborn 07"
+      },
+      "person": {
+        "id": "229855",
+        "name": "Kevin Stöger",
+        "firstname": "Kevin",
+        "surname": "Stöger",
+        "fullname": "Kevin Stöger",
+        "gender": "male",
+        "birthday": "27.08.1993",
+        "height": "175",
+        "weight": "70",
+        "person_detail": {
+          "id": "172428",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Steyr",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:18"
+    },
+    "tickertime": "05.02.2016 20:18:23",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Kevin Stöger (SC Paderborn 07)</b> <br/>Wooten holt clever das Foul heraus und hängt seinem Gegenspiele beim Konter noch den Karton an. Aber das bringt in erster Linie mal Zeit.",
+    "syndicate": "heimspiel"
   }
 ]
