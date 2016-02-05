@@ -4219,6 +4219,84 @@
     "created": "05.02.2016 22:11:20"
   },
   {
+    "id": "19157756",
+    "team": {
+      "id": "2134",
+      "name": "Werder Bremen",
+      "shortname": "Bremen",
+      "microname": "BRE",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2134",
+        "members": "36500",
+        "fullname": "Sport Verein Werder Bremen",
+        "foundation": "1899-02-04",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2193",
+        "name": "Weser-Stadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2193",
+          "capacity": "42100",
+          "built": "1926"
+        }
+      }
+    },
+    "team_person": {
+      "id": "875305",
+      "shirtnumber": "16",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "13916",
+      "name": "Zlatko Junuzović",
+      "firstname": "Zlatko",
+      "surname": "Junuzović",
+      "fullname": "Zlatko Junuzović",
+      "gender": "male",
+      "birthday": "26.09.1987",
+      "height": "172",
+      "weight": "69",
+      "person_detail": {
+        "id": "32818",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Loznica",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "85",
+    "additional_person_id": "0",
+    "created": "05.02.2016 22:12:44"
+  },
+  {
     "id": "1441825",
     "team": {
       "id": "253",
