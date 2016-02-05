@@ -3829,6 +3829,84 @@
     "created": "05.02.2016 20:04:25"
   },
   {
+    "id": "19156771",
+    "team": {
+      "id": "2079",
+      "name": "VfL Bochum",
+      "shortname": "Bochum",
+      "microname": "BOC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2079",
+        "members": "5500",
+        "fullname": "Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft e.V.",
+        "foundation": "1848-07-01",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1541",
+        "name": "rewirpowerSTADION",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1541",
+          "capacity": "29299",
+          "built": "1979"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1202111",
+      "shirtnumber": "22",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "19083",
+      "name": "Simon Terodde",
+      "firstname": "Simon",
+      "surname": "Terodde",
+      "fullname": "Simon Terodde",
+      "gender": "male",
+      "birthday": "02.03.1988",
+      "height": "192",
+      "weight": "78",
+      "person_detail": {
+        "id": "84124",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Bocholt",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "80",
+    "additional_person_id": "0",
+    "created": "05.02.2016 20:09:49"
+  },
+  {
     "id": "775322",
     "team": {
       "id": "1639",
