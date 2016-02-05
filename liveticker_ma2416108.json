@@ -803,5 +803,58 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei SC Freiburg -> Amir Falahen</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620885",
+    "tickertime": "05.02.2016 19:55:56",
+    "minute": "65",
+    "headline": "",
+    "content": "Terodde sprintet im Rahmen eines Konters über die Mittellinie, doch seine Kollegen können nicht schnell genug nachrücken. Einzig und allein Eisfeld ist auf rechts mitgelaufen, kann den unpräzisen Pass seines Mitspielers aber nicht erreichen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620888",
+    "event": {
+      "id": "19156721",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "413",
+        "name": "Tim Hoogland",
+        "firstname": "Tim",
+        "surname": "Hoogland",
+        "fullname": "Tim Hoogland",
+        "gender": "male",
+        "birthday": "11.06.1985",
+        "height": "183",
+        "weight": "75",
+        "person_detail": {
+          "id": "19881",
+          "position_1": "5",
+          "position_2": "7",
+          "preferred_side": "right",
+          "birth_place": "Marl",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:0",
+      "kind": "goal",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:56"
+    },
+    "tickertime": "05.02.2016 19:56:21",
+    "minute": "67",
+    "headline": "",
+    "content": "<b>Tooor für VfL Bochum, 2:0 durch Tim Hoogland</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
