@@ -1107,5 +1107,95 @@
     "headline": "",
     "content": "Sekunden nach seiner Einwechslung probiert sich Haberer aus 16 Metern! Mlapa setzt den Leihspieler aus Hoffenheim wunderbar in Szene, indem er nach einem hohen Anspiel mit der Hacke für ihn ablegt. Der Versuch von der Strafraumkante wird von Schwolow zur Seite abgewehrt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620973",
+    "event": {
+      "id": "19156775",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "165174",
+        "name": "Håvard Nielsen",
+        "firstname": "Håvard",
+        "surname": "Nielsen",
+        "fullname": "Håvard Kallevik Nielsen",
+        "gender": "male",
+        "birthday": "15.07.1993",
+        "height": "187",
+        "weight": "80",
+        "person_detail": {
+          "id": "154519",
+          "position_1": "12",
+          "position_2": "11",
+          "preferred_side": "right",
+          "birth_place": "Oslo",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "156"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "83",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:12"
+    },
+    "tickertime": "05.02.2016 20:12:33",
+    "minute": "83",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei SC Freiburg -> Håvard Nielsen</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620975",
+    "event": {
+      "id": "19156777",
+      "team": {
+        "id": "1639",
+        "name": "SC Freiburg"
+      },
+      "person": {
+        "id": "2609",
+        "name": "Florian Kath",
+        "firstname": "Florian",
+        "surname": "Kath",
+        "fullname": "Florian Kath",
+        "gender": "male",
+        "birthday": "21.10.1994",
+        "height": "185",
+        "weight": "70",
+        "person_detail": {
+          "id": "106225",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Balingen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "83",
+      "additional_person_id": "0",
+      "created": "05.02.2016 20:12"
+    },
+    "tickertime": "05.02.2016 20:12:40",
+    "minute": "83",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei SC Freiburg -> Florian Kath</span>",
+    "syndicate": "heimspiel"
   }
 ]
