@@ -567,5 +567,58 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei VfL Bochum -> Marco Terrazzino</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620800",
+    "event": {
+      "id": "19156440",
+      "team": {
+        "id": "2079",
+        "name": "VfL Bochum"
+      },
+      "person": {
+        "id": "134923",
+        "name": "Peniel Mlapa",
+        "firstname": "Peniel",
+        "surname": "Mlapa",
+        "fullname": "Peniel Kokou Mlapa",
+        "gender": "male",
+        "birthday": "20.02.1991",
+        "height": "195",
+        "weight": "89",
+        "person_detail": {
+          "id": "124281",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Lomé",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:32"
+    },
+    "tickertime": "05.02.2016 19:32:30",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Bochum -> Peniel Mlapa</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620801",
+    "tickertime": "05.02.2016 19:32:36",
+    "minute": "46",
+    "headline": "",
+    "content": "Willkommen zurück zum Wiederbeginn an der Castroper Straße! Sollten die Breisgauer ihren dominanten Auftritt weiter Teile des ersten Durchgangs fortsetzen, ist selbst die Revanche für die Hinspielniederlage Mitte August noch möglich. Der VfL hat sich bisher sehr vorsichtig verhalten, was das Aufrücken während des eigenen Ballbesitzes angeht. Sollte er nicht nachlegen können, ist er darauf angewiesen, dass Keeper Manuel Riemann seine aktuell 373 Minuten andauernde Phase ohne Pflichtspielgegentreffer bis zum Schlusspfiff ausbaut.",
+    "syndicate": "heimspiel"
   }
 ]
