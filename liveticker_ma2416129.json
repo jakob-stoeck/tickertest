@@ -367,5 +367,95 @@
     "headline": "",
     "content": "<b>Anpfiff 2. Halbzeit</b>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620807",
+    "event": {
+      "id": "19156481",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "227424",
+        "name": "Steven Skrzybski",
+        "firstname": "Steven",
+        "surname": "Skrzybski",
+        "fullname": "Steven Skrzybski",
+        "gender": "male",
+        "birthday": "18.11.1992",
+        "height": "173",
+        "weight": "64",
+        "person_detail": {
+          "id": "170200",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:34"
+    },
+    "tickertime": "05.02.2016 19:34:18",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FC Union Berlin -> Steven Skrzybski</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620808",
+    "event": {
+      "id": "19156482",
+      "team": {
+        "id": "19",
+        "name": "1. FC Union Berlin"
+      },
+      "person": {
+        "id": "23110",
+        "name": "Sören Brandy",
+        "firstname": "Sören",
+        "surname": "Brandy",
+        "fullname": "Sören Brandy",
+        "gender": "male",
+        "birthday": "06.05.1985",
+        "height": "182",
+        "weight": "77",
+        "person_detail": {
+          "id": "51122",
+          "position_1": "11",
+          "position_2": "12",
+          "preferred_side": "right",
+          "birth_place": "Schloß Holte",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "05.02.2016 19:34"
+    },
+    "tickertime": "05.02.2016 19:34:25",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FC Union Berlin -> Sören Brandy</span>",
+    "syndicate": "heimspiel"
   }
 ]
