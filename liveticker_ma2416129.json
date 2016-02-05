@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
 Server: Apache
 Access-Control-Allow-Origin: *
-ETag: "92bf42951ee288b257b6d6dc0efa3482"
-Expires: Fri, 05 Feb 2016 18:22:37 GMT
+ETag: "3ba79dea45beae16f7304276c7d3ad03"
+Expires: Fri, 05 Feb 2016 18:25:04 GMT
 Cache-Control: public, max-age=30
 Content-Encoding: gzip
-Content-Length: 4636
+Content-Length: 4695
 Content-Type: application/json; charset=utf-8
 Accept-Ranges: bytes
-Date: Fri, 05 Feb 2016 18:22:57 GMT
+Date: Fri, 05 Feb 2016 18:24:34 GMT
 Connection: keep-alive
 Vary: Accept-Encoding
 
@@ -353,6 +353,14 @@ Vary: Accept-Encoding
     "minute": "45",
     "headline": "",
     "content": "<b>Ende 1. Halbzeit</b>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1620786",
+    "tickertime": "05.02.2016 19:23:51",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Halbzeitfazit:</b><br/>Der 1. FC Kaiserslautern führt dank eines Doppelschlags von Jenssen und Gaus mit 2:0 gegen Union Berlin.",
     "syndicate": "heimspiel"
   }
 ]
