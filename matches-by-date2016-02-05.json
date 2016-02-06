@@ -44,7 +44,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:35:08",
-                "current_minute": "70",
+                "current_minute": "72",
                 "attendance": "74500",
                 "winner_team_id": "0",
                 "home": {
@@ -224,8 +224,8 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:32:06",
-                "current_minute": "73",
-                "attendance": "60000",
+                "current_minute": "75",
+                "attendance": "61483",
                 "winner_team_id": "694",
                 "home": {
                   "id": "694",
@@ -404,7 +404,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:33:22",
-                "current_minute": "72",
+                "current_minute": "73",
                 "attendance": "41000",
                 "winner_team_id": "2076",
                 "home": {
@@ -584,7 +584,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:33:42",
-                "current_minute": "72",
+                "current_minute": "73",
                 "attendance": "15000",
                 "winner_team_id": "0",
                 "home": {
@@ -764,7 +764,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:32:56",
-                "current_minute": "72",
+                "current_minute": "74",
                 "attendance": "35000",
                 "winner_team_id": "21",
                 "home": {
@@ -2558,9 +2558,9 @@
                 "match_time": "16:00",
                 "finished": "no",
                 "live_status": "data",
-                "current_period": "first-half-end",
-                "current_period_start": "2016-02-06 16:44:54",
-                "current_minute": "45",
+                "current_period": "second-half-start",
+                "current_period_start": "2016-02-06 16:59:30",
+                "current_minute": "47",
                 "attendance": "45321",
                 "winner_team_id": "0",
                 "home": {
@@ -5018,8 +5018,8 @@
                 "match_time": "17:00",
                 "finished": "no",
                 "live_status": "data",
-                "current_period": "",
-                "current_period_start": "",
+                "current_period": "game-start",
+                "current_period_start": "2016-02-06 17:00:11",
                 "current_minute": "0",
                 "attendance": "",
                 "winner_team_id": "0",
@@ -17893,11 +17893,11 @@
                 "match_time": "16:00",
                 "finished": "no",
                 "live_status": "data",
-                "current_period": "game-start",
-                "current_period_start": "2016-02-06 16:03:16",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-02-06 16:59:54",
                 "current_minute": "45",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "227",
                 "home": {
                   "id": "227",
                   "name": "Birmingham City",
@@ -17967,6 +17967,28 @@
                   {
                     "match_result": "0",
                     "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1692",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "227",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
@@ -19733,7 +19755,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 16:15:05",
-                "current_minute": "44",
+                "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -32403,9 +32425,9 @@
                 "match_time": "15:00",
                 "finished": "no",
                 "live_status": "result",
-                "current_period": "second-third-end",
-                "current_period_start": "2016-02-06 16:44:37",
-                "current_minute": "40",
+                "current_period": "third-third-start",
+                "current_period_start": "2016-02-06 17:00:25",
+                "current_minute": "41",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -32635,7 +32657,7 @@
                 "live_status": "result",
                 "current_period": "second-third-start",
                 "current_period_start": "2016-02-06 16:54:05",
-                "current_minute": "21",
+                "current_minute": "25",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -32684,7 +32706,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
@@ -35319,7 +35341,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "3",
+                    "match_result": "4",
                     "match_result_at": "1",
                     "place": "none_home",
                     "rounds": "0",
@@ -35602,7 +35624,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "4",
+                    "match_result": "5",
                     "match_result_at": "2",
                     "place": "none_home",
                     "rounds": "0",
