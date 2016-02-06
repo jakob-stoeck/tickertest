@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1193239",
+    "team": {
+      "id": "205",
+      "name": "Bayer Leverkusen",
+      "shortname": "Leverkusen",
+      "microname": "LEV",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "205",
+        "members": "27500",
+        "fullname": "Bayer 04 Leverkusen",
+        "foundation": "1904-07-01",
+        "colours": "rot-schwarz"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "199",
+        "name": "BayArena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "199",
+          "capacity": "30210",
+          "built": "1956"
+        }
+      }
+    },
+    "person": {
+      "id": "21235",
+      "name": "Roger Schmidt",
+      "firstname": "Roger",
+      "surname": "Schmidt",
+      "fullname": "Roger Schmidt",
+      "gender": "male",
+      "birthday": "13.03.1967",
+      "height": "188",
+      "weight": "82",
+      "person_detail": {
+        "id": "9533",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Kierspe",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "01.07.2015 20:04"
+  },
+  {
+    "id": "964736",
+    "team": {
+      "id": "209",
+      "name": "Bayern München",
+      "shortname": "FC Bayern",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "209",
+        "members": "270000",
+        "fullname": "Fußball-Club Bayern München",
+        "foundation": "1900-02-27",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "81",
+        "name": "Allianz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "81",
+          "capacity": "75000",
+          "built": "2005"
+        }
+      }
+    },
+    "person": {
+      "id": "9092",
+      "name": "Pep Guardiola",
+      "firstname": "",
+      "surname": "Pep Guardiola",
+      "fullname": "Josep Guardiola i Sala",
+      "gender": "male",
+      "birthday": "18.01.1971",
+      "height": "180",
+      "weight": "70",
+      "person_detail": {
+        "id": "3424",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Santpedor",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "193",
+          "name": "Spanien",
+          "code": "ESP",
+          "iso": "ES"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "01.07.2015 23:33"
+  }
+]

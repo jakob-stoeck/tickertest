@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "19163457",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1211049",
+      "shirtnumber": "13",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "14446",
+      "name": "Eric Maxim Choupo-Moting",
+      "firstname": "Eric Maxim",
+      "surname": "Choupo-Moting",
+      "fullname": "Eric Maxim Choupo-Moting",
+      "gender": "male",
+      "birthday": "23.03.1989",
+      "height": "190",
+      "weight": "84",
+      "person_detail": {
+        "id": "74023",
+        "position_1": "12",
+        "position_2": "11",
+        "preferred_side": "right",
+        "birth_place": "Hamburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "97",
+          "name": "Kamerun",
+          "code": "CMR",
+          "iso": "CM"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:27"
+  },
+  {
+    "id": "19163458",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "701421",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "10434",
+      "name": "Ralf Fährmann",
+      "firstname": "Ralf",
+      "surname": "Fährmann",
+      "fullname": "Ralf Fährmann",
+      "gender": "male",
+      "birthday": "27.09.1988",
+      "height": "196",
+      "weight": "93",
+      "person_detail": {
+        "id": "72503",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Karl-Marx-Stadt (Chemnitz)",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:27"
+  },
+  {
+    "id": "19163459",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1378099",
+      "shirtnumber": "5",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "230133",
+      "name": "Johannes Geis",
+      "firstname": "Johannes",
+      "surname": "Geis",
+      "fullname": "Johannes Geis",
+      "gender": "male",
+      "birthday": "17.08.1993",
+      "height": "181",
+      "weight": "81",
+      "person_detail": {
+        "id": "172701",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Schweinfurt",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:27"
+  },
+  {
+    "id": "19163460",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1033499",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "231656",
+      "name": "Leon Goretzka",
+      "firstname": "Leon",
+      "surname": "Goretzka",
+      "fullname": "Leon Goretzka",
+      "gender": "male",
+      "birthday": "06.02.1995",
+      "height": "189",
+      "weight": "76",
+      "person_detail": {
+        "id": "174106",
+        "position_1": "7",
+        "position_2": "13",
+        "preferred_side": "unknown",
+        "birth_place": "Bochum",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163461",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "613721",
+      "shirtnumber": "25",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "1186",
+      "name": "Klaas Jan Huntelaar",
+      "firstname": "Klaas Jan",
+      "surname": "Huntelaar",
+      "fullname": "Dirk Klaas Jan Huntelaar",
+      "gender": "male",
+      "birthday": "12.08.1983",
+      "height": "186",
+      "weight": "78",
+      "person_detail": {
+        "id": "10901",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Drempt",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande",
+          "code": "NED",
+          "iso": "NL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163462",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1379127",
+      "shirtnumber": "3",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "152565",
+      "name": "Junior Caiçara",
+      "firstname": "",
+      "surname": "Junior Caiçara",
+      "fullname": "Uilson de Souza Paula Junior",
+      "gender": "male",
+      "birthday": "27.04.1989",
+      "height": "172",
+      "weight": "67",
+      "person_detail": {
+        "id": "141913",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "São Paulo",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163463",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1030263",
+      "shirtnumber": "6",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "229849",
+      "name": "Sead Kolašinac",
+      "firstname": "Sead",
+      "surname": "Kolašinac",
+      "fullname": "Sead Kolašinac",
+      "gender": "male",
+      "birthday": "20.06.1993",
+      "height": "183",
+      "weight": "82",
+      "person_detail": {
+        "id": "172422",
+        "position_1": "3",
+        "position_2": "7",
+        "preferred_side": "left",
+        "birth_place": "Karlsruhe",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "31",
+          "name": "Bosnien-Herzegowina",
+          "code": "BIH",
+          "iso": "BA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163464",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "378729",
+      "shirtnumber": "32",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "165988",
+      "name": "Joel Matip",
+      "firstname": "Joel",
+      "surname": "Matip",
+      "fullname": "Joel André Matip Job",
+      "gender": "male",
+      "birthday": "08.08.1991",
+      "height": "193",
+      "weight": "89",
+      "person_detail": {
+        "id": "155332",
+        "position_1": "4",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Bochum",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "97",
+          "name": "Kamerun",
+          "code": "CMR",
+          "iso": "CM"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163465",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1031398",
+      "shirtnumber": "7",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "231417",
+      "name": "Max Meyer",
+      "firstname": "Max",
+      "surname": "Meyer",
+      "fullname": "Maximilian Meyer",
+      "gender": "male",
+      "birthday": "18.09.1995",
+      "height": "172",
+      "weight": "67",
+      "person_detail": {
+        "id": "173867",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Oberhausen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163466",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "779867",
+      "shirtnumber": "33",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "424",
+      "name": "Roman Neustädter",
+      "firstname": "Roman",
+      "surname": "Neustädter",
+      "fullname": "Roman Neustädter",
+      "gender": "male",
+      "birthday": "18.02.1988",
+      "height": "190",
+      "weight": "83",
+      "person_detail": {
+        "id": "55680",
+        "position_1": "4",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Dnipropetrovsk",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:28"
+  },
+  {
+    "id": "19163467",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1211363",
+      "shirtnumber": "19",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "262055",
+      "name": "Leroy Sané",
+      "firstname": "Leroy",
+      "surname": "Sané",
+      "fullname": "Leroy Sané",
+      "gender": "male",
+      "birthday": "11.01.1996",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "197729",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "unknown",
+        "birth_place": "Essen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:29"
+  },
+  {
+    "id": "19163486",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1484303",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "160168",
+      "name": "Younès Belhanda",
+      "firstname": "Younès",
+      "surname": "Belhanda",
+      "fullname": "Younès Belhanda",
+      "gender": "male",
+      "birthday": "25.02.1990",
+      "height": "174",
+      "weight": "75",
+      "person_detail": {
+        "id": "149516",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Avignon",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "128",
+          "name": "Marokko",
+          "code": "MAR",
+          "iso": "MA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163487",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1401224",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "95125",
+      "name": "Franco Di Santo",
+      "firstname": "Franco",
+      "surname": "Di Santo",
+      "fullname": "Franco Matías Di Santo",
+      "gender": "male",
+      "birthday": "07.04.1989",
+      "height": "194",
+      "weight": "78",
+      "person_detail": {
+        "id": "74584",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Mendoza",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "12",
+          "name": "Argentinien",
+          "code": "ARG",
+          "iso": "AR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163488",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1197250",
+      "shirtnumber": "34",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "3138",
+      "name": "Fabian Giefer",
+      "firstname": "Fabian",
+      "surname": "Giefer",
+      "fullname": "Fabian Giefer",
+      "gender": "male",
+      "birthday": "17.05.1990",
+      "height": "196",
+      "weight": "93",
+      "person_detail": {
+        "id": "96770",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Adenau",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163489",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1414957",
+      "shirtnumber": "20",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "298038",
+      "name": "Thilo Kehrer",
+      "firstname": "Thilo",
+      "surname": "Kehrer",
+      "fullname": "Thilo Kehrer",
+      "gender": "male",
+      "birthday": "21.09.1996",
+      "height": "184",
+      "weight": "70",
+      "person_detail": {
+        "id": "225973",
+        "position_1": "4",
+        "position_2": "7",
+        "preferred_side": "unknown",
+        "birth_place": "Tübingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163490",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1398967",
+      "shirtnumber": "27",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "28520",
+      "name": "Sascha Riether",
+      "firstname": "Sascha",
+      "surname": "Riether",
+      "fullname": "Sascha Riether",
+      "gender": "male",
+      "birthday": "23.03.1983",
+      "height": "174",
+      "weight": "70",
+      "person_detail": {
+        "id": "2197",
+        "position_1": "5",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Lahr/Schwarzwald",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163491",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1148629",
+      "shirtnumber": "18",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "14443",
+      "name": "Sidney Sam",
+      "firstname": "Sidney",
+      "surname": "Sam",
+      "fullname": "Sidney Sam",
+      "gender": "male",
+      "birthday": "31.01.1988",
+      "height": "174",
+      "weight": "71",
+      "person_detail": {
+        "id": "48380",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Kiel",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163492",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1485601",
+      "shirtnumber": "21",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "233604",
+      "name": "Alessandro Schöpf",
+      "firstname": "Alessandro",
+      "surname": "Schöpf",
+      "fullname": "Alessandro Schöpf",
+      "gender": "male",
+      "birthday": "07.02.1994",
+      "height": "171",
+      "weight": "61",
+      "person_detail": {
+        "id": "175796",
+        "position_1": "8",
+        "position_2": "13",
+        "preferred_side": "both",
+        "birth_place": "Umhausen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:03"
+  },
+  {
+    "id": "19163676",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "11872",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "23303",
+      "name": "Diego Benaglio",
+      "firstname": "Diego",
+      "surname": "Benaglio",
+      "fullname": "Diego Orlando Benaglio",
+      "gender": "male",
+      "birthday": "08.09.1983",
+      "height": "194",
+      "weight": "89",
+      "person_detail": {
+        "id": "2084",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Zürich",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:44"
+  },
+  {
+    "id": "19163677",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1235156",
+      "shirtnumber": "3",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "1967",
+      "name": "Nicklas Bendtner",
+      "firstname": "Nicklas",
+      "surname": "Bendtner",
+      "fullname": "Nicklas Bendtner",
+      "gender": "male",
+      "birthday": "16.01.1988",
+      "height": "191",
+      "weight": "83",
+      "person_detail": {
+        "id": "43874",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Kopenhagen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "45",
+          "name": "Dänemark",
+          "code": "DEN",
+          "iso": "DK"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:45"
+  },
+  {
+    "id": "19163678",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1003593",
+      "shirtnumber": "7",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "22989",
+      "name": "Daniel Caligiuri",
+      "firstname": "Daniel",
+      "surname": "Caligiuri",
+      "fullname": "Daniel Caligiuri",
+      "gender": "male",
+      "birthday": "15.01.1988",
+      "height": "182",
+      "weight": "79",
+      "person_detail": {
+        "id": "77306",
+        "position_1": "8",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Villingen-Schwenningen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:45"
+  },
+  {
+    "id": "19163679",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428136",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "230437",
+      "name": "Julian Draxler",
+      "firstname": "Julian",
+      "surname": "Draxler",
+      "fullname": "Julian Draxler",
+      "gender": "male",
+      "birthday": "20.09.1993",
+      "height": "185",
+      "weight": "74",
+      "person_detail": {
+        "id": "172984",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "both",
+        "birth_place": "Gladbeck",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:45"
+  },
+  {
+    "id": "19163680",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1230593",
+      "shirtnumber": "23",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "158548",
+      "name": "Josuha Guilavogui",
+      "firstname": "Josuha",
+      "surname": "Guilavogui",
+      "fullname": "Josuha Guilavogui",
+      "gender": "male",
+      "birthday": "19.09.1990",
+      "height": "188",
+      "weight": "78",
+      "person_detail": {
+        "id": "147896",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Toulon",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "61",
+          "name": "Frankreich",
+          "code": "FRA",
+          "iso": "FR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:45"
+  },
+  {
+    "id": "19163681",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1200810",
+      "shirtnumber": "24",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "8155",
+      "name": "Sebastian Jung",
+      "firstname": "Sebastian",
+      "surname": "Jung",
+      "fullname": "Sebastian Jung",
+      "gender": "male",
+      "birthday": "22.06.1990",
+      "height": "179",
+      "weight": "72",
+      "person_detail": {
+        "id": "96715",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Königstein",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:45"
+  },
+  {
+    "id": "19163682",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "682959",
+      "shirtnumber": "31",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "230779",
+      "name": "Robin Knoche",
+      "firstname": "Robin",
+      "surname": "Knoche",
+      "fullname": "Robin Knoche",
+      "gender": "male",
+      "birthday": "22.05.1992",
+      "height": "177",
+      "weight": "77",
+      "person_detail": {
+        "id": "173266",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Braunschweig",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:45"
+  },
+  {
+    "id": "19163683",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1361193",
+      "shirtnumber": "11",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "29226",
+      "name": "Max Kruse",
+      "firstname": "Max",
+      "surname": "Kruse",
+      "fullname": "Maximilian Kruse",
+      "gender": "male",
+      "birthday": "19.03.1988",
+      "height": "180",
+      "weight": "82",
+      "person_detail": {
+        "id": "59247",
+        "position_1": "11",
+        "position_2": "8",
+        "preferred_side": "both",
+        "birth_place": "Reinbek",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:46"
+  },
+  {
+    "id": "19163684",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "885123",
+      "shirtnumber": "25",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "4148",
+      "name": "Naldo",
+      "firstname": "",
+      "surname": "Naldo",
+      "fullname": "Ronaldo Aparecido Rodrigues",
+      "gender": "male",
+      "birthday": "10.09.1982",
+      "height": "198",
+      "weight": "89",
+      "person_detail": {
+        "id": "36275",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Londrina",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:46"
+  },
+  {
+    "id": "19163685",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "780152",
+      "shirtnumber": "34",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "164337",
+      "name": "Ricardo Rodríguez",
+      "firstname": "Ricardo",
+      "surname": "Rodríguez",
+      "fullname": "Ricardo Ivan Rodríguez Araya",
+      "gender": "male",
+      "birthday": "25.08.1992",
+      "height": "180",
+      "weight": "77",
+      "person_detail": {
+        "id": "153682",
+        "position_1": "3",
+        "position_2": "6",
+        "preferred_side": "left",
+        "birth_place": "Zürich",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:46"
+  },
+  {
+    "id": "19163686",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1421296",
+      "shirtnumber": "8",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "10403",
+      "name": "Vieirinha",
+      "firstname": "",
+      "surname": "Vieirinha",
+      "fullname": "Adelino André Vieira de Freitas",
+      "gender": "male",
+      "birthday": "24.01.1986",
+      "height": "173",
+      "weight": "73",
+      "person_detail": {
+        "id": "57402",
+        "position_1": "5",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Guimarães",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "167",
+          "name": "Portugal",
+          "code": "POR",
+          "iso": "PT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:37:46"
+  },
+  {
+    "id": "19163689",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428002",
+      "shirtnumber": "38",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "399741",
+      "name": "Ismail Azzaoui",
+      "firstname": "Ismail",
+      "surname": "Azzaoui",
+      "fullname": "Ismail Azzaoui",
+      "gender": "male",
+      "birthday": "06.01.1998",
+      "height": "177",
+      "weight": "65",
+      "person_detail": {
+        "id": "314082",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Brussels",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "23",
+          "name": "Belgien",
+          "code": "BEL",
+          "iso": "BE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:36"
+  },
+  {
+    "id": "19163690",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1499470",
+      "shirtnumber": "16",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "397416",
+      "name": "Bruno Henrique",
+      "firstname": "",
+      "surname": "Bruno Henrique",
+      "fullname": "Bruno Henrique Pinto",
+      "gender": "male",
+      "birthday": "30.12.1990",
+      "height": "184",
+      "weight": "71",
+      "person_detail": {
+        "id": "312111",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Belo Horizonte (MG)",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:37"
+  },
+  {
+    "id": "19163691",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1306199",
+      "shirtnumber": "28",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "131531",
+      "name": "Koen Casteels",
+      "firstname": "Koen",
+      "surname": "Casteels",
+      "fullname": "Koen Casteels",
+      "gender": "male",
+      "birthday": "25.06.1992",
+      "height": "196",
+      "weight": "83",
+      "person_detail": {
+        "id": "120889",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Bonheiden",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "23",
+          "name": "Belgien",
+          "code": "BEL",
+          "iso": "BE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:37"
+  },
+  {
+    "id": "19163692",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1427384",
+      "shirtnumber": "18",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "25155",
+      "name": "Dante",
+      "firstname": "",
+      "surname": "Dante",
+      "fullname": "Bonfim Costa Santos Dante",
+      "gender": "male",
+      "birthday": "18.10.1983",
+      "height": "188",
+      "weight": "87",
+      "person_detail": {
+        "id": "19289",
+        "position_1": "4",
+        "position_2": "3",
+        "preferred_side": "left",
+        "birth_place": "Salvador",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:37"
+  },
+  {
+    "id": "19163693",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "966888",
+      "shirtnumber": "26",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "5156",
+      "name": "Felipe",
+      "firstname": "",
+      "surname": "Felipe",
+      "fullname": "Felipe Aliste Lopes",
+      "gender": "male",
+      "birthday": "07.08.1987",
+      "height": "189",
+      "weight": "84",
+      "person_detail": {
+        "id": "89545",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Osasco",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:37"
+  },
+  {
+    "id": "19163694",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1504375",
+      "shirtnumber": "32",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "333100",
+      "name": "Leandro Putaro",
+      "firstname": "Leandro",
+      "surname": "Putaro",
+      "fullname": "Leandro Putaro",
+      "gender": "male",
+      "birthday": "07.01.1997",
+      "height": "184",
+      "weight": "0",
+      "person_detail": {
+        "id": "257037",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Göttingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:37"
+  },
+  {
+    "id": "19163695",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "team_person": {
+      "id": "70471",
+      "shirtnumber": "4",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "28509",
+      "name": "Marcel Schäfer",
+      "firstname": "Marcel",
+      "surname": "Schäfer",
+      "fullname": "Marcel Schäfer",
+      "gender": "male",
+      "birthday": "07.06.1984",
+      "height": "184",
+      "weight": "75",
+      "person_detail": {
+        "id": "17143",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Aschaffenburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:39:37"
+  },
+  {
+    "id": "1373495",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "person": {
+      "id": "4624",
+      "name": "André Breitenreiter",
+      "firstname": "André",
+      "surname": "Breitenreiter",
+      "fullname": "André Breitenreiter",
+      "gender": "male",
+      "birthday": "02.10.1973",
+      "height": "182",
+      "weight": "78",
+      "person_detail": {
+        "id": "411",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Langenhagen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "16.09.2015 18:02"
+  },
+  {
+    "id": "956030",
+    "team": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg",
+      "microname": "WOL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2086",
+        "members": "20000",
+        "fullname": "Verein für Leibesübungen Wolfsburg e.V.",
+        "foundation": "1945-09-12",
+        "colours": "grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2158",
+        "name": "Volkswagen Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2158",
+          "capacity": "30000",
+          "built": "2002"
+        }
+      }
+    },
+    "person": {
+      "id": "14564",
+      "name": "Dieter Hecking",
+      "firstname": "Dieter",
+      "surname": "Hecking",
+      "fullname": "Dieter Hecking",
+      "gender": "male",
+      "birthday": "12.09.1964",
+      "height": "179",
+      "weight": "82",
+      "person_detail": {
+        "id": "2355",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Castrop-Rauxel",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "01.09.2015 10:19"
+  }
+]

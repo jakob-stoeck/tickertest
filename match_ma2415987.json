@@ -1,0 +1,139 @@
+{
+  "match": {
+    "id": "2415987",
+    "round_id": "57041",
+    "round": {
+      "id": "57041",
+      "season_id": "18336",
+      "name": "Spieltag",
+      "current_matchday": "20",
+      "round_order": "0",
+      "table_mode": {
+        "id": "1",
+        "name": "Fußball - Standard",
+        "explanation": "Das klassische 3-Punkte System",
+        "show_draw": "yes",
+        "show_percentage": "no",
+        "show_points": "yes",
+        "show_minuspoints": "no"
+      }
+    },
+    "matchday": "20",
+    "group_matchday": "0",
+    "match_date": "06.02.2016",
+    "match_time": "15:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "",
+    "home": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover"
+    },
+    "away": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel3.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel3.mp3"
+      }
+    ],
+    "venue": {
+      "id": "177",
+      "name": "HDI-Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "177",
+        "capacity": "49000",
+        "built": "1954"
+      },
+      "town": {
+        "id": "600",
+        "name": "Hannover"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "49093",
+      "name": "Robert Hartmann",
+      "firstname": "Robert",
+      "surname": "Hartmann",
+      "fullname": "Robert Hartmann",
+      "gender": "male",
+      "birthday": "08.09.1979",
+      "height": "182",
+      "weight": "80",
+      "person_detail": {
+        "id": "12243",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

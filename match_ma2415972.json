@@ -1,0 +1,139 @@
+{
+  "match": {
+    "id": "2415972",
+    "round_id": "57041",
+    "round": {
+      "id": "57041",
+      "season_id": "18336",
+      "name": "Spieltag",
+      "current_matchday": "20",
+      "round_order": "0",
+      "table_mode": {
+        "id": "1",
+        "name": "Fußball - Standard",
+        "explanation": "Das klassische 3-Punkte System",
+        "show_draw": "yes",
+        "show_percentage": "no",
+        "show_points": "yes",
+        "show_minuspoints": "no"
+      }
+    },
+    "matchday": "20",
+    "group_matchday": "0",
+    "match_date": "06.02.2016",
+    "match_time": "15:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "",
+    "home": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt"
+    },
+    "away": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel5.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel5.mp3"
+      }
+    ],
+    "venue": {
+      "id": "2745",
+      "name": "Audi Sportpark",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "2743",
+        "capacity": "15000",
+        "built": "2010"
+      },
+      "town": {
+        "id": "662",
+        "name": "Ingolstadt"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "41906",
+      "name": "Michael Weiner",
+      "firstname": "Michael",
+      "surname": "Weiner",
+      "fullname": "Michael Weiner",
+      "gender": "male",
+      "birthday": "21.03.1969",
+      "height": "189",
+      "weight": "82",
+      "person_detail": {
+        "id": "2305",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "Ottenstein",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

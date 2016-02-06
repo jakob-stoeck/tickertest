@@ -1,0 +1,139 @@
+{
+  "match": {
+    "id": "2415961",
+    "round_id": "57041",
+    "round": {
+      "id": "57041",
+      "season_id": "18336",
+      "name": "Spieltag",
+      "current_matchday": "20",
+      "round_order": "0",
+      "table_mode": {
+        "id": "1",
+        "name": "Fußball - Standard",
+        "explanation": "Das klassische 3-Punkte System",
+        "show_draw": "yes",
+        "show_percentage": "no",
+        "show_points": "yes",
+        "show_minuspoints": "no"
+      }
+    },
+    "matchday": "20",
+    "group_matchday": "0",
+    "match_date": "06.02.2016",
+    "match_time": "15:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "60000",
+    "home": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke"
+    },
+    "away": {
+      "id": "2086",
+      "name": "VfL Wolfsburg",
+      "shortname": "Wolfsburg"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3"
+      }
+    ],
+    "venue": {
+      "id": "2120",
+      "name": "Veltins-Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "2120",
+        "capacity": "61973",
+        "built": "2001"
+      },
+      "town": {
+        "id": "526",
+        "name": "Gelsenkirchen"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "41935",
+      "name": "Tobias Welz",
+      "firstname": "Tobias",
+      "surname": "Welz",
+      "fullname": "Tobias Welz",
+      "gender": "male",
+      "birthday": "11.07.1977",
+      "height": "180",
+      "weight": "70",
+      "person_detail": {
+        "id": "2332",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "19163468",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1362503",
+      "shirtnumber": "31",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "263614",
+      "name": "Waldemar Anton",
+      "firstname": "Waldemar",
+      "surname": "Anton",
+      "fullname": "Waldemar Anton",
+      "gender": "male",
+      "birthday": "20.07.1996",
+      "height": "182",
+      "weight": "66",
+      "person_detail": {
+        "id": "199047",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Engen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:59"
+  },
+  {
+    "id": "19163469",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1387248",
+      "shirtnumber": "17",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "225605",
+      "name": "Uffe Bech",
+      "firstname": "Uffe",
+      "surname": "Bech",
+      "fullname": "Uffe Manich Bech",
+      "gender": "male",
+      "birthday": "13.01.1993",
+      "height": "170",
+      "weight": "75",
+      "person_detail": {
+        "id": "168513",
+        "position_1": "12",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "København",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "45",
+          "name": "Dänemark",
+          "code": "DEN",
+          "iso": "DK"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:31:59"
+  },
+  {
+    "id": "19163470",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1220521",
+      "shirtnumber": "6",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "79024",
+      "name": "Ceyhun Gülselam",
+      "firstname": "Ceyhun",
+      "surname": "Gülselam",
+      "fullname": "Ceyhun Gülselam",
+      "gender": "male",
+      "birthday": "25.12.1987",
+      "height": "192",
+      "weight": "88",
+      "person_detail": {
+        "id": "54613",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "219",
+          "name": "Türkei",
+          "code": "TUR",
+          "iso": "TR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163471",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "958579",
+      "shirtnumber": "15",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "223351",
+      "name": "André Hoffmann",
+      "firstname": "André",
+      "surname": "Hoffmann",
+      "fullname": "André Hoffmann",
+      "gender": "male",
+      "birthday": "28.02.1993",
+      "height": "187",
+      "weight": "79",
+      "person_detail": {
+        "id": "166503",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Essen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163472",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1491451",
+      "shirtnumber": "22",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "21153",
+      "name": "Hugo Almeida",
+      "firstname": "",
+      "surname": "Hugo Almeida",
+      "fullname": "Hugo Miguel Pereira de Almeida",
+      "gender": "male",
+      "birthday": "23.05.1984",
+      "height": "190",
+      "weight": "79",
+      "person_detail": {
+        "id": "13532",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Figueira da Foz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "167",
+          "name": "Portugal",
+          "code": "POR",
+          "iso": "PT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163473",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1194947",
+      "shirtnumber": "26",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "233564",
+      "name": "Kenan Karaman",
+      "firstname": "Kenan",
+      "surname": "Karaman",
+      "fullname": "Kenan Karaman",
+      "gender": "male",
+      "birthday": "05.03.1994",
+      "height": "187",
+      "weight": "73",
+      "person_detail": {
+        "id": "175756",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Stuttgart",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "219",
+          "name": "Türkei",
+          "code": "TUR",
+          "iso": "TR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163474",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1501020",
+      "shirtnumber": "24",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "151819",
+      "name": "Alexander Milošević",
+      "firstname": "Alexander",
+      "surname": "Milošević",
+      "fullname": "Alexander Sjöström Milošević",
+      "gender": "male",
+      "birthday": "30.01.1992",
+      "height": "191",
+      "weight": "82",
+      "person_detail": {
+        "id": "141167",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Sundbyberg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "182",
+          "name": "Schweden",
+          "code": "SWE",
+          "iso": "SE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163475",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1022825",
+      "shirtnumber": "7",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "24763",
+      "name": "Edgar Prib",
+      "firstname": "Edgar",
+      "surname": "Prib",
+      "fullname": "Edgar Prib",
+      "gender": "male",
+      "birthday": "15.12.1989",
+      "height": "180",
+      "weight": "77",
+      "person_detail": {
+        "id": "111015",
+        "position_1": "13",
+        "position_2": "6",
+        "preferred_side": "left",
+        "birth_place": "Nerjungri",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163476",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1405211",
+      "shirtnumber": "14",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "325816",
+      "name": "Allan Saint-Maximin",
+      "firstname": "Allan",
+      "surname": "Saint-Maximin",
+      "fullname": "Allan Saint-Maximin",
+      "gender": "male",
+      "birthday": "12.03.1997",
+      "height": "173",
+      "weight": "67",
+      "person_detail": {
+        "id": "250637",
+        "position_1": "12",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Châtenay-Malabry",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "61",
+          "name": "Frankreich",
+          "code": "FRA",
+          "iso": "FR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:00"
+  },
+  {
+    "id": "19163477",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "868328",
+      "shirtnumber": "4",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "146779",
+      "name": "Hiroki Sakai",
+      "firstname": "Hiroki",
+      "surname": "Sakai",
+      "fullname": "Hiroki Sakai",
+      "gender": "male",
+      "birthday": "12.04.1990",
+      "height": "184",
+      "weight": "70",
+      "person_detail": {
+        "id": "136131",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Kashiwa, Chiba",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "91",
+          "name": "Japan",
+          "code": "JPN",
+          "iso": "JP"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163478",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1016163",
+      "shirtnumber": "5",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "235359",
+      "name": "Salif Sané",
+      "firstname": "Salif",
+      "surname": "Sané",
+      "fullname": "Salif Sané",
+      "gender": "male",
+      "birthday": "25.08.1990",
+      "height": "194",
+      "weight": "78",
+      "person_detail": {
+        "id": "177084",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Lormont",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "184",
+          "name": "Senegal",
+          "code": "SEN",
+          "iso": "SN"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163479",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "899150",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "14970",
+      "name": "Manuel Schmiedebach",
+      "firstname": "Manuel",
+      "surname": "Schmiedebach",
+      "fullname": "Manuel Schmiedebach",
+      "gender": "male",
+      "birthday": "05.12.1988",
+      "height": "170",
+      "weight": "70",
+      "person_detail": {
+        "id": "53079",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163480",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "11957",
+      "shirtnumber": "19",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "14548",
+      "name": "Christian Schulz",
+      "firstname": "Christian",
+      "surname": "Schulz",
+      "fullname": "Christian Schulz",
+      "gender": "male",
+      "birthday": "01.04.1983",
+      "height": "185",
+      "weight": "80",
+      "person_detail": {
+        "id": "2096",
+        "position_1": "4",
+        "position_2": "3",
+        "preferred_side": "left",
+        "birth_place": "Bassum",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163481",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "712043",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "132624",
+      "name": "Artur Sobiech",
+      "firstname": "Artur",
+      "surname": "Sobiech",
+      "fullname": "Artur Sobiech",
+      "gender": "male",
+      "birthday": "12.06.1990",
+      "height": "185",
+      "weight": "81",
+      "person_detail": {
+        "id": "121982",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Ruda Śląska",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen",
+          "code": "POL",
+          "iso": "PL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163482",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1482947",
+      "shirtnumber": "28",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "78189",
+      "name": "Ádám Szalai",
+      "firstname": "Ádám",
+      "surname": "Szalai",
+      "fullname": "Ádám Szalai",
+      "gender": "male",
+      "birthday": "09.12.1987",
+      "height": "193",
+      "weight": "87",
+      "person_detail": {
+        "id": "53262",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Budapest",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "226",
+          "name": "Ungarn",
+          "code": "HUN",
+          "iso": "HU"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163483",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1362357",
+      "shirtnumber": "13",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "26784",
+      "name": "Philipp Tschauner",
+      "firstname": "Philipp",
+      "surname": "Tschauner",
+      "fullname": "Philipp Tschauner",
+      "gender": "male",
+      "birthday": "03.11.1985",
+      "height": "196",
+      "weight": "73",
+      "person_detail": {
+        "id": "22317",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Schwabach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:01"
+  },
+  {
+    "id": "19163484",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1479724",
+      "shirtnumber": "16",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "172399",
+      "name": "Hotaru Yamaguchi",
+      "firstname": "Hotaru",
+      "surname": "Yamaguchi",
+      "fullname": "Hotaru Yamaguchi",
+      "gender": "male",
+      "birthday": "06.10.1990",
+      "height": "173",
+      "weight": "72",
+      "person_detail": {
+        "id": "161741",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Mie",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "91",
+          "name": "Japan",
+          "code": "JPN",
+          "iso": "JP"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:02"
+  },
+  {
+    "id": "19163485",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "712060",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "94113",
+      "name": "Ron-Robert Zieler",
+      "firstname": "Ron-Robert",
+      "surname": "Zieler",
+      "fullname": "Ron-Robert Zieler",
+      "gender": "male",
+      "birthday": "12.02.1989",
+      "height": "188",
+      "weight": "83",
+      "person_detail": {
+        "id": "73275",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Köln",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:32:02"
+  },
+  {
+    "id": "19163754",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1376800",
+      "shirtnumber": "3",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "14542",
+      "name": "Leon Balogun",
+      "firstname": "Leon",
+      "surname": "Balogun",
+      "fullname": "Leon-Aderemi Balogun",
+      "gender": "male",
+      "birthday": "28.06.1988",
+      "height": "190",
+      "weight": "81",
+      "person_detail": {
+        "id": "91223",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "151",
+          "name": "Nigeria",
+          "code": "NGA",
+          "iso": "NG"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:10"
+  },
+  {
+    "id": "19163755",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "710901",
+      "shirtnumber": "14",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "26785",
+      "name": "Julian Baumgartlinger",
+      "firstname": "Julian",
+      "surname": "Baumgartlinger",
+      "fullname": "Julian Baumgartlinger",
+      "gender": "male",
+      "birthday": "02.01.1988",
+      "height": "183",
+      "weight": "82",
+      "person_detail": {
+        "id": "58874",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Salzburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:10"
+  },
+  {
+    "id": "19163756",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "706318",
+      "shirtnumber": "16",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "173280",
+      "name": "Stefan Bell",
+      "firstname": "Stefan",
+      "surname": "Bell",
+      "fullname": "Stefan Bell",
+      "gender": "male",
+      "birthday": "24.08.1991",
+      "height": "192",
+      "weight": "86",
+      "person_detail": {
+        "id": "162622",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Andernach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:10"
+  },
+  {
+    "id": "19163757",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1210422",
+      "shirtnumber": "18",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "185",
+      "name": "Daniel Brosinski",
+      "firstname": "Daniel",
+      "surname": "Brosinski",
+      "fullname": "Daniel Brosinski",
+      "gender": "male",
+      "birthday": "17.07.1988",
+      "height": "178",
+      "weight": "70",
+      "person_detail": {
+        "id": "59725",
+        "position_1": "6",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Karlsruhe",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163758",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1427428",
+      "shirtnumber": "24",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "223866",
+      "name": "Gaëtan Bussmann",
+      "firstname": "Gaëtan",
+      "surname": "Bussmann",
+      "fullname": "Gaëtan Bussmann",
+      "gender": "male",
+      "birthday": "02.02.1991",
+      "height": "184",
+      "weight": "75",
+      "person_detail": {
+        "id": "167006",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Épinal",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "61",
+          "name": "Frankreich",
+          "code": "FRA",
+          "iso": "FR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163759",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1291644",
+      "shirtnumber": "27",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "157460",
+      "name": "Christian Clemens",
+      "firstname": "Christian",
+      "surname": "Clemens",
+      "fullname": "Christian Clemens",
+      "gender": "male",
+      "birthday": "04.08.1991",
+      "height": "180",
+      "weight": "70",
+      "person_detail": {
+        "id": "146808",
+        "position_1": "6",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Köln",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163760",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428163",
+      "shirtnumber": "15",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "232280",
+      "name": "Jhon Córdoba",
+      "firstname": "Jhon",
+      "surname": "Córdoba",
+      "fullname": "Jhon Andrés Córdoba Copete",
+      "gender": "male",
+      "birthday": "11.05.1993",
+      "height": "187",
+      "weight": "85",
+      "person_detail": {
+        "id": "174631",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Istmina",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "105",
+          "name": "Kolumbien",
+          "code": "COL",
+          "iso": "CO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163761",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1416451",
+      "shirtnumber": "23",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "2177",
+      "name": "Gianluca Curci",
+      "firstname": "Gianluca",
+      "surname": "Curci",
+      "fullname": "Gianluca Curci",
+      "gender": "male",
+      "birthday": "12.07.1985",
+      "height": "191",
+      "weight": "90",
+      "person_detail": {
+        "id": "25354",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Roma",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "89",
+          "name": "Italien",
+          "code": "ITA",
+          "iso": "IT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163762",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1387253",
+      "shirtnumber": "32",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "127237",
+      "name": "Pablo de Blasis",
+      "firstname": "Pablo",
+      "surname": "de Blasis",
+      "fullname": "Pablo Ezequiel de Blasis",
+      "gender": "male",
+      "birthday": "04.02.1988",
+      "height": "165",
+      "weight": "66",
+      "person_detail": {
+        "id": "115873",
+        "position_1": "8",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "La Plata",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "12",
+          "name": "Argentinien",
+          "code": "ARG",
+          "iso": "AR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163763",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1496764",
+      "shirtnumber": "2",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "169679",
+      "name": "Giulio Donati",
+      "firstname": "Giulio",
+      "surname": "Donati",
+      "fullname": "Giulio Donati",
+      "gender": "male",
+      "birthday": "05.02.1990",
+      "height": "179",
+      "weight": "76",
+      "person_detail": {
+        "id": "159022",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Pietrasanta",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "89",
+          "name": "Italien",
+          "code": "ITA",
+          "iso": "IT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:11"
+  },
+  {
+    "id": "19163764",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1378238",
+      "shirtnumber": "20",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "9107",
+      "name": "Fabian Frei",
+      "firstname": "Fabian",
+      "surname": "Frei",
+      "fullname": "Fabian Frei",
+      "gender": "male",
+      "birthday": "08.01.1989",
+      "height": "184",
+      "weight": "74",
+      "person_detail": {
+        "id": "85994",
+        "position_1": "13",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Frauenfeld",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163765",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1437002",
+      "shirtnumber": "42",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "283838",
+      "name": "Alexander Hack",
+      "firstname": "Alexander",
+      "surname": "Hack",
+      "fullname": "Alexander Hack",
+      "gender": "male",
+      "birthday": "08.09.1993",
+      "height": "193",
+      "weight": "83",
+      "person_detail": {
+        "id": "216904",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Babenhausen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163766",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1245499",
+      "shirtnumber": "17",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "261681",
+      "name": "Jairo",
+      "firstname": "",
+      "surname": "Jairo",
+      "fullname": "Jairo Samperio Bustara",
+      "gender": "male",
+      "birthday": "11.07.1993",
+      "height": "173",
+      "weight": "66",
+      "person_detail": {
+        "id": "197444",
+        "position_1": "12",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Cabezón de la Sal",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "193",
+          "name": "Spanien",
+          "code": "ESP",
+          "iso": "ES"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163767",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1393154",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "235237",
+      "name": "Loris Karius",
+      "firstname": "Loris",
+      "surname": "Karius",
+      "fullname": "Loris Karius",
+      "gender": "male",
+      "birthday": "22.06.1993",
+      "height": "189",
+      "weight": "75",
+      "person_detail": {
+        "id": "177015",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Biberach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163768",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1359684",
+      "shirtnumber": "6",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "10476",
+      "name": "Danny Latza",
+      "firstname": "Danny",
+      "surname": "Latza",
+      "fullname": "Danny Latza",
+      "gender": "male",
+      "birthday": "07.12.1989",
+      "height": "179",
+      "weight": "75",
+      "person_detail": {
+        "id": "83503",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Gelsenkirchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163769",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1383039",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "226423",
+      "name": "Yunus Mallı",
+      "firstname": "Yunus",
+      "surname": "Mallı",
+      "fullname": "Yunus Mallı",
+      "gender": "male",
+      "birthday": "24.02.1992",
+      "height": "179",
+      "weight": "70",
+      "person_detail": {
+        "id": "169259",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Kassel",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163770",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "972334",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "112281",
+      "name": "Christoph Moritz",
+      "firstname": "Christoph",
+      "surname": "Moritz",
+      "fullname": "Christoph Moritz",
+      "gender": "male",
+      "birthday": "27.01.1990",
+      "height": "186",
+      "weight": "73",
+      "person_detail": {
+        "id": "97743",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Düren",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "19163771",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1367775",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "320142",
+      "name": "Yoshinori Muto",
+      "firstname": "Yoshinori",
+      "surname": "Muto",
+      "fullname": "Yoshinori Muto",
+      "gender": "male",
+      "birthday": "15.07.1992",
+      "height": "178",
+      "weight": "72",
+      "person_detail": {
+        "id": "245541",
+        "position_1": "11",
+        "position_2": "10",
+        "preferred_side": "unknown",
+        "birth_place": "Tokio",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "91",
+          "name": "Japan",
+          "code": "JPN",
+          "iso": "JP"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:42:12"
+  },
+  {
+    "id": "1320423",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "person": {
+      "id": "225420",
+      "name": "Martin Schmidt",
+      "firstname": "Martin",
+      "surname": "Schmidt",
+      "fullname": "Martin Schmidt",
+      "gender": "male",
+      "birthday": "12.04.1967",
+      "height": "181",
+      "weight": "0",
+      "person_detail": {
+        "id": "168340",
+        "position_1": "0",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Naters",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "01.07.2015 14:18"
+  },
+  {
+    "id": "1480978",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "person": {
+      "id": "29229",
+      "name": "Thomas Schaaf",
+      "firstname": "Thomas",
+      "surname": "Schaaf",
+      "fullname": "Thomas Schaaf",
+      "gender": "male",
+      "birthday": "30.04.1961",
+      "height": "176",
+      "weight": "74",
+      "person_detail": {
+        "id": "2100",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Mannheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "28.12.2015 10:51"
+  }
+]

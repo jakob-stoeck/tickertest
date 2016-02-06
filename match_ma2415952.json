@@ -1,0 +1,139 @@
+{
+  "match": {
+    "id": "2415952",
+    "round_id": "57041",
+    "round": {
+      "id": "57041",
+      "season_id": "18336",
+      "name": "Spieltag",
+      "current_matchday": "20",
+      "round_order": "0",
+      "table_mode": {
+        "id": "1",
+        "name": "Fußball - Standard",
+        "explanation": "Das klassische 3-Punkte System",
+        "show_draw": "yes",
+        "show_percentage": "no",
+        "show_points": "yes",
+        "show_minuspoints": "no"
+      }
+    },
+    "matchday": "20",
+    "group_matchday": "0",
+    "match_date": "06.02.2016",
+    "match_time": "15:30",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "",
+    "current_period_start": "",
+    "current_minute": "0",
+    "attendance": "",
+    "home": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha"
+    },
+    "away": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund"
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel4.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel4.mp3"
+      }
+    ],
+    "venue": {
+      "id": "1353",
+      "name": "Olympiastadion",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "1353",
+        "capacity": "74400",
+        "built": "1936"
+      },
+      "town": {
+        "id": "179",
+        "name": "Berlin"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "49106",
+      "name": "Marco Fritz",
+      "firstname": "Marco",
+      "surname": "Fritz",
+      "fullname": "Marco Fritz",
+      "gender": "male",
+      "birthday": "03.10.1977",
+      "height": "185",
+      "weight": "74",
+      "person_detail": {
+        "id": "12256",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "Korb",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

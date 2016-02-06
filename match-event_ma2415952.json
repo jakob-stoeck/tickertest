@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "19163365",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1019303",
+      "shirtnumber": "9",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "3876",
+      "name": "Alexander Baumjohann",
+      "firstname": "Alexander",
+      "surname": "Baumjohann",
+      "fullname": "Alexander Baumjohann",
+      "gender": "male",
+      "birthday": "23.01.1987",
+      "height": "177",
+      "weight": "73",
+      "person_detail": {
+        "id": "19121",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Waltrop",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:57"
+  },
+  {
+    "id": "19163366",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "885712",
+      "shirtnumber": "25",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "231042",
+      "name": "John Anthony Brooks",
+      "firstname": "John Anthony",
+      "surname": "Brooks",
+      "fullname": "John Anthony Brooks",
+      "gender": "male",
+      "birthday": "28.01.1993",
+      "height": "193",
+      "weight": "78",
+      "person_detail": {
+        "id": "173511",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "229",
+          "name": "USA",
+          "code": "USA",
+          "iso": "US"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163367",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1074490",
+      "shirtnumber": "17",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "226479",
+      "name": "Tolga Ciğerci",
+      "firstname": "Tolga",
+      "surname": "Ciğerci",
+      "fullname": "Tolga Ciğerci",
+      "gender": "male",
+      "birthday": "23.03.1992",
+      "height": "185",
+      "weight": "75",
+      "person_detail": {
+        "id": "169312",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Nordenham",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "219",
+          "name": "Türkei",
+          "code": "TUR",
+          "iso": "TR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163368",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1395112",
+      "shirtnumber": "6",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "172176",
+      "name": "Vladimír Darida",
+      "firstname": "Vladimír",
+      "surname": "Darida",
+      "fullname": "Vladimír Darida",
+      "gender": "male",
+      "birthday": "08.08.1990",
+      "height": "171",
+      "weight": "64",
+      "person_detail": {
+        "id": "161518",
+        "position_1": "13",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Sokolov",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "217",
+          "name": "Tschechien",
+          "code": "CZE",
+          "iso": "CZ"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163369",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1201190",
+      "shirtnumber": "24",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "146757",
+      "name": "Genki Haraguchi",
+      "firstname": "Genki",
+      "surname": "Haraguchi",
+      "fullname": "Genki Haraguchi",
+      "gender": "male",
+      "birthday": "09.05.1991",
+      "height": "177",
+      "weight": "63",
+      "person_detail": {
+        "id": "136109",
+        "position_1": "11",
+        "position_2": "10",
+        "preferred_side": "right",
+        "birth_place": "Kumagaya",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "91",
+          "name": "Japan",
+          "code": "JPN",
+          "iso": "JP"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163370",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1197767",
+      "shirtnumber": "13",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "3143",
+      "name": "Jens Hegeler",
+      "firstname": "Jens",
+      "surname": "Hegeler",
+      "fullname": "Jens Hegeler",
+      "gender": "male",
+      "birthday": "22.01.1988",
+      "height": "193",
+      "weight": "86",
+      "person_detail": {
+        "id": "84741",
+        "position_1": "7",
+        "position_2": "5",
+        "preferred_side": "right",
+        "birth_place": "Köln",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163371",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1427378",
+      "shirtnumber": "19",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "492",
+      "name": "Vedad Ibišević",
+      "firstname": "Vedad",
+      "surname": "Ibišević",
+      "fullname": "Vedad Ibišević",
+      "gender": "male",
+      "birthday": "06.08.1984",
+      "height": "188",
+      "weight": "80",
+      "person_detail": {
+        "id": "23870",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Vlasenica",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "31",
+          "name": "Bosnien-Herzegowina",
+          "code": "BIH",
+          "iso": "BA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163372",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1134964",
+      "shirtnumber": "22",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "22189",
+      "name": "Rune Jarstein",
+      "firstname": "Rune",
+      "surname": "Jarstein",
+      "fullname": "Rune Almenning Jarstein",
+      "gender": "male",
+      "birthday": "29.09.1984",
+      "height": "190",
+      "weight": "90",
+      "person_detail": {
+        "id": "25656",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Porsgrunn",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "156",
+          "name": "Norwegen",
+          "code": "NOR",
+          "iso": "NO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:58"
+  },
+  {
+    "id": "19163373",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1387852",
+      "shirtnumber": "8",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "5680",
+      "name": "Salomon Kalou",
+      "firstname": "Salomon",
+      "surname": "Kalou",
+      "fullname": "Salomon Armand Magloire Kalou",
+      "gender": "male",
+      "birthday": "05.08.1985",
+      "height": "184",
+      "weight": "77",
+      "person_detail": {
+        "id": "15734",
+        "position_1": "10",
+        "position_2": "12",
+        "preferred_side": "right",
+        "birth_place": "Oumé",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "54",
+          "name": "Elfenbeinküste",
+          "code": "CIV",
+          "iso": "CI"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163374",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "918345",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "3185",
+      "name": "Thomas Kraft",
+      "firstname": "Thomas",
+      "surname": "Kraft",
+      "fullname": "Thomas Kraft",
+      "gender": "male",
+      "birthday": "22.07.1988",
+      "height": "187",
+      "weight": "78",
+      "person_detail": {
+        "id": "51692",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Kirchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163375",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1010239",
+      "shirtnumber": "15",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "16474",
+      "name": "Sebastian Langkamp",
+      "firstname": "Sebastian",
+      "surname": "Langkamp",
+      "fullname": "Sebastian Langkamp",
+      "gender": "male",
+      "birthday": "15.01.1988",
+      "height": "191",
+      "weight": "85",
+      "person_detail": {
+        "id": "81089",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Speyer",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163376",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "159819",
+      "shirtnumber": "28",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "14950",
+      "name": "Fabian Lustenberger",
+      "firstname": "Fabian",
+      "surname": "Lustenberger",
+      "fullname": "Fabian Lustenberger",
+      "gender": "male",
+      "birthday": "02.05.1988",
+      "height": "180",
+      "weight": "63",
+      "person_detail": {
+        "id": "52827",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Wolhusen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163377",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "917585",
+      "shirtnumber": "2",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "64063",
+      "name": "Peter Pekarík",
+      "firstname": "Peter",
+      "surname": "Pekarík",
+      "fullname": "Peter Pekarík",
+      "gender": "male",
+      "birthday": "30.10.1986",
+      "height": "176",
+      "weight": "69",
+      "person_detail": {
+        "id": "33942",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Žilina",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "190",
+          "name": "Slowakei",
+          "code": "SVK",
+          "iso": "SK"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163378",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1200685",
+      "shirtnumber": "21",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "171370",
+      "name": "Marvin Plattenhardt",
+      "firstname": "Marvin",
+      "surname": "Plattenhardt",
+      "fullname": "Marvin Plattenhardt",
+      "gender": "male",
+      "birthday": "26.01.1992",
+      "height": "181",
+      "weight": "76",
+      "person_detail": {
+        "id": "160713",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Filderstadt",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163379",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1423512",
+      "shirtnumber": "5",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "233151",
+      "name": "Niklas Stark",
+      "firstname": "Niklas",
+      "surname": "Stark",
+      "fullname": "Niklas Stark",
+      "gender": "male",
+      "birthday": "14.04.1995",
+      "height": "188",
+      "weight": "74",
+      "person_detail": {
+        "id": "175376",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Neustadt an der Aisch",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:25:59"
+  },
+  {
+    "id": "19163380",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1200215",
+      "shirtnumber": "14",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "9110",
+      "name": "Valentin Stocker",
+      "firstname": "Valentin",
+      "surname": "Stocker",
+      "fullname": "Valentin Stocker",
+      "gender": "male",
+      "birthday": "12.04.1989",
+      "height": "178",
+      "weight": "65",
+      "person_detail": {
+        "id": "107832",
+        "position_1": "10",
+        "position_2": "6",
+        "preferred_side": "left",
+        "birth_place": "Kriens",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:26:00"
+  },
+  {
+    "id": "19163381",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1013494",
+      "shirtnumber": "23",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "3885",
+      "name": "Johannes van den Bergh",
+      "firstname": "Johannes",
+      "surname": "van den Bergh",
+      "fullname": "Johannes van den Bergh",
+      "gender": "male",
+      "birthday": "21.11.1986",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "51706",
+        "position_1": "3",
+        "position_2": "6",
+        "preferred_side": "left",
+        "birth_place": "Viersen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:26:00"
+  },
+  {
+    "id": "19163382",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1375697",
+      "shirtnumber": "20",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "231379",
+      "name": "Mitchell Weiser",
+      "firstname": "Mitchell",
+      "surname": "Weiser",
+      "fullname": "Mitchell-Elijah Weiser",
+      "gender": "male",
+      "birthday": "21.04.1994",
+      "height": "176",
+      "weight": "67",
+      "person_detail": {
+        "id": "173829",
+        "position_1": "9",
+        "position_2": "12",
+        "preferred_side": "both",
+        "birth_place": "Troisdorf",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:26:00"
+  },
+  {
+    "id": "19163383",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1036327",
+      "shirtnumber": "17",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "134830",
+      "name": "Pierre-Emerick Aubameyang",
+      "firstname": "Pierre-Emerick",
+      "surname": "Aubameyang",
+      "fullname": "Pierre-Emerick Emiliano Aubameyang",
+      "gender": "male",
+      "birthday": "18.06.1989",
+      "height": "187",
+      "weight": "77",
+      "person_detail": {
+        "id": "124188",
+        "position_1": "11",
+        "position_2": "8",
+        "preferred_side": "both",
+        "birth_place": "Laval",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "63",
+          "name": "Gabun",
+          "code": "GAB",
+          "iso": "GA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:20"
+  },
+  {
+    "id": "19163384",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1374121",
+      "shirtnumber": "38",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "4396",
+      "name": "Roman Bürki",
+      "firstname": "Roman",
+      "surname": "Bürki",
+      "fullname": "Roman Bürki",
+      "gender": "male",
+      "birthday": "14.11.1990",
+      "height": "187",
+      "weight": "83",
+      "person_detail": {
+        "id": "119200",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Münsingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:20"
+  },
+  {
+    "id": "19163385",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1365085",
+      "shirtnumber": "27",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "3116",
+      "name": "Gonzalo Castro",
+      "firstname": "Gonzalo",
+      "surname": "Castro",
+      "fullname": "Gonzalo Castro Randón",
+      "gender": "male",
+      "birthday": "11.06.1987",
+      "height": "171",
+      "weight": "74",
+      "person_detail": {
+        "id": "29221",
+        "position_1": "9",
+        "position_2": "5",
+        "preferred_side": "right",
+        "birth_place": "Wuppertal",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:20"
+  },
+  {
+    "id": "19163386",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1051897",
+      "shirtnumber": "37",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "229610",
+      "name": "Erik Durm",
+      "firstname": "Erik",
+      "surname": "Durm",
+      "fullname": "Erik Durm",
+      "gender": "male",
+      "birthday": "12.05.1992",
+      "height": "183",
+      "weight": "73",
+      "person_detail": {
+        "id": "172185",
+        "position_1": "5",
+        "position_2": "12",
+        "preferred_side": "right",
+        "birth_place": "Pirmasens",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:20"
+  },
+  {
+    "id": "19163387",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1216030",
+      "shirtnumber": "28",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "229806",
+      "name": "Matthias Ginter",
+      "firstname": "Matthias",
+      "surname": "Ginter",
+      "fullname": "Matthias Lukas Ginter",
+      "gender": "male",
+      "birthday": "19.01.1994",
+      "height": "188",
+      "weight": "85",
+      "person_detail": {
+        "id": "172379",
+        "position_1": "5",
+        "position_2": "4",
+        "preferred_side": "left",
+        "birth_place": "Freiburg im Breisgau",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:20"
+  },
+  {
+    "id": "19163388",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "874845",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "112350",
+      "name": "İlkay Gündoğan",
+      "firstname": "İlkay",
+      "surname": "Gündoğan",
+      "fullname": "İlkay Gündoğan",
+      "gender": "male",
+      "birthday": "24.10.1990",
+      "height": "180",
+      "weight": "79",
+      "person_detail": {
+        "id": "97814",
+        "position_1": "8",
+        "position_2": "13",
+        "preferred_side": "right",
+        "birth_place": "Gelsenkirchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:20"
+  },
+  {
+    "id": "19163389",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "154462",
+      "shirtnumber": "15",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "3214",
+      "name": "Mats Hummels",
+      "firstname": "Mats",
+      "surname": "Hummels",
+      "fullname": "Mats Julian Hummels",
+      "gender": "male",
+      "birthday": "16.12.1988",
+      "height": "192",
+      "weight": "90",
+      "person_detail": {
+        "id": "50229",
+        "position_1": "4",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Bergisch Gladbach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:21"
+  },
+  {
+    "id": "19163390",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1020253",
+      "shirtnumber": "14",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "225906",
+      "name": "Moritz Leitner",
+      "firstname": "Moritz",
+      "surname": "Leitner",
+      "fullname": "Moritz Leitner",
+      "gender": "male",
+      "birthday": "08.12.1992",
+      "height": "176",
+      "weight": "66",
+      "person_detail": {
+        "id": "168795",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:21"
+  },
+  {
+    "id": "19163391",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1038034",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "101437",
+      "name": "Henrikh Mkhitaryan",
+      "firstname": "Henrikh",
+      "surname": "Mkhitaryan",
+      "fullname": "Henrikh Mkhitaryan",
+      "gender": "male",
+      "birthday": "21.01.1989",
+      "height": "178",
+      "weight": "72",
+      "person_detail": {
+        "id": "82539",
+        "position_1": "8",
+        "position_2": "11",
+        "preferred_side": "both",
+        "birth_place": "Yerevan",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "13",
+          "name": "Armenien",
+          "code": "ARM",
+          "iso": "AM"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:21"
+  },
+  {
+    "id": "19163392",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1013547",
+      "shirtnumber": "25",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "1138",
+      "name": "Sokratis Papastathopoulos",
+      "firstname": "Sokratis",
+      "surname": "Papastathopoulos",
+      "fullname": "Sokratis Papastathopoulos",
+      "gender": "male",
+      "birthday": "09.06.1988",
+      "height": "185",
+      "weight": "82",
+      "person_detail": {
+        "id": "39035",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Kalamata",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "69",
+          "name": "Griechenland",
+          "code": "GRE",
+          "iso": "GR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:21"
+  },
+  {
+    "id": "19163393",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "413977",
+      "shirtnumber": "26",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "14958",
+      "name": "Łukasz Piszczek",
+      "firstname": "Łukasz",
+      "surname": "Piszczek",
+      "fullname": "Łukasz Piszczek",
+      "gender": "male",
+      "birthday": "03.06.1985",
+      "height": "184",
+      "weight": "78",
+      "person_detail": {
+        "id": "27964",
+        "position_1": "5",
+        "position_2": "10",
+        "preferred_side": "right",
+        "birth_place": "Czechowice-Dziedzice",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen",
+          "code": "POL",
+          "iso": "PL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:21"
+  },
+  {
+    "id": "19163394",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1488765",
+      "shirtnumber": "22",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "358598",
+      "name": "Christian Pulisic",
+      "firstname": "Christian",
+      "surname": "Pulisic",
+      "fullname": "Christian Pulisic",
+      "gender": "male",
+      "birthday": "18.09.1998",
+      "height": "173",
+      "weight": "63",
+      "person_detail": {
+        "id": "280269",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Hershey, PA",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "229",
+          "name": "USA",
+          "code": "USA",
+          "iso": "US"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:21"
+  },
+  {
+    "id": "19163395",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1189667",
+      "shirtnumber": "20",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "1565",
+      "name": "Adrián Ramos",
+      "firstname": "Adrián",
+      "surname": "Ramos",
+      "fullname": "Gustavo Adrián Ramos Vásquez",
+      "gender": "male",
+      "birthday": "22.01.1986",
+      "height": "186",
+      "weight": "81",
+      "person_detail": {
+        "id": "115686",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Santander de Quilichao",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "105",
+          "name": "Kolumbien",
+          "code": "COL",
+          "iso": "CO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:22"
+  },
+  {
+    "id": "19163396",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "777469",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "22225",
+      "name": "Marco Reus",
+      "firstname": "Marco",
+      "surname": "Reus",
+      "fullname": "Marco Reus",
+      "gender": "male",
+      "birthday": "31.05.1989",
+      "height": "180",
+      "weight": "67",
+      "person_detail": {
+        "id": "70417",
+        "position_1": "10",
+        "position_2": "8",
+        "preferred_side": "right",
+        "birth_place": "Dortmund",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:22"
+  },
+  {
+    "id": "19163397",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "228174",
+      "shirtnumber": "29",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "3947",
+      "name": "Marcel Schmelzer",
+      "firstname": "Marcel",
+      "surname": "Schmelzer",
+      "fullname": "Marcel Schmelzer",
+      "gender": "male",
+      "birthday": "22.01.1988",
+      "height": "181",
+      "weight": "74",
+      "person_detail": {
+        "id": "88541",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Magdeburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:22"
+  },
+  {
+    "id": "19163399",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "169146",
+      "shirtnumber": "4",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "451",
+      "name": "Neven Subotić",
+      "firstname": "Neven",
+      "surname": "Subotić",
+      "fullname": "Neven Subotić",
+      "gender": "male",
+      "birthday": "10.12.1988",
+      "height": "193",
+      "weight": "88",
+      "person_detail": {
+        "id": "57777",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Banja Luka",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "185",
+          "name": "Serbien",
+          "code": "SRB",
+          "iso": "RS"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:22"
+  },
+  {
+    "id": "19163400",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "59",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "3939",
+      "name": "Roman Weidenfeller",
+      "firstname": "Roman",
+      "surname": "Weidenfeller",
+      "fullname": "Roman Weidenfeller",
+      "gender": "male",
+      "birthday": "06.08.1980",
+      "height": "188",
+      "weight": "85",
+      "person_detail": {
+        "id": "3",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Diez",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:22"
+  },
+  {
+    "id": "19163401",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1371220",
+      "shirtnumber": "33",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "264029",
+      "name": "Julian Weigl",
+      "firstname": "Julian",
+      "surname": "Weigl",
+      "fullname": "Julian Weigl",
+      "gender": "male",
+      "birthday": "08.09.1995",
+      "height": "186",
+      "weight": "70",
+      "person_detail": {
+        "id": "199435",
+        "position_1": "13",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Ostermünchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:27:22"
+  },
+  {
+    "id": "1348897",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "person": {
+      "id": "72659",
+      "name": "Thomas Tuchel",
+      "firstname": "Thomas",
+      "surname": "Tuchel",
+      "fullname": "Thomas Tuchel",
+      "gender": "male",
+      "birthday": "29.08.1973",
+      "height": "190",
+      "weight": "72",
+      "person_detail": {
+        "id": "46317",
+        "position_1": "2",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Krumbach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "01.10.2015 20:14"
+  },
+  {
+    "id": "1315475",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "person": {
+      "id": "14945",
+      "name": "Pál Dárdai",
+      "firstname": "Pál",
+      "surname": "Dárdai",
+      "fullname": "Pál Dárdai",
+      "gender": "male",
+      "birthday": "16.03.1976",
+      "height": "179",
+      "weight": "78",
+      "person_detail": {
+        "id": "205",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Pécs",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "226",
+          "name": "Ungarn",
+          "code": "HUN",
+          "iso": "HU"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "29.05.2015 10:53"
+  }
+]

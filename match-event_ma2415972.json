@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "19163552",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "875386",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "471",
+      "name": "Ramazan Özcan",
+      "firstname": "Ramazan",
+      "surname": "Özcan",
+      "fullname": "Ramazan Özcan",
+      "gender": "male",
+      "birthday": "28.06.1984",
+      "height": "187",
+      "weight": "84",
+      "person_detail": {
+        "id": "31094",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Dornbirn",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:54"
+  },
+  {
+    "id": "19163553",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1196598",
+      "shirtnumber": "5",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "25900",
+      "name": "Benjamin Hübner",
+      "firstname": "Benjamin",
+      "surname": "Hübner",
+      "fullname": "Benjamin Hübner",
+      "gender": "male",
+      "birthday": "04.07.1989",
+      "height": "193",
+      "weight": "76",
+      "person_detail": {
+        "id": "90098",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Wiesbaden",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:54"
+  },
+  {
+    "id": "19163554",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1011700",
+      "shirtnumber": "6",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "112083",
+      "name": "Alfredo Morales",
+      "firstname": "Alfredo",
+      "surname": "Morales",
+      "fullname": "Alfredo Morales",
+      "gender": "male",
+      "birthday": "12.05.1990",
+      "height": "183",
+      "weight": "74",
+      "person_detail": {
+        "id": "97525",
+        "position_1": "5",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "229",
+          "name": "USA",
+          "code": "USA",
+          "iso": "US"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:54"
+  },
+  {
+    "id": "19163555",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1197372",
+      "shirtnumber": "7",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "163204",
+      "name": "Mathew Leckie",
+      "firstname": "Mathew",
+      "surname": "Leckie",
+      "fullname": "Mathew Allan Leckie",
+      "gender": "male",
+      "birthday": "04.02.1991",
+      "height": "181",
+      "weight": "84",
+      "person_detail": {
+        "id": "152549",
+        "position_1": "12",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Melbourne",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "17",
+          "name": "Australien",
+          "code": "AUS",
+          "iso": "AU"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:54"
+  },
+  {
+    "id": "19163556",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "916461",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "78734",
+      "name": "Roger",
+      "firstname": "",
+      "surname": "Roger",
+      "fullname": "Roger de Oliveira Bernardo",
+      "gender": "male",
+      "birthday": "10.08.1985",
+      "height": "181",
+      "weight": "73",
+      "person_detail": {
+        "id": "54129",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Rio Claro",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:54"
+  },
+  {
+    "id": "19163557",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1209772",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "151555",
+      "name": "Pascal Groß",
+      "firstname": "Pascal",
+      "surname": "Groß",
+      "fullname": "Pascal Groß",
+      "gender": "male",
+      "birthday": "15.06.1991",
+      "height": "178",
+      "weight": "74",
+      "person_detail": {
+        "id": "140903",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Mannheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:54"
+  },
+  {
+    "id": "19163558",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1196568",
+      "shirtnumber": "16",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "158092",
+      "name": "Lukas Hinterseer",
+      "firstname": "Lukas",
+      "surname": "Hinterseer",
+      "fullname": "Lukas Hinterseer",
+      "gender": "male",
+      "birthday": "28.03.1991",
+      "height": "189",
+      "weight": "84",
+      "person_detail": {
+        "id": "147440",
+        "position_1": "11",
+        "position_2": "12",
+        "preferred_side": "unknown",
+        "birth_place": "Kitzbühel",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163559",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1366919",
+      "shirtnumber": "18",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "13608",
+      "name": "Romain Brégerie",
+      "firstname": "Romain",
+      "surname": "Brégerie",
+      "fullname": "Romain Brégerie",
+      "gender": "male",
+      "birthday": "09.08.1986",
+      "height": "190",
+      "weight": "88",
+      "person_detail": {
+        "id": "87248",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Talence",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "61",
+          "name": "Frankreich",
+          "code": "FRA",
+          "iso": "FR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163560",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1296361",
+      "shirtnumber": "19",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "290646",
+      "name": "Max Christiansen",
+      "firstname": "Max",
+      "surname": "Christiansen",
+      "fullname": "Max Christiansen",
+      "gender": "male",
+      "birthday": "25.09.1996",
+      "height": "187",
+      "weight": "86",
+      "person_detail": {
+        "id": "218748",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Flensburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163561",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "876428",
+      "shirtnumber": "21",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "230342",
+      "name": "Danny da Costa",
+      "firstname": "Danny",
+      "surname": "da Costa",
+      "fullname": "Danny Vieira da Costa",
+      "gender": "male",
+      "birthday": "13.07.1993",
+      "height": "186",
+      "weight": "81",
+      "person_detail": {
+        "id": "172890",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Neuss",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163562",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1215110",
+      "shirtnumber": "23",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "264021",
+      "name": "Robert Bauer",
+      "firstname": "Robert",
+      "surname": "Bauer",
+      "fullname": "Robert Bauer",
+      "gender": "male",
+      "birthday": "09.04.1995",
+      "height": "183",
+      "weight": "76",
+      "person_detail": {
+        "id": "199427",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "unknown",
+        "birth_place": "Pforzheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163563",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1382965",
+      "shirtnumber": "26",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "141715",
+      "name": "Ørjan Nyland",
+      "firstname": "Ørjan",
+      "surname": "Nyland",
+      "fullname": "Ørjan Håskjold Nyland",
+      "gender": "male",
+      "birthday": "10.09.1990",
+      "height": "192",
+      "weight": "78",
+      "person_detail": {
+        "id": "131069",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Volda",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "156",
+          "name": "Norwegen",
+          "code": "NOR",
+          "iso": "NO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163564",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1378519",
+      "shirtnumber": "29",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "2805",
+      "name": "Markus Suttner",
+      "firstname": "Markus",
+      "surname": "Suttner",
+      "fullname": "Markus Suttner",
+      "gender": "male",
+      "birthday": "16.04.1987",
+      "height": "179",
+      "weight": "71",
+      "person_detail": {
+        "id": "66912",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Hollabrunn",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163565",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428072",
+      "shirtnumber": "31",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "262051",
+      "name": "Maurice Multhaup",
+      "firstname": "Maurice",
+      "surname": "Multhaup",
+      "fullname": "Maurice Multhaup",
+      "gender": "male",
+      "birthday": "15.12.1996",
+      "height": "172",
+      "weight": "74",
+      "person_detail": {
+        "id": "197725",
+        "position_1": "10",
+        "position_2": "13",
+        "preferred_side": "unknown",
+        "birth_place": "Bottrop",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:55"
+  },
+  {
+    "id": "19163566",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "614491",
+      "shirtnumber": "34",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "172",
+      "name": "Marvin Matip",
+      "firstname": "Marvin",
+      "surname": "Matip",
+      "fullname": "Marvin Matip",
+      "gender": "male",
+      "birthday": "25.09.1985",
+      "height": "184",
+      "weight": "80",
+      "person_detail": {
+        "id": "22852",
+        "position_1": "3",
+        "position_2": "7",
+        "preferred_side": "both",
+        "birth_place": "Bochum",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "97",
+          "name": "Kamerun",
+          "code": "CMR",
+          "iso": "CM"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:56"
+  },
+  {
+    "id": "19163567",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1054083",
+      "shirtnumber": "36",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "18406",
+      "name": "Almog Cohen",
+      "firstname": "Almog",
+      "surname": "Cohen",
+      "fullname": "Almog Cohen",
+      "gender": "male",
+      "birthday": "01.09.1988",
+      "height": "169",
+      "weight": "68",
+      "person_detail": {
+        "id": "91929",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Beersheba",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "88",
+          "name": "Israel",
+          "code": "ISR",
+          "iso": "IL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:56"
+  },
+  {
+    "id": "19163568",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1490731",
+      "shirtnumber": "37",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "134774",
+      "name": "Dario Lezcano",
+      "firstname": "Dario",
+      "surname": "Lezcano",
+      "fullname": "Dario Lezcano Mendoza",
+      "gender": "male",
+      "birthday": "30.06.1990",
+      "height": "178",
+      "weight": "72",
+      "person_detail": {
+        "id": "124133",
+        "position_1": "8",
+        "position_2": "11",
+        "preferred_side": "unknown",
+        "birth_place": "Asunción",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "163",
+          "name": "Paraguay",
+          "code": "PAR",
+          "iso": "PY"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:33:56"
+  },
+  {
+    "id": "19163572",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1036236",
+      "shirtnumber": "1",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "886",
+      "name": "Alexander Manninger",
+      "firstname": "Alexander",
+      "surname": "Manninger",
+      "fullname": "Alexander Manninger",
+      "gender": "male",
+      "birthday": "04.06.1977",
+      "height": "188",
+      "weight": "83",
+      "person_detail": {
+        "id": "7327",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Salzburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:38"
+  },
+  {
+    "id": "19163573",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "416127",
+      "shirtnumber": "2",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "28894",
+      "name": "Paul Verhaegh",
+      "firstname": "Paul",
+      "surname": "Verhaegh",
+      "fullname": "Paul Johannes Gerardus Verhaegh",
+      "gender": "male",
+      "birthday": "01.09.1983",
+      "height": "178",
+      "weight": "72",
+      "person_detail": {
+        "id": "24162",
+        "position_1": "5",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Kronenberg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande",
+          "code": "NED",
+          "iso": "NL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:38"
+  },
+  {
+    "id": "19163574",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1420531",
+      "shirtnumber": "3",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "255667",
+      "name": "Kostas Stafylidis",
+      "firstname": "Kostas",
+      "surname": "Stafylidis",
+      "fullname": "Kostantinos Stafylidis",
+      "gender": "male",
+      "birthday": "02.12.1993",
+      "height": "177",
+      "weight": "74",
+      "person_detail": {
+        "id": "192398",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Thessaloniki",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "69",
+          "name": "Griechenland",
+          "code": "GRE",
+          "iso": "GR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:38"
+  },
+  {
+    "id": "19163575",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "875322",
+      "shirtnumber": "5",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "14867",
+      "name": "Ragnar Klavan",
+      "firstname": "Ragnar",
+      "surname": "Klavan",
+      "fullname": "Ragnar Klavan",
+      "gender": "male",
+      "birthday": "30.10.1985",
+      "height": "185",
+      "weight": "79",
+      "person_detail": {
+        "id": "14250",
+        "position_1": "4",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Viljandi",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "57",
+          "name": "Estland",
+          "code": "EST",
+          "iso": "EE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:38"
+  },
+  {
+    "id": "19163576",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1486194",
+      "shirtnumber": "6",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "239680",
+      "name": "Jeffrey Gouweleeuw",
+      "firstname": "Jeffrey",
+      "surname": "Gouweleeuw",
+      "fullname": "Jeffrey Gouweleeuw",
+      "gender": "male",
+      "birthday": "10.07.1991",
+      "height": "187",
+      "weight": "76",
+      "person_detail": {
+        "id": "179656",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Heemskerk",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande",
+          "code": "NED",
+          "iso": "NL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:38"
+  },
+  {
+    "id": "19163577",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1033740",
+      "shirtnumber": "7",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "10454",
+      "name": "Halil Altintop",
+      "firstname": "Halil",
+      "surname": "Altintop",
+      "fullname": "Halil Altintop",
+      "gender": "male",
+      "birthday": "08.12.1982",
+      "height": "186",
+      "weight": "82",
+      "person_detail": {
+        "id": "9583",
+        "position_1": "12",
+        "position_2": "11",
+        "preferred_side": "right",
+        "birth_place": "Gelsenkirchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "219",
+          "name": "Türkei",
+          "code": "TUR",
+          "iso": "TR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:38"
+  },
+  {
+    "id": "19163578",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1201532",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "417",
+      "name": "Markus Feulner",
+      "firstname": "Markus",
+      "surname": "Feulner",
+      "fullname": "Markus Feulner",
+      "gender": "male",
+      "birthday": "12.02.1982",
+      "height": "181",
+      "weight": "82",
+      "person_detail": {
+        "id": "3011",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Scheßlitz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163579",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1146915",
+      "shirtnumber": "11",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "28523",
+      "name": "Alexander Esswein",
+      "firstname": "Alexander",
+      "surname": "Esswein",
+      "fullname": "Alexander Esswein",
+      "gender": "male",
+      "birthday": "25.03.1990",
+      "height": "183",
+      "weight": "85",
+      "person_detail": {
+        "id": "97269",
+        "position_1": "10",
+        "position_2": "12",
+        "preferred_side": "right",
+        "birth_place": "Worms",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163580",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "872105",
+      "shirtnumber": "14",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "131327",
+      "name": "Jan Morávek",
+      "firstname": "Jan",
+      "surname": "Morávek",
+      "fullname": "Jan Morávek",
+      "gender": "male",
+      "birthday": "01.11.1989",
+      "height": "180",
+      "weight": "75",
+      "person_detail": {
+        "id": "120685",
+        "position_1": "8",
+        "position_2": "7",
+        "preferred_side": "right",
+        "birth_place": "Praha",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "217",
+          "name": "Tschechien",
+          "code": "CZE",
+          "iso": "CZ"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163581",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1397519",
+      "shirtnumber": "15",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "7514",
+      "name": "Piotr Trochowski",
+      "firstname": "Piotr",
+      "surname": "Trochowski",
+      "fullname": "Piotr Artur Trochowski",
+      "gender": "male",
+      "birthday": "22.03.1984",
+      "height": "168",
+      "weight": "73",
+      "person_detail": {
+        "id": "8801",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Tczew",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163582",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428221",
+      "shirtnumber": "19",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "16081",
+      "name": "Ja-cheol Koo",
+      "firstname": "Ja-cheol",
+      "surname": "Koo",
+      "fullname": "Ja-cheol Koo",
+      "gender": "male",
+      "birthday": "27.02.1989",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "80895",
+        "position_1": "13",
+        "position_2": "8",
+        "preferred_side": "both",
+        "birth_place": "Chungju",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "203",
+          "name": "Südkorea",
+          "code": "KOR",
+          "iso": "KR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163583",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1074128",
+      "shirtnumber": "20",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "164568",
+      "name": "Jeong-ho Hong",
+      "firstname": "Jeong-ho",
+      "surname": "Hong",
+      "fullname": "Jeong-ho Hong",
+      "gender": "male",
+      "birthday": "12.08.1989",
+      "height": "186",
+      "weight": "77",
+      "person_detail": {
+        "id": "153913",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Jeju-do",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "203",
+          "name": "Südkorea",
+          "code": "KOR",
+          "iso": "KR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163584",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1151725",
+      "shirtnumber": "21",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "231490",
+      "name": "Dominik Kohr",
+      "firstname": "Dominik",
+      "surname": "Kohr",
+      "fullname": "Dominik Kohr",
+      "gender": "male",
+      "birthday": "31.01.1994",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "173940",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Trier",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163585",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1287546",
+      "shirtnumber": "22",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "221533",
+      "name": "Dong-won Ji",
+      "firstname": "Dong-won",
+      "surname": "Ji",
+      "fullname": "Dong-won Ji",
+      "gender": "male",
+      "birthday": "28.05.1991",
+      "height": "187",
+      "weight": "78",
+      "person_detail": {
+        "id": "164800",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Jeju",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "203",
+          "name": "Südkorea",
+          "code": "KOR",
+          "iso": "KR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:39"
+  },
+  {
+    "id": "19163586",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1065084",
+      "shirtnumber": "25",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "13883",
+      "name": "Raúl Bobadilla",
+      "firstname": "Raúl",
+      "surname": "Bobadilla",
+      "fullname": "Raúl Marcelo Bobadilla",
+      "gender": "male",
+      "birthday": "18.06.1987",
+      "height": "180",
+      "weight": "82",
+      "person_detail": {
+        "id": "68489",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Buenos Aires",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "163",
+          "name": "Paraguay",
+          "code": "PAR",
+          "iso": "PY"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:40"
+  },
+  {
+    "id": "19163587",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1501191",
+      "shirtnumber": "27",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "4206",
+      "name": "Alfreð Finnbogason",
+      "firstname": "Alfreð",
+      "surname": "Finnbogason",
+      "fullname": "Alfreð Finnbogason",
+      "gender": "male",
+      "birthday": "01.02.1989",
+      "height": "184",
+      "weight": "78",
+      "person_detail": {
+        "id": "115090",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Reykjavík",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "87",
+          "name": "Island",
+          "code": "ISL",
+          "iso": "IS"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "bench",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:40"
+  },
+  {
+    "id": "19163588",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1213672",
+      "shirtnumber": "30",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "95004",
+      "name": "Caiuby",
+      "firstname": "",
+      "surname": "Caiuby",
+      "fullname": "Caiuby Francisco da Silva",
+      "gender": "male",
+      "birthday": "14.07.1988",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "74440",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "both",
+        "birth_place": "São Paulo",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:40"
+  },
+  {
+    "id": "19163589",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1016160",
+      "shirtnumber": "35",
+      "role": {
+        "id": "1",
+        "name": "Torwart",
+        "group": "Athletes",
+        "order": "1"
+      }
+    },
+    "person": {
+      "id": "101231",
+      "name": "Marwin Hitz",
+      "firstname": "Marwin",
+      "surname": "Hitz",
+      "fullname": "Marwin Hitz",
+      "gender": "male",
+      "birthday": "18.09.1987",
+      "height": "192",
+      "weight": "89",
+      "person_detail": {
+        "id": "82224",
+        "position_1": "1",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "St. Gallen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:35:40"
+  },
+  {
+    "id": "19163591",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "336577",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "217",
+      "name": "Moritz Hartmann",
+      "firstname": "Moritz",
+      "surname": "Hartmann",
+      "fullname": "Moritz Hartmann",
+      "gender": "male",
+      "birthday": "20.06.1986",
+      "height": "181",
+      "weight": "74",
+      "person_detail": {
+        "id": "56228",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Oberviechtach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "lineup",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "06.02.2016 14:36:16"
+  },
+  {
+    "id": "860315",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "person": {
+      "id": "47294",
+      "name": "Markus Weinzierl",
+      "firstname": "Markus",
+      "surname": "Weinzierl",
+      "fullname": "Markus Weinzierl",
+      "gender": "male",
+      "birthday": "28.12.1974",
+      "height": "180",
+      "weight": "72",
+      "person_detail": {
+        "id": "8968",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Straubing",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "02.05.2015 15:29"
+  },
+  {
+    "id": "1090084",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "person": {
+      "id": "24793",
+      "name": "Ralph Hasenhüttl",
+      "firstname": "Ralph",
+      "surname": "Hasenhüttl",
+      "fullname": "Ralph Hasenhüttl",
+      "gender": "male",
+      "birthday": "09.08.1967",
+      "height": "193",
+      "weight": "92",
+      "person_detail": {
+        "id": "644",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Graz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "coaching",
+    "content": "",
+    "kind": "",
+    "minute": "0",
+    "additional_person_id": "0",
+    "created": "29.05.2015 16:42"
+  }
+]
