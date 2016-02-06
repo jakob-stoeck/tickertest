@@ -4427,6 +4427,162 @@
     "created": "06.02.2016 17:07:35"
   },
   {
+    "id": "19165869",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1378796",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "152131",
+      "name": "Lukas Rupp",
+      "firstname": "Lukas",
+      "surname": "Rupp",
+      "fullname": "Lukas Rupp",
+      "gender": "male",
+      "birthday": "08.01.1991",
+      "height": "178",
+      "weight": "73",
+      "person_detail": {
+        "id": "141479",
+        "position_1": "12",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Heidelberg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:09:33"
+  },
+  {
+    "id": "19165870",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1196722",
+      "shirtnumber": "16",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "17348",
+      "name": "Florian Klein",
+      "firstname": "Florian",
+      "surname": "Klein",
+      "fullname": "Florian Klein",
+      "gender": "male",
+      "birthday": "17.11.1986",
+      "height": "180",
+      "weight": "66",
+      "person_detail": {
+        "id": "39288",
+        "position_1": "5",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Linz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:09:39"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
