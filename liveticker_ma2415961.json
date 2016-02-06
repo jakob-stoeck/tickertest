@@ -652,5 +652,50 @@
     "headline": "",
     "content": "Durch die völlige Passivität nach Wiederanpfiff kann es dem Heimteam trotz der fehlenden Ideen der Wölfe passieren, dass die Partie noch einmal spannend wird. Der VfL darf in der gegnerischen Hälfte schalten und walten und holt sich dadurch ein wenig Selbstvertrauen zurück.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622451",
+    "event": {
+      "id": "19165673",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "230779",
+        "name": "Robin Knoche",
+        "firstname": "Robin",
+        "surname": "Knoche",
+        "fullname": "Robin Knoche",
+        "gender": "male",
+        "birthday": "22.05.1992",
+        "height": "177",
+        "weight": "77",
+        "person_detail": {
+          "id": "173266",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Braunschweig",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:49"
+    },
+    "tickertime": "06.02.2016 16:49:39",
+    "minute": "62",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Robin Knoche (VfL Wolfsburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
