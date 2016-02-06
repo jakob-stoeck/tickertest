@@ -145,5 +145,50 @@
     "headline": "",
     "content": "Noch schaffen es beide Teams zu selten, die stabilen Ketten des Gegners auseinanderzuspielen. Viel findet 20 Meter um die Mittellinie statt und wenn kommt man über hohe Bälle vor das Tor.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622129",
+    "event": {
+      "id": "19164979",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "255667",
+        "name": "Kostas Stafylidis",
+        "firstname": "Kostas",
+        "surname": "Stafylidis",
+        "fullname": "Kostantinos Stafylidis",
+        "gender": "male",
+        "birthday": "02.12.1993",
+        "height": "177",
+        "weight": "74",
+        "person_detail": {
+          "id": "192398",
+          "position_1": "3",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Thessaloniki",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "69"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "0:1",
+      "kind": "left-foot",
+      "minute": "14",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:43"
+    },
+    "tickertime": "06.02.2016 15:43:46",
+    "minute": "14",
+    "headline": "",
+    "content": "<b>Tooor für FC Augsburg, 0:1 durch Kostas Stafylidis</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
