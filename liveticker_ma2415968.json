@@ -545,5 +545,95 @@
     "headline": "",
     "content": "<b>Anpfiff 2. Halbzeit</b>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622373",
+    "event": {
+      "id": "19165464",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "231410",
+        "name": "Kaan Ayhan",
+        "firstname": "Kaan",
+        "surname": "Ayhan",
+        "fullname": "Kaan Ayhan",
+        "gender": "male",
+        "birthday": "10.11.1994",
+        "height": "183",
+        "weight": "68",
+        "person_detail": {
+          "id": "173860",
+          "position_1": "13",
+          "position_2": "4",
+          "preferred_side": "right",
+          "birth_place": "Gelsenkirchen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "219"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:33"
+    },
+    "tickertime": "06.02.2016 16:33:33",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Eintracht Frankfurt -> Kaan Ayhan</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622374",
+    "event": {
+      "id": "19165465",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "14437",
+        "name": "Änis Ben-Hatira",
+        "firstname": "Änis",
+        "surname": "Ben-Hatira",
+        "fullname": "Änis Ben-Hatira",
+        "gender": "male",
+        "birthday": "18.07.1988",
+        "height": "181",
+        "weight": "75",
+        "person_detail": {
+          "id": "41544",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "218"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "46",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:33"
+    },
+    "tickertime": "06.02.2016 16:33:39",
+    "minute": "46",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Eintracht Frankfurt -> Änis Ben-Hatira</span>",
+    "syndicate": "heimspiel"
   }
 ]
