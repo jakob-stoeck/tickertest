@@ -2819,6 +2819,84 @@
     "created": "06.02.2016 15:31:34"
   },
   {
+    "id": "19164930",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1371220",
+      "shirtnumber": "33",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "264029",
+      "name": "Julian Weigl",
+      "firstname": "Julian",
+      "surname": "Weigl",
+      "fullname": "Julian Weigl",
+      "gender": "male",
+      "birthday": "08.09.1995",
+      "height": "186",
+      "weight": "70",
+      "person_detail": {
+        "id": "199435",
+        "position_1": "13",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Ostermünchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "9",
+    "additional_person_id": "0",
+    "created": "06.02.2016 15:41:18"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
