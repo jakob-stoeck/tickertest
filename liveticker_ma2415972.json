@@ -214,5 +214,58 @@
     "headline": "",
     "content": "Nach dem Treffer tritt Augsburg dominant auf und behauptet den Ball. Das liegt aber auch daran, dass derzeit Benjamin Hübner mit einer Platzwunde behandelt werden muss. Ingolstadt ist also in Unterzahl.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622180",
+    "tickertime": "06.02.2016 15:50:17",
+    "minute": "19",
+    "headline": "",
+    "content": "Roger rückt übergangsweise mal in die Viererkette und verteidigt gleich mal recht gut gegen Alexander Esswein, der da an der rechten Sechzehnerkante aufgetaucht war. Aber kurz danach ist Hübner mit Turban wieder zurück.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622183",
+    "event": {
+      "id": "19165035",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "28894",
+        "name": "Paul Verhaegh",
+        "firstname": "Paul",
+        "surname": "Verhaegh",
+        "fullname": "Paul Johannes Gerardus Verhaegh",
+        "gender": "male",
+        "birthday": "01.09.1983",
+        "height": "178",
+        "weight": "72",
+        "person_detail": {
+          "id": "24162",
+          "position_1": "5",
+          "position_2": "9",
+          "preferred_side": "right",
+          "birth_place": "Kronenberg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "149"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "20",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:50"
+    },
+    "tickertime": "06.02.2016 15:50:27",
+    "minute": "20",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Paul Verhaegh (FC Augsburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
