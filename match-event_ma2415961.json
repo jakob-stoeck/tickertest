@@ -3725,6 +3725,84 @@
     "created": "06.02.2016 17:05:13"
   },
   {
+    "id": "19165857",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1211049",
+      "shirtnumber": "13",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "14446",
+      "name": "Eric Maxim Choupo-Moting",
+      "firstname": "Eric Maxim",
+      "surname": "Choupo-Moting",
+      "fullname": "Eric Maxim Choupo-Moting",
+      "gender": "male",
+      "birthday": "23.03.1989",
+      "height": "190",
+      "weight": "84",
+      "person_detail": {
+        "id": "74023",
+        "position_1": "12",
+        "position_2": "11",
+        "preferred_side": "right",
+        "birth_place": "Hamburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "97",
+          "name": "Kamerun",
+          "code": "CMR",
+          "iso": "CM"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "80",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:07:31"
+  },
+  {
     "id": "1373495",
     "team": {
       "id": "694",

@@ -925,5 +925,50 @@
     "headline": "",
     "content": "Nach einem guten Auftritt verabschiedet sich Max Meyer vom Feld. Für den jungen Akteur mit der sieben auf dem Rücken kommt Younès Belhanda, der erstmals in der Veltins-Arena aufläuft. Auch am Böllenfalltor ist er eingewechselt worden.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622558",
+    "event": {
+      "id": "19165857",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "14446",
+        "name": "Eric Maxim Choupo-Moting",
+        "firstname": "Eric Maxim",
+        "surname": "Choupo-Moting",
+        "fullname": "Eric Maxim Choupo-Moting",
+        "gender": "male",
+        "birthday": "23.03.1989",
+        "height": "190",
+        "weight": "84",
+        "person_detail": {
+          "id": "74023",
+          "position_1": "12",
+          "position_2": "11",
+          "preferred_side": "right",
+          "birth_place": "Hamburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "97"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:07"
+    },
+    "tickertime": "06.02.2016 17:07:31",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Eric Maxim Choupo-Moting</span>",
+    "syndicate": "heimspiel"
   }
 ]
