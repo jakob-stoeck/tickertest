@@ -322,5 +322,95 @@
     "headline": "",
     "content": "Mittlerweile scheint Thomas Schaaf so unzufrieden zu sein, dass er einen Wechsel vorbereitet. Vermutlich wird Salif Sané gleich ins Spielgeschehen kommen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622272",
+    "event": {
+      "id": "19165197",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "172399",
+        "name": "Hotaru Yamaguchi",
+        "firstname": "Hotaru",
+        "surname": "Yamaguchi",
+        "fullname": "Hotaru Yamaguchi",
+        "gender": "male",
+        "birthday": "06.10.1990",
+        "height": "173",
+        "weight": "72",
+        "person_detail": {
+          "id": "161741",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Mie",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "91"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "35",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:06"
+    },
+    "tickertime": "06.02.2016 16:06:06",
+    "minute": "35",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Hotaru Yamaguchi</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622273",
+    "event": {
+      "id": "19165198",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "235359",
+        "name": "Salif Sané",
+        "firstname": "Salif",
+        "surname": "Sané",
+        "fullname": "Salif Sané",
+        "gender": "male",
+        "birthday": "25.08.1990",
+        "height": "194",
+        "weight": "78",
+        "person_detail": {
+          "id": "177084",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Lormont",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "184"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "35",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:06"
+    },
+    "tickertime": "06.02.2016 16:06:18",
+    "minute": "35",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Salif Sané</span>",
+    "syndicate": "heimspiel"
   }
 ]
