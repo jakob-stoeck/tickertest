@@ -945,5 +945,58 @@
     "headline": "",
     "content": "Der BVB schnürt die Hauptstädter nun hinten ein und spielt Handball um den Sechzehner bis Mkhitaryan einen halbhohen Ball in den Strafraum hebt. Brooks ist jedoch mit dem Kopf dran und lenkt die Murmel in die Arme von Keeper Jarstein.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622640",
+    "tickertime": "06.02.2016 17:18:20",
+    "minute": "88",
+    "headline": "",
+    "content": "Sokratis rutscht der Ball bei einer Flanke von der rechten Außenbahn über den Spann und landet im Toraus. Rune Jarstein lässt sich viel Zeit bei der Ausführung des Abstoßes.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622642",
+    "event": {
+      "id": "19166035",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "5680",
+        "name": "Salomon Kalou",
+        "firstname": "Salomon",
+        "surname": "Kalou",
+        "fullname": "Salomon Armand Magloire Kalou",
+        "gender": "male",
+        "birthday": "05.08.1985",
+        "height": "184",
+        "weight": "77",
+        "person_detail": {
+          "id": "15734",
+          "position_1": "10",
+          "position_2": "12",
+          "preferred_side": "right",
+          "birth_place": "Oumé",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "54"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:18"
+    },
+    "tickertime": "06.02.2016 17:18:32",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hertha BSC -> Salomon Kalou</span>",
+    "syndicate": "heimspiel"
   }
 ]
