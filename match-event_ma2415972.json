@@ -2897,6 +2897,84 @@
     "created": "06.02.2016 15:43:46"
   },
   {
+    "id": "19165035",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "416127",
+      "shirtnumber": "2",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "28894",
+      "name": "Paul Verhaegh",
+      "firstname": "Paul",
+      "surname": "Verhaegh",
+      "fullname": "Paul Johannes Gerardus Verhaegh",
+      "gender": "male",
+      "birthday": "01.09.1983",
+      "height": "178",
+      "weight": "72",
+      "person_detail": {
+        "id": "24162",
+        "position_1": "5",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Kronenberg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande",
+          "code": "NED",
+          "iso": "NL"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "20",
+    "additional_person_id": "0",
+    "created": "06.02.2016 15:50:27"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
