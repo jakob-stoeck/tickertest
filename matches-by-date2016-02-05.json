@@ -7644,7 +7644,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "2",
                     "place": "none_home",
                     "rounds": "0",
@@ -16759,10 +16759,10 @@
                 "group_matchday": "0",
                 "match_date": "06.02.2016",
                 "match_time": "16:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "data",
-                "current_period": "second-half-start",
-                "current_period_start": "2016-02-06 17:07:01",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-06 17:58:39",
                 "current_minute": "90",
                 "attendance": "26244",
                 "winner_team_id": "0",
@@ -17226,8 +17226,8 @@
                 "current_period": "game-end",
                 "current_period_start": "2016-02-06 17:57:51",
                 "current_minute": "90",
-                "attendance": "",
-                "winner_team_id": "0",
+                "attendance": "12653",
+                "winner_team_id": "1497",
                 "home": {
                   "id": "1497",
                   "name": "Preston North End",
@@ -17328,6 +17328,30 @@
                     "person_id": "0"
                   }
                 ],
+                "venue": {
+                  "id": "431",
+                  "name": "Deepdale",
+                  "kind": "Stadion",
+                  "venue_detail": {
+                    "id": "431",
+                    "capacity": "24525",
+                    "built": "1874",
+                    "length": "110",
+                    "width": "77"
+                  },
+                  "town": {
+                    "id": "1218",
+                    "name": "Preston",
+                    "postcode_start": "",
+                    "postcode_end": ""
+                  },
+                  "country": {
+                    "id": "55",
+                    "name": "England",
+                    "code": "ENG",
+                    "iso": "GB"
+                  }
+                },
                 "referee": {
                   "id": "50522",
                   "name": "Darren Drysdale",
@@ -18173,7 +18197,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 17:17:46",
-                "current_minute": "86",
+                "current_minute": "88",
                 "attendance": "20302",
                 "winner_team_id": "0",
                 "home": {
@@ -20081,7 +20105,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 17:19:04",
-                "current_minute": "85",
+                "current_minute": "87",
                 "attendance": "",
                 "winner_team_id": "1205",
                 "home": {
@@ -20447,7 +20471,7 @@
                 "group_matchday": "0",
                 "match_date": "06.02.2016",
                 "match_time": "16:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "goals",
                 "current_period": "game-end",
                 "current_period_start": "2016-02-06 17:55:00",
@@ -20565,7 +20589,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:31:59",
-                "current_minute": "26",
+                "current_minute": "28",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -26966,7 +26990,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:44:47",
-                "current_minute": "13",
+                "current_minute": "15",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -27296,7 +27320,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:46:05",
-                "current_minute": "12",
+                "current_minute": "14",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -29103,7 +29127,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:34:17",
-                "current_minute": "24",
+                "current_minute": "26",
                 "attendance": "",
                 "winner_team_id": "80",
                 "home": {
@@ -32945,7 +32969,7 @@
                 "live_status": "result",
                 "current_period": "third-third-start",
                 "current_period_start": "2016-02-06 17:46:03",
-                "current_minute": "41",
+                "current_minute": "47",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -33005,7 +33029,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "2",
+                    "match_result": "3",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -33197,7 +33221,7 @@
                 "live_status": "result",
                 "current_period": "third-third-start",
                 "current_period_start": "2016-02-06 17:40:01",
-                "current_minute": "41",
+                "current_minute": "49",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -33257,7 +33281,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -33499,7 +33523,7 @@
                 "live_status": "result",
                 "current_period": "third-third-start",
                 "current_period_start": "2016-02-06 17:40:13",
-                "current_minute": "41",
+                "current_minute": "52",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -33559,7 +33583,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "2",
+                    "match_result": "3",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -35953,7 +35977,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "4",
+                    "match_result": "5",
                     "match_result_at": "2",
                     "place": "none_home",
                     "rounds": "0",
