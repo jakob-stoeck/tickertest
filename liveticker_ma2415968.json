@@ -1069,5 +1069,148 @@
     "headline": "",
     "content": "Wie nutzen die Hausherren die Überzahl durch den Platzverweis für Didavi? Einzig Alex Meier schafft es momentan, die Gäste wirklich in Bedrängnis zu bringen. Unterm Strich steht gut 20 Minuten vor dem Ende aber die Niederlage für Frankfurt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622525",
+    "event": {
+      "id": "19165810",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "291625",
+        "name": "Yanni Regäsel",
+        "firstname": "Yanni",
+        "surname": "Regäsel",
+        "fullname": "Yanni Regäsel",
+        "gender": "male",
+        "birthday": "14.01.1996",
+        "height": "180",
+        "weight": "72",
+        "person_detail": {
+          "id": "219703",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "73",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:02"
+    },
+    "tickertime": "06.02.2016 17:02:33",
+    "minute": "73",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Eintracht Frankfurt -> Yanni Regäsel</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622526",
+    "event": {
+      "id": "19165814",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "308105",
+        "name": "Mijat Gaćinović",
+        "firstname": "Mijat",
+        "surname": "Gaćinović",
+        "fullname": "Mijat Gaćinović",
+        "gender": "male",
+        "birthday": "08.02.1995",
+        "height": "175",
+        "weight": "66",
+        "person_detail": {
+          "id": "234897",
+          "position_1": "6",
+          "position_2": "10",
+          "preferred_side": "unknown",
+          "birth_place": "",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "185"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "73",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:02"
+    },
+    "tickertime": "06.02.2016 17:02:41",
+    "minute": "73",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Eintracht Frankfurt -> Mijat Gaćinović</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622529",
+    "tickertime": "06.02.2016 17:02:58",
+    "minute": "75",
+    "headline": "",
+    "content": "<b>Elfmeter für Stuttgart!</b>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622531",
+    "event": {
+      "id": "19165819",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "10466",
+        "name": "Carlos Zambrano",
+        "firstname": "Carlos",
+        "surname": "Zambrano",
+        "fullname": "Carlos Augusto Zambrano Ochandarte",
+        "gender": "male",
+        "birthday": "10.07.1989",
+        "height": "185",
+        "weight": "78",
+        "person_detail": {
+          "id": "96637",
+          "position_1": "4",
+          "position_2": "5",
+          "preferred_side": "right",
+          "birth_place": "Callao",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "164"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow-red",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:03"
+    },
+    "tickertime": "06.02.2016 17:03:07",
+    "minute": "75",
+    "headline": "",
+    "content": "<b>Gelb-Rote Karte für Carlos Zambrano (Eintracht Frankfurt)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
