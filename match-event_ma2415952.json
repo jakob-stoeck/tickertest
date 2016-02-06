@@ -2897,6 +2897,84 @@
     "created": "06.02.2016 15:41:18"
   },
   {
+    "id": "19165226",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "413977",
+      "shirtnumber": "26",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "14958",
+      "name": "Łukasz Piszczek",
+      "firstname": "Łukasz",
+      "surname": "Piszczek",
+      "fullname": "Łukasz Piszczek",
+      "gender": "male",
+      "birthday": "03.06.1985",
+      "height": "184",
+      "weight": "78",
+      "person_detail": {
+        "id": "27964",
+        "position_1": "5",
+        "position_2": "10",
+        "preferred_side": "right",
+        "birth_place": "Czechowice-Dziedzice",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen",
+          "code": "POL",
+          "iso": "PL"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "41",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:12:36"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
