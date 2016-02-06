@@ -379,5 +379,66 @@
     "headline": "",
     "content": "Zunächst scheint die Möglichkeit aber eher isoliert zu sein. In den letzten Minuten steigt eher die Intensität und viele Fouls unterbrechen zusätzlich den ohnehin zähen Spielfluss.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622314",
+    "tickertime": "06.02.2016 16:15:42",
+    "minute": "44",
+    "headline": "",
+    "content": "Augsburg kontert und im Laufduell kommt Alexander Esswein gegen Mathew Leckie zu Fall. Aber Weiner winkt die Szene zurecht durch, denn da war garnichts.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622316",
+    "tickertime": "06.02.2016 16:15:50",
+    "minute": "45",
+    "headline": "",
+    "content": "Zwei Minuten gibt es obendrauf.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622319",
+    "event": {
+      "id": "19165243",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "95004",
+        "name": "Caiuby",
+        "firstname": "",
+        "surname": "Caiuby",
+        "fullname": "Caiuby Francisco da Silva",
+        "gender": "male",
+        "birthday": "14.07.1988",
+        "height": "183",
+        "weight": "75",
+        "person_detail": {
+          "id": "74440",
+          "position_1": "8",
+          "position_2": "10",
+          "preferred_side": "both",
+          "birth_place": "São Paulo",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:15"
+    },
+    "tickertime": "06.02.2016 16:15:58",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Caiuby (FC Augsburg)</b> <br/>Der Brasilianer geht mit zuviel Risiko in Danny da Costa und sieht den Karton.",
+    "syndicate": "heimspiel"
   }
 ]
