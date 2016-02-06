@@ -312,43 +312,6 @@
   },
   {
     "id": "1622280",
-    "event": {
-      "id": "19165201",
-      "team": {
-        "id": "2076",
-        "name": "VfB Stuttgart"
-      },
-      "person": {
-        "id": "133962",
-        "name": "Daniel Didavi",
-        "firstname": "Daniel",
-        "surname": "Didavi",
-        "fullname": "Daniel Didavi",
-        "gender": "male",
-        "birthday": "21.02.1990",
-        "height": "180",
-        "weight": "77",
-        "person_detail": {
-          "id": "123320",
-          "position_1": "6",
-          "position_2": "0",
-          "preferred_side": "left",
-          "birth_place": "Nürtingen",
-          "died": "no"
-        },
-        "country": [
-          {
-            "id": "47"
-          }
-        ]
-      },
-      "action": "card",
-      "content": "",
-      "kind": "yellow",
-      "minute": "36",
-      "additional_person_id": "0",
-      "created": "06.02.2016 16:07"
-    },
     "tickertime": "06.02.2016 16:07:29",
     "minute": "36",
     "headline": "",
@@ -800,43 +763,6 @@
   },
   {
     "id": "1622463",
-    "event": {
-      "id": "19165690",
-      "team": {
-        "id": "530",
-        "name": "Eintracht Frankfurt"
-      },
-      "person": {
-        "id": "10466",
-        "name": "Carlos Zambrano",
-        "firstname": "Carlos",
-        "surname": "Zambrano",
-        "fullname": "Carlos Augusto Zambrano Ochandarte",
-        "gender": "male",
-        "birthday": "10.07.1989",
-        "height": "185",
-        "weight": "78",
-        "person_detail": {
-          "id": "96637",
-          "position_1": "4",
-          "position_2": "5",
-          "preferred_side": "right",
-          "birth_place": "Callao",
-          "died": "no"
-        },
-        "country": [
-          {
-            "id": "164"
-          }
-        ]
-      },
-      "action": "card",
-      "content": "",
-      "kind": "yellow",
-      "minute": "63",
-      "additional_person_id": "0",
-      "created": "06.02.2016 16:50"
-    },
     "tickertime": "06.02.2016 16:50:57",
     "minute": "63",
     "headline": "",
@@ -1684,6 +1610,14 @@
     "minute": "90",
     "headline": "",
     "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622696",
+    "tickertime": "06.02.2016 17:26:33",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Fazit:</b> <br/>Der VfB Stuttgart bezwingt Eintracht Frankfurt nach unterhaltsamen 90 Minuten mit 4:2. Die Gäste feiern ihren dritten Auswärtserfolg und den fünften Pflichtspielsieg in Serie. Frankfurt durfte nach dem Anschlusstreffer durch Alex Meier noch einmal hoffen, doch die Schwaben steckten den Rückschlag weg und antworteten auf ihre Weise. Durch die drei Punkte entfernen sich die Cannstädter allmählich aus der Gefahrenzone, die Hessen rutschen immer tiefer unten rein. Jürgen Kramny und seine Elf bleiben in der Erfolgsspur und haben nun am Dienstag den BVB im Duell um den Einzug ins Halbfinale des DFB-Pokals vor der Brust. Vielen Dank für die Aufmerksamkeit und ein schönes Wochenende!",
     "syndicate": "heimspiel"
   }
 ]
