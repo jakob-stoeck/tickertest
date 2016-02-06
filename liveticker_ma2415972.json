@@ -621,10 +621,10 @@
       },
       "created": "06.02.2016 16:46"
     },
-    "tickertime": "06.02.2016 16:46:49",
+    "tickertime": "06.02.2016 16:48:55",
     "minute": "59",
     "headline": "",
-    "content": "<b>Tooor für FC Ingolstadt 04, 1:1 durch Marvin Matip</b> <br/>Aber was heißt hier immerhin?! Roger setzt sich am elferpunkt sprungstark durch und in den zentralen Abschluss spritzt Matip am Fünfer und buchsiert das Leder mit dem Kopf über die Linie!",
+    "content": "<b>Tooor für FC Ingolstadt 04, 1:1 durch Marvin Matip</b> <br/>Aber was heißt hier immerhin?! Roger setzt sich am Elferpunkt sprungstark durch und in den zentralen Abschluss spritzt Matip am Fünfer und buchsiert das Leder mit dem Kopf über die Linie! Gegen den abgefälschten Ball kann Marwin Hitz natürlich nicht mehr reagieren.",
     "syndicate": "heimspiel"
   },
   {
@@ -633,6 +633,96 @@
     "minute": "60",
     "headline": "",
     "content": "Da war auch eine Menge Glück dabei, aber herausgespielte Tore sind heute einfach nicht drin.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622457",
+    "event": {
+      "id": "19165682",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "290646",
+        "name": "Max Christiansen",
+        "firstname": "Max",
+        "surname": "Christiansen",
+        "fullname": "Max Christiansen",
+        "gender": "male",
+        "birthday": "25.09.1996",
+        "height": "187",
+        "weight": "86",
+        "person_detail": {
+          "id": "218748",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Flensburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "60",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:50"
+    },
+    "tickertime": "06.02.2016 16:50:32",
+    "minute": "60",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Ingolstadt 04 -> Max Christiansen</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622459",
+    "event": {
+      "id": "19165684",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "112083",
+        "name": "Alfredo Morales",
+        "firstname": "Alfredo",
+        "surname": "Morales",
+        "fullname": "Alfredo Morales",
+        "gender": "male",
+        "birthday": "12.05.1990",
+        "height": "183",
+        "weight": "74",
+        "person_detail": {
+          "id": "97525",
+          "position_1": "5",
+          "position_2": "7",
+          "preferred_side": "right",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "229"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "60",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:50"
+    },
+    "tickertime": "06.02.2016 16:50:38",
+    "minute": "60",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Ingolstadt 04 -> Alfredo Morales</span>",
     "syndicate": "heimspiel"
   }
 ]
