@@ -4583,6 +4583,84 @@
     "created": "06.02.2016 17:09:39"
   },
   {
+    "id": "19165915",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1231015",
+      "shirtnumber": "18",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "255723",
+      "name": "Filip Kostić",
+      "firstname": "Filip",
+      "surname": "Kostić",
+      "fullname": "Filip Kostić",
+      "gender": "male",
+      "birthday": "01.11.1992",
+      "height": "180",
+      "weight": "68",
+      "person_detail": {
+        "id": "192440",
+        "position_1": "10",
+        "position_2": "12",
+        "preferred_side": "left",
+        "birth_place": "Kragujevac",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "185",
+          "name": "Serbien",
+          "code": "SRB",
+          "iso": "RS"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "85",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:13:03"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
