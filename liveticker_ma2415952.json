@@ -1043,5 +1043,103 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei Hertha BSC -> Alexander Baumjohann</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622650",
+    "tickertime": "06.02.2016 17:19:38",
+    "minute": "89",
+    "headline": "",
+    "content": "Zweiter Tausch von Pál Dárdai. Er bringt Alexander Baumjohann für Salomon Kalou, der eben die gute Möglichkeit nach dem Konter hatte. Was kann Baumjohann noch zeigen?",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622654",
+    "event": {
+      "id": "19166047",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "3143",
+        "name": "Jens Hegeler",
+        "firstname": "Jens",
+        "surname": "Hegeler",
+        "fullname": "Jens Hegeler",
+        "gender": "male",
+        "birthday": "22.01.1988",
+        "height": "193",
+        "weight": "86",
+        "person_detail": {
+          "id": "84741",
+          "position_1": "7",
+          "position_2": "5",
+          "preferred_side": "right",
+          "birth_place": "Köln",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:19"
+    },
+    "tickertime": "06.02.2016 17:19:47",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hertha BSC -> Jens Hegeler</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622657",
+    "event": {
+      "id": "19166049",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "233151",
+        "name": "Niklas Stark",
+        "firstname": "Niklas",
+        "surname": "Stark",
+        "fullname": "Niklas Stark",
+        "gender": "male",
+        "birthday": "14.04.1995",
+        "height": "188",
+        "weight": "74",
+        "person_detail": {
+          "id": "175376",
+          "position_1": "7",
+          "position_2": "4",
+          "preferred_side": "right",
+          "birth_place": "Neustadt an der Aisch",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:19"
+    },
+    "tickertime": "06.02.2016 17:19:54",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hertha BSC -> Niklas Stark</span>",
+    "syndicate": "heimspiel"
   }
 ]
