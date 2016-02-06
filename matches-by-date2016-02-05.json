@@ -16765,7 +16765,7 @@
                 "current_period_start": "2016-02-06 17:07:01",
                 "current_minute": "90",
                 "attendance": "26244",
-                "winner_team_id": "237",
+                "winner_team_id": "0",
                 "home": {
                   "id": "1291",
                   "name": "Middlesbrough FC",
@@ -16921,10 +16921,10 @@
                 "group_matchday": "0",
                 "match_date": "06.02.2016",
                 "match_time": "16:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "data",
-                "current_period": "second-half-start",
-                "current_period_start": "2016-02-06 17:04:35",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-06 17:56:33",
                 "current_minute": "90",
                 "attendance": "",
                 "winner_team_id": "277",
@@ -18953,7 +18953,7 @@
                 "current_period_start": "",
                 "current_minute": "0",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "1463",
                 "home": {
                   "id": "380",
                   "name": "Chesterfield FC",
@@ -19021,7 +19021,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -19265,7 +19265,7 @@
                 "group_matchday": "0",
                 "match_date": "06.02.2016",
                 "match_time": "16:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
                 "current_period": "",
                 "current_period_start": "",
@@ -20081,7 +20081,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 17:19:04",
-                "current_minute": "83",
+                "current_minute": "84",
                 "attendance": "",
                 "winner_team_id": "1205",
                 "home": {
@@ -20565,7 +20565,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:31:59",
-                "current_minute": "24",
+                "current_minute": "25",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -27296,7 +27296,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:46:05",
-                "current_minute": "10",
+                "current_minute": "11",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -29103,7 +29103,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:34:17",
-                "current_minute": "22",
+                "current_minute": "23",
                 "attendance": "",
                 "winner_team_id": "80",
                 "home": {
