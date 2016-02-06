@@ -1023,5 +1023,95 @@
     "headline": "",
     "content": "Die Wechsel gehören zu den Höhepunkten der zweiten Halbzeit.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622568",
+    "event": {
+      "id": "19165863",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "1967",
+        "name": "Nicklas Bendtner",
+        "firstname": "Nicklas",
+        "surname": "Bendtner",
+        "fullname": "Nicklas Bendtner",
+        "gender": "male",
+        "birthday": "16.01.1988",
+        "height": "191",
+        "weight": "83",
+        "person_detail": {
+          "id": "43874",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Kopenhagen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "45"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:08"
+    },
+    "tickertime": "06.02.2016 17:08:09",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Wolfsburg -> Nicklas Bendtner</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622570",
+    "event": {
+      "id": "19165864",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "333100",
+        "name": "Leandro Putaro",
+        "firstname": "Leandro",
+        "surname": "Putaro",
+        "fullname": "Leandro Putaro",
+        "gender": "male",
+        "birthday": "07.01.1997",
+        "height": "184",
+        "weight": "0",
+        "person_detail": {
+          "id": "257037",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Göttingen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:08"
+    },
+    "tickertime": "06.02.2016 17:08:20",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Wolfsburg -> Leandro Putaro</span>",
+    "syndicate": "heimspiel"
   }
 ]
