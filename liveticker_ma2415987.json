@@ -986,5 +986,50 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei 1. FSV Mainz 05 -> Yoshinori Muto</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622534",
+    "event": {
+      "id": "19165822",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "9107",
+        "name": "Fabian Frei",
+        "firstname": "Fabian",
+        "surname": "Frei",
+        "fullname": "Fabian Frei",
+        "gender": "male",
+        "birthday": "08.01.1989",
+        "height": "184",
+        "weight": "74",
+        "person_detail": {
+          "id": "85994",
+          "position_1": "13",
+          "position_2": "9",
+          "preferred_side": "right",
+          "birth_place": "Frauenfeld",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "183"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:03"
+    },
+    "tickertime": "06.02.2016 17:03:21",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FSV Mainz 05 -> Fabian Frei</span>",
+    "syndicate": "heimspiel"
   }
 ]
