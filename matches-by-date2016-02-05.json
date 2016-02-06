@@ -4524,7 +4524,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:04:17",
-                "current_minute": "6",
+                "current_minute": "7",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -5020,7 +5020,7 @@
                 "live_status": "data",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 18:03:17",
-                "current_minute": "53",
+                "current_minute": "54",
                 "attendance": "",
                 "winner_team_id": "1420",
                 "home": {
@@ -6684,7 +6684,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "2",
                     "place": "none_home",
                     "rounds": "0",
@@ -15253,7 +15253,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:01:55",
-                "current_minute": "8",
+                "current_minute": "9",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -20589,7 +20589,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:31:59",
-                "current_minute": "38",
+                "current_minute": "39",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -23658,6 +23658,93 @@
             "round_order": "6",
             "match": [
               {
+                "id": "2521000",
+                "matchday": "0",
+                "group_matchday": "0",
+                "match_date": "06.02.2016",
+                "match_time": "unknown",
+                "finished": "no",
+                "live_status": "none",
+                "current_period": "",
+                "current_period_start": "",
+                "current_minute": "0",
+                "attendance": "",
+                "winner_team_id": "0",
+                "home": {
+                  "id": "73175",
+                  "name": "Crumlin Star",
+                  "shortname": "Crumlin Star",
+                  "microname": "",
+                  "type": "club",
+                  "gender": "male",
+                  "show_team": "yes",
+                  "team_detail": {
+                    "id": "36334",
+                    "members": "0",
+                    "fullname": "",
+                    "foundation": "0000-00-00",
+                    "colours": ""
+                  },
+                  "country": {
+                    "id": "154",
+                    "name": "Nordirland",
+                    "code": "NIR",
+                    "iso": ""
+                  }
+                },
+                "away": {
+                  "id": "18998",
+                  "name": "Carrick Rangers",
+                  "shortname": "Carrick Rangers",
+                  "microname": "",
+                  "type": "club",
+                  "gender": "male",
+                  "show_team": "yes",
+                  "team_detail": {
+                    "id": "12084",
+                    "members": "0",
+                    "fullname": "",
+                    "foundation": "0000-00-00",
+                    "colours": ""
+                  },
+                  "country": {
+                    "id": "154",
+                    "name": "Nordirland",
+                    "code": "NIR",
+                    "iso": ""
+                  }
+                },
+                "match_result": [
+                  {
+                    "match_result": "0",
+                    "match_result_at": "0",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "73175",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "18998",
+                    "person_id": "0"
+                  }
+                ],
+                "match_incident": {
+                  "id": "3",
+                  "name": "verlegt",
+                  "shortname": "verl."
+                }
+              },
+              {
                 "id": "2521004",
                 "matchday": "0",
                 "group_matchday": "0",
@@ -23822,88 +23909,6 @@
                     "rank": "0",
                     "comment": "",
                     "team_id": "32309",
-                    "person_id": "0"
-                  }
-                ]
-              },
-              {
-                "id": "2521000",
-                "matchday": "0",
-                "group_matchday": "0",
-                "match_date": "06.02.2016",
-                "match_time": "16:00",
-                "finished": "no",
-                "live_status": "none",
-                "current_period": "",
-                "current_period_start": "",
-                "current_minute": "0",
-                "attendance": "",
-                "winner_team_id": "0",
-                "home": {
-                  "id": "73175",
-                  "name": "Crumlin Star",
-                  "shortname": "Crumlin Star",
-                  "microname": "",
-                  "type": "club",
-                  "gender": "male",
-                  "show_team": "yes",
-                  "team_detail": {
-                    "id": "36334",
-                    "members": "0",
-                    "fullname": "",
-                    "foundation": "0000-00-00",
-                    "colours": ""
-                  },
-                  "country": {
-                    "id": "154",
-                    "name": "Nordirland",
-                    "code": "NIR",
-                    "iso": ""
-                  }
-                },
-                "away": {
-                  "id": "18998",
-                  "name": "Carrick Rangers",
-                  "shortname": "Carrick Rangers",
-                  "microname": "",
-                  "type": "club",
-                  "gender": "male",
-                  "show_team": "yes",
-                  "team_detail": {
-                    "id": "12084",
-                    "members": "0",
-                    "fullname": "",
-                    "foundation": "0000-00-00",
-                    "colours": ""
-                  },
-                  "country": {
-                    "id": "154",
-                    "name": "Nordirland",
-                    "code": "NIR",
-                    "iso": ""
-                  }
-                },
-                "match_result": [
-                  {
-                    "match_result": "0",
-                    "match_result_at": "0",
-                    "place": "home",
-                    "rounds": "0",
-                    "points": "0.000",
-                    "rank": "0",
-                    "comment": "",
-                    "team_id": "73175",
-                    "person_id": "0"
-                  },
-                  {
-                    "match_result": "0",
-                    "match_result_at": "0",
-                    "place": "away",
-                    "rounds": "0",
-                    "points": "0.000",
-                    "rank": "0",
-                    "comment": "",
-                    "team_id": "18998",
                     "person_id": "0"
                   }
                 ]
@@ -26990,7 +26995,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:44:47",
-                "current_minute": "25",
+                "current_minute": "26",
                 "attendance": "",
                 "winner_team_id": "712",
                 "home": {
@@ -27320,7 +27325,7 @@
                 "live_status": "goals",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:46:05",
-                "current_minute": "24",
+                "current_minute": "25",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -27650,7 +27655,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:00:43",
-                "current_minute": "9",
+                "current_minute": "10",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -27790,7 +27795,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:01:44",
-                "current_minute": "8",
+                "current_minute": "9",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -27930,7 +27935,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:00:35",
-                "current_minute": "10",
+                "current_minute": "11",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -28070,7 +28075,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:00:32",
-                "current_minute": "10",
+                "current_minute": "11",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -28719,7 +28724,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 18:04:27",
-                "current_minute": "6",
+                "current_minute": "7",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -29127,7 +29132,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 17:34:17",
-                "current_minute": "36",
+                "current_minute": "37",
                 "attendance": "",
                 "winner_team_id": "80",
                 "home": {
@@ -36430,7 +36435,7 @@
                 "current_period_start": "",
                 "current_minute": "0",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "49574",
                 "home": {
                   "id": "4063",
                   "name": "Svetlana Kuznetsova",
@@ -36488,7 +36493,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "0",
                     "place": "none_away",
                     "rounds": "0",
@@ -36543,7 +36548,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "6",
+                    "match_result": "8",
                     "match_result_at": "3",
                     "place": "none_home",
                     "rounds": "0",
@@ -36554,7 +36559,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "6",
+                    "match_result": "10",
                     "match_result_at": "3",
                     "place": "none_away",
                     "rounds": "0",
