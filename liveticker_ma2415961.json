@@ -697,5 +697,58 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Robin Knoche (VfL Wolfsburg)</b> <br/> Sané erobert die Kugel auf der rechten Abwehrseite gegen Rodríguez. Er setzt gegen aufgerückte Gäste zum Solo an. Knoche erstickt den Konterversuch im Keim, indem er den Youngster über die Klinge springen lässt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622472",
+    "tickertime": "06.02.2016 16:52:59",
+    "minute": "65",
+    "headline": "",
+    "content": "Mangels durchschlagender Kombinationen im offensiven Mittelfeld operieren die Weiß-Grünen nun vermehrt mit langen Bällen an die Strafraumkante. Matip und Neustädter haben alles im Griff, können nach dem Seitenwechsel restlos überzeugen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622474",
+    "event": {
+      "id": "19165735",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "29226",
+        "name": "Max Kruse",
+        "firstname": "Max",
+        "surname": "Kruse",
+        "fullname": "Maximilian Kruse",
+        "gender": "male",
+        "birthday": "19.03.1988",
+        "height": "180",
+        "weight": "82",
+        "person_detail": {
+          "id": "59247",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "both",
+          "birth_place": "Reinbek",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "66",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:53"
+    },
+    "tickertime": "06.02.2016 16:53:17",
+    "minute": "66",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Wolfsburg -> Max Kruse</span>",
+    "syndicate": "heimspiel"
   }
 ]
