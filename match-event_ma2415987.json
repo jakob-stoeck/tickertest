@@ -3959,84 +3959,6 @@
     "created": "06.02.2016 17:08:49"
   },
   {
-    "id": "19165921",
-    "team": {
-      "id": "21",
-      "name": "1. FSV Mainz 05",
-      "shortname": "Mainz",
-      "microname": "M05",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
-      "team_detail": {
-        "id": "21",
-        "members": "13500",
-        "fullname": "1. Fußball- und Sportverein Mainz 05",
-        "foundation": "1905-03-16",
-        "colours": "rot-weiß"
-      },
-      "country": {
-        "id": "47",
-        "name": "Deutschland",
-        "code": "GER",
-        "iso": "DE"
-      },
-      "venue": {
-        "id": "3056",
-        "name": "Coface Arena",
-        "kind": "Stadion",
-        "venue_detail": {
-          "id": "3060",
-          "capacity": "34000",
-          "built": "2011"
-        }
-      }
-    },
-    "team_person": {
-      "id": "1359684",
-      "shirtnumber": "6",
-      "role": {
-        "id": "3",
-        "name": "Mittelfeld",
-        "group": "Athletes",
-        "order": "3"
-      }
-    },
-    "person": {
-      "id": "10476",
-      "name": "Danny Latza",
-      "firstname": "Danny",
-      "surname": "Latza",
-      "fullname": "Danny Latza",
-      "gender": "male",
-      "birthday": "07.12.1989",
-      "height": "179",
-      "weight": "75",
-      "person_detail": {
-        "id": "83503",
-        "position_1": "7",
-        "position_2": "0",
-        "preferred_side": "both",
-        "birth_place": "Gelsenkirchen",
-        "died": "no"
-      },
-      "country": [
-        {
-          "id": "47",
-          "name": "Deutschland",
-          "code": "GER",
-          "iso": "DE"
-        }
-      ]
-    },
-    "action": "playing",
-    "content": "",
-    "kind": "substitute-out",
-    "minute": "85",
-    "additional_person_id": "0",
-    "created": "06.02.2016 17:13:47"
-  },
-  {
     "id": "19165922",
     "team": {
       "id": "21",
@@ -4113,6 +4035,84 @@
     "minute": "85",
     "additional_person_id": "0",
     "created": "06.02.2016 17:14:00"
+  },
+  {
+    "id": "19165921",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1359684",
+      "shirtnumber": "6",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "10476",
+      "name": "Danny Latza",
+      "firstname": "Danny",
+      "surname": "Latza",
+      "fullname": "Danny Latza",
+      "gender": "male",
+      "birthday": "07.12.1989",
+      "height": "179",
+      "weight": "75",
+      "person_detail": {
+        "id": "83503",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Gelsenkirchen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:13:47"
   },
   {
     "id": "19166080",
