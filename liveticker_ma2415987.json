@@ -1116,5 +1116,95 @@
     "headline": "",
     "content": "Mittlerweile haben sich die Mainzer etwas zurückgezogen und lauern nur noch auf den entscheidenen Konter, während die 96er etwas planlos mit hohen Bällen in die gegnerische Spitze agieren.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622605",
+    "event": {
+      "id": "19165921",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "10476",
+        "name": "Danny Latza",
+        "firstname": "Danny",
+        "surname": "Latza",
+        "fullname": "Danny Latza",
+        "gender": "male",
+        "birthday": "07.12.1989",
+        "height": "179",
+        "weight": "75",
+        "person_detail": {
+          "id": "83503",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Gelsenkirchen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:13"
+    },
+    "tickertime": "06.02.2016 17:13:47",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FSV Mainz 05 -> Danny Latza</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622606",
+    "event": {
+      "id": "19165922",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "112281",
+        "name": "Christoph Moritz",
+        "firstname": "Christoph",
+        "surname": "Moritz",
+        "fullname": "Christoph Moritz",
+        "gender": "male",
+        "birthday": "27.01.1990",
+        "height": "186",
+        "weight": "73",
+        "person_detail": {
+          "id": "97743",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Düren",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:14"
+    },
+    "tickertime": "06.02.2016 17:14:00",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei 1. FSV Mainz 05 -> Christoph Moritz</span>",
+    "syndicate": "heimspiel"
   }
 ]
