@@ -2971,7 +2971,33 @@
     "content": "0:1",
     "kind": "right-foot",
     "minute": "24",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "157460",
+      "name": "Christian Clemens",
+      "firstname": "Christian",
+      "surname": "Clemens",
+      "fullname": "Christian Clemens",
+      "gender": "male",
+      "birthday": "04.08.1991",
+      "height": "180",
+      "weight": "70",
+      "person_detail": {
+        "id": "146808",
+        "position_1": "6",
+        "position_2": "9",
+        "preferred_side": "right",
+        "birth_place": "Köln",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
     "created": "06.02.2016 15:54:50"
   },
   {

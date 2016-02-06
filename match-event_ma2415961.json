@@ -2819,6 +2819,84 @@
     "created": "06.02.2016 15:30:45"
   },
   {
+    "id": "19165139",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "613721",
+      "shirtnumber": "25",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "1186",
+      "name": "Klaas Jan Huntelaar",
+      "firstname": "Klaas Jan",
+      "surname": "Huntelaar",
+      "fullname": "Dirk Klaas Jan Huntelaar",
+      "gender": "male",
+      "birthday": "12.08.1983",
+      "height": "186",
+      "weight": "78",
+      "person_detail": {
+        "id": "10901",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Drempt",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande",
+          "code": "NED",
+          "iso": "NL"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "1:0",
+    "kind": "right-foot",
+    "minute": "24",
+    "additional_person_id": "0",
+    "created": "06.02.2016 15:55:07"
+  },
+  {
     "id": "1373495",
     "team": {
       "id": "694",
