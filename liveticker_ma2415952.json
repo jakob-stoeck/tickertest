@@ -1173,5 +1173,24 @@
     "headline": "",
     "content": "Die letzten Sekunden laufen. Hertha in Ballbesitz. Hier passiert nichts mehr!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622682",
+    "event": {
+      "id": "19166076",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:22"
+    },
+    "tickertime": "06.02.2016 17:22:44",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
   }
 ]
