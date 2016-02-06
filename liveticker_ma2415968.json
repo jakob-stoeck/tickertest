@@ -423,5 +423,73 @@
     "headline": "",
     "content": "Gleich ist die erste Halbzeit vorbei und die Hausherren liegen mit 0:1 hinten. Eine Niederlage gegen einen direkten Rivalen kann sich die Eintracht nicht leisten. Welche Tricks hat Trainerfuchs Armin Veh für den zweiten Durchgang noch im Ärmel?",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622334",
+    "event": {
+      "id": "19165281",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "133962",
+        "name": "Daniel Didavi",
+        "firstname": "Daniel",
+        "surname": "Didavi",
+        "fullname": "Daniel Didavi",
+        "gender": "male",
+        "birthday": "21.02.1990",
+        "height": "180",
+        "weight": "77",
+        "person_detail": {
+          "id": "123320",
+          "position_1": "6",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Nürtingen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "0:2",
+      "kind": "left-foot",
+      "minute": "45",
+      "additional_person": {
+        "id": "3240",
+        "name": "Georg Niedermeier",
+        "firstname": "Georg",
+        "surname": "Niedermeier",
+        "fullname": "Georg Niedermeier",
+        "gender": "male",
+        "birthday": "26.02.1986",
+        "height": "190",
+        "weight": "74",
+        "person_detail": {
+          "id": "16893",
+          "position_1": "5",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "München",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "created": "06.02.2016 16:18"
+    },
+    "tickertime": "06.02.2016 16:18:20",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Tooor für VfB Stuttgart, 0:2 durch Daniel Didavi</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
