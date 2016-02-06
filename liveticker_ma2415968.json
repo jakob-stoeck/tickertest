@@ -840,7 +840,97 @@
     "tickertime": "06.02.2016 16:50:57",
     "minute": "63",
     "headline": "",
-    "content": "<b>Gelbe Karte für Carlos Zambrano (Eintracht Frankfurt)</b> <br/>",
+    "content": "<b>Gelbe Karte für Carlos Zambrano (Eintracht Frankfurt)</b> <br/>Der Frankfurter zieht das taktische Foul und fährt gegen den ihm davoneilenden Werner den Arm aus - das gibt zu Recht die Gelbe Karte für den Verteidiger.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622468",
+    "event": {
+      "id": "19165725",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "263930",
+        "name": "Timo Werner",
+        "firstname": "Timo",
+        "surname": "Werner",
+        "fullname": "Timo Werner",
+        "gender": "male",
+        "birthday": "06.03.1996",
+        "height": "180",
+        "weight": "75",
+        "person_detail": {
+          "id": "199336",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Stuttgart",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "64",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:52"
+    },
+    "tickertime": "06.02.2016 16:52:00",
+    "minute": "64",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Timo Werner</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622470",
+    "event": {
+      "id": "19165728",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "7612",
+        "name": "Artem Kravets",
+        "firstname": "Artem",
+        "surname": "Kravets",
+        "fullname": "Artem Kravets",
+        "gender": "male",
+        "birthday": "03.06.1989",
+        "height": "185",
+        "weight": "73",
+        "person_detail": {
+          "id": "100633",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Dnipropetrovsk",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "225"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "64",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:52"
+    },
+    "tickertime": "06.02.2016 16:52:13",
+    "minute": "64",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfB Stuttgart -> Artem Kravets</span>",
     "syndicate": "heimspiel"
   }
 ]
