@@ -2997,6 +2997,84 @@
     "created": "06.02.2016 16:35:08"
   },
   {
+    "id": "19165798",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1427378",
+      "shirtnumber": "19",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "492",
+      "name": "Vedad Ibišević",
+      "firstname": "Vedad",
+      "surname": "Ibišević",
+      "fullname": "Vedad Ibišević",
+      "gender": "male",
+      "birthday": "06.08.1984",
+      "height": "188",
+      "weight": "80",
+      "person_detail": {
+        "id": "23870",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Vlasenica",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "31",
+          "name": "Bosnien-Herzegowina",
+          "code": "BIH",
+          "iso": "BA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "71",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:01:08"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
