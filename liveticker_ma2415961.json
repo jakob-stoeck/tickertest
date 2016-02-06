@@ -1211,5 +1211,73 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei VfL Wolfsburg -> Marcel Schäfer</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622609",
+    "event": {
+      "id": "19165925",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "233604",
+        "name": "Alessandro Schöpf",
+        "firstname": "Alessandro",
+        "surname": "Schöpf",
+        "fullname": "Alessandro Schöpf",
+        "gender": "male",
+        "birthday": "07.02.1994",
+        "height": "171",
+        "weight": "61",
+        "person_detail": {
+          "id": "175796",
+          "position_1": "8",
+          "position_2": "13",
+          "preferred_side": "both",
+          "birth_place": "Umhausen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "3:0",
+      "kind": "right-foot",
+      "minute": "87",
+      "additional_person": {
+        "id": "152565",
+        "name": "Junior Caiçara",
+        "firstname": "",
+        "surname": "Junior Caiçara",
+        "fullname": "Uilson de Souza Paula Junior",
+        "gender": "male",
+        "birthday": "27.04.1989",
+        "height": "172",
+        "weight": "67",
+        "person_detail": {
+          "id": "141913",
+          "position_1": "5",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "São Paulo",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
+      "created": "06.02.2016 17:14"
+    },
+    "tickertime": "06.02.2016 17:14:15",
+    "minute": "87",
+    "headline": "",
+    "content": "<b>Tooor für FC Schalke 04, 3:0 durch Alessandro Schöpf</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
