@@ -811,5 +811,95 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei 1. FSV Mainz 05 -> Jhon Córdoba</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622489",
+    "event": {
+      "id": "19165760",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "225605",
+        "name": "Uffe Bech",
+        "firstname": "Uffe",
+        "surname": "Bech",
+        "fullname": "Uffe Manich Bech",
+        "gender": "male",
+        "birthday": "13.01.1993",
+        "height": "170",
+        "weight": "75",
+        "person_detail": {
+          "id": "168513",
+          "position_1": "12",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "København",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "45"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "68",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:55"
+    },
+    "tickertime": "06.02.2016 16:55:40",
+    "minute": "68",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> Uffe Bech</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622491",
+    "event": {
+      "id": "19165762",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "233564",
+        "name": "Kenan Karaman",
+        "firstname": "Kenan",
+        "surname": "Karaman",
+        "fullname": "Kenan Karaman",
+        "gender": "male",
+        "birthday": "05.03.1994",
+        "height": "187",
+        "weight": "73",
+        "person_detail": {
+          "id": "175756",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Stuttgart",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "219"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "68",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:55"
+    },
+    "tickertime": "06.02.2016 16:55:50",
+    "minute": "68",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Kenan Karaman</span>",
+    "syndicate": "heimspiel"
   }
 ]

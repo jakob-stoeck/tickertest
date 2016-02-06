@@ -998,7 +998,52 @@
     "tickertime": "06.02.2016 16:53:19",
     "minute": "65",
     "headline": "",
-    "content": "<b>Tooor für VfB Stuttgart, 1:3 durch Georg Niedermeier</b> <br/>",
+    "content": "<b>Tooor für VfB Stuttgart, 1:3 durch Georg Niedermeier</b> <br/>Machen die Gäste den Deckel drauf? Der eingewechselte Kravets macht das Spiel breit und legt nach links auf Gentner. Der Kapitän der Schwaben hat viel Platz und tritt eine punktgenaue Flanke vor den Kasten: In der Strafraummitte stehen gleich zwei Stuttgarter vogelfrei und Niedermeier drückt das Leder mit dem Scheitel zum 3:1 in die Maschen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622490",
+    "event": {
+      "id": "19165761",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "133962",
+        "name": "Daniel Didavi",
+        "firstname": "Daniel",
+        "surname": "Didavi",
+        "fullname": "Daniel Didavi",
+        "gender": "male",
+        "birthday": "21.02.1990",
+        "height": "180",
+        "weight": "77",
+        "person_detail": {
+          "id": "123320",
+          "position_1": "6",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Nürtingen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow-red",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:55"
+    },
+    "tickertime": "06.02.2016 16:55:44",
+    "minute": "67",
+    "headline": "",
+    "content": "<b>Gelb-Rote Karte für Daniel Didavi (VfB Stuttgart)</b> <br/>",
     "syndicate": "heimspiel"
   }
 ]
