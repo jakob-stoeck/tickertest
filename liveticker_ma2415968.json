@@ -712,5 +712,50 @@
     "headline": "",
     "content": "<b>Gelbe Karte für Kevin Großkreutz (VfB Stuttgart)</b> <br/>Für eine harte Grätsche gegen den Frankfurter sieht der ehemalige Dortmunder die Gelbe Karte.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622409",
+    "event": {
+      "id": "19165542",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "8134",
+        "name": "Alexander Meier",
+        "firstname": "Alexander",
+        "surname": "Meier",
+        "fullname": "Alexander Meier",
+        "gender": "male",
+        "birthday": "17.01.1983",
+        "height": "196",
+        "weight": "96",
+        "person_detail": {
+          "id": "2170",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "right",
+          "birth_place": "Buchholz",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "1:2",
+      "kind": "right-foot",
+      "minute": "52",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:40"
+    },
+    "tickertime": "06.02.2016 16:40:32",
+    "minute": "52",
+    "headline": "",
+    "content": "<b>Tooor für Eintracht Frankfurt, 1:2 durch Alexander Meier</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
