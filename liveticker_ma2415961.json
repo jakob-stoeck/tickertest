@@ -1113,5 +1113,103 @@
     "headline": "",
     "content": "Die Wechsel gehören zu den Höhepunkten der zweiten Halbzeit. Während der leicht angeschlagene Eric Maxim Choupo-Moting bei den Knappen durch Winterneuzugang Alessandro Schöpf ersetzt wird, feiert bei den Wölfen Leandro Putaro sein Profidebüt. Nicklas Bendtner hat heute gar nichts reißen können.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622590",
+    "tickertime": "06.02.2016 17:12:15",
+    "minute": "84",
+    "headline": "",
+    "content": "Nur wenn die Ostniedersachsen irgendwie den Anschluss besorgen können, würde hier noch einmal so etwas wie eine attraktive Endphase entstehen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622591",
+    "event": {
+      "id": "19165909",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "158548",
+        "name": "Josuha Guilavogui",
+        "firstname": "Josuha",
+        "surname": "Guilavogui",
+        "fullname": "Josuha Guilavogui",
+        "gender": "male",
+        "birthday": "19.09.1990",
+        "height": "188",
+        "weight": "78",
+        "person_detail": {
+          "id": "147896",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Toulon",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:12"
+    },
+    "tickertime": "06.02.2016 17:12:23",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfL Wolfsburg -> Josuha Guilavogui</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622595",
+    "event": {
+      "id": "19165912",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "28509",
+        "name": "Marcel Schäfer",
+        "firstname": "Marcel",
+        "surname": "Schäfer",
+        "fullname": "Marcel Schäfer",
+        "gender": "male",
+        "birthday": "07.06.1984",
+        "height": "184",
+        "weight": "75",
+        "person_detail": {
+          "id": "17143",
+          "position_1": "3",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Aschaffenburg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:12"
+    },
+    "tickertime": "06.02.2016 17:12:35",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfL Wolfsburg -> Marcel Schäfer</span>",
+    "syndicate": "heimspiel"
   }
 ]
