@@ -1347,5 +1347,50 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Ingolstadt 04 -> Moritz Hartmann</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622622",
+    "event": {
+      "id": "19165972",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "262051",
+        "name": "Maurice Multhaup",
+        "firstname": "Maurice",
+        "surname": "Multhaup",
+        "fullname": "Maurice Multhaup",
+        "gender": "male",
+        "birthday": "15.12.1996",
+        "height": "172",
+        "weight": "74",
+        "person_detail": {
+          "id": "197725",
+          "position_1": "10",
+          "position_2": "13",
+          "preferred_side": "unknown",
+          "birth_place": "Bottrop",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "88",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:15"
+    },
+    "tickertime": "06.02.2016 17:15:42",
+    "minute": "88",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Ingolstadt 04 -> Maurice Multhaup</span>",
+    "syndicate": "heimspiel"
   }
 ]
