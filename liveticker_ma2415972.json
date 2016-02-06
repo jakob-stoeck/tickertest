@@ -814,5 +814,58 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei FC Augsburg -> Jan Morávek</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622466",
+    "tickertime": "06.02.2016 16:51:26",
+    "minute": "61",
+    "headline": "",
+    "content": "Nach dem Treffer tauschen beide Übungsleiter jeweils unauffällige Akteure im Mittelfeld aus.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622467",
+    "event": {
+      "id": "19165695",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "151555",
+        "name": "Pascal Groß",
+        "firstname": "Pascal",
+        "surname": "Groß",
+        "fullname": "Pascal Groß",
+        "gender": "male",
+        "birthday": "15.06.1991",
+        "height": "178",
+        "weight": "74",
+        "person_detail": {
+          "id": "140903",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Mannheim",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:51"
+    },
+    "tickertime": "06.02.2016 16:51:35",
+    "minute": "62",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Pascal Groß (FC Ingolstadt 04)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
