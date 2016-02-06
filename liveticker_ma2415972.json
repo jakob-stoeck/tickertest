@@ -1237,6 +1237,14 @@
     "syndicate": "heimspiel"
   },
   {
+    "id": "1622648",
+    "tickertime": "06.02.2016 17:14:24",
+    "minute": "86",
+    "headline": "",
+    "content": "Das Spiel ist also gedreht und nun rennt Augsburg die Zeit weg. So klar war die Szene, die zum Elfmeter führte, übrigens nicht. Ingolstadt wird auf ausgleichende Gerechtigkeit in Richtung Dortmund verweisen, aber davon haben die Gäste natürlich gar nichts.",
+    "syndicate": "heimspiel"
+  },
+  {
     "id": "1622612",
     "event": {
       "id": "19165927",
@@ -1275,10 +1283,10 @@
       "additional_person_id": "0",
       "created": "06.02.2016 17:14"
     },
-    "tickertime": "06.02.2016 17:14:21",
+    "tickertime": "06.02.2016 17:14:42",
     "minute": "87",
     "headline": "",
-    "content": "<b>Gelbe Karte für Dario Lezcano (FC Ingolstadt 04)</b> <br/>",
+    "content": "<b>Gelbe Karte für Dario Lezcano (FC Ingolstadt 04)</b> <br/>Er bekommt den Karton für ein taktisches Foul im Mittelfeld.",
     "syndicate": "heimspiel"
   },
   {
@@ -1414,6 +1422,96 @@
     "minute": "88",
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei FC Ingolstadt 04 -> Maurice Multhaup</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622649",
+    "event": {
+      "id": "19166043",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "134774",
+        "name": "Dario Lezcano",
+        "firstname": "Dario",
+        "surname": "Lezcano",
+        "fullname": "Dario Lezcano Mendoza",
+        "gender": "male",
+        "birthday": "30.06.1990",
+        "height": "178",
+        "weight": "72",
+        "person_detail": {
+          "id": "124133",
+          "position_1": "8",
+          "position_2": "11",
+          "preferred_side": "unknown",
+          "birth_place": "Asunción",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "163"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:19"
+    },
+    "tickertime": "06.02.2016 17:19:38",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Ingolstadt 04 -> Dario Lezcano</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622653",
+    "event": {
+      "id": "19166046",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "158092",
+        "name": "Lukas Hinterseer",
+        "firstname": "Lukas",
+        "surname": "Hinterseer",
+        "fullname": "Lukas Hinterseer",
+        "gender": "male",
+        "birthday": "28.03.1991",
+        "height": "189",
+        "weight": "84",
+        "person_detail": {
+          "id": "147440",
+          "position_1": "11",
+          "position_2": "12",
+          "preferred_side": "unknown",
+          "birth_place": "Kitzbühel",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:19"
+    },
+    "tickertime": "06.02.2016 17:19:46",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Ingolstadt 04 -> Lukas Hinterseer</span>",
     "syndicate": "heimspiel"
   }
 ]

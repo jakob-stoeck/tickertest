@@ -3777,6 +3777,162 @@
     "created": "06.02.2016 17:18:38"
   },
   {
+    "id": "19166047",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1197767",
+      "shirtnumber": "13",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "3143",
+      "name": "Jens Hegeler",
+      "firstname": "Jens",
+      "surname": "Hegeler",
+      "fullname": "Jens Hegeler",
+      "gender": "male",
+      "birthday": "22.01.1988",
+      "height": "193",
+      "weight": "86",
+      "person_detail": {
+        "id": "84741",
+        "position_1": "7",
+        "position_2": "5",
+        "preferred_side": "right",
+        "birth_place": "Köln",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:19:47"
+  },
+  {
+    "id": "19166049",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1423512",
+      "shirtnumber": "5",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "233151",
+      "name": "Niklas Stark",
+      "firstname": "Niklas",
+      "surname": "Stark",
+      "fullname": "Niklas Stark",
+      "gender": "male",
+      "birthday": "14.04.1995",
+      "height": "188",
+      "weight": "74",
+      "person_detail": {
+        "id": "175376",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Neustadt an der Aisch",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:19:54"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
