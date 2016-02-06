@@ -3079,6 +3079,110 @@
     "created": "06.02.2016 16:08:47"
   },
   {
+    "id": "19165281",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "704290",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "133962",
+      "name": "Daniel Didavi",
+      "firstname": "Daniel",
+      "surname": "Didavi",
+      "fullname": "Daniel Didavi",
+      "gender": "male",
+      "birthday": "21.02.1990",
+      "height": "180",
+      "weight": "77",
+      "person_detail": {
+        "id": "123320",
+        "position_1": "6",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Nürtingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "0:2",
+    "kind": "left-foot",
+    "minute": "45",
+    "additional_person": {
+      "id": "3240",
+      "name": "Georg Niedermeier",
+      "firstname": "Georg",
+      "surname": "Niedermeier",
+      "fullname": "Georg Niedermeier",
+      "gender": "male",
+      "birthday": "26.02.1986",
+      "height": "190",
+      "weight": "74",
+      "person_detail": {
+        "id": "16893",
+        "position_1": "5",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "created": "06.02.2016 16:18:20"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
