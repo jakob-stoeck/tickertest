@@ -2975,6 +2975,84 @@
     "created": "06.02.2016 15:50:27"
   },
   {
+    "id": "19165243",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1213672",
+      "shirtnumber": "30",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "95004",
+      "name": "Caiuby",
+      "firstname": "",
+      "surname": "Caiuby",
+      "fullname": "Caiuby Francisco da Silva",
+      "gender": "male",
+      "birthday": "14.07.1988",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "74440",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "both",
+        "birth_place": "São Paulo",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "45",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:15:58"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
