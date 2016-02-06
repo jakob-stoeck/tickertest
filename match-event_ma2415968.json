@@ -3595,6 +3595,162 @@
     "created": "06.02.2016 16:50:57"
   },
   {
+    "id": "19165725",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1056512",
+      "shirtnumber": "19",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "263930",
+      "name": "Timo Werner",
+      "firstname": "Timo",
+      "surname": "Werner",
+      "fullname": "Timo Werner",
+      "gender": "male",
+      "birthday": "06.03.1996",
+      "height": "180",
+      "weight": "75",
+      "person_detail": {
+        "id": "199336",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Stuttgart",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "64",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:52:00"
+  },
+  {
+    "id": "19165728",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1481484",
+      "shirtnumber": "23",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "7612",
+      "name": "Artem Kravets",
+      "firstname": "Artem",
+      "surname": "Kravets",
+      "fullname": "Artem Kravets",
+      "gender": "male",
+      "birthday": "03.06.1989",
+      "height": "185",
+      "weight": "73",
+      "person_detail": {
+        "id": "100633",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Dnipropetrovsk",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "225",
+          "name": "Ukraine",
+          "code": "UKR",
+          "iso": "UA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "64",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:52:13"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
