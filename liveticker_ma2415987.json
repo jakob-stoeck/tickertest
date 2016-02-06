@@ -1118,51 +1118,6 @@
     "syndicate": "heimspiel"
   },
   {
-    "id": "1622605",
-    "event": {
-      "id": "19165921",
-      "team": {
-        "id": "21",
-        "name": "1. FSV Mainz 05"
-      },
-      "person": {
-        "id": "10476",
-        "name": "Danny Latza",
-        "firstname": "Danny",
-        "surname": "Latza",
-        "fullname": "Danny Latza",
-        "gender": "male",
-        "birthday": "07.12.1989",
-        "height": "179",
-        "weight": "75",
-        "person_detail": {
-          "id": "83503",
-          "position_1": "7",
-          "position_2": "0",
-          "preferred_side": "both",
-          "birth_place": "Gelsenkirchen",
-          "died": "no"
-        },
-        "country": [
-          {
-            "id": "47"
-          }
-        ]
-      },
-      "action": "playing",
-      "content": "",
-      "kind": "substitute-out",
-      "minute": "85",
-      "additional_person_id": "0",
-      "created": "06.02.2016 17:13"
-    },
-    "tickertime": "06.02.2016 17:13:47",
-    "minute": "85",
-    "headline": "",
-    "content": "<span class=\"rottext\">Auswechslung bei 1. FSV Mainz 05 -> Danny Latza</span>",
-    "syndicate": "heimspiel"
-  },
-  {
     "id": "1622606",
     "event": {
       "id": "19165922",
@@ -1205,6 +1160,51 @@
     "minute": "85",
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei 1. FSV Mainz 05 -> Christoph Moritz</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622605",
+    "event": {
+      "id": "19165921",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "10476",
+        "name": "Danny Latza",
+        "firstname": "Danny",
+        "surname": "Latza",
+        "fullname": "Danny Latza",
+        "gender": "male",
+        "birthday": "07.12.1989",
+        "height": "179",
+        "weight": "75",
+        "person_detail": {
+          "id": "83503",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Gelsenkirchen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:13"
+    },
+    "tickertime": "06.02.2016 17:14:43",
+    "minute": "86",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FSV Mainz 05 -> Danny Latza</span>",
     "syndicate": "heimspiel"
   },
   {
