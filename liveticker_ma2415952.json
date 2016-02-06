@@ -145,5 +145,50 @@
     "headline": "",
     "content": "Dann aber der Konter! Auf der linken Seite erkämpft sich der BVB die Kugel. Aubameyang spielt per Hacke zurück auf Hummels, der Gündoğan schickt. Der Nationalspieler führt den Konter über den halben Platz und schließt dann aus 20 Metern mutig ab, weil ihm die Anspielstationen fehlen. Der Schuss fliegt aber knapp rechts neben das Tor.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622109",
+    "event": {
+      "id": "19164930",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "264029",
+        "name": "Julian Weigl",
+        "firstname": "Julian",
+        "surname": "Weigl",
+        "fullname": "Julian Weigl",
+        "gender": "male",
+        "birthday": "08.09.1995",
+        "height": "186",
+        "weight": "70",
+        "person_detail": {
+          "id": "199435",
+          "position_1": "13",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Ostermünchen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "9",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:41"
+    },
+    "tickertime": "06.02.2016 15:41:18",
+    "minute": "9",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Julian Weigl (Borussia Dortmund)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
