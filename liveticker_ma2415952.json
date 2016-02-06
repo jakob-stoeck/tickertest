@@ -302,5 +302,50 @@
     "headline": "",
     "content": "Marvin Plattenhardt hebt den nächsten Freistoß von der rechten Seite hoch und weit auf den Fünfer. Der gehört aber Roman Bürki, der souverän hochsteigt und die Pille vor den Stürmern aus der Luft pflückt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622304",
+    "event": {
+      "id": "19165226",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "14958",
+        "name": "Łukasz Piszczek",
+        "firstname": "Łukasz",
+        "surname": "Piszczek",
+        "fullname": "Łukasz Piszczek",
+        "gender": "male",
+        "birthday": "03.06.1985",
+        "height": "184",
+        "weight": "78",
+        "person_detail": {
+          "id": "27964",
+          "position_1": "5",
+          "position_2": "10",
+          "preferred_side": "right",
+          "birth_place": "Czechowice-Dziedzice",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "166"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "41",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:12"
+    },
+    "tickertime": "06.02.2016 16:12:36",
+    "minute": "41",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Łukasz Piszczek (Borussia Dortmund)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
