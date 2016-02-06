@@ -3335,6 +3335,84 @@
     "created": "06.02.2016 16:50:33"
   },
   {
+    "id": "19165687",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "712043",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "132624",
+      "name": "Artur Sobiech",
+      "firstname": "Artur",
+      "surname": "Sobiech",
+      "fullname": "Artur Sobiech",
+      "gender": "male",
+      "birthday": "12.06.1990",
+      "height": "185",
+      "weight": "81",
+      "person_detail": {
+        "id": "121982",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Ruda Śląska",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen",
+          "code": "POL",
+          "iso": "PL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "63",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:50:52"
+  },
+  {
     "id": "1320423",
     "team": {
       "id": "21",
