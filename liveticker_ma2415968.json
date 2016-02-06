@@ -1476,5 +1476,103 @@
     "headline": "",
     "content": "Endspurt in der Commerzbank Arena. Während die Stuttgarter weiter marschieren, sind die Hessen bezwungen. Der Höhenflug der Kramny-Elf hält weiter an. In dieser Form sind die Schwaben auch für den BVB am Dienstag im Pokal ein ernst zu nehmender Gegner.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622598",
+    "tickertime": "06.02.2016 17:12:49",
+    "minute": "84",
+    "headline": "",
+    "content": "Das Stadion gleicht einem Tollhaus. Doch nicht die Frankfurter verwandeln das Rund in einen Hexenkessel - die Anhänger der Gäste feiern lautstark den Auswärtssieg.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622599",
+    "event": {
+      "id": "19165915",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "255723",
+        "name": "Filip Kostić",
+        "firstname": "Filip",
+        "surname": "Kostić",
+        "fullname": "Filip Kostić",
+        "gender": "male",
+        "birthday": "01.11.1992",
+        "height": "180",
+        "weight": "68",
+        "person_detail": {
+          "id": "192440",
+          "position_1": "10",
+          "position_2": "12",
+          "preferred_side": "left",
+          "birth_place": "Kragujevac",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "185"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:13"
+    },
+    "tickertime": "06.02.2016 17:13:03",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Filip Kostić</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622601",
+    "event": {
+      "id": "19165918",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "265034",
+        "name": "Alexandru Maxim",
+        "firstname": "Alexandru",
+        "surname": "Maxim",
+        "fullname": "Alexandru Iulian Maxim",
+        "gender": "male",
+        "birthday": "08.07.1990",
+        "height": "177",
+        "weight": "73",
+        "person_detail": {
+          "id": "200235",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Piatra Neamţ",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "171"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:13"
+    },
+    "tickertime": "06.02.2016 17:13:10",
+    "minute": "85",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfB Stuttgart -> Alexandru Maxim</span>",
+    "syndicate": "heimspiel"
   }
 ]
