@@ -599,5 +599,50 @@
     "headline": "",
     "content": "Wolfsburg lässt die Kugel in den eigenen Reihen zirkulieren, mangels Tempo springt allerdings kaum Raumgewinn heraus. Die Königsblauen können den Vorsprung ohne großen Aufwand verwalten und geraten höchstens nach ruhenden Bälle ansatzweise in Gefahr.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622429",
+    "event": {
+      "id": "19165607",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "1967",
+        "name": "Nicklas Bendtner",
+        "firstname": "Nicklas",
+        "surname": "Bendtner",
+        "fullname": "Nicklas Bendtner",
+        "gender": "male",
+        "birthday": "16.01.1988",
+        "height": "191",
+        "weight": "83",
+        "person_detail": {
+          "id": "43874",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Kopenhagen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "45"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:45"
+    },
+    "tickertime": "06.02.2016 16:45:26",
+    "minute": "58",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Nicklas Bendtner (VfL Wolfsburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
