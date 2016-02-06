@@ -3621,6 +3621,84 @@
     "created": "06.02.2016 17:11:11"
   },
   {
+    "id": "19166035",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1387852",
+      "shirtnumber": "8",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "5680",
+      "name": "Salomon Kalou",
+      "firstname": "Salomon",
+      "surname": "Kalou",
+      "fullname": "Salomon Armand Magloire Kalou",
+      "gender": "male",
+      "birthday": "05.08.1985",
+      "height": "184",
+      "weight": "77",
+      "person_detail": {
+        "id": "15734",
+        "position_1": "10",
+        "position_2": "12",
+        "preferred_side": "right",
+        "birth_place": "Oumé",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "54",
+          "name": "Elfenbeinküste",
+          "code": "CIV",
+          "iso": "CI"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "89",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:18:32"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",

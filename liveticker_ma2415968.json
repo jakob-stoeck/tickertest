@@ -1590,5 +1590,73 @@
     "headline": "",
     "content": "Durch die Platzverweise und auch wegen der Gelben Karten ändert sich die Personalsituation in beiden Lagern verständlicherweise für die kommende Woche. Alexandru Maxim dürfte nächste Woche Daniel Didavi von Beginn an vertreten und sammelt jetzt ein paar Minuten Spielpraxis.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622637",
+    "event": {
+      "id": "19166027",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "14555",
+        "name": "Szabolcs Huszti",
+        "firstname": "Szabolcs",
+        "surname": "Huszti",
+        "fullname": "Szabolcs Huszti",
+        "gender": "male",
+        "birthday": "18.04.1983",
+        "height": "173",
+        "weight": "72",
+        "person_detail": {
+          "id": "15723",
+          "position_1": "9",
+          "position_2": "6",
+          "preferred_side": "left",
+          "birth_place": "Miskolc",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "226"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:4",
+      "kind": "left-foot",
+      "minute": "90",
+      "additional_person": {
+        "id": "7395",
+        "name": "Marco Fabián",
+        "firstname": "Marco",
+        "surname": "Fabián",
+        "fullname": "Marco Jhonfai Fabián de la Mora",
+        "gender": "male",
+        "birthday": "21.07.1989",
+        "height": "170",
+        "weight": "65",
+        "person_detail": {
+          "id": "104137",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Guadalajara",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "133"
+          }
+        ]
+      },
+      "created": "06.02.2016 17:17"
+    },
+    "tickertime": "06.02.2016 17:17:51",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Tooor für Eintracht Frankfurt, 2:4 durch Szabolcs Huszti</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]

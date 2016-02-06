@@ -4739,6 +4739,110 @@
     "created": "06.02.2016 17:13:10"
   },
   {
+    "id": "19166027",
+    "team": {
+      "id": "530",
+      "name": "Eintracht Frankfurt",
+      "shortname": "Frankfurt",
+      "microname": "FFM",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "530",
+        "members": "30000",
+        "fullname": "Sportgemeinde Eintracht Frankfurt",
+        "foundation": "1899-03-08",
+        "colours": "rot-schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "373",
+        "name": "Commerzbank-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "373",
+          "capacity": "51500",
+          "built": "1925"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1481789",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "14555",
+      "name": "Szabolcs Huszti",
+      "firstname": "Szabolcs",
+      "surname": "Huszti",
+      "fullname": "Szabolcs Huszti",
+      "gender": "male",
+      "birthday": "18.04.1983",
+      "height": "173",
+      "weight": "72",
+      "person_detail": {
+        "id": "15723",
+        "position_1": "9",
+        "position_2": "6",
+        "preferred_side": "left",
+        "birth_place": "Miskolc",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "226",
+          "name": "Ungarn",
+          "code": "HUN",
+          "iso": "HU"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "2:4",
+    "kind": "left-foot",
+    "minute": "90",
+    "additional_person": {
+      "id": "7395",
+      "name": "Marco Fabián",
+      "firstname": "Marco",
+      "surname": "Fabián",
+      "fullname": "Marco Jhonfai Fabián de la Mora",
+      "gender": "male",
+      "birthday": "21.07.1989",
+      "height": "170",
+      "weight": "65",
+      "person_detail": {
+        "id": "104137",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Guadalajara",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "133",
+          "name": "Mexiko",
+          "code": "MEX",
+          "iso": "MX"
+        }
+      ]
+    },
+    "created": "06.02.2016 17:17:51"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
