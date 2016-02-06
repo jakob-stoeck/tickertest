@@ -3465,6 +3465,162 @@
     "created": "06.02.2016 17:01:54"
   },
   {
+    "id": "19165905",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "777469",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "22225",
+      "name": "Marco Reus",
+      "firstname": "Marco",
+      "surname": "Reus",
+      "fullname": "Marco Reus",
+      "gender": "male",
+      "birthday": "31.05.1989",
+      "height": "180",
+      "weight": "67",
+      "person_detail": {
+        "id": "70417",
+        "position_1": "10",
+        "position_2": "8",
+        "preferred_side": "right",
+        "birth_place": "Dortmund",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:11:04"
+  },
+  {
+    "id": "19165906",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1216030",
+      "shirtnumber": "28",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "229806",
+      "name": "Matthias Ginter",
+      "firstname": "Matthias",
+      "surname": "Ginter",
+      "fullname": "Matthias Lukas Ginter",
+      "gender": "male",
+      "birthday": "19.01.1994",
+      "height": "188",
+      "weight": "85",
+      "person_detail": {
+        "id": "172379",
+        "position_1": "5",
+        "position_2": "4",
+        "preferred_side": "left",
+        "birth_place": "Freiburg im Breisgau",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:11:11"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
