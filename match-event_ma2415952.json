@@ -3309,6 +3309,162 @@
     "created": "06.02.2016 17:01:36"
   },
   {
+    "id": "19165804",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1036327",
+      "shirtnumber": "17",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "134830",
+      "name": "Pierre-Emerick Aubameyang",
+      "firstname": "Pierre-Emerick",
+      "surname": "Aubameyang",
+      "fullname": "Pierre-Emerick Emiliano Aubameyang",
+      "gender": "male",
+      "birthday": "18.06.1989",
+      "height": "187",
+      "weight": "77",
+      "person_detail": {
+        "id": "124188",
+        "position_1": "11",
+        "position_2": "8",
+        "preferred_side": "both",
+        "birth_place": "Laval",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "63",
+          "name": "Gabun",
+          "code": "GAB",
+          "iso": "GA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "72",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:01:45"
+  },
+  {
+    "id": "19165805",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1189667",
+      "shirtnumber": "20",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "1565",
+      "name": "Adrián Ramos",
+      "firstname": "Adrián",
+      "surname": "Ramos",
+      "fullname": "Gustavo Adrián Ramos Vásquez",
+      "gender": "male",
+      "birthday": "22.01.1986",
+      "height": "186",
+      "weight": "81",
+      "person_detail": {
+        "id": "115686",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Santander de Quilichao",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "105",
+          "name": "Kolumbien",
+          "code": "COL",
+          "iso": "CO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "72",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:01:54"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
