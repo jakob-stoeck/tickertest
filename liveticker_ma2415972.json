@@ -1167,5 +1167,95 @@
     "headline": "",
     "content": "<b>Elfmeter Ingolstadt!</b> Roger geht super über rechts durch und seine scharfe Flanke wird von Jeong-ho Hong im Fünfer abgewehrt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622607",
+    "event": {
+      "id": "19165923",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "217",
+        "name": "Moritz Hartmann",
+        "firstname": "Moritz",
+        "surname": "Hartmann",
+        "fullname": "Moritz Hartmann",
+        "gender": "male",
+        "birthday": "20.06.1986",
+        "height": "181",
+        "weight": "74",
+        "person_detail": {
+          "id": "56228",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Oberviechtach",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:1",
+      "kind": "penalty",
+      "minute": "85",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:14"
+    },
+    "tickertime": "06.02.2016 17:14:06",
+    "minute": "85",
+    "headline": "",
+    "content": "<b>Tooor für FC Ingolstadt 04, 2:1 durch Moritz Hartmann</b> <br/>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622612",
+    "event": {
+      "id": "19165927",
+      "team": {
+        "id": "644",
+        "name": "FC Ingolstadt 04"
+      },
+      "person": {
+        "id": "134774",
+        "name": "Dario Lezcano",
+        "firstname": "Dario",
+        "surname": "Lezcano",
+        "fullname": "Dario Lezcano Mendoza",
+        "gender": "male",
+        "birthday": "30.06.1990",
+        "height": "178",
+        "weight": "72",
+        "person_detail": {
+          "id": "124133",
+          "position_1": "8",
+          "position_2": "11",
+          "preferred_side": "unknown",
+          "birth_place": "Asunción",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "163"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "87",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:14"
+    },
+    "tickertime": "06.02.2016 17:14:21",
+    "minute": "87",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Dario Lezcano (FC Ingolstadt 04)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
