@@ -2819,6 +2819,84 @@
     "created": "06.02.2016 15:30:35"
   },
   {
+    "id": "19164979",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1420531",
+      "shirtnumber": "3",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "255667",
+      "name": "Kostas Stafylidis",
+      "firstname": "Kostas",
+      "surname": "Stafylidis",
+      "fullname": "Kostantinos Stafylidis",
+      "gender": "male",
+      "birthday": "02.12.1993",
+      "height": "177",
+      "weight": "74",
+      "person_detail": {
+        "id": "192398",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Thessaloniki",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "69",
+          "name": "Griechenland",
+          "code": "GRE",
+          "iso": "GR"
+        }
+      ]
+    },
+    "action": "goal",
+    "content": "0:1",
+    "kind": "left-foot",
+    "minute": "14",
+    "additional_person_id": "0",
+    "created": "06.02.2016 15:43:46"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
