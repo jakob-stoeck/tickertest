@@ -970,5 +970,58 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Eric Maxim Choupo-Moting</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622562",
+    "event": {
+      "id": "19165861",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "233604",
+        "name": "Alessandro Schöpf",
+        "firstname": "Alessandro",
+        "surname": "Schöpf",
+        "fullname": "Alessandro Schöpf",
+        "gender": "male",
+        "birthday": "07.02.1994",
+        "height": "171",
+        "weight": "61",
+        "person_detail": {
+          "id": "175796",
+          "position_1": "8",
+          "position_2": "13",
+          "preferred_side": "both",
+          "birth_place": "Umhausen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:07"
+    },
+    "tickertime": "06.02.2016 17:07:42",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Alessandro Schöpf</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622566",
+    "tickertime": "06.02.2016 17:08:00",
+    "minute": "81",
+    "headline": "",
+    "content": "Die Wechsel gehören zu den Höhepunkten der zweiten Halbzeit.",
+    "syndicate": "heimspiel"
   }
 ]

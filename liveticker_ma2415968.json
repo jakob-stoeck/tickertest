@@ -1280,5 +1280,95 @@
     "headline": "",
     "content": "<b>Tooor für VfB Stuttgart, 1:4 durch Filip Kostić</b> <br/>Hrádecký kann das Foulspiel seines Vordermanns nicht ausbügeln. Filip Kostić bleibt am Punkt ganz cool, schickt den Keeper in die rechte Ecke und schließt selbst flach links ab.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622557",
+    "event": {
+      "id": "19165856",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "1873",
+        "name": "Stefan Aigner",
+        "firstname": "Stefan",
+        "surname": "Aigner",
+        "fullname": "Stefan Aigner",
+        "gender": "male",
+        "birthday": "20.08.1987",
+        "height": "185",
+        "weight": "72",
+        "person_detail": {
+          "id": "50222",
+          "position_1": "9",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "München",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:07"
+    },
+    "tickertime": "06.02.2016 17:07:25",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Eintracht Frankfurt -> Stefan Aigner</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622560",
+    "event": {
+      "id": "19165860",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "29016",
+        "name": "Slobodan Medojević",
+        "firstname": "Slobodan",
+        "surname": "Medojević",
+        "fullname": "Slobodan Medojević",
+        "gender": "male",
+        "birthday": "20.11.1990",
+        "height": "183",
+        "weight": "78",
+        "person_detail": {
+          "id": "92817",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Novi Sad",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "185"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:07"
+    },
+    "tickertime": "06.02.2016 17:07:35",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Eintracht Frankfurt -> Slobodan Medojević</span>",
+    "syndicate": "heimspiel"
   }
 ]
