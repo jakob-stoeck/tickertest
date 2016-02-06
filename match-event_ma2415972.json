@@ -3725,6 +3725,162 @@
     "created": "06.02.2016 16:57:50"
   },
   {
+    "id": "19165867",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1065084",
+      "shirtnumber": "25",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "13883",
+      "name": "Raúl Bobadilla",
+      "firstname": "Raúl",
+      "surname": "Bobadilla",
+      "fullname": "Raúl Marcelo Bobadilla",
+      "gender": "male",
+      "birthday": "18.06.1987",
+      "height": "180",
+      "weight": "82",
+      "person_detail": {
+        "id": "68489",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Buenos Aires",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "163",
+          "name": "Paraguay",
+          "code": "PAR",
+          "iso": "PY"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:09:00"
+  },
+  {
+    "id": "19165868",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1201532",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "417",
+      "name": "Markus Feulner",
+      "firstname": "Markus",
+      "surname": "Feulner",
+      "fullname": "Markus Feulner",
+      "gender": "male",
+      "birthday": "12.02.1982",
+      "height": "181",
+      "weight": "82",
+      "person_detail": {
+        "id": "3011",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Scheßlitz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "81",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:09:06"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
