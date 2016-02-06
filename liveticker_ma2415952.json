@@ -998,5 +998,50 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei Hertha BSC -> Salomon Kalou</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622643",
+    "event": {
+      "id": "19166036",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "3876",
+        "name": "Alexander Baumjohann",
+        "firstname": "Alexander",
+        "surname": "Baumjohann",
+        "fullname": "Alexander Baumjohann",
+        "gender": "male",
+        "birthday": "23.01.1987",
+        "height": "177",
+        "weight": "73",
+        "person_detail": {
+          "id": "19121",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Waltrop",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:18"
+    },
+    "tickertime": "06.02.2016 17:18:38",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hertha BSC -> Alexander Baumjohann</span>",
+    "syndicate": "heimspiel"
   }
 ]
