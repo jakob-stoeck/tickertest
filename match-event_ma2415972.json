@@ -3955,7 +3955,33 @@
     "content": "2:1",
     "kind": "penalty",
     "minute": "85",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "151555",
+      "name": "Pascal Groß",
+      "firstname": "Pascal",
+      "surname": "Groß",
+      "fullname": "Pascal Groß",
+      "gender": "male",
+      "birthday": "15.06.1991",
+      "height": "178",
+      "weight": "74",
+      "person_detail": {
+        "id": "140903",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Mannheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
     "created": "06.02.2016 17:14:05"
   },
   {
