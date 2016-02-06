@@ -1238,5 +1238,32 @@
     "headline": "",
     "content": "Die letzten 60 Sekunden der dreiminütigen Nachspielzeit sind angebrochen und die Hannoveraner bekommen nochmal einen Eckball zugesprochen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622683",
+    "tickertime": "06.02.2016 17:22:56",
+    "minute": "90",
+    "headline": "",
+    "content": "Aber das war nicht. Der schwach getretene Eckball von Edgar Prib landet in den Armen von Loris Karius. In wenigen Sekunden ist Schluss!",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622684",
+    "event": {
+      "id": "19166077",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:22"
+    },
+    "tickertime": "06.02.2016 17:22:57",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
   }
 ]
