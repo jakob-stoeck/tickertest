@@ -827,5 +827,95 @@
     "headline": "",
     "content": "Auf den Rängen könnte der ein oder andere Knappe schon eingeschlafen sein - hier geht wirklich gar nichts mehr. Fährmann wurde übrigens seit der Draxler-Chance kurz vor dem Tor von Huntelaar nicht mehr von den Niedersachsen geprüft.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622541",
+    "event": {
+      "id": "19165842",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "231417",
+        "name": "Max Meyer",
+        "firstname": "Max",
+        "surname": "Meyer",
+        "fullname": "Maximilian Meyer",
+        "gender": "male",
+        "birthday": "18.09.1995",
+        "height": "172",
+        "weight": "67",
+        "person_detail": {
+          "id": "173867",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Oberhausen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:05"
+    },
+    "tickertime": "06.02.2016 17:05:04",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Max Meyer</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622543",
+    "event": {
+      "id": "19165846",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "160168",
+        "name": "Younès Belhanda",
+        "firstname": "Younès",
+        "surname": "Belhanda",
+        "fullname": "Younès Belhanda",
+        "gender": "male",
+        "birthday": "25.02.1990",
+        "height": "174",
+        "weight": "75",
+        "person_detail": {
+          "id": "149516",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Avignon",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "128"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "78",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:05"
+    },
+    "tickertime": "06.02.2016 17:05:13",
+    "minute": "78",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Younès Belhanda</span>",
+    "syndicate": "heimspiel"
   }
 ]
