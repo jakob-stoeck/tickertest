@@ -355,5 +355,32 @@
     "headline": "",
     "content": "Die letzten Minuten sind angebrochen. Gelingt einer Mannschaft kurz vor dem Kabinengang noch etwas Unvorhergesehenes?",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622325",
+    "tickertime": "06.02.2016 16:16:58",
+    "minute": "45",
+    "headline": "",
+    "content": "Hier passiert nichts mehr. Es gibt keine Nachspielzeit.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622327",
+    "event": {
+      "id": "19165248",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "first-half-end",
+      "minute": "45",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:17"
+    },
+    "tickertime": "06.02.2016 16:17:02",
+    "minute": "45",
+    "headline": "",
+    "content": "<b>Ende 1. Halbzeit</b>",
+    "syndicate": "heimspiel"
   }
 ]
