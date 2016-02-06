@@ -3959,84 +3959,6 @@
     "created": "06.02.2016 17:08:49"
   },
   {
-    "id": "19165922",
-    "team": {
-      "id": "21",
-      "name": "1. FSV Mainz 05",
-      "shortname": "Mainz",
-      "microname": "M05",
-      "type": "club",
-      "gender": "male",
-      "show_team": "yes",
-      "team_detail": {
-        "id": "21",
-        "members": "13500",
-        "fullname": "1. Fußball- und Sportverein Mainz 05",
-        "foundation": "1905-03-16",
-        "colours": "rot-weiß"
-      },
-      "country": {
-        "id": "47",
-        "name": "Deutschland",
-        "code": "GER",
-        "iso": "DE"
-      },
-      "venue": {
-        "id": "3056",
-        "name": "Coface Arena",
-        "kind": "Stadion",
-        "venue_detail": {
-          "id": "3060",
-          "capacity": "34000",
-          "built": "2011"
-        }
-      }
-    },
-    "team_person": {
-      "id": "972334",
-      "shirtnumber": "8",
-      "role": {
-        "id": "3",
-        "name": "Mittelfeld",
-        "group": "Athletes",
-        "order": "3"
-      }
-    },
-    "person": {
-      "id": "112281",
-      "name": "Christoph Moritz",
-      "firstname": "Christoph",
-      "surname": "Moritz",
-      "fullname": "Christoph Moritz",
-      "gender": "male",
-      "birthday": "27.01.1990",
-      "height": "186",
-      "weight": "73",
-      "person_detail": {
-        "id": "97743",
-        "position_1": "7",
-        "position_2": "0",
-        "preferred_side": "right",
-        "birth_place": "Düren",
-        "died": "no"
-      },
-      "country": [
-        {
-          "id": "47",
-          "name": "Deutschland",
-          "code": "GER",
-          "iso": "DE"
-        }
-      ]
-    },
-    "action": "playing",
-    "content": "",
-    "kind": "substitute-in",
-    "minute": "85",
-    "additional_person_id": "0",
-    "created": "06.02.2016 17:14:00"
-  },
-  {
     "id": "19165921",
     "team": {
       "id": "21",
@@ -4113,6 +4035,84 @@
     "minute": "86",
     "additional_person_id": "0",
     "created": "06.02.2016 17:13:47"
+  },
+  {
+    "id": "19165922",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "972334",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "112281",
+      "name": "Christoph Moritz",
+      "firstname": "Christoph",
+      "surname": "Moritz",
+      "fullname": "Christoph Moritz",
+      "gender": "male",
+      "birthday": "27.01.1990",
+      "height": "186",
+      "weight": "73",
+      "person_detail": {
+        "id": "97743",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Düren",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "86",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:14:00"
   },
   {
     "id": "19166080",
