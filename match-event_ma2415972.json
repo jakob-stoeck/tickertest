@@ -3149,7 +3149,33 @@
     "content": "1:1",
     "kind": "head",
     "minute": "59",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "78734",
+      "name": "Roger",
+      "firstname": "",
+      "surname": "Roger",
+      "fullname": "Roger de Oliveira Bernardo",
+      "gender": "male",
+      "birthday": "10.08.1985",
+      "height": "181",
+      "weight": "73",
+      "person_detail": {
+        "id": "54129",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Rio Claro",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "34",
+          "name": "Brasilien",
+          "code": "BRA",
+          "iso": "BR"
+        }
+      ]
+    },
     "created": "06.02.2016 16:46:48"
   },
   {
