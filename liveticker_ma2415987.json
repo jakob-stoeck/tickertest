@@ -933,5 +933,58 @@
     "headline": "",
     "content": "Auf der anderen Seite setzt sich der eingewechselte Jhon Córdoba stark an der rechten Grundlinie durch, zieht an den Fünfer und scheitert flach am Außennetz.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622528",
+    "tickertime": "06.02.2016 17:02:57",
+    "minute": "74",
+    "headline": "",
+    "content": "Yoshinori Muto holt an der linken Torauslinie einen weiteren Eckball für die Gäste heraus. Danny Latza tritt an und in der Mitte verschätzt sich Nationalkeeper Ron-Robert Zieler unglücklich, hat aber Glück, dass kein 05er zum Einschieben bereit steht.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622532",
+    "event": {
+      "id": "19165821",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "320142",
+        "name": "Yoshinori Muto",
+        "firstname": "Yoshinori",
+        "surname": "Muto",
+        "fullname": "Yoshinori Muto",
+        "gender": "male",
+        "birthday": "15.07.1992",
+        "height": "178",
+        "weight": "72",
+        "person_detail": {
+          "id": "245541",
+          "position_1": "11",
+          "position_2": "10",
+          "preferred_side": "unknown",
+          "birth_place": "Tokio",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "91"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "75",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:03"
+    },
+    "tickertime": "06.02.2016 17:03:09",
+    "minute": "75",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FSV Mainz 05 -> Yoshinori Muto</span>",
+    "syndicate": "heimspiel"
   }
 ]
