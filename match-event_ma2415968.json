@@ -3361,6 +3361,84 @@
     "created": "06.02.2016 16:33:39"
   },
   {
+    "id": "19165534",
+    "team": {
+      "id": "2076",
+      "name": "VfB Stuttgart",
+      "shortname": "Stuttgart",
+      "microname": "VFB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "2076",
+        "members": "45000",
+        "fullname": "Verein für Bewegungsspiele 1893 Stuttgart e.V.",
+        "foundation": "1893-09-09",
+        "colours": "weiß-rot"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "709",
+        "name": "Mercedes-Benz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "709",
+          "capacity": "60449",
+          "built": "1933"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1482723",
+      "shirtnumber": "15",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "22227",
+      "name": "Kevin Großkreutz",
+      "firstname": "Kevin",
+      "surname": "Großkreutz",
+      "fullname": "Kevin Großkreutz",
+      "gender": "male",
+      "birthday": "19.07.1988",
+      "height": "186",
+      "weight": "72",
+      "person_detail": {
+        "id": "58871",
+        "position_1": "10",
+        "position_2": "3",
+        "preferred_side": "right",
+        "birth_place": "Dortmund",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "51",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:39:29"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
