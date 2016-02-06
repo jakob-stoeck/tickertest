@@ -721,5 +721,50 @@
     "headline": "",
     "content": "Insgesamt macht Hannover zwar einen besseren Eindruck als im ersten Durchgang, doch richtige Struktur hat das Aufbauspiel der Niedersachsen nicht. So können die 05er das Ergebnis bisher problemlos verwalten.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622484",
+    "event": {
+      "id": "19165747",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "226423",
+        "name": "Yunus Mallı",
+        "firstname": "Yunus",
+        "surname": "Mallı",
+        "fullname": "Yunus Mallı",
+        "gender": "male",
+        "birthday": "24.02.1992",
+        "height": "179",
+        "weight": "70",
+        "person_detail": {
+          "id": "169259",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Kassel",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:55"
+    },
+    "tickertime": "06.02.2016 16:55:04",
+    "minute": "67",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei 1. FSV Mainz 05 -> Yunus Mallı</span>",
+    "syndicate": "heimspiel"
   }
 ]
