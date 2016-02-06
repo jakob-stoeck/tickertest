@@ -659,5 +659,58 @@
     "headline": "",
     "content": "Den Schock kurz vor der Halbzeit scheint die Eintracht recht gut weggesteckt zu haben. Um die drohende Pleite noch abzuwenden, müssen die Bemühungen in der offensive jetzt konsequenter zu Ende gedacht und gespielt werden.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622401",
+    "tickertime": "06.02.2016 16:39:18",
+    "minute": "51",
+    "headline": "",
+    "content": "Wieder wird das Spiel wegen eines überharten Zweikampfs an der Seitenlinie unterbrochen. Dieses Mal hat Kevin Großkreutz Carlos Zambrano umgeräumt.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622403",
+    "event": {
+      "id": "19165534",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "22227",
+        "name": "Kevin Großkreutz",
+        "firstname": "Kevin",
+        "surname": "Großkreutz",
+        "fullname": "Kevin Großkreutz",
+        "gender": "male",
+        "birthday": "19.07.1988",
+        "height": "186",
+        "weight": "72",
+        "person_detail": {
+          "id": "58871",
+          "position_1": "10",
+          "position_2": "3",
+          "preferred_side": "right",
+          "birth_place": "Dortmund",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "51",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:39"
+    },
+    "tickertime": "06.02.2016 16:39:29",
+    "minute": "51",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Kevin Großkreutz (VfB Stuttgart)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
