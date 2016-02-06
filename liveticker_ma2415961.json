@@ -212,10 +212,55 @@
   },
   {
     "id": "1622205",
-    "tickertime": "06.02.2016 15:53:35",
+    "tickertime": "06.02.2016 15:53:41",
     "minute": "22",
     "headline": "",
-    "content": "Caligiuri mit dem <b>Lattenkracher</b>!",
+    "content": "Caligiuri mit dem <b>Lattenkracher</b>! Der ehemalige Freiburger kann vom linken Flügel ohne große Gegenwehr diagonal nach innen spazieren. Er packt aus etwa 23 Metern einen wuchtigen Rechtsschuss aus, der für den linken Winkel bestimmt ist. Das Spielgerät prallt an die Oberkante des Querbalkens.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622213",
+    "event": {
+      "id": "19165139",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "1186",
+        "name": "Klaas Jan Huntelaar",
+        "firstname": "Klaas Jan",
+        "surname": "Huntelaar",
+        "fullname": "Dirk Klaas Jan Huntelaar",
+        "gender": "male",
+        "birthday": "12.08.1983",
+        "height": "186",
+        "weight": "78",
+        "person_detail": {
+          "id": "10901",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Drempt",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "149"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "1:0",
+      "kind": "right-foot",
+      "minute": "24",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:55"
+    },
+    "tickertime": "06.02.2016 15:55:07",
+    "minute": "24",
+    "headline": "",
+    "content": "<b>Tooor für FC Schalke 04, 1:0 durch Klaas Jan Huntelaar</b> <br/>",
     "syndicate": "heimspiel"
   }
 ]

@@ -214,5 +214,50 @@
     "headline": "",
     "content": "Hannover steht hinten bisher sehr kompakt und verschiebt immer wieder klug. Die Angriffsbemühungen der Mainzer setzen die Hausherren aber auch noch nicht wirklich unter Druck.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622211",
+    "event": {
+      "id": "19165138",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "261681",
+        "name": "Jairo",
+        "firstname": "",
+        "surname": "Jairo",
+        "fullname": "Jairo Samperio Bustara",
+        "gender": "male",
+        "birthday": "11.07.1993",
+        "height": "173",
+        "weight": "66",
+        "person_detail": {
+          "id": "197444",
+          "position_1": "12",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Cabezón de la Sal",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "193"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "0:1",
+      "kind": "right-foot",
+      "minute": "24",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:54"
+    },
+    "tickertime": "06.02.2016 15:54:50",
+    "minute": "24",
+    "headline": "",
+    "content": "<b>Tooor für 1. FSV Mainz 05, 0:1 durch Jairo</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
