@@ -44,7 +44,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:35:08",
-                "current_minute": "67",
+                "current_minute": "68",
                 "attendance": "74500",
                 "winner_team_id": "0",
                 "home": {
@@ -224,7 +224,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:32:06",
-                "current_minute": "70",
+                "current_minute": "71",
                 "attendance": "60000",
                 "winner_team_id": "694",
                 "home": {
@@ -404,7 +404,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:33:22",
-                "current_minute": "69",
+                "current_minute": "70",
                 "attendance": "41000",
                 "winner_team_id": "2076",
                 "home": {
@@ -584,7 +584,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:33:42",
-                "current_minute": "68",
+                "current_minute": "69",
                 "attendance": "15000",
                 "winner_team_id": "0",
                 "home": {
@@ -764,7 +764,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-02-06 16:32:56",
-                "current_minute": "69",
+                "current_minute": "70",
                 "attendance": "35000",
                 "winner_team_id": "21",
                 "home": {
@@ -7355,13 +7355,13 @@
                 "group_matchday": "0",
                 "match_date": "06.02.2016",
                 "match_time": "14:45",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
                 "current_period": "",
                 "current_period_start": "",
                 "current_minute": "0",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "3962",
                 "home": {
                   "id": "3962",
                   "name": "Paul-Henri Mathieu",
@@ -7408,7 +7408,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "0",
                     "place": "none_home",
                     "rounds": "0",
@@ -7452,7 +7452,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "6",
+                    "match_result": "7",
                     "match_result_at": "2",
                     "place": "none_home",
                     "rounds": "0",
@@ -13851,10 +13851,10 @@
                 "group_matchday": "0",
                 "match_date": "06.02.2016",
                 "match_time": "15:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "goals",
-                "current_period": "second-half-start",
-                "current_period_start": "2016-02-06 16:03:42",
+                "current_period": "game-end",
+                "current_period_start": "2016-02-06 16:56:04",
                 "current_minute": "90",
                 "attendance": "",
                 "winner_team_id": "103611",
@@ -19711,7 +19711,7 @@
                 "live_status": "data",
                 "current_period": "game-start",
                 "current_period_start": "2016-02-06 16:15:05",
-                "current_minute": "41",
+                "current_minute": "42",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -35591,7 +35591,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "3",
+                    "match_result": "4",
                     "match_result_at": "2",
                     "place": "none_away",
                     "rounds": "0",
@@ -35874,7 +35874,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "4",
+                    "match_result": "5",
                     "match_result_at": "3",
                     "place": "none_away",
                     "rounds": "0",
