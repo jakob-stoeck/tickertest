@@ -81,5 +81,50 @@
     "headline": "",
     "content": "Los geht es, der Ball rollt!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622015",
+    "event": {
+      "id": "19164679",
+      "team": {
+        "id": "21",
+        "name": "1. FSV Mainz 05"
+      },
+      "person": {
+        "id": "173280",
+        "name": "Stefan Bell",
+        "firstname": "Stefan",
+        "surname": "Bell",
+        "fullname": "Stefan Bell",
+        "gender": "male",
+        "birthday": "24.08.1991",
+        "height": "192",
+        "weight": "86",
+        "person_detail": {
+          "id": "162622",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Andernach",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "2",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:32"
+    },
+    "tickertime": "06.02.2016 15:32:28",
+    "minute": "2",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Stefan Bell (1. FSV Mainz 05)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
