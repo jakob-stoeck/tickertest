@@ -724,5 +724,95 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei FC Ingolstadt 04 -> Alfredo Morales</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622461",
+    "event": {
+      "id": "19165685",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "221533",
+        "name": "Dong-won Ji",
+        "firstname": "Dong-won",
+        "surname": "Ji",
+        "fullname": "Dong-won Ji",
+        "gender": "male",
+        "birthday": "28.05.1991",
+        "height": "187",
+        "weight": "78",
+        "person_detail": {
+          "id": "164800",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Jeju",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "203"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "61",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:50"
+    },
+    "tickertime": "06.02.2016 16:50:49",
+    "minute": "61",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Augsburg -> Dong-won Ji</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622464",
+    "event": {
+      "id": "19165691",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "131327",
+        "name": "Jan Morávek",
+        "firstname": "Jan",
+        "surname": "Morávek",
+        "fullname": "Jan Morávek",
+        "gender": "male",
+        "birthday": "01.11.1989",
+        "height": "180",
+        "weight": "75",
+        "person_detail": {
+          "id": "120685",
+          "position_1": "8",
+          "position_2": "7",
+          "preferred_side": "right",
+          "birth_place": "Praha",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "217"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "61",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:50"
+    },
+    "tickertime": "06.02.2016 16:50:58",
+    "minute": "61",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Augsburg -> Jan Morávek</span>",
+    "syndicate": "heimspiel"
   }
 ]

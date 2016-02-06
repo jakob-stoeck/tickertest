@@ -615,5 +615,95 @@
     "headline": "",
     "content": "Der ehemalige Leverkusener Giulio Donati zeigt ein sehr ordentliches Debüt für seinen neuen Arbeitgeber und macht die rechte Seite fast komplett dicht. Nach vorne bracuht sich der Italiener bisher nicht einschalten.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622458",
+    "event": {
+      "id": "19165683",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "223351",
+        "name": "André Hoffmann",
+        "firstname": "André",
+        "surname": "Hoffmann",
+        "fullname": "André Hoffmann",
+        "gender": "male",
+        "birthday": "28.02.1993",
+        "height": "187",
+        "weight": "79",
+        "person_detail": {
+          "id": "166503",
+          "position_1": "7",
+          "position_2": "4",
+          "preferred_side": "right",
+          "birth_place": "Essen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "63",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:50"
+    },
+    "tickertime": "06.02.2016 16:50:33",
+    "minute": "63",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hannover 96 -> André Hoffmann</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622462",
+    "event": {
+      "id": "19165687",
+      "team": {
+        "id": "951",
+        "name": "Hannover 96"
+      },
+      "person": {
+        "id": "132624",
+        "name": "Artur Sobiech",
+        "firstname": "Artur",
+        "surname": "Sobiech",
+        "fullname": "Artur Sobiech",
+        "gender": "male",
+        "birthday": "12.06.1990",
+        "height": "185",
+        "weight": "81",
+        "person_detail": {
+          "id": "121982",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Ruda Śląska",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "166"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "63",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:50"
+    },
+    "tickertime": "06.02.2016 16:50:52",
+    "minute": "63",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hannover 96 -> Artur Sobiech</span>",
+    "syndicate": "heimspiel"
   }
 ]
