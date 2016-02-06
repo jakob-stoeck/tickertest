@@ -3933,6 +3933,162 @@
     "created": "06.02.2016 16:55:44"
   },
   {
+    "id": "19165810",
+    "team": {
+      "id": "530",
+      "name": "Eintracht Frankfurt",
+      "shortname": "Frankfurt",
+      "microname": "FFM",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "530",
+        "members": "30000",
+        "fullname": "Sportgemeinde Eintracht Frankfurt",
+        "foundation": "1899-03-08",
+        "colours": "rot-schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "373",
+        "name": "Commerzbank-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "373",
+          "capacity": "51500",
+          "built": "1925"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1501027",
+      "shirtnumber": "2",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "291625",
+      "name": "Yanni Regäsel",
+      "firstname": "Yanni",
+      "surname": "Regäsel",
+      "fullname": "Yanni Regäsel",
+      "gender": "male",
+      "birthday": "14.01.1996",
+      "height": "180",
+      "weight": "72",
+      "person_detail": {
+        "id": "219703",
+        "position_1": "4",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Berlin",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "73",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:02:32"
+  },
+  {
+    "id": "19165814",
+    "team": {
+      "id": "530",
+      "name": "Eintracht Frankfurt",
+      "shortname": "Frankfurt",
+      "microname": "FFM",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "530",
+        "members": "30000",
+        "fullname": "Sportgemeinde Eintracht Frankfurt",
+        "foundation": "1899-03-08",
+        "colours": "rot-schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "373",
+        "name": "Commerzbank-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "373",
+          "capacity": "51500",
+          "built": "1925"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1412600",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "308105",
+      "name": "Mijat Gaćinović",
+      "firstname": "Mijat",
+      "surname": "Gaćinović",
+      "fullname": "Mijat Gaćinović",
+      "gender": "male",
+      "birthday": "08.02.1995",
+      "height": "175",
+      "weight": "66",
+      "person_detail": {
+        "id": "234897",
+        "position_1": "6",
+        "position_2": "10",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "185",
+          "name": "Serbien",
+          "code": "SRB",
+          "iso": "RS"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "73",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:02:41"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
