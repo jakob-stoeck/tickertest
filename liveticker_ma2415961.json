@@ -338,5 +338,50 @@
     "headline": "",
     "content": "Wolfsburg hatte bis zum Gegentreffer die besseren Chancen, doch aufgrund der schwachen Abwehrleistung kommt der Rückstand für den VfL nicht völlig unerwartet. Im Falle einer Niederlage läge man übrigens sechs Zähler hinter den Knappen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622247",
+    "event": {
+      "id": "19165162",
+      "team": {
+        "id": "2086",
+        "name": "VfL Wolfsburg"
+      },
+      "person": {
+        "id": "29226",
+        "name": "Max Kruse",
+        "firstname": "Max",
+        "surname": "Kruse",
+        "fullname": "Maximilian Kruse",
+        "gender": "male",
+        "birthday": "19.03.1988",
+        "height": "180",
+        "weight": "82",
+        "person_detail": {
+          "id": "59247",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "both",
+          "birth_place": "Reinbek",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "30",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:01"
+    },
+    "tickertime": "06.02.2016 16:01:16",
+    "minute": "30",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Max Kruse (VfL Wolfsburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
