@@ -3257,6 +3257,84 @@
     "created": "06.02.2016 16:46:59"
   },
   {
+    "id": "19165683",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "958579",
+      "shirtnumber": "15",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "223351",
+      "name": "André Hoffmann",
+      "firstname": "André",
+      "surname": "Hoffmann",
+      "fullname": "André Hoffmann",
+      "gender": "male",
+      "birthday": "28.02.1993",
+      "height": "187",
+      "weight": "79",
+      "person_detail": {
+        "id": "166503",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Essen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "63",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:50:33"
+  },
+  {
     "id": "1320423",
     "team": {
       "id": "21",
