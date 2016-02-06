@@ -4037,6 +4037,240 @@
     "created": "06.02.2016 17:14:21"
   },
   {
+    "id": "19165969",
+    "team": {
+      "id": "594",
+      "name": "FC Augsburg",
+      "shortname": "Augsburg",
+      "microname": "FCA",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "594",
+        "members": "13500",
+        "fullname": "Fußball-Club Augsburg 1907",
+        "foundation": "1907-08-08",
+        "colours": "rot-grün-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2342",
+        "name": "WWK ARENA",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2339",
+          "capacity": "30660",
+          "built": "2009"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1201532",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "417",
+      "name": "Markus Feulner",
+      "firstname": "Markus",
+      "surname": "Feulner",
+      "fullname": "Markus Feulner",
+      "gender": "male",
+      "birthday": "12.02.1982",
+      "height": "181",
+      "weight": "82",
+      "person_detail": {
+        "id": "3011",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Scheßlitz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "card",
+    "content": "",
+    "kind": "yellow",
+    "minute": "87",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:15:24"
+  },
+  {
+    "id": "19165970",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "336577",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "217",
+      "name": "Moritz Hartmann",
+      "firstname": "Moritz",
+      "surname": "Hartmann",
+      "fullname": "Moritz Hartmann",
+      "gender": "male",
+      "birthday": "20.06.1986",
+      "height": "181",
+      "weight": "74",
+      "person_detail": {
+        "id": "56228",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Oberviechtach",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:15:33"
+  },
+  {
+    "id": "19165972",
+    "team": {
+      "id": "644",
+      "name": "FC Ingolstadt 04",
+      "shortname": "Ingolstadt",
+      "microname": "FCI",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "644",
+        "members": "1600",
+        "fullname": "Fußball Club Ingolstadt 04",
+        "foundation": "2004-02-05",
+        "colours": "schwarz-rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2745",
+        "name": "Audi Sportpark",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2743",
+          "capacity": "15000",
+          "built": "2010"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428072",
+      "shirtnumber": "31",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "262051",
+      "name": "Maurice Multhaup",
+      "firstname": "Maurice",
+      "surname": "Multhaup",
+      "fullname": "Maurice Multhaup",
+      "gender": "male",
+      "birthday": "15.12.1996",
+      "height": "172",
+      "weight": "74",
+      "person_detail": {
+        "id": "197725",
+        "position_1": "10",
+        "position_2": "13",
+        "preferred_side": "unknown",
+        "birth_place": "Bottrop",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "88",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:15:42"
+  },
+  {
     "id": "860315",
     "team": {
       "id": "594",
