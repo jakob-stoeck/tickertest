@@ -254,13 +254,36 @@
       "content": "1:0",
       "kind": "right-foot",
       "minute": "24",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "152565",
+        "name": "Junior Caiçara",
+        "firstname": "",
+        "surname": "Junior Caiçara",
+        "fullname": "Uilson de Souza Paula Junior",
+        "gender": "male",
+        "birthday": "27.04.1989",
+        "height": "172",
+        "weight": "67",
+        "person_detail": {
+          "id": "141913",
+          "position_1": "5",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "São Paulo",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
       "created": "06.02.2016 15:55"
     },
-    "tickertime": "06.02.2016 15:55:07",
+    "tickertime": "06.02.2016 15:54:57",
     "minute": "24",
     "headline": "",
-    "content": "<b>Tooor für FC Schalke 04, 1:0 durch Klaas Jan Huntelaar</b> <br/>",
+    "content": "<b>Tooor für FC Schalke 04, 1:0 durch Klaas Jan Huntelaar</b> <br/> Schalke geht in Führung!",
     "syndicate": "heimspiel"
   }
 ]
