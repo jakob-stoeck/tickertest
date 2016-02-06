@@ -521,5 +521,95 @@
     "headline": "",
     "content": "Vedad Ibišević fordert einen Elfmeter! Nach einem Konter wird er von Łukasz Piszczek im Sechzehner angerempelt und aus dem Tritt gebracht. Das ist aber zu wenig für einen Strafstoß.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622514",
+    "event": {
+      "id": "19165798",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "492",
+        "name": "Vedad Ibišević",
+        "firstname": "Vedad",
+        "surname": "Ibišević",
+        "fullname": "Vedad Ibišević",
+        "gender": "male",
+        "birthday": "06.08.1984",
+        "height": "188",
+        "weight": "80",
+        "person_detail": {
+          "id": "23870",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Vlasenica",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "31"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "71",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:01"
+    },
+    "tickertime": "06.02.2016 17:01:08",
+    "minute": "71",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Hertha BSC -> Vedad Ibišević</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622517",
+    "event": {
+      "id": "19165800",
+      "team": {
+        "id": "977",
+        "name": "Hertha BSC"
+      },
+      "person": {
+        "id": "3885",
+        "name": "Johannes van den Bergh",
+        "firstname": "Johannes",
+        "surname": "van den Bergh",
+        "fullname": "Johannes van den Bergh",
+        "gender": "male",
+        "birthday": "21.11.1986",
+        "height": "183",
+        "weight": "75",
+        "person_detail": {
+          "id": "51706",
+          "position_1": "3",
+          "position_2": "6",
+          "preferred_side": "left",
+          "birth_place": "Viersen",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "71",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:01"
+    },
+    "tickertime": "06.02.2016 17:01:16",
+    "minute": "71",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Hertha BSC -> Johannes van den Bergh</span>",
+    "syndicate": "heimspiel"
   }
 ]
