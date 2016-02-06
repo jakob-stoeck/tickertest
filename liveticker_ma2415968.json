@@ -1378,5 +1378,95 @@
     "headline": "",
     "content": "Armin Veh zieht seinen letzten Joker und bringt Slobodan Medojević. Doch diese Schlacht scheint ohnehin verloren, drei Tore werden die Hessen heute nicht mehr erzielen.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622579",
+    "event": {
+      "id": "19165869",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "152131",
+        "name": "Lukas Rupp",
+        "firstname": "Lukas",
+        "surname": "Rupp",
+        "fullname": "Lukas Rupp",
+        "gender": "male",
+        "birthday": "08.01.1991",
+        "height": "178",
+        "weight": "73",
+        "person_detail": {
+          "id": "141479",
+          "position_1": "12",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Heidelberg",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:09"
+    },
+    "tickertime": "06.02.2016 17:09:33",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei VfB Stuttgart -> Lukas Rupp</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622581",
+    "event": {
+      "id": "19165870",
+      "team": {
+        "id": "2076",
+        "name": "VfB Stuttgart"
+      },
+      "person": {
+        "id": "17348",
+        "name": "Florian Klein",
+        "firstname": "Florian",
+        "surname": "Klein",
+        "fullname": "Florian Klein",
+        "gender": "male",
+        "birthday": "17.11.1986",
+        "height": "180",
+        "weight": "66",
+        "person_detail": {
+          "id": "39288",
+          "position_1": "5",
+          "position_2": "9",
+          "preferred_side": "right",
+          "birth_place": "Linz",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "158"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:09"
+    },
+    "tickertime": "06.02.2016 17:09:39",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei VfB Stuttgart -> Florian Klein</span>",
+    "syndicate": "heimspiel"
   }
 ]

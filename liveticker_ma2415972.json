@@ -1053,5 +1053,103 @@
     "headline": "",
     "content": "In den letzten Minuten sind es vorwiegend die Hausherren, die hier nochmals etwas nach vorne probieren.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622580",
+    "tickertime": "06.02.2016 17:08:00",
+    "minute": "80",
+    "headline": "",
+    "content": "Raúl Bobadilla ist sichtlich unzufrieden, weil er sich heute oft nicht durchsetzen konnte und lässt seinen Frust an einem Stuhl an der Seitenlinie aus.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622576",
+    "event": {
+      "id": "19165867",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "13883",
+        "name": "Raúl Bobadilla",
+        "firstname": "Raúl",
+        "surname": "Bobadilla",
+        "fullname": "Raúl Marcelo Bobadilla",
+        "gender": "male",
+        "birthday": "18.06.1987",
+        "height": "180",
+        "weight": "82",
+        "person_detail": {
+          "id": "68489",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Buenos Aires",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "163"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:09"
+    },
+    "tickertime": "06.02.2016 17:09:00",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Augsburg -> Raúl Bobadilla</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622577",
+    "event": {
+      "id": "19165868",
+      "team": {
+        "id": "594",
+        "name": "FC Augsburg"
+      },
+      "person": {
+        "id": "417",
+        "name": "Markus Feulner",
+        "firstname": "Markus",
+        "surname": "Feulner",
+        "fullname": "Markus Feulner",
+        "gender": "male",
+        "birthday": "12.02.1982",
+        "height": "181",
+        "weight": "82",
+        "person_detail": {
+          "id": "3011",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Scheßlitz",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "81",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:09"
+    },
+    "tickertime": "06.02.2016 17:09:06",
+    "minute": "81",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Augsburg -> Markus Feulner</span>",
+    "syndicate": "heimspiel"
   }
 ]
