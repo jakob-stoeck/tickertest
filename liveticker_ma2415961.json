@@ -283,7 +283,52 @@
     "tickertime": "06.02.2016 15:54:57",
     "minute": "24",
     "headline": "",
-    "content": "<b>Tooor für FC Schalke 04, 1:0 durch Klaas Jan Huntelaar</b> <br/> Schalke geht in Führung!",
+    "content": "<b>Tooor für FC Schalke 04, 1:0 durch Klaas Jan Huntelaar</b> <br/> Schalke geht in Führung! Nach einem Draxler-Schuss aus guter Position, den Fährmann sicher aufnehmen kann, macht der Keeper das Spiel schnell Der angespielte Junior Caiçara spielt steil zu Huntelaar, der",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622223",
+    "event": {
+      "id": "19165143",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "1186",
+        "name": "Klaas Jan Huntelaar",
+        "firstname": "Klaas Jan",
+        "surname": "Huntelaar",
+        "fullname": "Dirk Klaas Jan Huntelaar",
+        "gender": "male",
+        "birthday": "12.08.1983",
+        "height": "186",
+        "weight": "78",
+        "person_detail": {
+          "id": "10901",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Drempt",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "149"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "26",
+      "additional_person_id": "0",
+      "created": "06.02.2016 15:57"
+    },
+    "tickertime": "06.02.2016 15:57:03",
+    "minute": "26",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Klaas Jan Huntelaar (FC Schalke 04)</b> <br/>",
     "syndicate": "heimspiel"
   }
 ]
