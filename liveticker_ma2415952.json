@@ -611,5 +611,185 @@
     "headline": "",
     "content": "<span class=\"gruentext\">Einwechslung bei Hertha BSC -> Johannes van den Bergh</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622519",
+    "event": {
+      "id": "19165801",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "3116",
+        "name": "Gonzalo Castro",
+        "firstname": "Gonzalo",
+        "surname": "Castro",
+        "fullname": "Gonzalo Castro Randón",
+        "gender": "male",
+        "birthday": "11.06.1987",
+        "height": "171",
+        "weight": "74",
+        "person_detail": {
+          "id": "29221",
+          "position_1": "9",
+          "position_2": "5",
+          "preferred_side": "right",
+          "birth_place": "Wuppertal",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "71",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:01"
+    },
+    "tickertime": "06.02.2016 17:01:28",
+    "minute": "71",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Gonzalo Castro</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622520",
+    "event": {
+      "id": "19165802",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "358598",
+        "name": "Christian Pulisic",
+        "firstname": "Christian",
+        "surname": "Pulisic",
+        "fullname": "Christian Pulisic",
+        "gender": "male",
+        "birthday": "18.09.1998",
+        "height": "173",
+        "weight": "63",
+        "person_detail": {
+          "id": "280269",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Hershey, PA",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "229"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "71",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:01"
+    },
+    "tickertime": "06.02.2016 17:01:36",
+    "minute": "71",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Christian Pulisic</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622521",
+    "event": {
+      "id": "19165804",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "134830",
+        "name": "Pierre-Emerick Aubameyang",
+        "firstname": "Pierre-Emerick",
+        "surname": "Aubameyang",
+        "fullname": "Pierre-Emerick Emiliano Aubameyang",
+        "gender": "male",
+        "birthday": "18.06.1989",
+        "height": "187",
+        "weight": "77",
+        "person_detail": {
+          "id": "124188",
+          "position_1": "11",
+          "position_2": "8",
+          "preferred_side": "both",
+          "birth_place": "Laval",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "63"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:01"
+    },
+    "tickertime": "06.02.2016 17:01:45",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Borussia Dortmund -> Pierre-Emerick Aubameyang</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622522",
+    "event": {
+      "id": "19165805",
+      "team": {
+        "id": "258",
+        "name": "Borussia Dortmund"
+      },
+      "person": {
+        "id": "1565",
+        "name": "Adrián Ramos",
+        "firstname": "Adrián",
+        "surname": "Ramos",
+        "fullname": "Gustavo Adrián Ramos Vásquez",
+        "gender": "male",
+        "birthday": "22.01.1986",
+        "height": "186",
+        "weight": "81",
+        "person_detail": {
+          "id": "115686",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Santander de Quilichao",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "105"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "06.02.2016 17:01"
+    },
+    "tickertime": "06.02.2016 17:01:54",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Borussia Dortmund -> Adrián Ramos</span>",
+    "syndicate": "heimspiel"
   }
 ]
