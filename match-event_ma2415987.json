@@ -3413,6 +3413,318 @@
     "created": "06.02.2016 16:50:52"
   },
   {
+    "id": "19165747",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1383039",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "226423",
+      "name": "Yunus Mallı",
+      "firstname": "Yunus",
+      "surname": "Mallı",
+      "fullname": "Yunus Mallı",
+      "gender": "male",
+      "birthday": "24.02.1992",
+      "height": "179",
+      "weight": "70",
+      "person_detail": {
+        "id": "169259",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Kassel",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:55:04"
+  },
+  {
+    "id": "19165748",
+    "team": {
+      "id": "21",
+      "name": "1. FSV Mainz 05",
+      "shortname": "Mainz",
+      "microname": "M05",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "21",
+        "members": "13500",
+        "fullname": "1. Fußball- und Sportverein Mainz 05",
+        "foundation": "1905-03-16",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "3056",
+        "name": "Coface Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "3060",
+          "capacity": "34000",
+          "built": "2011"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1428163",
+      "shirtnumber": "15",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "232280",
+      "name": "Jhon Córdoba",
+      "firstname": "Jhon",
+      "surname": "Córdoba",
+      "fullname": "Jhon Andrés Córdoba Copete",
+      "gender": "male",
+      "birthday": "11.05.1993",
+      "height": "187",
+      "weight": "85",
+      "person_detail": {
+        "id": "174631",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Istmina",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "105",
+          "name": "Kolumbien",
+          "code": "COL",
+          "iso": "CO"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:55:12"
+  },
+  {
+    "id": "19165760",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1387248",
+      "shirtnumber": "17",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "225605",
+      "name": "Uffe Bech",
+      "firstname": "Uffe",
+      "surname": "Bech",
+      "fullname": "Uffe Manich Bech",
+      "gender": "male",
+      "birthday": "13.01.1993",
+      "height": "170",
+      "weight": "75",
+      "person_detail": {
+        "id": "168513",
+        "position_1": "12",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "København",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "45",
+          "name": "Dänemark",
+          "code": "DEN",
+          "iso": "DK"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "68",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:55:40"
+  },
+  {
+    "id": "19165762",
+    "team": {
+      "id": "951",
+      "name": "Hannover 96",
+      "shortname": "Hannover",
+      "microname": "H96",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "951",
+        "members": "20500",
+        "fullname": "Hannoverscher Sport-Verein von 1896 e.V.",
+        "foundation": "1896-04-12",
+        "colours": "schwarz-weiß-grün"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "177",
+        "name": "HDI-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "177",
+          "capacity": "49000",
+          "built": "1954"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1194947",
+      "shirtnumber": "26",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "233564",
+      "name": "Kenan Karaman",
+      "firstname": "Kenan",
+      "surname": "Karaman",
+      "fullname": "Kenan Karaman",
+      "gender": "male",
+      "birthday": "05.03.1994",
+      "height": "187",
+      "weight": "73",
+      "person_detail": {
+        "id": "175756",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Stuttgart",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "219",
+          "name": "Türkei",
+          "code": "TUR",
+          "iso": "TR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "68",
+    "additional_person_id": "0",
+    "created": "06.02.2016 16:55:50"
+  },
+  {
     "id": "1320423",
     "team": {
       "id": "21",
