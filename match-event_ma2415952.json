@@ -3075,6 +3075,240 @@
     "created": "06.02.2016 17:01:08"
   },
   {
+    "id": "19165800",
+    "team": {
+      "id": "977",
+      "name": "Hertha BSC",
+      "shortname": "Hertha",
+      "microname": "BSC",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "977",
+        "members": "32500",
+        "fullname": "Hertha Berliner Sport-Club",
+        "foundation": "1892-07-25",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1353",
+        "name": "Olympiastadion",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1353",
+          "capacity": "74400",
+          "built": "1936"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1013494",
+      "shirtnumber": "23",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "3885",
+      "name": "Johannes van den Bergh",
+      "firstname": "Johannes",
+      "surname": "van den Bergh",
+      "fullname": "Johannes van den Bergh",
+      "gender": "male",
+      "birthday": "21.11.1986",
+      "height": "183",
+      "weight": "75",
+      "person_detail": {
+        "id": "51706",
+        "position_1": "3",
+        "position_2": "6",
+        "preferred_side": "left",
+        "birth_place": "Viersen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "71",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:01:16"
+  },
+  {
+    "id": "19165801",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1365085",
+      "shirtnumber": "27",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "3116",
+      "name": "Gonzalo Castro",
+      "firstname": "Gonzalo",
+      "surname": "Castro",
+      "fullname": "Gonzalo Castro Randón",
+      "gender": "male",
+      "birthday": "11.06.1987",
+      "height": "171",
+      "weight": "74",
+      "person_detail": {
+        "id": "29221",
+        "position_1": "9",
+        "position_2": "5",
+        "preferred_side": "right",
+        "birth_place": "Wuppertal",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "71",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:01:28"
+  },
+  {
+    "id": "19165802",
+    "team": {
+      "id": "258",
+      "name": "Borussia Dortmund",
+      "shortname": "Dortmund",
+      "microname": "BVB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "258",
+        "members": "125000",
+        "fullname": "Ballspielverein Borussia 09 Dortmund",
+        "foundation": "1909-12-19",
+        "colours": "schwarz-gelb"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "1666",
+        "name": "Signal Iduna Park",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1666",
+          "capacity": "81359",
+          "built": "1974"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1488765",
+      "shirtnumber": "22",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "358598",
+      "name": "Christian Pulisic",
+      "firstname": "Christian",
+      "surname": "Pulisic",
+      "fullname": "Christian Pulisic",
+      "gender": "male",
+      "birthday": "18.09.1998",
+      "height": "173",
+      "weight": "63",
+      "person_detail": {
+        "id": "280269",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "both",
+        "birth_place": "Hershey, PA",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "229",
+          "name": "USA",
+          "code": "USA",
+          "iso": "US"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "71",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:01:36"
+  },
+  {
     "id": "1348897",
     "team": {
       "id": "258",
