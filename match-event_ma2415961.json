@@ -4297,6 +4297,162 @@
     "created": "06.02.2016 17:14:14"
   },
   {
+    "id": "19165978",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1378099",
+      "shirtnumber": "5",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "230133",
+      "name": "Johannes Geis",
+      "firstname": "Johannes",
+      "surname": "Geis",
+      "fullname": "Johannes Geis",
+      "gender": "male",
+      "birthday": "17.08.1993",
+      "height": "181",
+      "weight": "81",
+      "person_detail": {
+        "id": "172701",
+        "position_1": "7",
+        "position_2": "4",
+        "preferred_side": "right",
+        "birth_place": "Schweinfurt",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:17:07"
+  },
+  {
+    "id": "19166017",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "136000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1414957",
+      "shirtnumber": "20",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "298038",
+      "name": "Thilo Kehrer",
+      "firstname": "Thilo",
+      "surname": "Kehrer",
+      "fullname": "Thilo Kehrer",
+      "gender": "male",
+      "birthday": "21.09.1996",
+      "height": "184",
+      "weight": "70",
+      "person_detail": {
+        "id": "225973",
+        "position_1": "4",
+        "position_2": "7",
+        "preferred_side": "unknown",
+        "birth_place": "Tübingen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:17:18"
+  },
+  {
     "id": "1373495",
     "team": {
       "id": "694",

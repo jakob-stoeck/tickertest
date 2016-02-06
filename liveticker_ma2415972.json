@@ -1165,7 +1165,7 @@
     "tickertime": "06.02.2016 17:13:06",
     "minute": "84",
     "headline": "",
-    "content": "<b>Elfmeter Ingolstadt!</b> Roger geht super über rechts durch und seine scharfe Flanke wird von Jeong-ho Hong im Fünfer abgewehrt. Den freien Ball nimmt",
+    "content": "<b>Elfmeter Ingolstadt!</b> Roger geht super über rechts durch und seine scharfe Flanke wird von Jeong-ho Hong im Fünfer abgewehrt. Den freien Ball nimmt Pascal Groß auf, wird von Jan Morávek von hinten gestört und geht zu Boden. Weiner zeigt auf den Punkt.",
     "syndicate": "heimspiel"
   },
   {
@@ -1204,7 +1204,30 @@
       "content": "2:1",
       "kind": "penalty",
       "minute": "85",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "151555",
+        "name": "Pascal Groß",
+        "firstname": "Pascal",
+        "surname": "Groß",
+        "fullname": "Pascal Groß",
+        "gender": "male",
+        "birthday": "15.06.1991",
+        "height": "178",
+        "weight": "74",
+        "person_detail": {
+          "id": "140903",
+          "position_1": "8",
+          "position_2": "0",
+          "preferred_side": "both",
+          "birth_place": "Mannheim",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
       "created": "06.02.2016 17:14"
     },
     "tickertime": "06.02.2016 17:14:06",
