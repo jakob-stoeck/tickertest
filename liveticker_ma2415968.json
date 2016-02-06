@@ -344,7 +344,52 @@
     "tickertime": "06.02.2016 16:07:29",
     "minute": "36",
     "headline": "",
-    "content": "<b>Gelbe Karte für Daniel Didavi (VfB Stuttgart)</b> <br/>",
+    "content": "<b>Gelbe Karte für Daniel Didavi (VfB Stuttgart)</b> <br/>Der Stuttgarter sieht die erst Gelbe Karte der Partie. Kurz vor dem Strafraum hält er Marc Stendera am Trikot und wird dafür vom Unparteiischen bestraft.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1622284",
+    "event": {
+      "id": "19165206",
+      "team": {
+        "id": "530",
+        "name": "Eintracht Frankfurt"
+      },
+      "person": {
+        "id": "111398",
+        "name": "Bastian Oczipka",
+        "firstname": "Bastian",
+        "surname": "Oczipka",
+        "fullname": "Bastian Oczipka",
+        "gender": "male",
+        "birthday": "12.01.1989",
+        "height": "184",
+        "weight": "87",
+        "person_detail": {
+          "id": "96778",
+          "position_1": "3",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Bergisch Gladbach",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "37",
+      "additional_person_id": "0",
+      "created": "06.02.2016 16:08"
+    },
+    "tickertime": "06.02.2016 16:08:47",
+    "minute": "37",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Bastian Oczipka (Eintracht Frankfurt)</b> <br/>",
     "syndicate": "heimspiel"
   }
 ]
