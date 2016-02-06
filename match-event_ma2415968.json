@@ -4271,6 +4271,84 @@
     "created": "06.02.2016 17:03:41"
   },
   {
+    "id": "19165856",
+    "team": {
+      "id": "530",
+      "name": "Eintracht Frankfurt",
+      "shortname": "Frankfurt",
+      "microname": "FFM",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "530",
+        "members": "30000",
+        "fullname": "Sportgemeinde Eintracht Frankfurt",
+        "foundation": "1899-03-08",
+        "colours": "rot-schwarz-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "373",
+        "name": "Commerzbank-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "373",
+          "capacity": "51500",
+          "built": "1925"
+        }
+      }
+    },
+    "team_person": {
+      "id": "845300",
+      "shirtnumber": "16",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "1873",
+      "name": "Stefan Aigner",
+      "firstname": "Stefan",
+      "surname": "Aigner",
+      "fullname": "Stefan Aigner",
+      "gender": "male",
+      "birthday": "20.08.1987",
+      "height": "185",
+      "weight": "72",
+      "person_detail": {
+        "id": "50222",
+        "position_1": "9",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "München",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "78",
+    "additional_person_id": "0",
+    "created": "06.02.2016 17:07:25"
+  },
+  {
     "id": "1373200",
     "team": {
       "id": "530",
