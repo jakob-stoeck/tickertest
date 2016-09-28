@@ -1405,5 +1405,40 @@
     "headline": "",
     "content": "Zwei Minuten noch. Die Fans auf den Rängen feiern bereits. Die Bayern bringen nicht mehr allzu viel zustande.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803283",
+    "tickertime": "28.09.2016 22:38:24",
+    "minute": "90",
+    "headline": "",
+    "content": "Die Nachspielzeit ist um. Die Bayern nun mit Langholz.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803284",
+    "tickertime": "28.09.2016 22:38:42",
+    "minute": "90",
+    "headline": "",
+    "content": "Robben mit dem letzten Kopfball, aber Oblak pariert sicher! Das sollte es gewesen sein.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803285",
+    "event": {
+      "id": "21368922",
+      "team_id": "0",
+      "person_id": "0",
+      "action": "match",
+      "content": "",
+      "kind": "game-end",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:38"
+    },
+    "tickertime": "28.09.2016 22:38:46",
+    "minute": "90",
+    "headline": "",
+    "content": "<b>Spielende</b>",
+    "syndicate": "heimspiel"
   }
 ]
