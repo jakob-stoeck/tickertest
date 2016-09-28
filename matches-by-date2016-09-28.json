@@ -447,8 +447,8 @@
                 "match_time": "20:45",
                 "finished": "no",
                 "live_status": "full",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-28 20:45:50",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-28 21:31:47",
                 "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "1794",
@@ -511,6 +511,28 @@
                   {
                     "match_result": "0",
                     "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1731",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1794",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
@@ -898,7 +920,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-28 20:47:19",
-                "current_minute": "44",
+                "current_minute": "45",
                 "attendance": "54000",
                 "winner_team_id": "162",
                 "home": {
@@ -1305,7 +1327,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-09-28 21:10:03",
-                "current_minute": "47",
+                "current_minute": "48",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -4499,7 +4521,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "22",
+                    "match_result": "23",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -4851,7 +4873,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "27",
+                    "match_result": "29",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
