@@ -2,7 +2,7 @@
   "match": [
     {
       "match_date": "28.09.2016",
-      "current_minute": "47",
+      "current_minute": "50",
       "id": "8305360",
       "home": {
         "name": "Arsenal FC",
@@ -42,7 +42,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "48",
+      "current_minute": "50",
       "id": "8305371",
       "home": {
         "name": "Ludogorez Rasgrad",
@@ -82,17 +82,17 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "45",
+      "current_minute": "47",
       "id": "8305372",
       "home": {
         "name": "Beşiktaş",
         "id": "221"
       },
-      "current_period": "first-half-end",
+      "current_period": "second-half-start",
       "finished": "no",
       "match_time": "20:45",
       "round_id": "67541",
-      "current_period_start": "2016-09-28 21:33:44",
+      "current_period_start": "2016-09-28 21:48:44",
       "away": {
         "name": "Dynamo Kiew ",
         "id": "486"
@@ -161,15 +161,15 @@
       ]
     },
     {
-      "current_minute": "45",
+      "current_minute": "49",
       "id": "8305385",
-      "current_period": "first-half-end",
+      "current_period": "second-half-start",
       "finished": "no",
       "home": {
         "name": "Bor. Mönchengladbach",
         "id": "253"
       },
-      "current_period_start": "2016-09-28 21:31:28",
+      "current_period_start": "2016-09-28 21:47:21",
       "match_result": [
         {
           "match_result_at": "0",
@@ -220,7 +220,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "47",
+      "current_minute": "49",
       "id": "8305389",
       "home": {
         "name": "Celtic Glasgow",
@@ -239,7 +239,7 @@
         {
           "match_result_at": "0",
           "place": "home",
-          "match_result": "2"
+          "match_result": "3"
         },
         {
           "match_result_at": "0",
@@ -259,15 +259,15 @@
       ]
     },
     {
-      "current_minute": "45",
+      "current_minute": "48",
       "id": "8305396",
-      "current_period": "first-half-end",
+      "current_period": "second-half-start",
       "finished": "no",
       "home": {
         "name": "Atlético Madrid",
         "id": "162"
       },
-      "current_period_start": "2016-09-28 21:32:26",
+      "current_period_start": "2016-09-28 21:48:09",
       "match_result": [
         {
           "match_result_at": "0",
@@ -318,17 +318,17 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "45",
+      "current_minute": "48",
       "id": "8305404",
       "home": {
         "name": "FK Rostov",
         "id": "791"
       },
-      "current_period": "first-half-end",
+      "current_period": "second-half-start",
       "finished": "no",
       "match_time": "20:45",
       "round_id": "67543",
-      "current_period_start": "2016-09-28 21:33:17",
+      "current_period_start": "2016-09-28 21:48:12",
       "away": {
         "name": "PSV Eindhoven",
         "id": "1502"
@@ -3783,7 +3783,7 @@
       "minute": "45"
     },
     {
-      "content": "Kurz vor der Pause besorgt de Jong das 2:2! Eine scharfe Hereingabe findet Arias auf der rechten Strafraum-Seite. Aus spitzem Winkel zieht der Kolumbianer kurz vor der Grundlinie ab und lässt nach Leder nach einer Gegnerberührung an die Latten knallen. De Jong steht drei Meter daneben dort, wo ein Stürmer stehen muss und nickt aus zwei Metern zum Ausgleich ein!",
+      "content": "Kurz vor der Pause besorgt de Jong das 2:2! Eine scharfe Hereingabe findet Arias auf der rechten Strafraum-Seite. Aus spitzem Winkel zieht der Kolumbianer kurz vor der Grundlinie ab und lässt das Leder nach einer Gegnerberührung an die Latte knallen. De Jong steht drei Meter daneben dort, wo ein Stürmer stehen muss und nickt aus zwei Metern zum Ausgleich ein!",
       "id": "1802820",
       "event": {
         "kind": "head",
@@ -4033,6 +4033,191 @@
       "match_id": "8305360",
       "tickertime": "28.09.2016 21:46:46",
       "minute": "46"
+    },
+    {
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "id": "1802846",
+      "event": {
+        "kind": "second-half-start",
+        "content": "",
+        "id": "21368236",
+        "action": "match",
+        "minute": "46",
+        "person_id": "0",
+        "created": "28.09.2016 21:47",
+        "team_id": "0",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305385",
+      "tickertime": "28.09.2016 21:47:21",
+      "minute": "46",
+      "headline": ""
+    },
+    {
+      "content": "Ohne personelle Veränderungen gehts weiter im Celtic Park!",
+      "id": "1802848",
+      "headline": "",
+      "match_id": "8305389",
+      "tickertime": "28.09.2016 21:47:56",
+      "minute": "46"
+    },
+    {
+      "content": "PSG kommt mit Druck aus der Kabine. Cavani kommt vor dem Strafraum an den Ball und wird dann von Moţi umgeholzt, doch der Schiedsrichter lässt weiterlaufen. Das war eine Fehlentscheidung und bringt die Pariser um eine gute Torchance.",
+      "id": "1802849",
+      "headline": "",
+      "match_id": "8305371",
+      "tickertime": "28.09.2016 21:47:58",
+      "minute": "48"
+    },
+    {
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "id": "1802850",
+      "event": {
+        "kind": "second-half-start",
+        "content": "",
+        "id": "21368237",
+        "action": "match",
+        "minute": "46",
+        "person_id": "0",
+        "created": "28.09.2016 21:48",
+        "team_id": "0",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305396",
+      "tickertime": "28.09.2016 21:48:09",
+      "minute": "46",
+      "headline": ""
+    },
+    {
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "id": "1802853",
+      "event": {
+        "kind": "second-half-start",
+        "content": "",
+        "id": "21368238",
+        "action": "match",
+        "minute": "46",
+        "person_id": "0",
+        "created": "28.09.2016 21:48",
+        "team_id": "0",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305404",
+      "tickertime": "28.09.2016 21:48:13",
+      "minute": "46",
+      "headline": ""
+    },
+    {
+      "content": "",
+      "id": "1802855",
+      "event": {
+        "kind": "right-foot",
+        "content": "3:2",
+        "id": "21368239",
+        "action": "goal",
+        "team": {
+          "name": "Celtic Glasgow",
+          "id": "356"
+        },
+        "person": {
+          "surname": "Dembélé",
+          "fullname": "Moussa Dembélé",
+          "name": "Moussa Dembélé",
+          "id": "340368",
+          "height": "183",
+          "weight": "74",
+          "firstname": "Moussa",
+          "birthday": "12.07.1996",
+          "gender": "male",
+          "country": [
+            {
+              "id": "61"
+            }
+          ],
+          "person_detail": {
+            "id": "264012",
+            "position_2": "10",
+            "preferred_side": "left",
+            "birth_place": "Pontoise",
+            "position_1": "11",
+            "died": "no"
+          }
+        },
+        "minute": "47",
+        "created": "28.09.2016 21:48",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305389",
+      "tickertime": "28.09.2016 21:48:26",
+      "minute": "47",
+      "headline": "Tooor für Celtic FC, 3:2 durch Moussa Dembélé"
+    },
+    {
+      "content": "Der zweite Durchgang rollt!",
+      "id": "1802857",
+      "headline": "",
+      "match_id": "8305404",
+      "tickertime": "28.09.2016 21:48:38",
+      "minute": "46"
+    },
+    {
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "id": "1802858",
+      "event": {
+        "kind": "second-half-start",
+        "content": "",
+        "id": "21368240",
+        "action": "match",
+        "minute": "46",
+        "person_id": "0",
+        "created": "28.09.2016 21:48",
+        "team_id": "0",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305372",
+      "tickertime": "28.09.2016 21:48:44",
+      "minute": "46",
+      "headline": ""
+    },
+    {
+      "content": "Der zweite Abschnitt beginnt jedoch so, wie der erste aufgehört hat. Arsenal kommt erneut druckvoll aus der Kabine und drängt auf den dritten Treffer. Diesmal flankt Monreal in die Mitte, wo dann aber Sánchez und Vaclík zusammenrasseln. Der Keeper bleibt kurz auf dem Rasen liegen, kann aber weitermachen.",
+      "id": "1802860",
+      "headline": "",
+      "match_id": "8305360",
+      "tickertime": "28.09.2016 21:49:19",
+      "minute": "48"
+    },
+    {
+      "content": "Wir gehen ohne Wechsel in den zweiten Durchgang.",
+      "id": "1802861",
+      "headline": "",
+      "match_id": "8305372",
+      "tickertime": "28.09.2016 21:49:31",
+      "minute": "46"
+    },
+    {
+      "content": "Weiter geht's! Keine Wechsel auf beiden Seiten. In der Halbzeitpause hat man eine Situation begutachten dürfen, die aus dem Spielverlauf heraus kaum aufgefallen wäre. Kurz vor Thomas Müllers Großchance in der 13. Minute wehrte Filipe Luís eine Flanke von Philipp Lahm klar mit der Hand ab! Da hätte es eigentlich Strafstoß für die Münchener geben müssen. Bitter für den FCB.",
+      "id": "1802862",
+      "headline": "",
+      "match_id": "8305396",
+      "tickertime": "28.09.2016 21:49:31",
+      "minute": "46"
+    },
+    {
+      "content": "Auf geht's! 45 spannende Minuten trennen Borussia Mönchengladbach noch von der Sensation. Diese soll vorerst mit unverändertem Personal erreicht werden. Auch die Gäste haben nicht gewechselt.",
+      "id": "1802863",
+      "headline": "",
+      "match_id": "8305385",
+      "tickertime": "28.09.2016 21:49:48",
+      "minute": "46"
+    },
+    {
+      "content": "Das Tornetz hat sich zu einem Teil von der Querlatte gelöst. Die Verantwortlichen nehmen sich der Sache nun an und so kann es dann auch in wenigen Minuten losgehen.",
+      "id": "1802864",
+      "headline": "",
+      "match_id": "8305383",
+      "tickertime": "28.09.2016 21:49:51",
+      "minute": "45"
     }
   ]
 }
