@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "79",
+      "current_minute": "80",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "78",
+      "current_minute": "79",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "81",
+      "current_minute": "82",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -7977,6 +7977,94 @@
       "match_id": "8305360"
     },
     {
+      "id": "1803142",
+      "event": {
+        "id": "21368716",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "person": {
+          "id": "241479",
+          "name": "Sardar Azmoun",
+          "firstname": "Sardar",
+          "surname": "Azmoun",
+          "fullname": "Sardar Azmoun",
+          "gender": "male",
+          "birthday": "01.01.1995",
+          "height": "183",
+          "weight": "0",
+          "person_detail": {
+            "id": "180809",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Gonbad",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "85"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "77",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:19"
+      },
+      "tickertime": "28.09.2016 22:19:23",
+      "minute": "77",
+      "content": "<span class=\"rottext\">Auswechslung bei FK Rostov -> Sardar Azmoun</span>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803153",
+      "event": {
+        "id": "21368720",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "person": {
+          "id": "359262",
+          "name": "Moussa Doumbia",
+          "firstname": "Moussa",
+          "surname": "Doumbia",
+          "fullname": "Moussa Doumbia",
+          "gender": "male",
+          "birthday": "15.08.1994",
+          "height": "173",
+          "weight": "68",
+          "person_detail": {
+            "id": "280933",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "126"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "77",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:19"
+      },
+      "tickertime": "28.09.2016 22:19:23",
+      "minute": "77",
+      "content": "<span class=\"gruentext\">Einwechslung bei FK Rostov -> Moussa Doumbia</span>",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803114",
       "event": {
         "id": "21368703",
@@ -8529,6 +8617,210 @@
       "minute": "80",
       "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Patrick Herrmann</span>",
       "match_id": "8305385"
+    },
+    {
+      "id": "1803141",
+      "event": {
+        "id": "21368715",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "173396",
+          "name": "James Forrest",
+          "firstname": "James",
+          "surname": "Forrest",
+          "fullname": "James Forrest",
+          "gender": "male",
+          "birthday": "07.07.1991",
+          "height": "175",
+          "weight": "69",
+          "person_detail": {
+            "id": "162738",
+            "position_1": "9",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Prestwick",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "181"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "81",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:43",
+      "minute": "81",
+      "content": "<span class=\"rottext\">Auswechslung bei Celtic FC -> James Forrest</span>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803145",
+      "event": {
+        "id": "21368717",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "17989",
+          "name": "Fernando Torres",
+          "firstname": "",
+          "surname": "Fernando Torres",
+          "fullname": "Fernando José Torres Sanz",
+          "gender": "male",
+          "birthday": "20.03.1984",
+          "height": "183",
+          "weight": "70",
+          "person_detail": {
+            "id": "12065",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Madrid",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "79",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:53",
+      "minute": "79",
+      "content": "<span class=\"rottext\">Auswechslung bei Atlético Madrid -> Fernando Torres</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803148",
+      "event": {
+        "id": "21368718",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "349573",
+          "name": "Patrick Roberts",
+          "firstname": "Patrick",
+          "surname": "Roberts",
+          "fullname": "Patrick John Joseph Roberts",
+          "gender": "male",
+          "birthday": "05.02.1997",
+          "height": "167",
+          "weight": "58",
+          "person_detail": {
+            "id": "271615",
+            "position_1": "9",
+            "position_2": "8",
+            "preferred_side": "unknown",
+            "birth_place": "Kingston-upon-Thames",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "55"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "81",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:22"
+      },
+      "tickertime": "28.09.2016 22:22:00",
+      "minute": "81",
+      "content": "<span class=\"gruentext\">Einwechslung bei Celtic FC -> Patrick Roberts</span>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803149",
+      "event": {
+        "id": "21368719",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "3691",
+          "name": "Nicolás Gaitán",
+          "firstname": "Nicolás",
+          "surname": "Gaitán",
+          "fullname": "Osvaldo Nicolás Fabián Gaitán",
+          "gender": "male",
+          "birthday": "23.02.1988",
+          "height": "173",
+          "weight": "67",
+          "person_detail": {
+            "id": "94295",
+            "position_1": "8",
+            "position_2": "10",
+            "preferred_side": "left",
+            "birth_place": "San Martín, Buenos Aires",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "79",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:22"
+      },
+      "tickertime": "28.09.2016 22:22:00",
+      "minute": "79",
+      "content": "<span class=\"gruentext\">Einwechslung bei Atlético Madrid -> Nicolás Gaitán</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803152",
+      "tickertime": "28.09.2016 22:22:06",
+      "minute": "80",
+      "content": "Jetzt wechselt auch PSG-Übungsleiter Emery zum ersten Mal. Krychowiak ersetzt Verratti und wird dessen Position im Mittelfeld mit einer etwas defensiveren Ausrichtung einnehmen.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803155",
+      "tickertime": "28.09.2016 22:22:18",
+      "minute": "79",
+      "content": "Der Brasilianer lässt sich sichtlich Zeit bei der Auswechslung. Viel gezeigt hat der Offensive nicht, der Wechsel daher zu verstehen.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803156",
+      "tickertime": "28.09.2016 22:22:29",
+      "minute": "80",
+      "content": "In den letzten zehn Minuten darf nun auch Patrick Herrmann mitwirken. Der eine Flügelflitzer ersetzt damit den anderen, denn Thorgan Hazard verlässt ausgepumpt den Platz.",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803157",
+      "tickertime": "28.09.2016 22:22:42",
+      "minute": "79",
+      "content": "Fernando Torres, der Liebling der Atlético-Fans, wird mit stehenden Ovationen verabschiedet. Für ihn kommt Nicolás Gaitán auf den Platz.",
+      "match_id": "8305396"
     }
   ]
 }

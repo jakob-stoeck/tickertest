@@ -3881,6 +3881,84 @@
     "created": "28.09.2016 22:14:27"
   },
   {
+    "id": "21368717",
+    "team": {
+      "id": "162",
+      "name": "Atlético Madrid",
+      "shortname": "Atlético",
+      "microname": "ATL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "162",
+        "members": "42000",
+        "fullname": "Club Atlético de Madrid, S.A.D.",
+        "foundation": "1903-04-26",
+        "colours": "rot-weiß-blau"
+      },
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      },
+      "venue": {
+        "id": "2135",
+        "name": "Vicente Calderón",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2135",
+          "capacity": "54851",
+          "built": "1966"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1417086",
+      "shirtnumber": "9",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "17989",
+      "name": "Fernando Torres",
+      "firstname": "",
+      "surname": "Fernando Torres",
+      "fullname": "Fernando José Torres Sanz",
+      "gender": "male",
+      "birthday": "20.03.1984",
+      "height": "183",
+      "weight": "70",
+      "person_detail": {
+        "id": "12065",
+        "position_1": "11",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Madrid",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "193",
+          "name": "Spanien",
+          "code": "ESP",
+          "iso": "ES"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "79",
+    "additional_person_id": "0",
+    "created": "28.09.2016 22:21:53"
+  },
+  {
     "id": "774007",
     "team": {
       "id": "162",
