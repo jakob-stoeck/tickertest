@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -64,7 +64,7 @@
           "place": "home"
         },
         {
-          "match_result": "1",
+          "match_result": "2",
           "match_result_at": "0",
           "place": "away"
         },
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "53",
+      "current_minute": "54",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "51",
+      "current_minute": "52",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "54",
+      "current_minute": "55",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "55",
+      "current_minute": "56",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -242,7 +242,7 @@
           "place": "home"
         },
         {
-          "match_result": "2",
+          "match_result": "3",
           "match_result_at": "0",
           "place": "away"
         },
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "53",
+      "current_minute": "54",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "53",
+      "current_minute": "54",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4346,8 +4346,221 @@
       },
       "tickertime": "28.09.2016 21:55:35",
       "minute": "50",
-      "content": "<b>Gelbe Karte für Lisandro López (SL Benfica)</b> <br/>",
+      "content": "<b>Gelbe Karte für Lisandro López (SL Benfica)</b> <br/>Ein klarer Trikotzupfer von Lisandro López gegen Dries Mertens beschert dem Übeltäter die gelbe Karte und dem SSC Neapel einen Freistoß aus guter Position!",
       "match_id": "8305383"
+    },
+    {
+      "id": "1802904",
+      "event": {
+        "id": "21368332",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "233943",
+          "name": "Paco Alcácer",
+          "firstname": "",
+          "surname": "Paco Alcácer",
+          "fullname": "Francisco Alcácer García",
+          "gender": "male",
+          "birthday": "30.08.1993",
+          "height": "174",
+          "weight": "71",
+          "person_detail": {
+            "id": "176101",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Torrent",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "54",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:55"
+      },
+      "tickertime": "28.09.2016 21:55:47",
+      "minute": "54",
+      "content": "<span class=\"rottext\">Auswechslung bei FC Barcelona -> Paco Alcácer</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802906",
+      "tickertime": "28.09.2016 21:55:52",
+      "minute": "55",
+      "content": "Paris scheint aufgewacht zu sein. Die Gäste spielen jetzt wesentlich zielstrebiger nach vorn und kommen dem Kasten der Bulgaren immer näher. Jetzt tritt Di María einen Freistoß von der rechten Seite...",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802907",
+      "event": {
+        "id": "21368384",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "236587",
+          "name": "Rafinha",
+          "firstname": "",
+          "surname": "Rafinha",
+          "fullname": "Rafael Alcántara do Nascimento",
+          "gender": "male",
+          "birthday": "12.02.1993",
+          "height": "172",
+          "weight": "65",
+          "person_detail": {
+            "id": "178107",
+            "position_1": "8",
+            "position_2": "13",
+            "preferred_side": "right",
+            "birth_place": "São Paulo",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "54",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:56"
+      },
+      "tickertime": "28.09.2016 21:56:08",
+      "minute": "54",
+      "content": "<span class=\"gruentext\">Einwechslung bei FC Barcelona -> Rafinha</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802909",
+      "event": {
+        "id": "21368388",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "27721",
+          "name": "Edinson Cavani",
+          "firstname": "Edinson",
+          "surname": "Cavani",
+          "fullname": "Edison Roberto Gómez Cavani",
+          "gender": "male",
+          "birthday": "14.02.1987",
+          "height": "184",
+          "weight": "71",
+          "person_detail": {
+            "id": "73128",
+            "position_1": "11",
+            "position_2": "10",
+            "preferred_side": "right",
+            "birth_place": "Salto",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "227"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "1:2",
+        "kind": "head",
+        "minute": "55",
+        "additional_person": {
+          "id": "24043",
+          "name": "Ángel Di María",
+          "firstname": "Ángel",
+          "surname": "Di María",
+          "fullname": "Ángel Fabián Di María",
+          "gender": "male",
+          "birthday": "14.02.1988",
+          "height": "180",
+          "weight": "75",
+          "person_detail": {
+            "id": "43478",
+            "position_1": "9",
+            "position_2": "8",
+            "preferred_side": "left",
+            "birth_place": "Rosario",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "created": "28.09.2016 21:56"
+      },
+      "tickertime": "28.09.2016 21:56:14",
+      "minute": "55",
+      "content": "<b>Tooor für Paris Saint-Germain, 1:2 durch Edinson Cavani</b> <br/>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802911",
+      "event": {
+        "id": "21368389",
+        "team": {
+          "id": "1267",
+          "name": "Manchester City"
+        },
+        "person": {
+          "id": "228094",
+          "name": "Nolito",
+          "firstname": "",
+          "surname": "Nolito",
+          "fullname": "Manuel Agudo Durán",
+          "gender": "male",
+          "birthday": "15.10.1986",
+          "height": "172",
+          "weight": "73",
+          "person_detail": {
+            "id": "170815",
+            "position_1": "10",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Sanlúcar de Barrameda",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "3:3",
+        "kind": "right-foot",
+        "minute": "55",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:56"
+      },
+      "tickertime": "28.09.2016 21:56:21",
+      "minute": "55",
+      "content": "<b>Tooor für Manchester City, 3:3 durch Nolito</b> <br/>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802912",
+      "tickertime": "28.09.2016 21:56:30",
+      "minute": "53",
+      "content": "Ricardo Quaresma wird auf der linken Angriffseite ein wenig rabiat ins Aus geblockt und bleibt kurz liegen. Am Ende ist alles halb so wild und der Freistoß bringt auch nichts ein.",
+      "match_id": "8305372"
     }
   ]
 }
