@@ -6,7 +6,8 @@ curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.
 && curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json" \
 && curl --compressed -s "https://api.sport1.de/api/sports/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}_sport1_cdn.json" \
 && curl --compressed -s "https://api.sport1.de/api/sports/match/ma${i}" | jq '.' > "match_ma${i}_sport1_cdn.json" \
-&& curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json"; \
+&& curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json" \
+&& curl --compressed -s "https://feedmonster.onefootball.com/ticker/il/index.php?lang=en&do=match&competitionId=5&seasonId=1699&matchdayId=0&matchId=504221&format=json&gzip=0" | jq '.' > "onefootball-${i}.json"; \
 done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
 curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
