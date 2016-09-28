@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "54",
+      "current_minute": "55",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4552,7 +4552,7 @@
       },
       "tickertime": "28.09.2016 21:56:21",
       "minute": "55",
-      "content": "<b>Tooor für Manchester City, 3:3 durch Nolito</b> <br/>",
+      "content": "<b>Tooor für Manchester City, 3:3 durch Nolito</b> <br/>Das gibts doch nicht! Auch die dritte Führung der Hausherren gleicht Manchester nach wenigen Minuten aus! Silva und Sterling kombinieren am Strafraum und der Spanier schickt Agüero steil, der gleich mit rechts abschließt. Seinen Flachschuss kann Keeper Gordon nur in die Mitte ablenken, wo Nolito heranrauscht und das Leder in den Kasten schiebt.",
       "match_id": "8305389"
     },
     {
@@ -4668,7 +4668,7 @@
       },
       "tickertime": "28.09.2016 21:57:38",
       "minute": "54",
-      "content": "<b>Gelbe Karte für Tolgay Arslan (Beşiktaş)</b> <br/>",
+      "content": "<b>Gelbe Karte für Tolgay Arslan (Beşiktaş)</b> <br/>Der Sechser foult taktisch.",
       "match_id": "8305372"
     },
     {
@@ -4809,6 +4809,159 @@
       "minute": "57",
       "content": "<span class=\"rottext\">Auswechslung bei FC Basel -> Seydou Doumbia</span>",
       "match_id": "8305360"
+    },
+    {
+      "id": "1802926",
+      "event": {
+        "id": "21368396",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "279837",
+          "name": "Andraž Šporar",
+          "firstname": "Andraž",
+          "surname": "Šporar",
+          "fullname": "Andraž Šporar",
+          "gender": "male",
+          "birthday": "27.02.1994",
+          "height": "180",
+          "weight": "75",
+          "person_detail": {
+            "id": "213436",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Ljubljana",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "191"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "57",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:58"
+      },
+      "tickertime": "28.09.2016 21:58:29",
+      "minute": "57",
+      "content": "<span class=\"gruentext\">Einwechslung bei FC Basel -> Andraž Šporar</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802927",
+      "tickertime": "28.09.2016 21:58:34",
+      "minute": "57",
+      "content": "<b>Elfmeter für Ludogorets!</b>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802929",
+      "event": {
+        "id": "21368397",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "2522",
+          "name": "Thiago Motta",
+          "firstname": "",
+          "surname": "Thiago Motta",
+          "fullname": "Thiago Motta Santon Olivares",
+          "gender": "male",
+          "birthday": "28.08.1982",
+          "height": "187",
+          "weight": "83",
+          "person_detail": {
+            "id": "3477",
+            "position_1": "7",
+            "position_2": "13",
+            "preferred_side": "left",
+            "birth_place": "Sao Bernado",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "89"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "57",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:58"
+      },
+      "tickertime": "28.09.2016 21:58:52",
+      "minute": "57",
+      "content": "<b>Gelbe Karte für Thiago Motta (Paris Saint-Germain)</b> <br/>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802930",
+      "tickertime": "28.09.2016 21:59:08",
+      "minute": "58",
+      "content": "Die Eidgenossen wechseln zum ersten Mal. Der wirkungslose Doumbia hat Feierabend und wird im Sturm von Andraž Šporar ersetzt.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802931",
+      "tickertime": "28.09.2016 21:59:09",
+      "minute": "55",
+      "content": "<b>Elfmter für PSV!</b>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1802933",
+      "event": {
+        "id": "21368398",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "271294",
+          "name": "Tom Rogić",
+          "firstname": "Tom",
+          "surname": "Rogić",
+          "fullname": "Tomas Petar Rogić",
+          "gender": "male",
+          "birthday": "16.12.1992",
+          "height": "188",
+          "weight": "89",
+          "person_detail": {
+            "id": "205564",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "left",
+            "birth_place": "Griffith",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "17"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "58",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:59"
+      },
+      "tickertime": "28.09.2016 21:59:19",
+      "minute": "58",
+      "content": "<span class=\"rottext\">Auswechslung bei Celtic FC -> Tom Rogić</span>",
+      "match_id": "8305389"
     }
   ]
 }
