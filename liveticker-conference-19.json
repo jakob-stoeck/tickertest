@@ -125,9 +125,9 @@
       "round_id": "67541",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:50:10",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:38:58",
       "current_minute": "90",
       "home": {
         "id": "1794",
@@ -10506,6 +10506,31 @@
       "minute": "90",
       "content": "<b>Spielende</b>",
       "match_id": "8305396"
+    },
+    {
+      "id": "1803288",
+      "event": {
+        "id": "21368924",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:38"
+      },
+      "tickertime": "28.09.2016 22:38:59",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803289",
+      "tickertime": "28.09.2016 22:39:55",
+      "minute": "90",
+      "content": "<b>Fazit:</b><br/>Arsenal London feiert einen ungefährdeten 2:0-Sieg gegen einen in allen Belangen unterlegenen FC Basel und kann die Euphorie nach dem 3:0-Erfolg im London-Derby gegen Chelsea aufrechterhalten. Von Beginn an ließen die Hausherren den Eidgenossen keine Luft zum Atmen und brauchten nur sieben Minuten, um durch Walcott in Führung zu gehen. Auch nach dem 0:1 war Basel völlig chancenlos und bekam die quirlige Offensivreihe der \"Gunners\" nicht in den Griff, sodass erneut Walcott in der 26. Minute auf 2:0 erhöhen konnte. Nach dem Seitenwechsel waren die Hausherren nach wie vor in allen Bereichen überlegen und kamen weiter zu einigen Großchancen. Arsenal spielte aber nur noch mit angezogener Handbremse und ohne die letzte Konsequenz und so bleibt es bei einem völlig verdienten 2:0 gegen den FCB. Die Schweizer wurden nach ihrem grandiosen Start in der Meisterschaft und dem Punktgewinn gegen Ludogorets knallhart auf den Boden der Tatsachen geholt und stehen in den nächsten Begegnungen der Gruppe A unter Druck.",
+      "match_id": "8305360"
     }
   ]
 }
