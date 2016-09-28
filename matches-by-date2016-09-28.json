@@ -1393,7 +1393,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-09-28 21:10:03",
-                "current_minute": "49",
+                "current_minute": "50",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -1442,7 +1442,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "22",
+                    "match_result": "23",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
@@ -4587,7 +4587,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "23",
+                    "match_result": "24",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
@@ -4886,13 +4886,13 @@
                 "group_matchday": "0",
                 "match_date": "28.09.2016",
                 "match_time": "20:00",
-                "finished": "no",
+                "finished": "yes",
                 "live_status": "result",
-                "current_period": "second-half-start",
-                "current_period_start": "2016-09-28 20:55:41",
-                "current_minute": "31",
+                "current_period": "game-end",
+                "current_period_start": "2016-09-28 21:35:10",
+                "current_minute": "60",
                 "attendance": "",
-                "winner_team_id": "0",
+                "winner_team_id": "25286",
                 "home": {
                   "id": "25286",
                   "name": "TuS Metzingen",
@@ -4939,7 +4939,7 @@
                 },
                 "match_result": [
                   {
-                    "match_result": "29",
+                    "match_result": "30",
                     "match_result_at": "0",
                     "place": "home",
                     "rounds": "0",
@@ -4950,7 +4950,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "22",
+                    "match_result": "24",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
