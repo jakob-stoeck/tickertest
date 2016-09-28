@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "81",
+      "current_minute": "82",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "81",
+      "current_minute": "82",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "78",
+      "current_minute": "79",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "76",
+      "current_minute": "78",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "79",
+      "current_minute": "80",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "78",
+      "current_minute": "80",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "78",
+      "current_minute": "80",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -7956,6 +7956,13 @@
       "match_id": "8305396"
     },
     {
+      "id": "1803137",
+      "tickertime": "28.09.2016 22:18:23",
+      "minute": "76",
+      "content": "Nach einer Ecke von Kalachev und der rechten Seite, scheitert Azmoun mit einem Versuch an Zoet. Aus 20 Metern bekommt der flinke Techniker nicht genug Dampf auf den Schuss und kann den Ball nur mit wenig Tempo Richtung Zoet befördern. Der Keeper ist auf dem Posten und greift das Schüsschen locker ab.",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803110",
       "tickertime": "28.09.2016 22:19:05",
       "minute": "79",
@@ -8186,6 +8193,342 @@
       "minute": "78",
       "content": "Der ausgewechselte Arslan war lange Zeit ein Stabilisator, konnte in den letzten Minuten aber nicht mehr so glänzen.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1803126",
+      "tickertime": "28.09.2016 22:20:44",
+      "minute": "78",
+      "content": "David Silva holt auf der linke Seite die nächste Ecke für die Gäste heraus. Diese führt der Spanier selbst aus und kommt kurze Zeit später außen erneut an den Ball, um Fernando steil zu schicken, dessen Hereingabe Keeper Gordon sicher unter sich begräbt.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803127",
+      "event": {
+        "id": "21368707",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "227596",
+          "name": "Marco Verratti",
+          "firstname": "Marco",
+          "surname": "Verratti",
+          "fullname": "Marco Verratti",
+          "gender": "male",
+          "birthday": "05.11.1992",
+          "height": "165",
+          "weight": "60",
+          "person_detail": {
+            "id": "170367",
+            "position_1": "13",
+            "position_2": "7",
+            "preferred_side": "right",
+            "birth_place": "Pescara",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "89"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "80",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:20"
+      },
+      "tickertime": "28.09.2016 22:20:49",
+      "minute": "80",
+      "content": "<span class=\"rottext\">Auswechslung bei Paris Saint-Germain -> Marco Verratti</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803129",
+      "tickertime": "28.09.2016 22:20:53",
+      "minute": "78",
+      "content": "Nach einem Alerweltsfoul geht es an der Torauslinie plötzlich zur Sache. Aber Zwayer ist schnell zur Stelle und beruhigt die Gemüter.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803128",
+      "tickertime": "28.09.2016 22:20:53",
+      "minute": "77",
+      "content": "Lewandowski fehlen nur Zentimeter! Es ist wie verhext. Der Ball will einfach nicht rein! Glänzend bedient von Xabi Alonso kommt Robert Lewandowski aus zehn Metern zum Kopfball, setzt ihn aber denkbar knapp links vorbei! Fraglich, ob Jan Oblak da noch rangekommen wäre. Die Münchener wollen es jetzt nochmal wissen!",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803130",
+      "event": {
+        "id": "21368708",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "104372",
+          "name": "Grzegorz Krychowiak",
+          "firstname": "Grzegorz",
+          "surname": "Krychowiak",
+          "fullname": "Grzegorz Krychowiak",
+          "gender": "male",
+          "birthday": "29.01.1990",
+          "height": "186",
+          "weight": "83",
+          "person_detail": {
+            "id": "86371",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Gryfice",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "166"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "80",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:03",
+      "minute": "80",
+      "content": "<span class=\"gruentext\">Einwechslung bei Paris Saint-Germain -> Grzegorz Krychowiak</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803131",
+      "event": {
+        "id": "21368709",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "22755",
+          "name": "Moraes",
+          "firstname": "",
+          "surname": "Moraes",
+          "fullname": "Aluísio Chaves Ribeiro Moraes Júnior",
+          "gender": "male",
+          "birthday": "04.04.1987",
+          "height": "176",
+          "weight": "70",
+          "person_detail": {
+            "id": "83981",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Santos",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "78",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:12",
+      "minute": "78",
+      "content": "<span class=\"rottext\">Auswechslung bei Dinamo Kiev -> Moraes</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803132",
+      "tickertime": "28.09.2016 22:21:15",
+      "minute": "75",
+      "content": "Doch dann zündet Roberto Insigne nochmal den Turbo, dringt über die rechte Seite in den Strafraum ein und gibt dann in die Mitte. Arkadiusz Milik schafft es aber nicht aus diesem Pass Kapital zu schlagen.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803133",
+      "event": {
+        "id": "21368710",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "23599",
+          "name": "Oleksandr Gladkiy",
+          "firstname": "Oleksandr",
+          "surname": "Gladkiy",
+          "fullname": "Oleksandr Gladkiy",
+          "gender": "male",
+          "birthday": "24.08.1987",
+          "height": "187",
+          "weight": "77",
+          "person_detail": {
+            "id": "55510",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Lozava",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "225"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "78",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:20",
+      "minute": "78",
+      "content": "<span class=\"gruentext\">Einwechslung bei Dinamo Kiev -> Oleksandr Gladkiy</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803135",
+      "event": {
+        "id": "21368711",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "person": {
+          "id": "249977",
+          "name": "Thorgan Hazard",
+          "firstname": "Thorgan",
+          "surname": "Hazard",
+          "fullname": "Thorgan Hazard",
+          "gender": "male",
+          "birthday": "29.03.1993",
+          "height": "174",
+          "weight": "69",
+          "person_detail": {
+            "id": "187858",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "La Louvière",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "23"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "80",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:25",
+      "minute": "80",
+      "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Thorgan Hazard</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803138",
+      "event": {
+        "id": "21368712",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "14299",
+          "name": "Ljubomir Fejsa",
+          "firstname": "Ljubomir",
+          "surname": "Fejsa",
+          "fullname": "Ljubomir Fejsa",
+          "gender": "male",
+          "birthday": "14.08.1988",
+          "height": "185",
+          "weight": "80",
+          "person_detail": {
+            "id": "57228",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Kula",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "185"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "76",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:28",
+      "minute": "76",
+      "content": "<b>Gelbe Karte für Ljubomir Fejsa (SL Benfica)</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803139",
+      "event": {
+        "id": "21368714",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "person": {
+          "id": "165989",
+          "name": "Patrick Herrmann",
+          "firstname": "Patrick",
+          "surname": "Herrmann",
+          "fullname": "Patrick Herrmann",
+          "gender": "male",
+          "birthday": "12.02.1991",
+          "height": "179",
+          "weight": "69",
+          "person_detail": {
+            "id": "155333",
+            "position_1": "6",
+            "position_2": "9",
+            "preferred_side": "right",
+            "birth_place": "Uchtelfangen",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "80",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:21"
+      },
+      "tickertime": "28.09.2016 22:21:36",
+      "minute": "80",
+      "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Patrick Herrmann</span>",
+      "match_id": "8305385"
     }
   ]
 }
