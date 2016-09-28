@@ -85,9 +85,9 @@
       "round_id": "67541",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:48:44",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:36:33",
       "current_minute": "90",
       "home": {
         "id": "221",
@@ -165,9 +165,9 @@
       "round_id": "67542",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:47:21",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:35:58",
       "current_minute": "90",
       "home": {
         "id": "253",
@@ -321,9 +321,9 @@
       "round_id": "67543",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:48:12",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:36:49",
       "current_minute": "90",
       "home": {
         "id": "791",
@@ -10385,6 +10385,95 @@
       "minute": "90",
       "content": "Diego Simeone dreht an der Uhr und nimmt Antoine Griezmann vom Platz. Der Franzose holt sich lautstarken Applaus von den Rängen ab. Für ihn ist in den letzten drei Minuten der defensive Thomas Partey neu dabei.",
       "match_id": "8305396"
+    },
+    {
+      "id": "1803271",
+      "event": {
+        "id": "21368913",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:35"
+      },
+      "tickertime": "28.09.2016 22:35:58",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803273",
+      "tickertime": "28.09.2016 22:36:12",
+      "minute": "90",
+      "content": "30 Sekunden verbleiben. Einen hohen Ball haben die Teams eventuell noch.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803275",
+      "tickertime": "28.09.2016 22:36:27",
+      "minute": "90",
+      "content": "Felix Brych gewährt einen Nachschlag von vier Minuten. Benfica hat das Remis aber längst abgehakt.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803276",
+      "tickertime": "28.09.2016 22:36:29",
+      "minute": "90",
+      "content": "Doch der letzte lange Bal flattert ins Toraus und damit ist die Partie beendet.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803277",
+      "tickertime": "28.09.2016 22:36:30",
+      "minute": "90",
+      "content": "Zwei Minuten noch. Die Fans auf den Rängen feiern bereits. Die Bayern bringen nicht mehr allzu viel zustande.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803278",
+      "event": {
+        "id": "21368914",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:36"
+      },
+      "tickertime": "28.09.2016 22:36:33",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803279",
+      "tickertime": "28.09.2016 22:36:43",
+      "minute": "90",
+      "content": "Steven Bergwijn zeigt mitten im Strafraum seine Technik und setzt sich mit einer gedrehten Finte wunderschön durch. Kurz vor einem Torschuss eilt Miha Mevlja herbei und beendet die Aktion. PSV will den Dreier!",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803280",
+      "event": {
+        "id": "21368915",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:36"
+      },
+      "tickertime": "28.09.2016 22:36:49",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305404"
     }
   ]
 }
