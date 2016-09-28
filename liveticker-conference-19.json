@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "63",
+      "current_minute": "64",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -184,7 +184,7 @@
           "place": "home"
         },
         {
-          "match_result": "0",
+          "match_result": "1",
           "match_result_at": "0",
           "place": "away"
         },
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4902,7 +4902,7 @@
       },
       "tickertime": "28.09.2016 21:58:52",
       "minute": "57",
-      "content": "<b>Gelbe Karte für Thiago Motta (Paris Saint-Germain)</b> <br/>",
+      "content": "<b>Gelbe Karte für Thiago Motta (Paris Saint-Germain)</b> <br/> Für sein Einsteigen erhält Motta zudem noch die Gelbe Karte.",
       "match_id": "8305371"
     },
     {
@@ -6074,11 +6074,106 @@
       "match_id": "8305396"
     },
     {
+      "id": "1803013",
+      "tickertime": "28.09.2016 22:06:21",
+      "minute": "64",
+      "content": "Für den Achter von PSV geht es tatsächlich leider nicht weiter. Bergwijn ist nun im Spiel.",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803003",
       "tickertime": "28.09.2016 22:06:41",
       "minute": "62",
       "content": "Sergiy Rebrov muss etwas probieren und wirft frische Beine für die Offensive in die Partie.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1803007",
+      "tickertime": "28.09.2016 22:07:14",
+      "minute": "63",
+      "content": "Auf der anderen Seite hat Beşiktaş die nächste Chance: Quaresma zieht von links in die Mitte und schlenzt das Leder knapp an der langen Ecke vorbei.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803009",
+      "event": {
+        "id": "21368430",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "13081",
+          "name": "Arda Turan",
+          "firstname": "Arda",
+          "surname": "Turan",
+          "fullname": "Arda Turan",
+          "gender": "male",
+          "birthday": "30.01.1987",
+          "height": "177",
+          "weight": "76",
+          "person_detail": {
+            "id": "13082",
+            "position_1": "8",
+            "position_2": "6",
+            "preferred_side": "both",
+            "birth_place": "Fatih",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "219"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "1:1",
+        "kind": "right-foot",
+        "minute": "65",
+        "additional_person": {
+          "id": "152036",
+          "name": "Neymar",
+          "firstname": "",
+          "surname": "Neymar",
+          "fullname": "Neymar da Silva Santos Júnior",
+          "gender": "male",
+          "birthday": "05.02.1992",
+          "height": "174",
+          "weight": "64",
+          "person_detail": {
+            "id": "141384",
+            "position_1": "10",
+            "position_2": "11",
+            "preferred_side": "right",
+            "birth_place": "Mogi das Cruzes",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "created": "28.09.2016 22:07"
+      },
+      "tickertime": "28.09.2016 22:07:26",
+      "minute": "65",
+      "content": "<b>Tooor für FC Barcelona, 1:1 durch Arda Turan</b> <br/>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803011",
+      "tickertime": "28.09.2016 22:07:34",
+      "minute": "62",
+      "content": "Jetzt ist die Messe im San Paolo natürlich längst gelesen. Der Torhunger des SSC Neapel scheint aber noch längst nicht gestillt zu sein. Wer will nochmal, wer hat noch nicht?",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803014",
+      "tickertime": "28.09.2016 22:07:45",
+      "minute": "66",
+      "content": "Nach kurzer Pause schalten sich die Gastgeber dann doch wieder in der Offensive ein. Ein hoher Ball aus dem Mittelfeld wird lang und länger und kommt schließlich im Sechzehner herunter, wo Walcott dem Leder hinterher hechtet, aber dann doch ein bisschen zu langsam ist und verpasst.",
+      "match_id": "8305360"
     }
   ]
 }
