@@ -3257,6 +3257,162 @@
     "created": "28.09.2016 21:48:09"
   },
   {
+    "id": "21368413",
+    "team": {
+      "id": "209",
+      "name": "Bayern München",
+      "shortname": "FC Bayern",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "209",
+        "members": "277000",
+        "fullname": "Fußball-Club Bayern München",
+        "foundation": "1900-02-27",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "81",
+        "name": "Allianz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "81",
+          "capacity": "75000",
+          "built": "2005"
+        }
+      }
+    },
+    "team_person": {
+      "id": "399657",
+      "shirtnumber": "25",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "3249",
+      "name": "Thomas Müller",
+      "firstname": "Thomas",
+      "surname": "Müller",
+      "fullname": "Thomas Müller",
+      "gender": "male",
+      "birthday": "13.09.1989",
+      "height": "186",
+      "weight": "74",
+      "person_detail": {
+        "id": "96744",
+        "position_1": "8",
+        "position_2": "11",
+        "preferred_side": "right",
+        "birth_place": "Weilheim",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "59",
+    "additional_person_id": "0",
+    "created": "28.09.2016 22:02:04"
+  },
+  {
+    "id": "21368414",
+    "team": {
+      "id": "209",
+      "name": "Bayern München",
+      "shortname": "FC Bayern",
+      "microname": "FCB",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "209",
+        "members": "277000",
+        "fullname": "Fußball-Club Bayern München",
+        "foundation": "1900-02-27",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "81",
+        "name": "Allianz Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "81",
+          "capacity": "75000",
+          "built": "2005"
+        }
+      }
+    },
+    "team_person": {
+      "id": "365365",
+      "shirtnumber": "10",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "19538",
+      "name": "Arjen Robben",
+      "firstname": "Arjen",
+      "surname": "Robben",
+      "fullname": "Arjen Robben",
+      "gender": "male",
+      "birthday": "23.01.1984",
+      "height": "180",
+      "weight": "80",
+      "person_detail": {
+        "id": "3819",
+        "position_1": "12",
+        "position_2": "9",
+        "preferred_side": "left",
+        "birth_place": "Bedum",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande",
+          "code": "NED",
+          "iso": "NL"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "59",
+    "additional_person_id": "0",
+    "created": "28.09.2016 22:02:12"
+  },
+  {
     "id": "774007",
     "team": {
       "id": "162",
