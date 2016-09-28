@@ -12,6 +12,7 @@ done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
 curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
 curl --compressed -s "http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2016-17/2/3685876/livematch_madrid-atletico_bayern-muenchen-14.html" > "kicker-8305396.html"; \
+curl --compressed -s http://sport.bild.de/fussball/champions-league/konferenz-ticker | lynx -dump -stdin -nolist > "bild-8305396.txt"; \
 git add . && git commit -m "update"'
 
 
