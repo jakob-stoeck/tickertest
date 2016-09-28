@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "50",
+      "current_minute": "51",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "50",
+      "current_minute": "51",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -126,9 +126,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:31:47",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:50:10",
+      "current_minute": "47",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "49",
+      "current_minute": "50",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "49",
+      "current_minute": "50",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -3915,7 +3915,7 @@
       },
       "tickertime": "28.09.2016 21:48:26",
       "minute": "47",
-      "content": "<b>Tooor für Celtic FC, 3:2 durch Moussa Dembélé</b> <br/>",
+      "content": "<b>Tooor für Celtic FC, 3:2 durch Moussa Dembélé</b> <br/>Wahnsinn! Es geht los wie in Hälfte Eins! Kolarov kann eine Flanke von Tierney nicht klären, sodass Dembélé sieben Meter vor dem Tor unverhofft an die Kugel kommt. Der Stürmer der Bhoys legt nimmt sehenswert aus der Drehung mit rechts ins linke untere Eck zur erneuten Führung für die Gastgeber.",
       "match_id": "8305389"
     },
     {
@@ -3977,6 +3977,163 @@
       "minute": "45",
       "content": "Das Tornetz hat sich zu einem Teil von der Querlatte gelöst. Die Verantwortlichen nehmen sich der Sache nun an und so kann es dann auch in wenigen Minuten losgehen.",
       "match_id": "8305383"
+    },
+    {
+      "id": "1802865",
+      "event": {
+        "id": "21368295",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:50"
+      },
+      "tickertime": "28.09.2016 21:50:10",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802866",
+      "event": {
+        "id": "21368296",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "person": {
+          "id": "14959",
+          "name": "Raffael",
+          "firstname": "",
+          "surname": "Raffael",
+          "fullname": "Raffael Caetano de Araújo",
+          "gender": "male",
+          "birthday": "28.03.1985",
+          "height": "174",
+          "weight": "69",
+          "person_detail": {
+            "id": "34804",
+            "position_1": "11",
+            "position_2": "8",
+            "preferred_side": "both",
+            "birth_place": "Fortaleza",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "48",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:50"
+      },
+      "tickertime": "28.09.2016 21:50:22",
+      "minute": "48",
+      "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Raffael</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802868",
+      "event": {
+        "id": "21368297",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "person": {
+          "id": "26798",
+          "name": "Fabian Johnson",
+          "firstname": "Fabian",
+          "surname": "Johnson",
+          "fullname": "Fabian Marco Johnson",
+          "gender": "male",
+          "birthday": "11.12.1987",
+          "height": "183",
+          "weight": "74",
+          "person_detail": {
+            "id": "27569",
+            "position_1": "6",
+            "position_2": "3",
+            "preferred_side": "both",
+            "birth_place": "München",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "229"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "48",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:50"
+      },
+      "tickertime": "28.09.2016 21:50:30",
+      "minute": "48",
+      "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> Fabian Johnson</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802871",
+      "event": {
+        "id": "21368299",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "345837",
+          "name": "Natanael Pimienta",
+          "firstname": "",
+          "surname": "Natanael Pimienta",
+          "fullname": "Natanael Batista Pimenta",
+          "gender": "male",
+          "birthday": "25.12.1990",
+          "height": "166",
+          "weight": "64",
+          "person_detail": {
+            "id": "268373",
+            "position_1": "3",
+            "position_2": "0",
+            "preferred_side": "left",
+            "birth_place": "Cuiabá",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "50",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:50"
+      },
+      "tickertime": "28.09.2016 21:50:42",
+      "minute": "50",
+      "content": "<b>Gelbe Karte für Natanael Pimienta (PFC Ludogorets Razgrad)</b> <br/>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802872",
+      "tickertime": "28.09.2016 21:50:50",
+      "minute": "47",
+      "content": "Der FK spielt eine Ecke von links über Kalachev kurz aus und versucht dann über den Weißrussen und Tricks in den Strafraum zu gelangen. Der Plan funktioniert bei Pröpper, gegen Schwaab jedoch nicht mehr.",
+      "match_id": "8305404"
     }
   ]
 }
