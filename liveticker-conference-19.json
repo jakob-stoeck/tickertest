@@ -6,9 +6,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:31:00",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:46:01",
+      "current_minute": "46",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -46,9 +46,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:30:48",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:45:50",
+      "current_minute": "47",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -3144,7 +3144,7 @@
     {
       "id": "1802805",
       "tickertime": "28.09.2016 21:25:20",
-      "minute": "40",
+      "minute": "42",
       "content": "Eindhoven versucht den erneuten Rückstand früh zu egalisieren, trifft aber nur in Abseitsposition. Hendrix schickt Narsingh hinter die Viererkette, winkt aber bereits kurz nach dem Abspiel ab. Narsingh steht einen Meter im Abseits. Danach versenkt er zwar die Kugel, wird aber abgepfiffen.",
       "match_id": "8305404"
     },
@@ -3737,6 +3737,49 @@
       "minute": "45",
       "content": "<b>Halbzeitfazit:</b><br />Beşiktaş führt zwar verdient gegen Kiev, doch der Unterschied machte bis hierhin ein genialer Freistoß Quaresmas. Die Türken wirkten darüberhinaus zwar ein wenig potenter, echte Chancen gab es allerdings kaum. Da der ukrainische Gast sich bis dato aber überhaupt nicht nicht gefährlich zeigen konnte, geht die Geschichte im Hexenkessel Istanbul aber voll in Ordnung. Bis gleich!",
       "match_id": "8305372"
+    },
+    {
+      "id": "1802841",
+      "event": {
+        "id": "21368233",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:45"
+      },
+      "tickertime": "28.09.2016 21:45:50",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802842",
+      "event": {
+        "id": "21368234",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:46"
+      },
+      "tickertime": "28.09.2016 21:46:01",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802843",
+      "tickertime": "28.09.2016 21:46:19",
+      "minute": "46",
+      "content": "Der Ball rollt wieder! Beide Mannschaften kommen unverändert aus der Kabine.",
+      "match_id": "8305371"
     }
   ]
 }
