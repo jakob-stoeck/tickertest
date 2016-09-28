@@ -2019,30 +2019,7 @@
         "content": "2:1",
         "kind": "own-goal",
         "minute": "20",
-        "additional_person": {
-          "id": "340532",
-          "name": "Kieran Tierney",
-          "firstname": "Kieran",
-          "surname": "Tierney",
-          "fullname": "Kieran Tierney",
-          "gender": "male",
-          "birthday": "05.06.1997",
-          "height": "178",
-          "weight": "70",
-          "person_detail": {
-            "id": "264172",
-            "position_1": "0",
-            "position_2": "0",
-            "preferred_side": "unknown",
-            "birth_place": "Douglas",
-            "died": "no"
-          },
-          "country": [
-            {
-              "id": "181"
-            }
-          ]
-        },
+        "additional_person_id": "0",
         "created": "28.09.2016 21:06"
       },
       "tickertime": "28.09.2016 21:06:14",
