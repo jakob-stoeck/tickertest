@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "84",
+      "current_minute": "86",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "83",
+      "current_minute": "84",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -8663,6 +8663,13 @@
       "match_id": "8305389"
     },
     {
+      "id": "1803169",
+      "tickertime": "28.09.2016 22:21:52",
+      "minute": "79",
+      "content": "Steven Bergwijn mit einer tollen Aktion! Der Einwechselspieler setzt sich im Strafraum technisch stark gegen César Navas durch und kommt nach einer Finte zum Drehschuss von rechts. Soslan Dzhanaev bekommt die Finger dran, hat dann aber Glück, dass Miha Mevlja auf der Linie vor Siem de Jong klärt.",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803145",
       "event": {
         "id": "21368717",
@@ -8830,6 +8837,13 @@
       "match_id": "8305360"
     },
     {
+      "id": "1803168",
+      "tickertime": "28.09.2016 22:23:10",
+      "minute": "81",
+      "content": "Robben hat es auf dem Fuß! Nach einer feinen Passstaffette über Ribéry und Vidal wird der Niederländer per Doppelpass vor dem Strafraum der Gastgeber bedient. Der flache Schuss des Angreifers rauscht aber nur knapp rechts vorbei! Weiterhin will der Ball einfach nicht ins Tor.",
+      "match_id": "8305396"
+    },
+    {
       "id": "1803162",
       "tickertime": "28.09.2016 22:23:29",
       "minute": "82",
@@ -8842,6 +8856,34 @@
       "minute": "81",
       "content": "Ein Unentschieden nützt hier übrigens niemandem so richtig. Klar geht es am Ende auch um die Europa-League-Teilnahme, aber hinsichtlich der CL-Gruppe müsste man dieses Spiel schon gewinnen.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1803167",
+      "tickertime": "28.09.2016 22:24:33",
+      "minute": "83",
+      "content": "Mustafi und Steffen rauschen bei einem Duell auf dem rechten Flügel zusammen und bleiben mit schmerzverzerrtem Gesicht auf dem Rasen liegen. Die Beiden beißen aber die Zähne zusammen und sind schnell wieder mit von der Partie.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803170",
+      "tickertime": "28.09.2016 22:25:17",
+      "minute": "84",
+      "content": "Bei einem der seltenen Angriffe der Bulgaren versucht Jonathan Cafú auf ganz plumpe Weise einen Freistoß zu schinden. Thiago Silva berührt den Stürmer vor dem Strafraum zwar leicht am Knöchel, der Angreifer fällt jedoch wie vom Blitz getroffen zu Boden. Der Schiedsrichter winkt da auch sofort ab.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803171",
+      "tickertime": "28.09.2016 22:25:21",
+      "minute": "83",
+      "content": "<b>Elfmeter für Atlético!</b>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803172",
+      "tickertime": "28.09.2016 22:25:25",
+      "minute": "83",
+      "content": "Das war knapp! Fernandinho versucht es für City aus der Distanz und jagt einen echten Strahl aus gut 20 Metern ganz knapp über die Querlatte. Da wäre Gordon geschlagen gewesen.",
+      "match_id": "8305389"
     }
   ]
 }
