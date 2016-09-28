@@ -70,11 +70,11 @@
       ],
       "round_id": "67540",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period_start": "2016-09-28 21:45:50",
+      "finished": "yes",
+      "current_period_start": "2016-09-28 22:34:21",
       "current_minute": "90",
       "match_date": "28.09.2016",
-      "current_period": "second-half-start",
+      "current_period": "game-end",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -248,11 +248,11 @@
       ],
       "round_id": "67542",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period_start": "2016-09-28 21:46:45",
+      "finished": "yes",
+      "current_period_start": "2016-09-28 22:34:54",
       "current_minute": "90",
       "match_date": "28.09.2016",
-      "current_period": "second-half-start",
+      "current_period": "game-end",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -9744,7 +9744,7 @@
         "content": ""
       },
       "minute": "90",
-      "content": ""
+      "content": "Neymar ist mit einer Schiedsrichterentscheidung gar nicht zufrieden und macht seinem Ärger Luft. Dafür gibt es die Gelbe Karte!"
     },
     {
       "id": "1803244",
@@ -9824,14 +9824,50 @@
       "content": "Das deutsche Gespann legt drei Minuten obendrauf."
     },
     {
+      "id": "1803253",
+      "headline": "",
+      "tickertime": "28.09.2016 22:34:16",
+      "match_id": "8305371",
+      "minute": "90",
+      "content": "Jody Lukoki setzt in der Nachspielzeit zum Solo an und marschiert die linke Seitenauslinie hinunter. Vor dem Strafraum zieht er nach innen, seinen Abschluss kann Alphonse Aréola jedoch ohne Probleme mit beiden Händen fängen."
+    },
+    {
+      "id": "1803255",
+      "headline": "",
+      "tickertime": "28.09.2016 22:34:21",
+      "match_id": "8305371",
+      "event": {
+        "id": "21368908",
+        "kind": "game-end",
+        "action": "match",
+        "team_id": "0",
+        "person_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:34",
+        "minute": "90",
+        "content": ""
+      },
+      "minute": "90",
+      "content": "<b>Spielende</b>"
+    },
+    {
+      "id": "1803256",
+      "headline": "",
+      "tickertime": "28.09.2016 22:34:34",
+      "match_id": "8305396",
+      "minute": "90",
+      "content": "Gaitán ans Außennetz! Der Eckball landet rechts im Strafraum beim ebenfalls sträflich freistehenden Gaitán, welcher sofort abzieht, aber nur das Außennetz trifft. Es gibt fünf Minuten Nachspielzeit! Davon ist aber bereits eine Minute verstrichen."
+    },
+    {
       "id": "1803251",
       "headline": "",
       "tickertime": "28.09.2016 22:34:08",
       "match_id": "8305404",
       "event": {
         "id": "21368907",
-        "kind": "substitute-out",
+        "kind": "substitute",
         "action": "playing",
+        "minute": "90",
         "team": {
           "id": "791",
           "name": "FK Rostov"
@@ -9860,13 +9896,148 @@
           },
           "firstname": "Dmitriy"
         },
+        "additional_person_id": "27545",
+        "created": "28.09.2016 22:34",
+        "additional_person": {
+          "id": "27545",
+          "birthday": "08.12.1985",
+          "country": [
+            {
+              "id": "171"
+            }
+          ],
+          "name": "Andrei Prepelită",
+          "weight": "70",
+          "gender": "male",
+          "surname": "Prepelită",
+          "fullname": "Andrei Prepelită",
+          "height": "178",
+          "person_detail": {
+            "id": "44428",
+            "died": "no",
+            "position_2": "8",
+            "birth_place": "Slatina",
+            "position_1": "13",
+            "preferred_side": "right"
+          },
+          "firstname": "Andrei"
+        },
+        "content": ""
+      },
+      "minute": "90",
+      "content": "<span>Auswechslung bei FC Augsburg: Andrei Prepelită für Dmitriy Poloz</span>"
+    },
+    {
+      "id": "1803257",
+      "headline": "",
+      "tickertime": "28.09.2016 22:34:40",
+      "match_id": "8305396",
+      "event": {
+        "id": "21368909",
+        "kind": "substitute",
+        "action": "playing",
+        "minute": "90",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "163477",
+          "birthday": "21.03.1991",
+          "country": [
+            {
+              "id": "61"
+            }
+          ],
+          "name": "Antoine Griezmann",
+          "weight": "67",
+          "gender": "male",
+          "surname": "Griezmann",
+          "fullname": "Antoine Griezmann",
+          "height": "176",
+          "person_detail": {
+            "id": "152822",
+            "died": "no",
+            "position_2": "11",
+            "birth_place": "Mâcon",
+            "position_1": "12",
+            "preferred_side": "left"
+          },
+          "firstname": "Antoine"
+        },
+        "additional_person_id": "309149",
+        "created": "28.09.2016 22:34",
+        "additional_person": {
+          "id": "309149",
+          "birthday": "13.06.1993",
+          "country": [
+            {
+              "id": "66"
+            }
+          ],
+          "name": "Thomas Partey",
+          "weight": "75",
+          "gender": "male",
+          "surname": "Partey",
+          "fullname": "Thomas Teye Partey",
+          "height": "185",
+          "person_detail": {
+            "id": "235638",
+            "died": "no",
+            "position_2": "0",
+            "birth_place": "Odumase Krobo",
+            "position_1": "7",
+            "preferred_side": "right"
+          },
+          "firstname": "Thomas"
+        },
+        "content": ""
+      },
+      "minute": "90",
+      "content": "<span>Auswechslung bei FC Augsburg: Thomas Partey für Antoine Griezmann</span>"
+    },
+    {
+      "id": "1803266",
+      "headline": "",
+      "tickertime": "28.09.2016 22:34:54",
+      "match_id": "8305389",
+      "event": {
+        "id": "21368912",
+        "kind": "game-end",
+        "action": "match",
+        "team_id": "0",
+        "person_id": "0",
         "additional_person_id": "0",
         "created": "28.09.2016 22:34",
         "minute": "90",
         "content": ""
       },
       "minute": "90",
-      "content": "<span class=\"rottext\">Auswechslung bei FK Rostov -> Dmitriy Poloz</span>"
+      "content": "<b>Spielende</b>"
+    },
+    {
+      "id": "1803268",
+      "headline": "",
+      "tickertime": "28.09.2016 22:35:20",
+      "match_id": "8305372",
+      "minute": "90",
+      "content": "Huiiii! Ricardo Quaresma serviert von links, aber Artur Rudko fliegt heran und lenkt die Flanke ab. Da er im Fünfer ebenfalls angegangen wird, gibt es Freistoß."
+    },
+    {
+      "id": "1803269",
+      "headline": "",
+      "tickertime": "28.09.2016 22:35:24",
+      "match_id": "8305383",
+      "minute": "89",
+      "content": "Pepe Reina fliegt nochmal vogelwild durch den eigenen Strafraum und hat das große Glück, dass der Ausflug nicht bestraft wird von einem Portugiesen."
+    },
+    {
+      "id": "1803270",
+      "headline": "",
+      "tickertime": "28.09.2016 22:35:27",
+      "match_id": "8305396",
+      "minute": "90",
+      "content": "Diego Simeone dreht an der Uhr und nimmt Antoine Griezmann vom Platz. Der Franzose holt sich lautstarken Applaus von den Rängen ab. Für ihn ist in den letzten drei Minuten der defensive Thomas Partey neu dabei."
     }
   ]
 }
