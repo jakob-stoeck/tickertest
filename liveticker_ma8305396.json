@@ -389,7 +389,30 @@
       "content": "1:0",
       "kind": "left-foot",
       "minute": "35",
-      "additional_person_id": "0",
+      "additional_person": {
+        "id": "163477",
+        "name": "Antoine Griezmann",
+        "firstname": "Antoine",
+        "surname": "Griezmann",
+        "fullname": "Antoine Griezmann",
+        "gender": "male",
+        "birthday": "21.03.1991",
+        "height": "176",
+        "weight": "67",
+        "person_detail": {
+          "id": "152822",
+          "position_1": "12",
+          "position_2": "11",
+          "preferred_side": "left",
+          "birth_place": "Mâcon",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
       "created": "28.09.2016 21:22"
     },
     "tickertime": "28.09.2016 21:22:13",
