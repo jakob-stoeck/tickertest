@@ -1206,5 +1206,58 @@
     "headline": "",
     "content": "<b>Elfmeter verschossen von Antoine Griezmann, Atlético Madrid</b> <br/>Das ist ja ein Ding! Mit voller Wucht zimmert Griezmann die Kugel an die Latte! Neuer war da bereits geschlagen. Bayern bleibt damit also am Leben!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803198",
+    "tickertime": "28.09.2016 22:28:23",
+    "minute": "85",
+    "headline": "",
+    "content": "Direkt nach dem vergebenen Strafstoß rauschen Vidal und Saúl im Mittelfeld in vollem Tempo zusammen. Das Foul ging klar vom Münchener aus, der dafür auch Gelb sehen wird, nun aber erst einmal behandelt werden muss.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803202",
+    "event": {
+      "id": "21368837",
+      "team": {
+        "id": "209",
+        "name": "Bayern München"
+      },
+      "person": {
+        "id": "3122",
+        "name": "Arturo Vidal",
+        "firstname": "Arturo",
+        "surname": "Vidal",
+        "fullname": "Arturo Erasmo Vidal Pardo",
+        "gender": "male",
+        "birthday": "22.05.1987",
+        "height": "180",
+        "weight": "75",
+        "person_detail": {
+          "id": "43120",
+          "position_1": "7",
+          "position_2": "8",
+          "preferred_side": "right",
+          "birth_place": "Santiago de Chile",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "39"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "86",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:28"
+    },
+    "tickertime": "28.09.2016 22:28:33",
+    "minute": "86",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Arturo Vidal (Bayern München)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
