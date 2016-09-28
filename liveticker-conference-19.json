@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "62",
+      "current_minute": "63",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "61",
+      "current_minute": "62",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "63",
+      "current_minute": "64",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "63",
+      "current_minute": "64",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4712,7 +4712,7 @@
       },
       "tickertime": "28.09.2016 21:57:59",
       "minute": "56",
-      "content": "<b>Gelbe Karte für Blaise Matuidi (Paris Saint-Germain)</b> <br/>",
+      "content": "<b>Gelbe Karte für Blaise Matuidi (Paris Saint-Germain)</b> <br/> Blaise Matuidi steigt überhart im Mittelfeld ein und holt sich für die übertriebene Grätsche eine Verwarnung ab.",
       "match_id": "8305371"
     },
     {
@@ -5685,8 +5685,15 @@
       },
       "tickertime": "28.09.2016 22:02:58",
       "minute": "58",
-      "content": "<b>Tooor für SSC Napoli, 4:0 durch Dries Mertens</b> <br/>",
+      "content": "<b>Tooor für SSC Napoli, 4:0 durch Dries Mertens</b> <br/>Eine Flanke von der linken Seite segelt an den Fünfer der Gäste und Júlio César sollte den Ball eigentlich sicher haben. Pustekuchen! Er springt daran vorbei, das Spielgerät in der Folge an die Schulter von Arkadiusz Milik und von dort vor das Tor und die Füße von Dries Mertens. Der Belgier hat sicher schon kniffligere Aufgaben gelöst als das Ding hier aus kürzester Distanz über die Linie zu drücken.",
       "match_id": "8305383"
+    },
+    {
+      "id": "1802992",
+      "tickertime": "28.09.2016 22:03:02",
+      "minute": "60",
+      "content": "Hendrix muss nach einer Klärungs-Aktion am eigenen Sechzehner behandelt werden und muss zunächst vorm Platz.",
+      "match_id": "8305404"
     },
     {
       "id": "1802971",
@@ -5729,6 +5736,115 @@
       "minute": "61",
       "content": "Beide Teams leisten sich gerade ziemlich viele Fehlpässe im Aufbauspiel. City kommt zuerst wieder in die Spur und bekommt nach einem geblockten Agüero-Kopfball die nächste Ecke zugesprochen. Diese bringt dann aber keine Gefahr.",
       "match_id": "8305389"
+    },
+    {
+      "id": "1802983",
+      "event": {
+        "id": "21368421",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "14431",
+          "name": "Jérôme Boateng",
+          "firstname": "Jérôme",
+          "surname": "Boateng",
+          "fullname": "Jérôme Agyenim Boateng",
+          "gender": "male",
+          "birthday": "03.09.1988",
+          "height": "192",
+          "weight": "90",
+          "person_detail": {
+            "id": "44336",
+            "position_1": "4",
+            "position_2": "5",
+            "preferred_side": "right",
+            "birth_place": "Berlin",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "62",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:05"
+      },
+      "tickertime": "28.09.2016 22:05:11",
+      "minute": "62",
+      "content": "<span class=\"rottext\">Auswechslung bei Bayern München -> Jérôme Boateng</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802986",
+      "event": {
+        "id": "21368422",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "3214",
+          "name": "Mats Hummels",
+          "firstname": "Mats",
+          "surname": "Hummels",
+          "fullname": "Mats Julian Hummels",
+          "gender": "male",
+          "birthday": "16.12.1988",
+          "height": "192",
+          "weight": "92",
+          "person_detail": {
+            "id": "50229",
+            "position_1": "4",
+            "position_2": "7",
+            "preferred_side": "right",
+            "birth_place": "Bergisch Gladbach",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "62",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:05"
+      },
+      "tickertime": "28.09.2016 22:05:18",
+      "minute": "62",
+      "content": "<span class=\"gruentext\">Einwechslung bei Bayern München -> Mats Hummels</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802989",
+      "tickertime": "28.09.2016 22:05:22",
+      "minute": "64",
+      "content": "Inzwischen hat der FC Arsenal zwei Gänge zurückgeschaltet, zieht sich zurück und überlasst den Schweizern das Feld. In Gefahr begeben sich die Hausherren auch im Schongang jedoch nicht, bis plötzlich Bjarnason am langen Pfosten den Fuß in eine Hereingabe hält und das linke Eck nur um einen guten Meter verfehlt.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802990",
+      "tickertime": "28.09.2016 22:05:23",
+      "minute": "61",
+      "content": "<b>Von wegen!</b> Kaum geschrieben, ist der Offensive plötzlich frei durch und köpft nur knapp daneben. Artur Rudko war aus seinem Kasten geeilt und konnte noch entscheidend stören. Die Zuschauer fordern Elfmeter, weil der Einsatz des Keepers ein wenig wild aussah, aber da war nichts.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802993",
+      "tickertime": "28.09.2016 22:05:54",
+      "minute": "63",
+      "content": "Eine Aktion, sinnbildlich für den Auftritt der Gladbacher. Der 19-Jährige Elvedi kocht Weltstar Suarez in einem Laufduell mit Leichtigkeit ab und bekommt dafür den Applaus der 45000 Zuschauer.",
+      "match_id": "8305385"
     }
   ]
 }
