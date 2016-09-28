@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "72",
+      "current_minute": "73",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -144,7 +144,7 @@
           "place": "home"
         },
         {
-          "match_result": "0",
+          "match_result": "1",
           "match_result_at": "0",
           "place": "away"
         },
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "74",
+      "current_minute": "75",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "74",
+      "current_minute": "75",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -7534,6 +7534,50 @@
       "match_id": "8305371"
     },
     {
+      "id": "1803095",
+      "event": {
+        "id": "21368631",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "138286",
+          "name": "Luciano Narsingh",
+          "firstname": "Luciano",
+          "surname": "Narsingh",
+          "fullname": "Luciano Narsingh",
+          "gender": "male",
+          "birthday": "13.09.1990",
+          "height": "175",
+          "weight": "75",
+          "person_detail": {
+            "id": "127644",
+            "position_1": "12",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Amsterdam",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "73",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:15"
+      },
+      "tickertime": "28.09.2016 22:15:19",
+      "minute": "73",
+      "content": "<span class=\"rottext\">Auswechslung bei PSV Eindhoven -> Luciano Narsingh</span>",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803080",
       "tickertime": "28.09.2016 22:15:24",
       "minute": "72",
@@ -7641,6 +7685,115 @@
       "minute": "74",
       "content": "<b>Tooor für FC Barcelona, 1:2 durch Piqué</b> <br/>",
       "match_id": "8305385"
+    },
+    {
+      "id": "1803091",
+      "event": {
+        "id": "21368629",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "person": {
+          "id": "118973",
+          "name": "Kieran Gibbs",
+          "firstname": "Kieran",
+          "surname": "Gibbs",
+          "fullname": "Kieran James Ricardo Gibbs",
+          "gender": "male",
+          "birthday": "26.09.1989",
+          "height": "178",
+          "weight": "64",
+          "person_detail": {
+            "id": "105197",
+            "position_1": "3",
+            "position_2": "6",
+            "preferred_side": "left",
+            "birth_place": "Lambeth",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "55"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "75",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:16"
+      },
+      "tickertime": "28.09.2016 22:16:13",
+      "minute": "75",
+      "content": "<span class=\"gruentext\">Einwechslung bei Arsenal FC -> Kieran Gibbs</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803092",
+      "tickertime": "28.09.2016 22:16:16",
+      "minute": "72",
+      "content": "Nach dem Ausgleich machen die Gäste plötzlich den besseren Eindruck. Fabricio kann einen Ball mit der Faust nur kurz klären. Denys Garmash steht bereit, verfehlt aber den Kasten aus 18 Metern.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803093",
+      "event": {
+        "id": "21368630",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "313568",
+          "name": "Gonçalo Guedes",
+          "firstname": "",
+          "surname": "Gonçalo Guedes",
+          "fullname": "Gonçalo Manuel Ganchinho Guedes",
+          "gender": "male",
+          "birthday": "29.11.1996",
+          "height": "175",
+          "weight": "64",
+          "person_detail": {
+            "id": "239310",
+            "position_1": "10",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Benavente",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "167"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "4:1",
+        "kind": "right-foot",
+        "minute": "71",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:16"
+      },
+      "tickertime": "28.09.2016 22:16:19",
+      "minute": "71",
+      "content": "<b>Tooor für SL Benfica, 4:1 durch Gonçalo Guedes</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803097",
+      "tickertime": "28.09.2016 22:17:03",
+      "minute": "73",
+      "content": "Immer lauter werden die Pfiffe gegen den Ballbesitz der Blauen. Istanbul tut sich in dieser Phase schwer.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803098",
+      "tickertime": "28.09.2016 22:17:04",
+      "minute": "76",
+      "content": "Damit haben die Gastgeber ihr Wechselkontingent voll ausgeschöpft. Der letzte, der Feierabend hat, ist Nacho Monreal. Für die Schlussviertelstunde kommt Kieran Gibbs beim FC Arsenal.",
+      "match_id": "8305360"
     }
   ]
 }
