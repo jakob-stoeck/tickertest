@@ -5,9 +5,9 @@
       "round_id": "67540",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:46:01",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:33:10",
       "current_minute": "90",
       "home": {
         "id": "127",
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "89",
+      "current_minute": "90",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "88",
+      "current_minute": "89",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -9962,6 +9962,66 @@
       "minute": "88",
       "content": "César Navas stützt sich 30 Meter vor dem Tor auf Luuk de Jong auf und verursacht einen Freistoß aus halbrechter Position. Jetzt folgt Ware für die großen Jungs von PSV!",
       "match_id": "8305404"
+    },
+    {
+      "id": "1803235",
+      "tickertime": "28.09.2016 22:32:23",
+      "minute": "90",
+      "content": "Puh. Eine Flanke von Lang landet ohne Not im Toraus. Noch 40 Sekunden.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803236",
+      "tickertime": "28.09.2016 22:32:31",
+      "minute": "90",
+      "content": "Der Mann des Tages verlässt den Platz. Cavani geht unter der Pfiffen der Heim-Fans in Richtung Trainerbank und klatscht mit dem Talent Jean-Kévin Augustin ab, das ihn vorne für die letzten Minuten ersetzen wird.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803237",
+      "tickertime": "28.09.2016 22:32:45",
+      "minute": "90",
+      "content": "Robben ist eben kein Kopfballungeheuer! Nach einer Flanke von Alaba über links kommt der Angreifer aus zehn Metern äußerst freistehend zum Kopfball, setzt ihn aber weit drüber! Ein Lewandowski hätte da wohl sehr viel mehr draus gemacht.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803238",
+      "tickertime": "28.09.2016 22:32:57",
+      "minute": "90",
+      "content": "Für eine Brechstange haben die Gladbacher schlicht nicht das nötige Spielermaterial, so dass es auch in den letzten Minuten spielerich gehen muss. Das gelingt allerdings nicht, aber drei Minuten bleiben den Gastgebern ja noch, denn Skomina packt eben diese Zeit oben drauf.",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803239",
+      "tickertime": "28.09.2016 22:32:59",
+      "minute": "90",
+      "content": "<b>Glanztat von Gordon!</b> Gündogan kommt 16 Meter vor dem Kssten erneut ganz frei zum Abschluss. Sein Rechtsschuss wird noch leicht abgefälscht und der Celtic-Keeper lenkt die Kugel mit einem Reflex gerade noch über den Kasten zur Ecke.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803240",
+      "tickertime": "28.09.2016 22:33:00",
+      "minute": "89",
+      "content": "Kurz danach bringt Ricardo Quaresma einen weiteren ruhenden Ball in den Strafraum, aber es kommt kein Mitspieler an den Ball.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803241",
+      "event": {
+        "id": "21368904",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:33"
+      },
+      "tickertime": "28.09.2016 22:33:10",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305360"
     }
   ]
 }
