@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -6373,6 +6373,50 @@
       "match_id": "8305396"
     },
     {
+      "id": "1803043",
+      "event": {
+        "id": "21368508",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "158679",
+          "name": "Denys Garmash",
+          "firstname": "Denys",
+          "surname": "Garmash",
+          "fullname": "Denys Viktorovych Garmash",
+          "gender": "male",
+          "birthday": "19.04.1990",
+          "height": "186",
+          "weight": "75",
+          "person_detail": {
+            "id": "148027",
+            "position_1": "13",
+            "position_2": "7",
+            "preferred_side": "right",
+            "birth_place": "Milove",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "225"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "65",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:09"
+      },
+      "tickertime": "28.09.2016 22:09:42",
+      "minute": "65",
+      "content": "<b>Gelbe Karte für Denys Garmash (Dinamo Kiev)</b> <br/>",
+      "match_id": "8305372"
+    },
+    {
       "id": "1803030",
       "tickertime": "28.09.2016 22:09:44",
       "minute": "66",
@@ -6435,6 +6479,166 @@
       "tickertime": "28.09.2016 22:10:40",
       "minute": "70",
       "content": "<span class=\"rottext\">Auswechslung bei Arsenal FC -> Alex Iwobi</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803035",
+      "tickertime": "28.09.2016 22:10:42",
+      "minute": "66",
+      "content": "Tja und so kann es gehen! Eben haben wir noch darüber gesprochen, dass ein 1:0 immer ein gefährliches Resultat ist und nun haben die Türken den Salat. Verdient ist das sicherlich eher nicht, aber das wird den Gästen ziemlich egal sein.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803037",
+      "event": {
+        "id": "21368505",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "person": {
+          "id": "305316",
+          "name": "Mohamed Elneny",
+          "firstname": "Mohamed",
+          "surname": "Elneny",
+          "fullname": "Mohamed Naser Elsayed Elneny",
+          "gender": "male",
+          "birthday": "11.07.1992",
+          "height": "180",
+          "weight": "70",
+          "person_detail": {
+            "id": "232941",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "al-Mahalla al-Kubra",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "2"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "70",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:10"
+      },
+      "tickertime": "28.09.2016 22:10:58",
+      "minute": "70",
+      "content": "<span class=\"gruentext\">Einwechslung bei Arsenal FC -> Mohamed Elneny</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803038",
+      "tickertime": "28.09.2016 22:11:04",
+      "minute": "65",
+      "content": "Neapel hat nun richtig Spaß am Spiel. Die zaghaften Angriffsbemühungen des demoralisierten Gegners pariert der Tabellenzweite der Serie A sehr gekonnt.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803039",
+      "tickertime": "28.09.2016 22:11:04",
+      "minute": "68",
+      "content": "Sterling dringt auf rechts mit dem Ball am Fuß in den Strafraum ein und bringt das Leder in die Mitte. Mit vereinten Kräften können drei Celtic-Verteidiger klären, bevor es gefährlich wird.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803040",
+      "event": {
+        "id": "21368506",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "221064",
+          "name": "André Carrillo",
+          "firstname": "André",
+          "surname": "Carrillo",
+          "fullname": "André Martín Carrillo Díaz",
+          "gender": "male",
+          "birthday": "14.06.1991",
+          "height": "181",
+          "weight": "69",
+          "person_detail": {
+            "id": "164350",
+            "position_1": "8",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Lima",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "164"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "65",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:11"
+      },
+      "tickertime": "28.09.2016 22:11:12",
+      "minute": "65",
+      "content": "<b>Gelbe Karte für André Carrillo (SL Benfica)</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803041",
+      "tickertime": "28.09.2016 22:11:15",
+      "minute": "68",
+      "content": "Gladbach darf sich von dem Gegentreffer jetzt nicht aus der Ruhe bringen lassen und muss weiter den Weg nach vorne suchen, denn so ist Barca verwundbar, das hat die erste Hälfte gezeigt.",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803042",
+      "event": {
+        "id": "21368507",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "person": {
+          "id": "1970",
+          "name": "Theo Walcott",
+          "firstname": "Theo",
+          "surname": "Walcott",
+          "fullname": "Theodore Walcott",
+          "gender": "male",
+          "birthday": "16.03.1989",
+          "height": "170",
+          "weight": "68",
+          "person_detail": {
+            "id": "42224",
+            "position_1": "11",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Newbury",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "55"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "70",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:11"
+      },
+      "tickertime": "28.09.2016 22:11:16",
+      "minute": "70",
+      "content": "<span class=\"rottext\">Auswechslung bei Arsenal FC -> Theo Walcott</span>",
       "match_id": "8305360"
     }
   ]
