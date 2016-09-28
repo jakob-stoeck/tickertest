@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "54",
+      "current_minute": "55",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "52",
+      "current_minute": "53",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -139,7 +139,7 @@
       },
       "match_result": [
         {
-          "match_result": "1",
+          "match_result": "2",
           "match_result_at": "0",
           "place": "home"
         },
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "55",
+      "current_minute": "56",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "54",
+      "current_minute": "55",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "54",
+      "current_minute": "55",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4302,7 +4302,7 @@
       },
       "tickertime": "28.09.2016 21:55:27",
       "minute": "53",
-      "content": "<b>Gelbe Karte für Andrés Guardado (PSV Eindhoven)</b> <br/>",
+      "content": "<b>Gelbe Karte für Andrés Guardado (PSV Eindhoven)</b> <br/>Der Flügel-Mann geht im Mittelfeld mit zur hart in eine Grätsche und bekommt die Verwarnung. Korrekte Entscheidung: Bereits vor einer Minute nahm der Mexikaner bei einer FK-Flanke die Hand zur Hilfe...",
       "match_id": "8305404"
     },
     {
@@ -4561,6 +4561,71 @@
       "minute": "53",
       "content": "Ricardo Quaresma wird auf der linken Angriffseite ein wenig rabiat ins Aus geblockt und bleibt kurz liegen. Am Ende ist alles halb so wild und der Freistoß bringt auch nichts ein.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1802913",
+      "event": {
+        "id": "21368390",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "person": {
+          "id": "1250",
+          "name": "Dries Mertens",
+          "firstname": "Dries",
+          "surname": "Mertens",
+          "fullname": "Dries Mertens",
+          "gender": "male",
+          "birthday": "06.05.1987",
+          "height": "168",
+          "weight": "60",
+          "person_detail": {
+            "id": "75418",
+            "position_1": "10",
+            "position_2": "8",
+            "preferred_side": "right",
+            "birth_place": "Leuven",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "23"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "2:0",
+        "kind": "direct-free-kick",
+        "minute": "51",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:56"
+      },
+      "tickertime": "28.09.2016 21:56:37",
+      "minute": "51",
+      "content": "<b>Tooor für SSC Napoli, 2:0 durch Dries Mertens</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802914",
+      "tickertime": "28.09.2016 21:56:40",
+      "minute": "56",
+      "content": "Nun können die Gäste in der gegnerischen Hälfte etwas an Ballsicherheit gewinnen, aber Arsenal hält den FCB ohne große Mühe vom eigenen Kasten fern und hat die Kugel auch blitzschnell wieder in den eigenen Reihen zurück.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802915",
+      "tickertime": "28.09.2016 21:57:03",
+      "minute": "54",
+      "content": "Luis Enrique reagiert zum ersten Mal und bringt Rafinha für Paco Alcácer, der Lionel Messi nicht mal im Ansatz ersetzen konnte und völlig blass blieb.",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802916",
+      "tickertime": "28.09.2016 21:57:13",
+      "minute": "53",
+      "content": "Die Bayern haben in diesen Minuten viel Ballbesitz, können aber nur wenig damit anfangen. Die Hausherren stehen tief und verlassen sich auf ihre bewährte Defensive. Können sie ja auch, nachdem man in den letzten Jahren durch die Bank äußerst wenige Gegentore hinnehmen musste.",
+      "match_id": "8305396"
     }
   ]
 }
