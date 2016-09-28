@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "74",
+      "current_minute": "75",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "72",
+      "current_minute": "73",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -7004,8 +7004,175 @@
       },
       "tickertime": "28.09.2016 22:12:59",
       "minute": "70",
-      "content": "<b>Gelbe Karte für Domagoj Vida (Dinamo Kiev)</b> <br/>",
+      "content": "<b>Gelbe Karte für Domagoj Vida (Dinamo Kiev)</b> <br/>Der Innenverteidiger setzt seinen Ellenbogen im Luftduell ein.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1803061",
+      "tickertime": "28.09.2016 22:13:43",
+      "minute": "70",
+      "content": "Lehnen sich beide Mannschaften etwas zurück und holen Luft für das nächste Tor? Aktuell ist die Luft etwas draußen. Aber kein Grund zur Sorge: Bislang fielen fast alle Tore aus dem Nichts.",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803062",
+      "tickertime": "28.09.2016 22:13:49",
+      "minute": "70",
+      "content": "Die Bayern bekommen weiterhin kein Tempo in ihr Spiel und sind zudem zu ungenau in den Pässen. So macht man es Atlético nicht sonderlich schwer, den knappen Vorsprung zu verteidigen. Robert Lewandowski hängt da ganz vorne völlig in der Luft und konnte kaum mal zeigen, was er kann.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803063",
+      "tickertime": "28.09.2016 22:14:00",
+      "minute": "71",
+      "content": "Der Guardiola-Elf fehlen trotz der Überlegenheit ein wenig die Ideen gegen gut gestaffelte Gastgeber. Ein Flankenwechsel ist etwas zu lang für den schnellen Sterling und Glasgow ist wieder in Ballbesitz.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803064",
+      "tickertime": "28.09.2016 22:14:05",
+      "minute": "72",
+      "content": "Die Partie ist kurz unterbrochen, da gleich drei Wechsel vollzogen werden müssen. Auf Seiten der Gastgber will Arséne Wenger offenbar schon seine Leistungsträger schonen und nimmt Iwobi und den Doppeltorschützen Walcott aus dem Spiel. Neu auf dem Rasen sind stattdessen Elneny und Oxlade-Chamberlain. FCB-Trainer Urs Fischer nimmt Zuffi aus der Partie und bringt für den Mittelfeldmann Mohamed Elyounoussi.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803065",
+      "event": {
+        "id": "21368519",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "274054",
+          "name": "Virgil Misidjan",
+          "firstname": "Virgil",
+          "surname": "Misidjan",
+          "fullname": "Virgil Misidjan",
+          "gender": "male",
+          "birthday": "24.07.1993",
+          "height": "173",
+          "weight": "70",
+          "person_detail": {
+            "id": "207922",
+            "position_1": "12",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Goirle",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "74",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:14"
+      },
+      "tickertime": "28.09.2016 22:14:06",
+      "minute": "74",
+      "content": "<span class=\"rottext\">Auswechslung bei PFC Ludogorets Razgrad -> Virgil Misidjan</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803066",
+      "event": {
+        "id": "21368520",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "238108",
+          "name": "Jody Lukoki",
+          "firstname": "Jody",
+          "surname": "Lukoki",
+          "fullname": "Jody Lukoki",
+          "gender": "male",
+          "birthday": "15.11.1992",
+          "height": "173",
+          "weight": "61",
+          "person_detail": {
+            "id": "179024",
+            "position_1": "12",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Kinshasa",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "51"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "74",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:14"
+      },
+      "tickertime": "28.09.2016 22:14:19",
+      "minute": "74",
+      "content": "<span class=\"gruentext\">Einwechslung bei PFC Ludogorets Razgrad -> Jody Lukoki</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803067",
+      "event": {
+        "id": "21368522",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "209542",
+          "name": "Yannick Ferreira-Carrasco",
+          "firstname": "Yannick",
+          "surname": "Ferreira-Carrasco",
+          "fullname": "Yannick Ferreira-Carrasco",
+          "gender": "male",
+          "birthday": "04.09.1993",
+          "height": "180",
+          "weight": "66",
+          "person_detail": {
+            "id": "200868",
+            "position_1": "6",
+            "position_2": "10",
+            "preferred_side": "right",
+            "birth_place": "Elsene",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "23"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "72",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:14"
+      },
+      "tickertime": "28.09.2016 22:14:20",
+      "minute": "72",
+      "content": "<span class=\"rottext\">Auswechslung bei Atlético Madrid -> Yannick Ferreira-Carrasco</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803070",
+      "tickertime": "28.09.2016 22:14:23",
+      "minute": "69",
+      "content": "Lorenzo Insigne macht sich intensiv warm und wird wohl in Kürze eingewechselt werden.",
+      "match_id": "8305383"
     }
   ]
 }
