@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "79",
+      "current_minute": "80",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "79",
+      "current_minute": "80",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "78",
+      "current_minute": "79",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -7622,6 +7622,13 @@
       "match_id": "8305404"
     },
     {
+      "id": "1803111",
+      "tickertime": "28.09.2016 22:15:19",
+      "minute": "73",
+      "content": "<b>Pröpper an die Latte!</b> Es bleibt dabei! Lange passiert nichts, aber dann folgen die Highlights! Der Elfer-Pechvogel bekommt das Leder 16 Meter vor dem Tor auf den linken Fuß und zieht sofort ab. Der Schuss kommt mit viel Technik und Effet, klatscht an das Lattenkreuz und fällt Dzhanaev danach genau in die Arme. Was für ein Schuss!",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803080",
       "tickertime": "28.09.2016 22:15:24",
       "minute": "72",
@@ -7947,6 +7954,64 @@
       "minute": "75",
       "content": "Starker Antritt von Torres gegen Hummels, der über rechts in den Strafraum eindringt, den Innenverteidiger abschüttelt und hoch an den langen Pfosten gibt. Dort kommt Griezmann gegen Lahm in hohem Bogen zum Kopfball, setzt ihn aber auch nur aufs Tordach. Abstoß.",
       "match_id": "8305396"
+    },
+    {
+      "id": "1803110",
+      "tickertime": "28.09.2016 22:19:05",
+      "minute": "79",
+      "content": "Ángel Di María steht für einen Freistoß aus 25 Metern bereit...",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803112",
+      "tickertime": "28.09.2016 22:19:11",
+      "minute": "78",
+      "content": "In dieser Phase plätschert das Spiel so vor sich hin. Arsenal ist weiter spielbestimmend und belagert die Hälfte des FCB, ihre Angriffe tragen die \"Gunners\" aber nur noch halbherzig vor. Das reicht allerdings, um weiterhin voll in Kontrolle zu sein. Von den Gästen kommt mittlerweile überhaupt nichts mehr.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803114",
+      "event": {
+        "id": "21368703",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "11544",
+          "name": "Birkir Bjarnason",
+          "firstname": "Birkir",
+          "surname": "Bjarnason",
+          "fullname": "Birkir Bjarnason",
+          "gender": "male",
+          "birthday": "27.05.1988",
+          "height": "182",
+          "weight": "75",
+          "person_detail": {
+            "id": "39661",
+            "position_1": "6",
+            "position_2": "13",
+            "preferred_side": "both",
+            "birth_place": "Akureyri",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "87"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "79",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:19"
+      },
+      "tickertime": "28.09.2016 22:19:29",
+      "minute": "79",
+      "content": "<span class=\"rottext\">Auswechslung bei FC Basel -> Birkir Bjarnason</span>",
+      "match_id": "8305360"
     }
   ]
 }
