@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "74",
+      "current_minute": "75",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -7578,6 +7578,50 @@
       "match_id": "8305404"
     },
     {
+      "id": "1803100",
+      "event": {
+        "id": "21368634",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "1178",
+          "name": "Siem de Jong",
+          "firstname": "Siem",
+          "surname": "de Jong",
+          "fullname": "Siem de Jong",
+          "gender": "male",
+          "birthday": "28.01.1989",
+          "height": "185",
+          "weight": "82",
+          "person_detail": {
+            "id": "95387",
+            "position_1": "8",
+            "position_2": "11",
+            "preferred_side": "right",
+            "birth_place": "Aigle",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "73",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:15"
+      },
+      "tickertime": "28.09.2016 22:15:19",
+      "minute": "73",
+      "content": "<span class=\"gruentext\">Einwechslung bei PSV Eindhoven -> Siem de Jong</span>",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803080",
       "tickertime": "28.09.2016 22:15:24",
       "minute": "72",
@@ -7683,7 +7727,7 @@
       },
       "tickertime": "28.09.2016 22:16:05",
       "minute": "74",
-      "content": "<b>Tooor für FC Barcelona, 1:2 durch Piqué</b> <br/>",
+      "content": "<b>Tooor für FC Barcelona, 1:2 durch Piqué</b> <br/>Ist das bitter! Yann Sommer beschert den Gästen den Ausgleich. Nach einem Eckball nimmt Suarez den Ball direkt, schießt aber genau auf Sommer, der den unplatzierten Schuss fallen lässt und genau vor die Füße von Pique legt, der aus kurzer Distanz zum 2:1 einschiebt.",
       "match_id": "8305385"
     },
     {
@@ -7794,6 +7838,101 @@
       "minute": "76",
       "content": "Damit haben die Gastgeber ihr Wechselkontingent voll ausgeschöpft. Der letzte, der Feierabend hat, ist Nacho Monreal. Für die Schlussviertelstunde kommt Kieran Gibbs beim FC Arsenal.",
       "match_id": "8305360"
+    },
+    {
+      "id": "1803099",
+      "event": {
+        "id": "21368633",
+        "team": {
+          "id": "1267",
+          "name": "Manchester City"
+        },
+        "person": {
+          "id": "228094",
+          "name": "Nolito",
+          "firstname": "",
+          "surname": "Nolito",
+          "fullname": "Manuel Agudo Durán",
+          "gender": "male",
+          "birthday": "15.10.1986",
+          "height": "172",
+          "weight": "73",
+          "person_detail": {
+            "id": "170815",
+            "position_1": "10",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Sanlúcar de Barrameda",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "76",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:17"
+      },
+      "tickertime": "28.09.2016 22:17:13",
+      "minute": "76",
+      "content": "<span class=\"rottext\">Auswechslung bei Manchester City -> Nolito</span>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803102",
+      "tickertime": "28.09.2016 22:17:19",
+      "minute": "74",
+      "content": "Die Bayern verändern ihr System nun. Joshua Kimmich rückt aus der Mittelfeldzentrale nach rechts hinten und wird durch Philipp Lahm ersetzt. Scheinbar will der FCB-Kapitän aus dem Mittelfeld nun mehr Akzente setzen.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803104",
+      "event": {
+        "id": "21368636",
+        "team": {
+          "id": "1267",
+          "name": "Manchester City"
+        },
+        "person": {
+          "id": "8622",
+          "name": "Fernando",
+          "firstname": "",
+          "surname": "Fernando",
+          "fullname": "Fernando Francisco Reges",
+          "gender": "male",
+          "birthday": "25.07.1987",
+          "height": "185",
+          "weight": "70",
+          "person_detail": {
+            "id": "87866",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Brasília",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "76",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:17"
+      },
+      "tickertime": "28.09.2016 22:17:24",
+      "minute": "76",
+      "content": "<span class=\"gruentext\">Einwechslung bei Manchester City -> Fernando</span>",
+      "match_id": "8305389"
     }
   ]
 }
