@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -86,9 +86,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:33:44",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:48:44",
+      "current_minute": "46",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -237,7 +237,7 @@
       },
       "match_result": [
         {
-          "match_result": "2",
+          "match_result": "3",
           "match_result_at": "0",
           "place": "home"
         },
@@ -264,9 +264,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:32:26",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:48:09",
+      "current_minute": "47",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -322,9 +322,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:33:17",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:48:12",
+      "current_minute": "47",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -3821,7 +3821,7 @@
       },
       "tickertime": "28.09.2016 21:47:21",
       "minute": "46",
-      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "content": "<b>Anpfiff 2. Halbzeit</b>Auf geht's! 45 spannende Minuten trennen Borussia Mönchengladbach noch von der Sensation. Diese soll vorerst mit unverändertem Personal erreicht werden. Auch die Gäste haben nicht gewecheselt.",
       "match_id": "8305385"
     },
     {
@@ -3837,6 +3837,111 @@
       "minute": "48",
       "content": "PSG kommt mit Druck aus der Kabine. Cavani kommt vor dem Strafraum an den Ball und wird dann von Moţi umgeholzt, doch der Schiedsrichter lässt weiterlaufen. Das war eine Fehlentscheidung und bringt die Pariser um eine gute Torchance.",
       "match_id": "8305371"
+    },
+    {
+      "id": "1802850",
+      "event": {
+        "id": "21368237",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:48"
+      },
+      "tickertime": "28.09.2016 21:48:09",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802853",
+      "event": {
+        "id": "21368238",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:48"
+      },
+      "tickertime": "28.09.2016 21:48:13",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1802855",
+      "event": {
+        "id": "21368239",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "340368",
+          "name": "Moussa Dembélé",
+          "firstname": "Moussa",
+          "surname": "Dembélé",
+          "fullname": "Moussa Dembélé",
+          "gender": "male",
+          "birthday": "12.07.1996",
+          "height": "183",
+          "weight": "74",
+          "person_detail": {
+            "id": "264012",
+            "position_1": "11",
+            "position_2": "10",
+            "preferred_side": "left",
+            "birth_place": "Pontoise",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "61"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "3:2",
+        "kind": "right-foot",
+        "minute": "47",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:48"
+      },
+      "tickertime": "28.09.2016 21:48:26",
+      "minute": "47",
+      "content": "<b>Tooor für Celtic FC, 3:2 durch Moussa Dembélé</b> <br/>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802857",
+      "tickertime": "28.09.2016 21:48:38",
+      "minute": "46",
+      "content": "Der zweite Durchgang rollt!",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1802858",
+      "event": {
+        "id": "21368240",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:48"
+      },
+      "tickertime": "28.09.2016 21:48:44",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305372"
     }
   ]
 }
