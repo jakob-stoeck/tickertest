@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -139,7 +139,7 @@
       },
       "match_result": [
         {
-          "match_result": "2",
+          "match_result": "3",
           "match_result_at": "0",
           "place": "home"
         },
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4763,7 +4763,7 @@
       },
       "tickertime": "28.09.2016 21:58:15",
       "minute": "53",
-      "content": "<b>Gelbe Karte für Júlio César (SL Benfica)</b> <br/>José Callejon bekommt den Ball auf der rechten Seite im Strarfraum, dann kommt Julio Cèsar angerauscht und bringt den Angreifer zu Fall. Die gelbe Karte für den Torhüter und der <b>Elfmeter</B> für Neapel lässt nicht lang auf sich warten.",
+      "content": "<b>Gelbe Karte für Júlio César (SL Benfica)</b> <br/>José Callejon bekommt den Ball auf der rechten Seite im Strarfraum, dann kommt Julio Cèsar angerauscht und bringt den Angreifer zu Fall. Die gelbe Karte für den Torhüter und der <b>Elfmeter</b> für Neapel lässt nicht lang auf sich warten.",
       "match_id": "8305383"
     },
     {
@@ -4916,7 +4916,7 @@
       "id": "1802931",
       "tickertime": "28.09.2016 21:59:09",
       "minute": "55",
-      "content": "<b>Elfmter für PSV!</b>",
+      "content": "<b>Elfmeter für PSV!</b>",
       "match_id": "8305404"
     },
     {
@@ -5064,6 +5064,94 @@
       "minute": "57",
       "content": "<b>Elfmeter verschossen von Davy Pröpper, PSV Eindhoven</b> <br/>",
       "match_id": "8305404"
+    },
+    {
+      "id": "1802940",
+      "event": {
+        "id": "21368401",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "person": {
+          "id": "256093",
+          "name": "Arkadiusz Milik",
+          "firstname": "Arkadiusz",
+          "surname": "Milik",
+          "fullname": "Arkadiusz Milik",
+          "gender": "male",
+          "birthday": "28.02.1994",
+          "height": "186",
+          "weight": "78",
+          "person_detail": {
+            "id": "192743",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "left",
+            "birth_place": "Tychy",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "166"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "3:0",
+        "kind": "penalty",
+        "minute": "54",
+        "additional_person": {
+          "id": "8576",
+          "name": "José Callejón",
+          "firstname": "",
+          "surname": "José Callejón",
+          "fullname": "José María Callejón Bueno",
+          "gender": "male",
+          "birthday": "11.02.1987",
+          "height": "179",
+          "weight": "73",
+          "person_detail": {
+            "id": "100310",
+            "position_1": "11",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Motril",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "created": "28.09.2016 22:00"
+      },
+      "tickertime": "28.09.2016 22:00:12",
+      "minute": "54",
+      "content": "<b>Tooor für SSC Napoli, 3:0 durch Arkadiusz Milik</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802941",
+      "tickertime": "28.09.2016 22:00:23",
+      "minute": "58",
+      "content": "Erster Wechsel der Partie. Rodgers bringt nach einer knappen Stunde Armstrong für Rogić.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802942",
+      "tickertime": "28.09.2016 22:00:36",
+      "minute": "58",
+      "content": "Cosmin Moţi scheitert an Aréola! Der Elfmeterschütze verzögert den Anlauf und hat dann nicht mehr genug Schwung um den Schuss zu platzieren. Der PSG-Keeper ahnt die Ecke und kann den Ball abwehren.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802943",
+      "tickertime": "28.09.2016 22:00:56",
+      "minute": "57",
+      "content": "<b>Was macht der Gastgeber denn da?!</b> Tolgay Arslan schenkt das Leder vor dem eigenen Sechzehner her und eröffnet Denys Garmash die Schusschance. Doch der Schuss kommt aus 16 Metern zu zentral und gemessen an der Distanz hätte man raus durchaus mehr machen können.",
+      "match_id": "8305372"
     }
   ]
 }
