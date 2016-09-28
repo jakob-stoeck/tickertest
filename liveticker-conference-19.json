@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "61",
+      "current_minute": "62",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "63",
+      "current_minute": "64",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "63",
+      "current_minute": "64",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "62",
+      "current_minute": "63",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "62",
+      "current_minute": "63",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4508,7 +4508,7 @@
       },
       "tickertime": "28.09.2016 21:56:14",
       "minute": "55",
-      "content": "<b>Tooor für Paris Saint-Germain, 1:2 durch Edinson Cavani</b> <br/> Der Ball kommt mit viel Effet in den Strafraum, wo Cavani den Kopf an die Flanke bekommt und entscheidend abfälscht.",
+      "content": "<b>Tooor für Paris Saint-Germain, 1:2 durch Edinson Cavani</b> <br/> Der Ball kommt mit viel Effet in den Strafraum, wo Cavani den Kopf an die Flanke bekommt und entscheidend abfälscht. Durch den Schnitt flattert die Kugel leicht, Stoyanov sieht da trotzdem nicht gut aus: Erst möchte er herauskommen, lässt es dann sein und steht dann zu weit vor dem Tor, um den Kopfball von Cavani noch abzuwehren.",
       "match_id": "8305371"
     },
     {
@@ -5063,6 +5063,50 @@
       "tickertime": "28.09.2016 21:59:31",
       "minute": "57",
       "content": "<b>Gelbe Karte für César Navas (FK Rostov)</b> <br/>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1802978",
+      "event": {
+        "id": "21368418",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "278894",
+          "name": "Jorrit Hendrix",
+          "firstname": "Jorrit",
+          "surname": "Hendrix",
+          "fullname": "Jorrit Hendrix",
+          "gender": "male",
+          "birthday": "06.02.1995",
+          "height": "181",
+          "weight": "71",
+          "person_detail": {
+            "id": "212568",
+            "position_1": "7",
+            "position_2": "4",
+            "preferred_side": "left",
+            "birth_place": "Panningen",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "57",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:59"
+      },
+      "tickertime": "28.09.2016 21:59:31",
+      "minute": "57",
+      "content": "<b>Gelbe Karte für Jorrit Hendrix (PSV Eindhoven)</b> <br/>",
       "match_id": "8305404"
     },
     {
@@ -5664,6 +5708,27 @@
       "minute": "60",
       "content": "Thiago muss jetzt aufpassen! Bereits mit Gelb verwarnt, räumt der Spanier nun Carrasco im Mittelfeld ab. Schiedsrichter Marciniak lässt Gnade walten und den Münchener weiterspielen. Recht viel mehr darf sich Thiago nun nicht mehr erlauben.",
       "match_id": "8305396"
+    },
+    {
+      "id": "1802977",
+      "tickertime": "28.09.2016 22:04:04",
+      "minute": "61",
+      "content": "Anderson Talisca schickt einen langen Ball in die Spitze direkt in die Arme von Artur Rudko. Von dem Mann der ersten Minuten ist mittlerweile nicht mehr viel zu sehen.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802980",
+      "tickertime": "28.09.2016 22:04:30",
+      "minute": "61",
+      "content": "Die Hausherren zeigen sich mal wieder in der Offensive. Saúl zieht von der rechten Seite in die Mitte und schießt aus gut 30 Metern. Klar rechts vorbei. Damit stellt er Neuer nicht auf die Probe.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802981",
+      "tickertime": "28.09.2016 22:04:50",
+      "minute": "61",
+      "content": "Beide Teams leisten sich gerade ziemlich viele Fehlpässe im Aufbauspiel. City kommt zuerst wieder in die Spur und bekommt nach einem geblockten Agüero-Kopfball die nächste Ecke zugesprochen. Diese bringt dann aber keine Gefahr.",
+      "match_id": "8305389"
     }
   ]
 }
