@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "51",
+      "current_minute": "52",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "51",
+      "current_minute": "52",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "50",
+      "current_minute": "51",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "50",
+      "current_minute": "51",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "49",
+      "current_minute": "50",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "49",
+      "current_minute": "50",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4125,7 +4125,7 @@
       },
       "tickertime": "28.09.2016 21:50:42",
       "minute": "50",
-      "content": "<b>Gelbe Karte für Natanael Pimienta (PFC Ludogorets Razgrad)</b> <br/>",
+      "content": "<b>Gelbe Karte für Natanael Pimienta (PFC Ludogorets Razgrad)</b> <br/> Der Torschütze steigt an der linken Seitenauslinie überhart gegen Aurier ein. Mit gestrecktem Bein fährt er dem Rechsverteidiger in die Parade und wird dafür zu Recht verwarnt.",
       "match_id": "8305371"
     },
     {
@@ -4134,6 +4134,27 @@
       "minute": "47",
       "content": "Der FK spielt eine Ecke von links über Kalachev kurz aus und versucht dann über den Weißrussen und Tricks in den Strafraum zu gelangen. Der Plan funktioniert bei Pröpper, gegen Schwaab jedoch nicht mehr.",
       "match_id": "8305404"
+    },
+    {
+      "id": "1802875",
+      "tickertime": "28.09.2016 21:51:02",
+      "minute": "49",
+      "content": "Auf der anderen Seite kann sich Fransson ausnahmsweise mal auf dem linken Flügel durchsetzen und in Richtung Grundlinie marschieren. Der Mittelfeldmann flankt schließlich in die Gefahrenzone, bis jedoch der Pfiff des Schiedsrichters ertönt, weil der Ball bei der Hereingabe von Fransson bereits im Toraus war.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802877",
+      "tickertime": "28.09.2016 21:51:19",
+      "minute": "46",
+      "content": "Zwei Stadionmitarbeiter nehmen einen dritten Huckepack und der fixiert das Netz mit zwei langen Streifen Klebeband wieder an die Querlatte. So wird's gemacht!",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802879",
+      "tickertime": "28.09.2016 21:51:42",
+      "minute": "48",
+      "content": "Das ist bitter für Gladbach und auch für den Brasilianer. Der Angreifer muss mit muskulären Problemen vom Rasen, hatte deshalb schon am Wochenende pausiert. Für den Offensivmann ist nun Fabian Johnson mit von der Partie.",
+      "match_id": "8305385"
     }
   ]
 }
