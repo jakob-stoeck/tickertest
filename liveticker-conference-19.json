@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "74",
+      "current_minute": "75",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -184,7 +184,7 @@
           "place": "home"
         },
         {
-          "match_result": "1",
+          "match_result": "2",
           "match_result_at": "0",
           "place": "away"
         },
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4614,6 +4614,50 @@
       "match_id": "8305360"
     },
     {
+      "id": "1803083",
+      "event": {
+        "id": "21368622",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "385830",
+          "name": "Jonathan Cafú",
+          "firstname": "",
+          "surname": "Jonathan Cafú",
+          "fullname": "Jonathan Cafú",
+          "gender": "male",
+          "birthday": "10.07.1991",
+          "height": "175",
+          "weight": "0",
+          "person_detail": {
+            "id": "305014",
+            "position_1": "12",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Piracicaba",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "55",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:56"
+      },
+      "tickertime": "28.09.2016 21:56:59",
+      "minute": "55",
+      "content": "<b>Gelbe Karte für Jonathan Cafú (PFC Ludogorets Razgrad)</b> <br/>",
+      "match_id": "8305371"
+    },
+    {
       "id": "1802915",
       "tickertime": "28.09.2016 21:57:03",
       "minute": "54",
@@ -6950,6 +6994,94 @@
       "match_id": "8305372"
     },
     {
+      "id": "1803084",
+      "event": {
+        "id": "21368623",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "221064",
+          "name": "André Carrillo",
+          "firstname": "André",
+          "surname": "Carrillo",
+          "fullname": "André Martín Carrillo Díaz",
+          "gender": "male",
+          "birthday": "14.06.1991",
+          "height": "181",
+          "weight": "69",
+          "person_detail": {
+            "id": "164350",
+            "position_1": "8",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Lima",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "164"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "67",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:12"
+      },
+      "tickertime": "28.09.2016 22:12:23",
+      "minute": "67",
+      "content": "<span class=\"rottext\">Auswechslung bei SL Benfica -> André Carrillo</span>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803087",
+      "event": {
+        "id": "21368625",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "313568",
+          "name": "Gonçalo Guedes",
+          "firstname": "",
+          "surname": "Gonçalo Guedes",
+          "fullname": "Gonçalo Manuel Ganchinho Guedes",
+          "gender": "male",
+          "birthday": "29.11.1996",
+          "height": "175",
+          "weight": "64",
+          "person_detail": {
+            "id": "239310",
+            "position_1": "10",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Benavente",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "167"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "67",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:12"
+      },
+      "tickertime": "28.09.2016 22:12:23",
+      "minute": "67",
+      "content": "<span class=\"gruentext\">Einwechslung bei SL Benfica -> Gonçalo Guedes</span>",
+      "match_id": "8305383"
+    },
+    {
       "id": "1803055",
       "tickertime": "28.09.2016 22:12:28",
       "minute": "71",
@@ -7400,6 +7532,115 @@
       "minute": "74",
       "content": "Ludogorets wechselt zum ersten Mal. Virgil Misidjan ging in der zweiten Halbzeit komplett unter und wird positionsgetreu durch den pfeilschnellen Jody Lukoki ersetzt.",
       "match_id": "8305371"
+    },
+    {
+      "id": "1803080",
+      "tickertime": "28.09.2016 22:15:24",
+      "minute": "72",
+      "content": "Diego Simeone wechselt zum ersten Mal und bringt Kevin Gameiro für Torschütze Yannick Carrasco. Für den FC Sevilla traf Gameiro letzte Saison, wie er nur wollte. Bei Atlético ist er weiterhin erstmal nur Ersatz.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803085",
+      "tickertime": "28.09.2016 22:15:49",
+      "minute": "73",
+      "content": "Nun reagiert auch Guardiola zum ersten Mal und bringt für die letzten knapp 20 Minuten Stones für Clichy.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803086",
+      "tickertime": "28.09.2016 22:15:52",
+      "minute": "74",
+      "content": "Dann wird endlich mal wieder Fußball gespielt: Mustafi leitet mit einem langen Pass auf Héctor Bellerín einen Angriff ein. Der Angreifer der \"Gunners\" zieht in den Strafraum, wird dort aber von Renato Steffen bedrängt und verliert die Kugel.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803088",
+      "event": {
+        "id": "21368627",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "person": {
+          "id": "4698",
+          "name": "Nacho Monreal",
+          "firstname": "",
+          "surname": "Nacho Monreal",
+          "fullname": "Ignacio Monreal Eraso",
+          "gender": "male",
+          "birthday": "26.02.1986",
+          "height": "178",
+          "weight": "72",
+          "person_detail": {
+            "id": "53266",
+            "position_1": "3",
+            "position_2": "0",
+            "preferred_side": "left",
+            "birth_place": "Pamplona",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "75",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:16"
+      },
+      "tickertime": "28.09.2016 22:16:02",
+      "minute": "75",
+      "content": "<span class=\"rottext\">Auswechslung bei Arsenal FC -> Nacho Monreal</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803089",
+      "event": {
+        "id": "21368628",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "9090",
+          "name": "Piqué",
+          "firstname": "",
+          "surname": "Piqué",
+          "fullname": "Gerard Piqué i Bernabéu",
+          "gender": "male",
+          "birthday": "02.02.1987",
+          "height": "192",
+          "weight": "85",
+          "person_detail": {
+            "id": "27486",
+            "position_1": "4",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Barcelona",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "1:2",
+        "kind": "right-foot",
+        "minute": "74",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:16"
+      },
+      "tickertime": "28.09.2016 22:16:05",
+      "minute": "74",
+      "content": "<b>Tooor für FC Barcelona, 1:2 durch Piqué</b> <br/>",
+      "match_id": "8305385"
     }
   ]
 }
