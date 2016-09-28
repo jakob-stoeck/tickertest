@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "63",
+      "current_minute": "64",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "62",
+      "current_minute": "63",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4858,7 +4858,7 @@
       "id": "1802927",
       "tickertime": "28.09.2016 21:58:34",
       "minute": "57",
-      "content": "<b>Elfmeter für Ludogorets!</b>",
+      "content": "<b>Elfmeter für Ludogorets!</b> Ludogorets hat die Chance auf den Ausgleich! Jonathan Cafú kommt im Strafraum zum Abschluss, in den sich Marquinhos wirft. Der Ball kommt wieder zum Stürmer der Gastgeber, der vom Elfmeterpunkt abziehen möchte. Vorher steigt ihm Motta noch auf den Fuß. Der Brasilianer fällt und es gibt zu Recht Elfmeter.",
       "match_id": "8305371"
     },
     {
@@ -5840,11 +5840,245 @@
       "match_id": "8305372"
     },
     {
+      "id": "1803004",
+      "event": {
+        "id": "21368428",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "349541",
+          "name": "Steven Bergwijn",
+          "firstname": "Steven",
+          "surname": "Bergwijn",
+          "fullname": "Steven Charles Bergwijn",
+          "gender": "male",
+          "birthday": "08.10.1997",
+          "height": "178",
+          "weight": "64",
+          "person_detail": {
+            "id": "271583",
+            "position_1": "10",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Amsterdam",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "63",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:05"
+      },
+      "tickertime": "28.09.2016 22:05:40",
+      "minute": "63",
+      "content": "<span class=\"gruentext\">Einwechslung bei PSV Eindhoven -> Steven Bergwijn</span>",
+      "match_id": "8305404"
+    },
+    {
       "id": "1802993",
       "tickertime": "28.09.2016 22:05:54",
       "minute": "63",
       "content": "Eine Aktion, sinnbildlich für den Auftritt der Gladbacher. Der 19-Jährige Elvedi kocht Weltstar Suarez in einem Laufduell mit Leichtigkeit ab und bekommt dafür den Applaus der 45000 Zuschauer.",
       "match_id": "8305385"
+    },
+    {
+      "id": "1802994",
+      "event": {
+        "id": "21368424",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "221602",
+          "name": "Derlis González",
+          "firstname": "Derlis",
+          "surname": "González",
+          "fullname": "Derlis Alberto González Galeano",
+          "gender": "male",
+          "birthday": "20.03.1994",
+          "height": "172",
+          "weight": "64",
+          "person_detail": {
+            "id": "164868",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Mariano Roque Alonso",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "163"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "62",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:06"
+      },
+      "tickertime": "28.09.2016 22:06:02",
+      "minute": "62",
+      "content": "<span class=\"rottext\">Auswechslung bei Dinamo Kiev -> Derlis González</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802995",
+      "event": {
+        "id": "21368425",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "1751",
+          "name": "Javier Mascherano",
+          "firstname": "Javier",
+          "surname": "Mascherano",
+          "fullname": "Javier Alejandro Mascherano",
+          "gender": "male",
+          "birthday": "08.06.1984",
+          "height": "174",
+          "weight": "74",
+          "person_detail": {
+            "id": "21911",
+            "position_1": "7",
+            "position_2": "4",
+            "preferred_side": "right",
+            "birth_place": "Rosario",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "63",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:06"
+      },
+      "tickertime": "28.09.2016 22:06:04",
+      "minute": "63",
+      "content": "<b>Gelbe Karte für Javier Mascherano (FC Barcelona)</b> <br/>Der Argentinier lässt gegen Johnson das Bein stehen, der mit einem Haken an ihm vorbei gegangen war. Klarer Fall, Gelbe Karte.",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802997",
+      "event": {
+        "id": "21368426",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "314202",
+          "name": "Viktor Tsygankov",
+          "firstname": "Viktor",
+          "surname": "Tsygankov",
+          "fullname": "Viktor Tsygankov",
+          "gender": "male",
+          "birthday": "15.11.1997",
+          "height": "0",
+          "weight": "0",
+          "person_detail": {
+            "id": "239945",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "225"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "62",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:06"
+      },
+      "tickertime": "28.09.2016 22:06:11",
+      "minute": "62",
+      "content": "<span class=\"gruentext\">Einwechslung bei Dinamo Kiev -> Viktor Tsygankov</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802998",
+      "event": {
+        "id": "21368427",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "278894",
+          "name": "Jorrit Hendrix",
+          "firstname": "Jorrit",
+          "surname": "Hendrix",
+          "fullname": "Jorrit Hendrix",
+          "gender": "male",
+          "birthday": "06.02.1995",
+          "height": "181",
+          "weight": "71",
+          "person_detail": {
+            "id": "212568",
+            "position_1": "7",
+            "position_2": "4",
+            "preferred_side": "left",
+            "birth_place": "Panningen",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "63",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:06"
+      },
+      "tickertime": "28.09.2016 22:06:11",
+      "minute": "63",
+      "content": "<span class=\"rottext\">Auswechslung bei PSV Eindhoven -> Jorrit Hendrix</span>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803000",
+      "tickertime": "28.09.2016 22:06:16",
+      "minute": "62",
+      "content": "Zweiter Wechsel bei den Bayern: Mats Hummels kommt wie abgesprochen für Jérôme Boateng. Weiterhin wechseln sich die beiden deutschen Nationalspieler also in der Innenverteidigung neben Javi Martínez ab.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803003",
+      "tickertime": "28.09.2016 22:06:41",
+      "minute": "62",
+      "content": "Sergiy Rebrov muss etwas probieren und wirft frische Beine für die Offensive in die Partie.",
+      "match_id": "8305372"
     }
   ]
 }
