@@ -116,8 +116,8 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:45:50",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:31:47",
       "current_minute": "45",
       "home": {
         "id": "1794",
@@ -136,6 +136,16 @@
         {
           "match_result": "0",
           "match_result_at": "0",
+          "place": "away"
+        },
+        {
+          "match_result": "1",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "0",
+          "match_result_at": "1",
           "place": "away"
         }
       ]
@@ -244,9 +254,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:47:19",
-      "current_minute": "44",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:32:26",
+      "current_minute": "45",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -264,6 +274,16 @@
         {
           "match_result": "0",
           "match_result_at": "0",
+          "place": "away"
+        },
+        {
+          "match_result": "1",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "0",
+          "match_result_at": "1",
           "place": "away"
         }
       ],
@@ -3053,6 +3073,50 @@
       "match_id": "8305371"
     },
     {
+      "id": "1802811",
+      "event": {
+        "id": "21368135",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "person": {
+          "id": "264563",
+          "name": "Denis Terentyev",
+          "firstname": "Denis",
+          "surname": "Terentyev",
+          "fullname": "Denis Terentyev",
+          "gender": "male",
+          "birthday": "13.08.1992",
+          "height": "170",
+          "weight": "70",
+          "person_detail": {
+            "id": "199793",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "172"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "39",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:24"
+      },
+      "tickertime": "28.09.2016 21:24:20",
+      "minute": "39",
+      "content": "<b>Gelbe Karte für Denis Terentyev (FK Rostov)</b> <br/>",
+      "match_id": "8305404"
+    },
+    {
       "id": "1802769",
       "tickertime": "28.09.2016 21:24:31",
       "minute": "38",
@@ -3462,6 +3526,49 @@
       "minute": "45",
       "content": "<b>Ende 1. Halbzeit</b>",
       "match_id": "8305385"
+    },
+    {
+      "id": "1802814",
+      "event": {
+        "id": "21368137",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:31"
+      },
+      "tickertime": "28.09.2016 21:31:47",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802815",
+      "tickertime": "28.09.2016 21:32:05",
+      "minute": "45",
+      "content": "Zwei Minuten gibt es obendrauf.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802816",
+      "event": {
+        "id": "21368139",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:32"
+      },
+      "tickertime": "28.09.2016 21:32:26",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305396"
     }
   ]
 }
