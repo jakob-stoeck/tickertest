@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "72",
+      "current_minute": "73",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -1133,7 +1133,7 @@
       "id": "1802577",
       "tickertime": "28.09.2016 20:49:42",
       "minute": "3",
-      "content": "Ein Aufschrei geht durch das Rund und wieder muss man sich mit dem leidigen Thema \"Handspiel oder kein Handspiel\" beschäftigen. Hazard geht über die rechte Seite und versucht das Leder an der Strafraumgrenze über den grätschenden Piquet in die Mitte zu flanken. Der spanische Innenverteidiger bekommt die Kugel an den Arm, eine Absicht oder unnatürliche Haltung war dort aber nicht zu erkennen. Dennoch gab es sicherlich schon für weniger einen Handelfmeter.",
+      "content": "Ein Aufschrei geht durch das Rund und wieder muss man sich mit dem leidigen Thema \"Handspiel oder kein Handspiel\" beschäftigen. Hazard geht über die rechte Seite und versucht das Leder an der Strafraumgrenze über den grätschenden Pique in die Mitte zu flanken. Der spanische Innenverteidiger bekommt die Kugel an den Arm, eine Absicht oder unnatürliche Haltung war dort aber nicht zu erkennen. Dennoch gab es sicherlich schon für weniger einen Handelfmeter.",
       "match_id": "8305385"
     },
     {
@@ -5117,6 +5117,50 @@
       "match_id": "8305372"
     },
     {
+      "id": "1803049",
+      "event": {
+        "id": "21368512",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "7550",
+          "name": "Cosmin Moţi",
+          "firstname": "Cosmin",
+          "surname": "Moţi",
+          "fullname": "Cosmin Iosif Moţi",
+          "gender": "male",
+          "birthday": "03.12.1984",
+          "height": "183",
+          "weight": "74",
+          "person_detail": {
+            "id": "37440",
+            "position_1": "4",
+            "position_2": "0",
+            "preferred_side": "left",
+            "birth_place": "Resita",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "171"
+            }
+          ]
+        },
+        "action": "special",
+        "content": "",
+        "kind": "missed-penalty",
+        "minute": "58",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:59"
+      },
+      "tickertime": "28.09.2016 21:59:37",
+      "minute": "58",
+      "content": "<b>Elfmeter verschossen von Cosmin Moţi, PFC Ludogorets Razgrad</b> <br/>Cosmin Moţi scheitert an Aréola! Der Elfmeterschütze verzögert den Anlauf und hat dann nicht mehr genug Schwung um den Schuss zu platzieren. Der PSG-Keeper ahnt die Ecke und kann den Ball abwehren.",
+      "match_id": "8305371"
+    },
+    {
       "id": "1802938",
       "event": {
         "id": "21368400",
@@ -5233,13 +5277,6 @@
       "minute": "58",
       "content": "Erster Wechsel der Partie. Rodgers bringt nach einer knappen Stunde Armstrong für Rogić.",
       "match_id": "8305389"
-    },
-    {
-      "id": "1802942",
-      "tickertime": "28.09.2016 22:00:36",
-      "minute": "58",
-      "content": "Cosmin Moţi scheitert an Aréola! Der Elfmeterschütze verzögert den Anlauf und hat dann nicht mehr genug Schwung um den Schuss zu platzieren. Der PSG-Keeper ahnt die Ecke und kann den Ball abwehren.",
-      "match_id": "8305371"
     },
     {
       "id": "1802943",
@@ -6413,7 +6450,7 @@
       },
       "tickertime": "28.09.2016 22:09:42",
       "minute": "65",
-      "content": "<b>Gelbe Karte für Denys Garmash (Dinamo Kiev)</b> <br/>",
+      "content": "<b>Gelbe Karte für Denys Garmash (Dinamo Kiev)</b> <br/>Der Offensive hat in den Nachwehen des Treffer noch den Karton gesehen. Warum war allerdings nicht zu sehen.",
       "match_id": "8305372"
     },
     {
@@ -6587,7 +6624,7 @@
       },
       "tickertime": "28.09.2016 22:11:12",
       "minute": "65",
-      "content": "<b>Gelbe Karte für André Carrillo (SL Benfica)</b> <br/>",
+      "content": "<b>Gelbe Karte für André Carrillo (SL Benfica)</b> <br/>Ein Foul im Mittelfeld bringt dem Peruaner André Carrillo eine gelbe Karte ein.",
       "match_id": "8305383"
     },
     {
@@ -6640,6 +6677,284 @@
       "minute": "70",
       "content": "<span class=\"rottext\">Auswechslung bei Arsenal FC -> Theo Walcott</span>",
       "match_id": "8305360"
+    },
+    {
+      "id": "1803044",
+      "event": {
+        "id": "21368509",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "person": {
+          "id": "172356",
+          "name": "Alex Oxlade-Chamberlain",
+          "firstname": "Alex",
+          "surname": "Oxlade-Chamberlain",
+          "fullname": "Alexander Mark David Oxlade-Chamberlain",
+          "gender": "male",
+          "birthday": "15.08.1993",
+          "height": "180",
+          "weight": "70",
+          "person_detail": {
+            "id": "161698",
+            "position_1": "12",
+            "position_2": "10",
+            "preferred_side": "unknown",
+            "birth_place": "Portsmouth",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "55"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "70",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:11"
+      },
+      "tickertime": "28.09.2016 22:11:29",
+      "minute": "70",
+      "content": "<span class=\"gruentext\">Einwechslung bei Arsenal FC -> Alex Oxlade-Chamberlain</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803045",
+      "event": {
+        "id": "21368510",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "9090",
+          "name": "Piqué",
+          "firstname": "",
+          "surname": "Piqué",
+          "fullname": "Gerard Piqué i Bernabéu",
+          "gender": "male",
+          "birthday": "02.02.1987",
+          "height": "192",
+          "weight": "85",
+          "person_detail": {
+            "id": "27486",
+            "position_1": "4",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Barcelona",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "70",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:11"
+      },
+      "tickertime": "28.09.2016 22:11:32",
+      "minute": "70",
+      "content": "<b>Gelbe Karte für Piqué (FC Barcelona)</b> <br/>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803048",
+      "event": {
+        "id": "21368511",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "11082",
+          "name": "Luca Zuffi",
+          "firstname": "Luca",
+          "surname": "Zuffi",
+          "fullname": "Luca Zuffi",
+          "gender": "male",
+          "birthday": "27.03.1990",
+          "height": "180",
+          "weight": "70",
+          "person_detail": {
+            "id": "91569",
+            "position_1": "13",
+            "position_2": "7",
+            "preferred_side": "left",
+            "birth_place": "Winterthur",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "183"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "71",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:11"
+      },
+      "tickertime": "28.09.2016 22:11:41",
+      "minute": "71",
+      "content": "<span class=\"rottext\">Auswechslung bei FC Basel -> Luca Zuffi</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803050",
+      "tickertime": "28.09.2016 22:11:44",
+      "minute": "69",
+      "content": "Luciano Narsingh wird zentral vor dem Kasten nicht angegriffen und kann im Vollsprint die gesamte Hintermannschaft von Rostov überlaufen. Am Ende ist das Tempo etwas zu hoch, ein versuchtes Abspiel auf de Jong geht weit daneben.",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803052",
+      "event": {
+        "id": "21368513",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "247418",
+          "name": "Mohamed Elyounoussi",
+          "firstname": "Mohamed",
+          "surname": "Elyounoussi",
+          "fullname": "Mohamed Elyounoussi",
+          "gender": "male",
+          "birthday": "04.08.1994",
+          "height": "178",
+          "weight": "70",
+          "person_detail": {
+            "id": "185451",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Al Hoceima",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "156"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "71",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:11"
+      },
+      "tickertime": "28.09.2016 22:11:51",
+      "minute": "71",
+      "content": "<span class=\"gruentext\">Einwechslung bei FC Basel -> Mohamed Elyounoussi</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803053",
+      "event": {
+        "id": "21368514",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "23461",
+          "name": "Adriano",
+          "firstname": "",
+          "surname": "Adriano",
+          "fullname": "Adriano Correia Claro",
+          "gender": "male",
+          "birthday": "26.10.1984",
+          "height": "172",
+          "weight": "67",
+          "person_detail": {
+            "id": "22686",
+            "position_1": "6",
+            "position_2": "3",
+            "preferred_side": "both",
+            "birth_place": "Curitiba",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "68",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:12"
+      },
+      "tickertime": "28.09.2016 22:12:12",
+      "minute": "68",
+      "content": "<span class=\"rottext\">Auswechslung bei Beşiktaş -> Adriano</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803054",
+      "event": {
+        "id": "21368515",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "139109",
+          "name": "Cenk Tosun",
+          "firstname": "Cenk",
+          "surname": "Tosun",
+          "fullname": "Cenk Tosun",
+          "gender": "male",
+          "birthday": "07.06.1991",
+          "height": "183",
+          "weight": "78",
+          "person_detail": {
+            "id": "128467",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Wetzlar",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "219"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "68",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:12"
+      },
+      "tickertime": "28.09.2016 22:12:23",
+      "minute": "68",
+      "content": "<span class=\"gruentext\">Einwechslung bei Beşiktaş -> Cenk Tosun</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803055",
+      "tickertime": "28.09.2016 22:12:28",
+      "minute": "71",
+      "content": "Paris dominiert jetzt die Partie und lässt die Gastgeber viel laufen. Die kommen jetzt kaum noch an den Ball und müssen viele Meter machen. Cavani ist jetzt die Anspielstation im Zentrum, die Matuidi und Verratti brauchen und ist bis jetzt stärster Mann der zweiten Hälfte.",
+      "match_id": "8305371"
     }
   ]
 }
