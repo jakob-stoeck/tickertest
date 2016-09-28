@@ -1291,5 +1291,103 @@
     "headline": "",
     "content": "Mit Ablauf der regulären Spielzeit kommt Godín nach einem Freistoß aus dem Mittelfeld links vor Neuer zum Schuss. Martínez wirft sich gerade noch so dazwischen und klärt zur Ecke.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803256",
+    "tickertime": "28.09.2016 22:34:34",
+    "minute": "90",
+    "headline": "",
+    "content": "Gaitán ans Außennetz! Der Eckball landet rechts im Strafraum beim ebenfalls sträflich freistehenden Gaitán, welcher sofort abzieht, aber nur das Außennetz trifft. Es gibt fünf Minuten Nachspielzeit! Davon ist aber bereits eine Minute verstrichen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803257",
+    "event": {
+      "id": "21368909",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "163477",
+        "name": "Antoine Griezmann",
+        "firstname": "Antoine",
+        "surname": "Griezmann",
+        "fullname": "Antoine Griezmann",
+        "gender": "male",
+        "birthday": "21.03.1991",
+        "height": "176",
+        "weight": "67",
+        "person_detail": {
+          "id": "152822",
+          "position_1": "12",
+          "position_2": "11",
+          "preferred_side": "left",
+          "birth_place": "Mâcon",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:34"
+    },
+    "tickertime": "28.09.2016 22:34:40",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Atlético Madrid -> Antoine Griezmann</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803262",
+    "event": {
+      "id": "21368911",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "309149",
+        "name": "Thomas Partey",
+        "firstname": "Thomas",
+        "surname": "Partey",
+        "fullname": "Thomas Teye Partey",
+        "gender": "male",
+        "birthday": "13.06.1993",
+        "height": "185",
+        "weight": "75",
+        "person_detail": {
+          "id": "235638",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Odumase Krobo",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "66"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "90",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:34"
+    },
+    "tickertime": "28.09.2016 22:34:48",
+    "minute": "90",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Atlético Madrid -> Thomas Partey</span>",
+    "syndicate": "heimspiel"
   }
 ]
