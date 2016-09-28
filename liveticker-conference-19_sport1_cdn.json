@@ -8298,6 +8298,14 @@
       "content": "Mustafi und Steffen rauschen bei einem Duell auf dem rechten Flügel zusammen und bleiben mit schmerzverzerrtem Gesicht auf dem Rasen liegen. Die Beiden beißen aber die Zähne zusammen und sind schnell wieder mit von der Partie."
     },
     {
+      "minute": "82",
+      "match_id": "8305404",
+      "headline": "",
+      "tickertime": "28.09.2016 22:25:04",
+      "id": "1803187",
+      "content": "Wenige Minuten vor dem Ende scheint es so, als ob PSV noch mehr im Tank hat. Die letzten Minuten und Aktionen gehörten klar den Holländern. Rostov kommt offensiv kaum noch zur Geltung."
+    },
+    {
       "minute": "84",
       "match_id": "8305371",
       "headline": "",
@@ -8372,7 +8380,7 @@
       "headline": "Gelbe Karte für Mohamed Elyounoussi (FC Basel)",
       "tickertime": "28.09.2016 22:25:54",
       "id": "1803176",
-      "content": ""
+      "content": "Elyounoussi bringt Sánchez ganz knapp vor der Strafraumgrenze zu Fall und bekommt die berechtige Gelbe Karte gezeigt."
     },
     {
       "event": {
@@ -8563,7 +8571,177 @@
       "headline": "Elfmeter verschossen von Antoine Griezmann, Atlético Madrid",
       "tickertime": "28.09.2016 22:26:26",
       "id": "1803184",
-      "content": ""
+      "content": "Das ist ja ein Ding! Mit voller Wucht zimmert Griezmann die Kugel an die Latte! Neuer war da bereits geschlagen. Bayern bleibt damit also am Leben!"
+    },
+    {
+      "minute": "82",
+      "match_id": "8305383",
+      "headline": "",
+      "tickertime": "28.09.2016 22:27:05",
+      "id": "1803190",
+      "content": "Die Portugiesen haben sich unterdessen bereits mit der Niederlage abgefunden und sind nun in erster Linie darauf erpicht, sich kein fünftes Gegentor zu fangen."
+    },
+    {
+      "minute": "86",
+      "match_id": "8305360",
+      "headline": "",
+      "tickertime": "28.09.2016 22:27:30",
+      "id": "1803192",
+      "content": "Der anschließende Freistoß aus 16 Metern ist eine Sache für Santi Cazorla. Der Mittelfeldmann versucht es mit einem Flachschuss, bleibt aber in der Mauer hängen. Da war eigentlich mehr drin, aber das interessiert bei den Gastgebern wohl niemanden mehr."
+    },
+    {
+      "event": {
+        "additional_person_id": "162478",
+        "minute": "82",
+        "kind": "substitute",
+        "content": "",
+        "additional_person": {
+          "weight": "60",
+          "firstname": "Emanuele",
+          "birthday": "05.05.1985",
+          "country": [
+            {
+              "id": "89"
+            }
+          ],
+          "surname": "Giaccherini",
+          "fullname": "Emanuele Giaccherini",
+          "person_detail": {
+            "birth_place": "Talla",
+            "position_2": "12",
+            "died": "no",
+            "position_1": "13",
+            "preferred_side": "right",
+            "id": "151825"
+          },
+          "height": "167",
+          "id": "162478",
+          "name": "Emanuele Giaccherini",
+          "gender": "male"
+        },
+        "person": {
+          "weight": "60",
+          "firstname": "Dries",
+          "birthday": "06.05.1987",
+          "country": [
+            {
+              "id": "23"
+            }
+          ],
+          "surname": "Mertens",
+          "fullname": "Dries Mertens",
+          "person_detail": {
+            "birth_place": "Leuven",
+            "position_2": "8",
+            "died": "no",
+            "position_1": "10",
+            "preferred_side": "right",
+            "id": "75418"
+          },
+          "height": "168",
+          "id": "1250",
+          "name": "Dries Mertens",
+          "gender": "male"
+        },
+        "action": "playing",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "created": "28.09.2016 22:27",
+        "id": "21368831"
+      },
+      "minute": "82",
+      "match_id": "8305383",
+      "headline": "",
+      "tickertime": "28.09.2016 22:27:19",
+      "id": "1803191",
+      "content": "<span>Auswechslung bei FC Augsburg: Emanuele Giaccherini für Dries Mertens</span>"
+    },
+    {
+      "minute": "86",
+      "match_id": "8305371",
+      "headline": "",
+      "tickertime": "28.09.2016 22:27:33",
+      "id": "1803194",
+      "content": "Die Partie bewegt wieder auf durchschnittlichem Niveau. Ludogorets kann nicht, Paris will nicht mehr in die Begegnung investieren, sodass Torchancen momentan Mangelware sind. Das Match taumelt ganz ruhig dem Ende entgegen."
+    },
+    {
+      "minute": "83",
+      "match_id": "8305372",
+      "headline": "",
+      "tickertime": "28.09.2016 22:28:06",
+      "id": "1803196",
+      "content": "Passiert hier noch etwas? Kiev ist weiterhin optisch überlegen, aber der ganz große Druck hat ein wenig nachgelassen."
+    },
+    {
+      "event": {
+        "additional_person_id": "385025",
+        "minute": "82",
+        "kind": "substitute",
+        "content": "",
+        "additional_person": {
+          "weight": "0",
+          "firstname": "",
+          "birthday": "08.04.1999",
+          "country": [
+            {
+              "id": "167"
+            }
+          ],
+          "surname": "José Gomes",
+          "fullname": "José Gomes",
+          "person_detail": {
+            "birth_place": "Bissau",
+            "position_2": "0",
+            "died": "no",
+            "position_1": "11",
+            "preferred_side": "right",
+            "id": "304260"
+          },
+          "height": "177",
+          "id": "385025",
+          "name": "José Gomes",
+          "gender": "male"
+        },
+        "person": {
+          "weight": "80",
+          "firstname": "Ljubomir",
+          "birthday": "14.08.1988",
+          "country": [
+            {
+              "id": "185"
+            }
+          ],
+          "surname": "Fejsa",
+          "fullname": "Ljubomir Fejsa",
+          "person_detail": {
+            "birth_place": "Kula",
+            "position_2": "0",
+            "died": "no",
+            "position_1": "7",
+            "preferred_side": "unknown",
+            "id": "57228"
+          },
+          "height": "185",
+          "id": "14299",
+          "name": "Ljubomir Fejsa",
+          "gender": "male"
+        },
+        "action": "playing",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "created": "28.09.2016 22:27",
+        "id": "21368833"
+      },
+      "minute": "82",
+      "match_id": "8305383",
+      "headline": "",
+      "tickertime": "28.09.2016 22:27:58",
+      "id": "1803195",
+      "content": "<span>Auswechslung bei FC Augsburg: José Gomes für Ljubomir Fejsa</span>"
     }
   ],
   "match": [
@@ -8575,7 +8753,7 @@
         "id": "598",
         "name": "FC Basel"
       },
-      "current_minute": "86",
+      "current_minute": "88",
       "match_time": "20:45",
       "current_period_start": "2016-09-28 21:46:01",
       "home": {
@@ -8615,7 +8793,7 @@
         "id": "1457",
         "name": "Paris Saint-Germain"
       },
-      "current_minute": "87",
+      "current_minute": "89",
       "match_time": "20:45",
       "current_period_start": "2016-09-28 21:45:50",
       "home": {
@@ -8655,7 +8833,7 @@
         "id": "486",
         "name": "Dynamo Kiew "
       },
-      "current_minute": "84",
+      "current_minute": "86",
       "match_time": "20:45",
       "current_period_start": "2016-09-28 21:48:44",
       "home": {
@@ -8695,7 +8873,7 @@
         "id": "1731",
         "name": "Benfica Lissabon"
       },
-      "current_minute": "82",
+      "current_minute": "84",
       "match_time": "20:45",
       "current_period_start": "2016-09-28 21:50:10",
       "home": {
@@ -8729,7 +8907,7 @@
     },
     {
       "current_period": "second-half-start",
-      "current_minute": "85",
+      "current_minute": "87",
       "match_time": "20:45",
       "away": {
         "id": "597",
@@ -8793,7 +8971,7 @@
         "id": "1267",
         "name": "Manchester City"
       },
-      "current_minute": "86",
+      "current_minute": "88",
       "match_time": "20:45",
       "current_period_start": "2016-09-28 21:46:45",
       "home": {
@@ -8827,7 +9005,7 @@
     },
     {
       "current_period": "second-half-start",
-      "current_minute": "84",
+      "current_minute": "86",
       "match_time": "20:45",
       "away": {
         "id": "209",
@@ -8891,7 +9069,7 @@
         "id": "1502",
         "name": "PSV Eindhoven"
       },
-      "current_minute": "84",
+      "current_minute": "86",
       "match_time": "20:45",
       "current_period_start": "2016-09-28 21:48:12",
       "home": {
