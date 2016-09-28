@@ -10,7 +10,7 @@ curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.
 && curl --compressed -s "https://feedmonster.onefootball.com/ticker/il/index.php?lang=en&do=match&competitionId=5&seasonId=1699&matchdayId=0&matchId=504221&format=json&gzip=0" | jq '.' > "onefootball-${i}.json"; \
 done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
-curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28_sport1_cdn.json"; \
 curl --compressed -s "http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2016-17/2/3685876/livematch_madrid-atletico_bayern-muenchen-14.html" | lynx -dump -stdin -nolist > "kicker-8305396.txt"; \
 curl --compressed -s http://sport.bild.de/fussball/champions-league/konferenz-ticker | lynx -dump -stdin -nolist > "bild-8305396.txt"; \
 git add . && git commit -m "update"'
