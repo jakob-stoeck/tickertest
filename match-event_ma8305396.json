@@ -3959,6 +3959,84 @@
     "created": "28.09.2016 22:21:53"
   },
   {
+    "id": "21368719",
+    "team": {
+      "id": "162",
+      "name": "Atlético Madrid",
+      "shortname": "Atlético",
+      "microname": "ATL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "162",
+        "members": "42000",
+        "fullname": "Club Atlético de Madrid, S.A.D.",
+        "foundation": "1903-04-26",
+        "colours": "rot-weiß-blau"
+      },
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      },
+      "venue": {
+        "id": "2135",
+        "name": "Vicente Calderón",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2135",
+          "capacity": "54851",
+          "built": "1966"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1561782",
+      "shirtnumber": "23",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "3691",
+      "name": "Nicolás Gaitán",
+      "firstname": "Nicolás",
+      "surname": "Gaitán",
+      "fullname": "Osvaldo Nicolás Fabián Gaitán",
+      "gender": "male",
+      "birthday": "23.02.1988",
+      "height": "173",
+      "weight": "67",
+      "person_detail": {
+        "id": "94295",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "left",
+        "birth_place": "San Martín, Buenos Aires",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "12",
+          "name": "Argentinien",
+          "code": "ARG",
+          "iso": "AR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "79",
+    "additional_person_id": "0",
+    "created": "28.09.2016 22:22:00"
+  },
+  {
     "id": "774007",
     "team": {
       "id": "162",
