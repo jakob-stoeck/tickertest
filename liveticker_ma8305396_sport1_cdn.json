@@ -697,5 +697,50 @@
     "headline": "",
     "content": "Die Hausherren zeigen sich mal wieder in der Offensive. Saúl zieht von der rechten Seite in die Mitte und schießt aus gut 30 Metern. Klar rechts vorbei. Damit stellt er Neuer nicht auf die Probe.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1802983",
+    "event": {
+      "id": "21368421",
+      "team": {
+        "id": "209",
+        "name": "Bayern München"
+      },
+      "person": {
+        "id": "14431",
+        "name": "Jérôme Boateng",
+        "firstname": "Jérôme",
+        "surname": "Boateng",
+        "fullname": "Jérôme Agyenim Boateng",
+        "gender": "male",
+        "birthday": "03.09.1988",
+        "height": "192",
+        "weight": "90",
+        "person_detail": {
+          "id": "44336",
+          "position_1": "4",
+          "position_2": "5",
+          "preferred_side": "right",
+          "birth_place": "Berlin",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "62",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:05"
+    },
+    "tickertime": "28.09.2016 22:05:11",
+    "minute": "62",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bayern München -> Jérôme Boateng</span>",
+    "syndicate": "heimspiel"
   }
 ]
