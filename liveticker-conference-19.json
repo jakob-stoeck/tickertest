@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "78",
+      "current_minute": "79",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "78",
+      "current_minute": "79",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "74",
+      "current_minute": "75",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "76",
+      "current_minute": "77",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -7727,7 +7727,7 @@
       },
       "tickertime": "28.09.2016 22:16:05",
       "minute": "74",
-      "content": "<b>Tooor für FC Barcelona, 1:2 durch Piqué</b> <br/>Ist das bitter! Yann Sommer beschert den Gästen den Ausgleich. Nach einem Eckball nimmt Suarez den Ball direkt, schießt aber genau auf Sommer, der den unplatzierten Schuss fallen lässt und genau vor die Füße von Pique legt, der aus kurzer Distanz zum 2:1 einschiebt.",
+      "content": "<b>Tooor für FC Barcelona, 1:2 durch Piqué</b> <br/>Ist das bitter! Yann Sommer beschert den Gästen den Ausgleich. Nach einem Eckball nimmt Suarez den Ball direkt, schießt aber genau auf Sommer, der den unplatzierten Schuss fallen lässt und genau vor die Füße von Pique legt. Der Innenverteidiger hat keine Mühe aus kurzer Distanz zum 2:1 einzuschieben.",
       "match_id": "8305385"
     },
     {
@@ -7822,7 +7822,7 @@
       },
       "tickertime": "28.09.2016 22:16:19",
       "minute": "71",
-      "content": "<b>Tooor für SL Benfica, 4:1 durch Gonçalo Guedes</b> <br/>",
+      "content": "<b>Tooor für SL Benfica, 4:1 durch Gonçalo Guedes</b> <br/>Der just eingewechselte junge Angreifer von Benfica profitiert von einem kapitalen Fehlpass des Gegners aus dem Mittelfeld auf die Innenverteidiger, erobert die Kugel und behauptet sie in der Folge erfolgreich. Nach einem kurzen Lauf drückt er sie dann schließlich aus acht Metern an Torhüter Pepe Reina vorbei ins Tor.",
       "match_id": "8305383"
     },
     {
@@ -7933,6 +7933,20 @@
       "minute": "76",
       "content": "<span class=\"gruentext\">Einwechslung bei Manchester City -> Fernando</span>",
       "match_id": "8305389"
+    },
+    {
+      "id": "1803105",
+      "tickertime": "28.09.2016 22:18:13",
+      "minute": "77",
+      "content": "Der Abwehrriegel der Grünen ist jetzt weitestgehend ad acta gelegt worden. Nur noch die zwei Innenverteidiger decken Cavani im Raum, die Außenverteidiger geben jetzt zusätzliche Mittelfeldspieler. Das ist genau die Art von Deckung, die Di María und Lucas lieben.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803106",
+      "tickertime": "28.09.2016 22:18:13",
+      "minute": "75",
+      "content": "Starker Antritt von Torres gegen Hummels, der über rechts in den Strafraum eindringt, den Innenverteidiger abschüttelt und hoch an den langen Pfosten gibt. Dort kommt Griezmann gegen Lahm in hohem Bogen zum Kopfball, setzt ihn aber auch nur aufs Tordach. Abstoß.",
+      "match_id": "8305396"
     }
   ]
 }
