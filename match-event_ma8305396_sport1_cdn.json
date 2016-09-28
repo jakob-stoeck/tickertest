@@ -4193,6 +4193,162 @@
     "created": "28.09.2016 22:28:33"
   },
   {
+    "id": "21368909",
+    "team": {
+      "id": "162",
+      "name": "Atlético Madrid",
+      "shortname": "Atlético",
+      "microname": "ATL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "162",
+        "members": "42000",
+        "fullname": "Club Atlético de Madrid, S.A.D.",
+        "foundation": "1903-04-26",
+        "colours": "rot-weiß-blau"
+      },
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      },
+      "venue": {
+        "id": "2135",
+        "name": "Vicente Calderón",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2135",
+          "capacity": "54851",
+          "built": "1966"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1221837",
+      "shirtnumber": "7",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "163477",
+      "name": "Antoine Griezmann",
+      "firstname": "Antoine",
+      "surname": "Griezmann",
+      "fullname": "Antoine Griezmann",
+      "gender": "male",
+      "birthday": "21.03.1991",
+      "height": "176",
+      "weight": "67",
+      "person_detail": {
+        "id": "152822",
+        "position_1": "12",
+        "position_2": "11",
+        "preferred_side": "left",
+        "birth_place": "Mâcon",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "61",
+          "name": "Frankreich",
+          "code": "FRA",
+          "iso": "FR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "28.09.2016 22:34:40"
+  },
+  {
+    "id": "21368911",
+    "team": {
+      "id": "162",
+      "name": "Atlético Madrid",
+      "shortname": "Atlético",
+      "microname": "ATL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "162",
+        "members": "42000",
+        "fullname": "Club Atlético de Madrid, S.A.D.",
+        "foundation": "1903-04-26",
+        "colours": "rot-weiß-blau"
+      },
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      },
+      "venue": {
+        "id": "2135",
+        "name": "Vicente Calderón",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2135",
+          "capacity": "54851",
+          "built": "1966"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1225255",
+      "shirtnumber": "22",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "309149",
+      "name": "Thomas Partey",
+      "firstname": "Thomas",
+      "surname": "Partey",
+      "fullname": "Thomas Teye Partey",
+      "gender": "male",
+      "birthday": "13.06.1993",
+      "height": "185",
+      "weight": "75",
+      "person_detail": {
+        "id": "235638",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Odumase Krobo",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "66",
+          "name": "Ghana",
+          "code": "GHA",
+          "iso": "GH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "90",
+    "additional_person_id": "0",
+    "created": "28.09.2016 22:34:48"
+  },
+  {
     "id": "774007",
     "team": {
       "id": "162",
