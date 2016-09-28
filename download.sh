@@ -11,7 +11,7 @@ curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.
 done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
 curl --compressed -s "https://api.sport1.de/api/sports/complete-gameplan/co19/sp1" | jq '.' > "complete-gameplan-19_sport1_cdn.json"; \
-curl --compressed -s "http://sportsapi.sport1.de/liveticker-by-competition-date/co19/da2016-09-28" | jq '.' > "liveticker-conference-19_sport1_cdn.json"; \
+curl --compressed -s "http://sportsapi.sport1.de/liveticker-by-competition-date/co19/da2016-09-28" | jq '.' > "liveticker-conference-19.json"; \
 curl --compressed -s "https://api.sport1.de/api/sports/liveticker-by-competition-date/co19/da2016-09-28" | jq '.' > "liveticker-conference-19_sport1_cdn.json"; \
 curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28_sport1_cdn.json"; \
 curl --compressed -s "http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2016-17/2/3685876/livematch_madrid-atletico_bayern-muenchen-14.html" | lynx -dump -stdin -nolist > "kicker-8305396.txt"; \

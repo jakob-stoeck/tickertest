@@ -1,0 +1,3413 @@
+{
+  "match": [
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "id": "8305360",
+      "home": {
+        "id": "127",
+        "name": "Arsenal FC"
+      },
+      "round_id": "67540",
+      "away": {
+        "id": "598",
+        "name": "FC Basel"
+      },
+      "finished": "no",
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:45:51",
+      "current_minute": "42",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "2"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "0"
+        }
+      ]
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "id": "8305371",
+      "home": {
+        "id": "37760",
+        "name": "Ludogorez Rasgrad"
+      },
+      "round_id": "67540",
+      "away": {
+        "id": "1457",
+        "name": "Paris Saint-Germain"
+      },
+      "finished": "no",
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:45:23",
+      "current_minute": "42",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "1"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "1"
+        }
+      ]
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "id": "8305372",
+      "home": {
+        "id": "221",
+        "name": "Beşiktaş"
+      },
+      "round_id": "67541",
+      "away": {
+        "id": "486",
+        "name": "Dynamo Kiew "
+      },
+      "finished": "no",
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:46:48",
+      "current_minute": "41",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "1"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "0"
+        }
+      ]
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "id": "8305383",
+      "home": {
+        "id": "1794",
+        "name": "SSC Neapel"
+      },
+      "round_id": "67541",
+      "away": {
+        "id": "1731",
+        "name": "Benfica Lissabon"
+      },
+      "finished": "no",
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:45:50",
+      "current_minute": "42",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "1"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "0"
+        }
+      ]
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "away": {
+        "id": "597",
+        "name": "FC Barcelona"
+      },
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:46:19",
+      "home": {
+        "id": "253",
+        "name": "Bor. Mönchengladbach"
+      },
+      "match_meta": [
+        {
+          "kind": "sport1.fm-conference-url",
+          "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+        },
+        {
+          "kind": "sport1.fm-conference-url.mp3",
+          "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+        },
+        {
+          "kind": "sport1.fm-single-url",
+          "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel2.pls"
+        },
+        {
+          "kind": "sport1.fm-single-url.mp3",
+          "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel2.mp3"
+        }
+      ],
+      "id": "8305385",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "1"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "0"
+        }
+      ],
+      "round_id": "67542",
+      "finished": "no",
+      "current_minute": "41"
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "id": "8305389",
+      "home": {
+        "id": "356",
+        "name": "Celtic Glasgow"
+      },
+      "round_id": "67542",
+      "away": {
+        "id": "1267",
+        "name": "Manchester City"
+      },
+      "finished": "no",
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:45:34",
+      "current_minute": "42",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "2"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "2"
+        }
+      ]
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "away": {
+        "id": "209",
+        "name": "Bayern München"
+      },
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:47:19",
+      "home": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "match_meta": [
+        {
+          "kind": "sport1.fm-conference-url",
+          "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+        },
+        {
+          "kind": "sport1.fm-conference-url.mp3",
+          "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+        },
+        {
+          "kind": "sport1.fm-single-url",
+          "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls"
+        },
+        {
+          "kind": "sport1.fm-single-url.mp3",
+          "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3"
+        }
+      ],
+      "id": "8305396",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "1"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "0"
+        }
+      ],
+      "round_id": "67543",
+      "finished": "no",
+      "current_minute": "40"
+    },
+    {
+      "match_date": "28.09.2016",
+      "match_time": "20:45",
+      "id": "8305404",
+      "home": {
+        "id": "791",
+        "name": "FK Rostov"
+      },
+      "round_id": "67543",
+      "away": {
+        "id": "1502",
+        "name": "PSV Eindhoven"
+      },
+      "finished": "no",
+      "current_period": "game-start",
+      "current_period_start": "2016-09-28 20:45:52",
+      "current_minute": "42",
+      "match_result": [
+        {
+          "match_result_at": "0",
+          "place": "home",
+          "match_result": "2"
+        },
+        {
+          "match_result_at": "0",
+          "place": "away",
+          "match_result": "1"
+        }
+      ]
+    }
+  ],
+  "liveticker": [
+    {
+      "id": "1802438",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:44:05",
+      "content": "<b>Hallo und ein herzliches Willkommen zum zweiten Spieltag in der Champions League-Gruppenphase! Arsenal London erwartet bei seinem ersten Heimspiel in der CL-Saison 2016/2017 mit dem FC Basel Besuch aus der Schweiz. Ab 20:45 Uhr rollt der Ball!</b>"
+    },
+    {
+      "id": "1802439",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:46:09",
+      "content": "<b>Einen schönen guten Abend! Im Vicente Calderón kommt es heute zur Neuauflage des Champions-League-Halbfinals der letzten Saison! Atlético Madrid empfängt Bayern München zu einem absoluten Kracherspiel. Viel Vergnügen!</b>"
+    },
+    {
+      "id": "1802440",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:46:11",
+      "content": "<b>Ein Hallo aus dem Stadio San Paolo! Um 20:45 Uhr kommt es in dieser altehrwürdigen Spielstätte zum Vergleich des SSC Neapel mit Benfica Lissabon!</b>"
+    },
+    {
+      "id": "1802441",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:46:14",
+      "content": "<b>Hallo und herzlich willkommen zum Champions-League-Gruppenspiel zwischen Beşiktaş und Kiev. Anstoß in Istanbul ist um 20:45.</b>"
+    },
+    {
+      "id": "1802445",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:49:59",
+      "content": "<b>Guten Abend zur Königsklasse! In der Gruppe D treffen um 20.45 Uhr zwei bislang sieglose punktlose Teams aufeinander: FK Rostov – PSV Eindhoven.</b>"
+    },
+    {
+      "id": "1802447",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:53:22",
+      "content": "Die Gruppe A ist nach dem ersten Spieltag noch absolut ausgeglichen. Arsenal und PSG trennten sich mit 1:1 und auch der FC Basel erbeutete bei Ludogorets Razgrad mit demselben Ergebnis einen Zähler. Die \"Gunners\" werden mit ihrem Auftritt in Paris allerdings keineswegs zufrieden sein, denn der Punktgewinn gegen die Franzosen war unterm Strich doch ziemlich glücklich."
+    },
+    {
+      "id": "1802448",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:53:54",
+      "content": "Beide Teams mussten nicht in der Qualifikation ran, sondern konnten als Zweiter der italienischen beziehungsweise Meister der portugiesischen Liga fix mit der Gruppenphase planen. Am ersten Spieltag der Gruppe B gewannen die Napolitani in Kiew gegen Dynamo (1:2), die Lissaboner mussten sich vor heimischer Kulisse mit einem Remis (1:1) gegen Besiktas Istanbul zufrieden geben."
+    },
+    {
+      "id": "1802452",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:57:54",
+      "content": "<b>Guten Abend und herzlich willkommen zum zweiten Spieltag der UEFA Champions League. Dieser steht ganz im Zeichen der Deutsch-Spanischen Duelle. Nachdem Borussia Dortmund gestern ein 2:2 gegen Real Madrid erreichen konnte, empfängt heute Atletico Madrid die Münchener Bayern. Eine nicht minder schwere Aufgabe haben auch die Spieler von Borussia Mönchengladbach. Die Fohlen erwarten niemand Geringeren als den ruhmreichen FC Barcelona im Borussia-Park. Für viele Gladbacher ist das Aufeinandertreffen mit den Katalanen natürlich das Spiel des Jahres. Anpfiff zu diesem ist wie gewohnt um 20:45 Uhr!</b>"
+    },
+    {
+      "id": "1802453",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:58:33",
+      "content": "Der russische Vizemeister Rostov ist pünktlich zur Champions League wieder rehabilitiert. Nach der 0:5 Klatsche bei den Bayern zum CL-Auftakt und dem überraschenden Pokal-Aus gegen Zweitligist Dynamo Moskau, meldete sich die Mannschaft von Ivan Daniliants mit einem 1:0 Heimsieg gegen Lokomotiv Moskau am vergangenen Wochenende zurück."
+    },
+    {
+      "id": "1802455",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:59:28",
+      "content": "Es ist noch gar nicht so lange her, dass der FC Bayern zum ersten Mal überhaupt in einem Pflichtspiel zu Gast bei Atlético Madrid war. Fast auf den Tag genau vor fünf Monaten traten die Münchener zum Hinspiel des Halbfinals in der Königsklasse an. Für den damaligen Trainer Pep Guardiola sollte es das Ende seines Spanien-Traumas werden - in den beiden Jahren zuvor scheiterte er an Real Madrid und am FC Barcelona. Es kam ganz anders. Mit einem Traum-Solo verlud Saúl Ñíguez damals die komplette Hintermannschaft des FCB und markierte damit das Tor des Abends. Ein Rückstand, von dem sich die Bayern auch im Rückspiel in München nicht mehr erholen sollten. Zwar gewann man dieses mit 2:1, doch zog Atlético aufgrund der Auswärtstorregel ins Finale in Mailand ein, wo man dann jedoch Stadtrivale Real unterlag."
+    },
+    {
+      "id": "1802456",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 19:59:35",
+      "content": "In der heimischen Liga haben sowohl Napoli als auch Benfica einen überzeugenden Saisonstart hinlegen können. Die Portugiesen führen die Primeira Liga mit sechzehn Punkten nach sechs Spielen an. Ebenso viele Spiele haben auch die Italiener absolviert und sind mit vierzehn Zählern Zweiter der Serie A."
+    },
+    {
+      "id": "1802457",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:00:09",
+      "content": "Schon nach nur wenigen Sekunden ging Paris durch Cavani in Führung und dominierte daraufhin im ersten Durchgang nach Belieben. Arsenal rettete sich \"nur\" mit 0:1 in die zweite Hälfte, aber auch nach der Pause lieferten die Engländer offensiv einen kläglichen Job ab. Völlig überraschend kamen die \"Gunners\" in der 78. Minute dann doch noch zum wichtigen Ausgleichstreffer und zitterten das 1:1 über die Zeit. Positiv ist für die Mannschaft aus dem Norden Londons jedoch, dass das schwierigste Gruppenspiel bereits überstanden ist. Nun ist Arsenal gegen Basel und natürlich auch gegen Ludogorets in der klaren Favoritenrolle und muss liefern."
+    },
+    {
+      "id": "1802458",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:00:12",
+      "content": "<b>Hallo und herzlich willkommen zum zweiten Teil des zweiten Spieltags der UEFA Champions League! Der schottische Meister Celtic Glasgow empfängt um 20:45 Uhr Pep Guardiolas Manchester City im Celtic Park.</b>"
+    },
+    {
+      "id": "1802459",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:00:24",
+      "content": "<b>Herzlich willkommen zum zweiten Spieltag der Champions-League-Saison 2016/17! In der Gruppe A messen sich der PFC Ludogorets Razgrad und Paris Saint-Germain. Anpfiff ist wie gewohnt um 20:45 Uhr.</b>"
+    },
+    {
+      "id": "1802461",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:00:54",
+      "content": "Unterschiedlicher hätten die beiden Teams nicht in diese Gruppe C der Königsklasse starten können. Während sich die Millionen-Truppe aus Manchester zuhause souverän mit 4:0 gegen Borussia Mönchengladbach durchsetzen konnte, hagelte es für die Schotten beim FC Barcelona mit 0:7 die höchste Europapokal-Niederlage der Geschichte."
+    },
+    {
+      "id": "1802464",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:02:04",
+      "content": "Beide Kontrahenten suchen den ersten Dreier in der noch jungen CL-Saison. Beşiktaş holte auswärts in Lissabon am ersten Spieltag einen Punkt während der ukrainische Vertreter daheim gegen Napoli mit 1:2 den Kürzeren zog. Gerade weil heute die mutmaßlichen Außenseiter der Gruppe B aufeinander treffen, hat das Spiel eine gewisse Bedeutung."
+    },
+    {
+      "id": "1802465",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:02:24",
+      "content": "Eine weitere Parallele zwischen den beiden heutigen Kontrahenten: Sie haben in dieser Saison noch kein Spiel verloren. Benfica glückte am Samstag ein Pflichtspielsieg beim GD Chaves, der SSC besiegte vor heimischer Kulisse Chievo Verona. Die Generalproben sind jedenfalls geglückt."
+    },
+    {
+      "id": "1802468",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:02:41",
+      "content": "Seit Wochen spricht man am Niederrhein vom heutigen Abend und so war es schwierig für die Mannschaft, den Fokus auf den Alltag in der Bundesliga aufrecht zu erhalten. Dennoch gelang den Fohlen diese Gratwanderung zwischen Vorfreude und Konzentration auf das Wesentliche sehr gut. Nach fünf Spielen steht die Borussia mit zehn Punkten absolut im Soll und kann deshalb zum größten Teil sorgenfrei in das Duell mit Barca gehen."
+    },
+    {
+      "id": "1802469",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:04:37",
+      "content": "Der Trainer bei den Bayern ist inzwischen ein anderer, das System optimiert, doch steht bei den Rojiblancos noch immer Diego Simeone an der Seitenlinie. Und der lässt beinahe die identische Mannschaft auflaufen, die bereits im April begonnen hatte. Es kommt lediglich zu zwei Veränderungen: Abwehrchef Diego Godín, der damals passen musste, ersetzt den heute verletzten José Giménez und Mittelfeldspieler Yannick Ferreira-Carrasco läuft anstelle des ebenfalls verletzten Augusto Fernández auf. Ansonsten ist bei den Madrilenen alles beim Alten. Heißt auch, dass Fernando Torres und Antoine Griezmann weiterhin das Sturmduo bilden. Und die beiden haben den Münchenern ja durchaus wehgetan im April und Mai."
+    },
+    {
+      "id": "1802471",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:05:36",
+      "content": "Einzig der Auftakt in der Königsklasse ging mächtig schief. Die Hausherren mussten bei Manchester City eine empfindliche 0:4-Niederlage hinnehmen. Natürlich stand bereits nach der Auslosung fest, dass in dieser Gruppe schon einiges zusammenkommen müsste, um sich für das Achtelfinale zu qualifizieren, und so meinte Max Eberl sicherlich eher die Europa League, als davon sprach, International überwintern zu wollen. Schon vor dem Spiel aufzugeben kommt aber natürlich nicht in Frage, auch wenn der Gegner FC Barcelona heißt."
+    },
+    {
+      "id": "1802472",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:05:56",
+      "content": "Die unbekannte Variable der Begegnung ist definitiv die Heimmannschaft. Der bulgarische Meister Razgrad spielt er seit der Saison 2011/12 erstklassig, konnte sich seitdem aber stets den Meistertitel der Parva Liga sichern. Grund dafür ist die finanzielle Unterstützung durch den Pharma-Unternehmer und Oligarchen Kyril Domustschiew. Der Bulgare erwarb den Verein in der Aufstiegssaison und machte den Trip in die erste Liga durch Neueinkäufe in der Winterpause überhaupt erst möglich. Seitdem dominieren die Razgrader die Liga, Tradidtionsvereine wie ZSKA Sofia müssen sich hinten anstellen."
+    },
+    {
+      "id": "1802474",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:07:17",
+      "content": "Dafür läuft es in der Premier League für die Gastgeber umso besser. Nach sechs Spieltagen steht die Mannschaft von Arséne Wenger mit 13 Punkten auf dem dritten Rang und hält damit Kontakt zur Tabellenspitze. Vergangenen Samstag hatten die \"Gunners\" einmal mehr Grund zum Jubeln, als die Truppe um Mesut Özil das prestigeträchtige London-Derby gegen den FC Chelsea mit einer Gala-Vorstellung und einem klaren 3:0 für sich entschied."
+    },
+    {
+      "id": "1802476",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:08:17",
+      "content": "Der portugiesische Meister wird von Rui Vitória trainiert. Der 46-Jährige ist in seiner zweiten Saison beim Klub tätig und hat heute gleich fünf verletzte Spieler zu beklagen. Jonas, Rafa Silva, Andreas Samaris, Jardel und Raúl Jiménez stehen gegen Napoli nicht im Kader."
+    },
+    {
+      "id": "1802477",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:08:23",
+      "content": "Auch der Briefkopf des französischen Hauptstadtklubs ist in den letzten Jahren prall gefüllt worden. Seit 2013 ging der Meistertitel der Ligue 1 stets nach Paris, zudem konnte zwei mal der französische Titel gewonnen werden. Möglich macht dies die katarische Investorengruppe QSI, die seit 2012 das Sagen bei PSG hat."
+    },
+    {
+      "id": "1802479",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:08:46",
+      "content": "Für die Türken ist es nach sieben Jahren ohne Königsklasse ohnehin ein besonderer Abend vor den eigenen Fans und die Form spricht schon einmal für die Schwarz-Weißen. Lässt man den Super-Cup mal außen vor, sind die Hausherren in dieser Saison nämlich noch ungeschlagen und mischen als Dritter der Süper Lig oben mit. Anders sieht es da bei Kiev aus. Die Hauptstädter sind zwar ebenfalls Dritter der heimischen Premier League, beendeten aber zuletzt mit einem deutlichen Heimsieg eine Durststrecke mit nur einem Punkt aus vier Partien."
+    },
+    {
+      "id": "1802480",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:09:48",
+      "content": "Die Münchener mussten am vergangenen Wochenende Schwerstarbeit verrichten, um die makellose Bilanz unter Carlo Ancelotti aufrecht zu erhalten. Beim Hamburger SV sah es lange nach einem torlosen Remis aus. In der 88. Minute aber erlöste Joshua Kimmich seine Kollegen und die mitgereisten Fans mit dem Siegtreffer. Wenn ihm das heute auch im Vicente Calderón gelingt, wird er sicherlich noch mehr gefeiert werden. Allerdings muss der EM-Fahrer erst einmal auf der Bank Platz nehmen. So wie auch Mats Hummels, Renato Sanches und Kingsley Coman. Mats Hummels wurde bereits in Hamburg nach einem Schlag aufs Knie ausgewechselt und, wie auch heute, durch Jérôme Boateng ersetzt. Im zentralen Mittelfeld kommen Xabi Alonso und Arturo Vidal für Joshua Kimmich und Renato Sanches neu herein. Links im Angriff darf Franck Ribéry wieder von Beginn an ran."
+    },
+    {
+      "id": "1802481",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:10:52",
+      "content": "Vlad Chiricheş ist derweil der einzige Ausfall beim Team von Trainer Maurizio Sarri. Ansonsten sind aber alle Stars mit von der Partie, so natürlich auch Arkadiusz Milik. Der Pole wurde im Sommer als Ersatz für den zu Juventus Turin abgewanderten Gonzalo Higuaín verpflichtet. Stolze 32 Millionen Euro flossen an Miliks alten Arbeitgeber Ajax Amsterdam."
+    },
+    {
+      "id": "1802482",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:11:18",
+      "content": "Beide Mannschaften spielten am ersten Spieltag der Champions League unentschieden. Während Ludogorets einen Punkt aus Basel entführte, mussten sich die Pariser nach einem späten Gegentor von Alexis Sanchez mit einer Punkteteilung gegen den FC Arsenal begnügen. Die Rollen sind vor der heutigen Partie klar verteilt. Die Bulgaren gehen als krasser Außenseiter in die Partie, alles andere als ein überzeugender Sieg der Gäste kann als faustdicke Überraschung bezeichnet werden."
+    },
+    {
+      "id": "1802483",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:11:24",
+      "content": "Bei den Gastgebern ist also Wiedergutmachung angesagt, doch die Aufgabe erscheint nicht wirklich einfacher, als zuletzt im Camp Nou. City ist unter dem neuen spanischen Coach, der zu Saisonbeginn übernahm, noch ohne jeden Verlustpunkt, fuhr in zehn Spielen zehn Siege ein und grüßt in der Premier League von ganz oben. Freilich führt Celtic die heimische Liga nach sechs Spieltagen ebenfalls ohne Niederlage an, doch ist die Scottish Premiership eben mit der englischen Premier League nicht zu vergleichen."
+    },
+    {
+      "id": "1802484",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:11:52",
+      "content": "Umso wichtiger wäre es für das Team von Sergiy Rebrov in der Königsklasse nun nachzulegen, das wird in der hitzigen Atmosphäre Istanbuls aber sicherlich nicht einfach. Der Coach kennt die Leidenschaft der örtlichen Fußballfans aus eigener Erfahrung, sagte aber, dass man einfach das eigene Spiel durchsetzen und mit kühlem Kopf zu Werke gehen müsse."
+    },
+    {
+      "id": "1802485",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:12:28",
+      "content": "Auch in der Beletage des europäischen Fußballs, könnte die Heimstärke der Russen zu einem entscheidenden Vorteil werde: Vor dem Duell mit Eindhoven ist das Team vom Don seit 24 Spielen ohne Heim-Niederlage. Spätestens nach dem 4:1 Sieg in den Champions-League-Playoffs gegen den Erzrivalen Ajax Amsterdam, wird sich auch bei den Boeren rumgesprochen haben, dass das kleine Olimp-2-Stadion (15.000 Zuschauer) zu einem wahren Hexenkessel werden kann. FK gastiert nur vorübergehend im Olimp-2 und zieht nach Fertigstellung der WM-Arena in Rostov um."
+    },
+    {
+      "id": "1802486",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:12:52",
+      "content": "Die Gäste stehen auch in dieser Saison wieder für \"Spektakel\". Wie kaum eine andere Mannschaft in Europa fahren die Katalanen haufenweise Kantersiege ein. Nach sechs Spielen erzielten die Mannen von Trainer Luis Enrique in der Liga bereits 19 Treffer und schossen am ersten Spieltag der Champions League Celtic Glasgow mit 7:0 aus dem Camp Nou. Warnen muss man wohl niemanden vor der Offensivstärke der Gäste, doch dass Messi, Neymar und Co. NICHT unschlagbar sind zeigte in dieser Spielzeit beispielsweise Alavés, die im Nou Camp völlig überraschend mit 2:1 gewannen. Und wenn ein spanischer Aufsteiger für eine Überraschung sorgen kann, wieso dann nicht auch Gladbach?"
+    },
+    {
+      "id": "1802488",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:14:07",
+      "content": "Arsenal beeindruckte mit offensivem Fußball und ließ Chelsea von der ersten Minute an keine Luft zum Atmen. Durch Treffer von Sánchez (11.), Walcott (14.) und Özil (40.) war der Sieg gegen die \"Blues\" schon vor der Pause in trockenen Tüchern. \"Das ist der Fußball, den unsere Fans verdienen. London ist rot.\" schrieb Özil voller Freude über den Derby-Sieg bei Twitter. Auch Arséne Wenger, der sein Amt bei den \"Gunners\" am 22. September 1996 antrat und gegen Chelsea sein 20-jähriges Jubiläum begehen durfte, zeigte sich nach dem Spiel emotional berührt. \"Ich bin mir jetzt mehr darüber bewusst, wofür Arsenal steht. Dass die Leute glücklich sind, hat einen höheren Stellenwert als zu dem Zeitpunkt, als ich ankam.\", sagte der Coach."
+    },
+    {
+      "id": "1802489",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:14:32",
+      "content": "Die Verantwortlichen um Max Eberl entschlossen sich unter der Woche, Trainer André Schubert nach der tollen letzten Saison und dem guten Saisonstart das Vertrauen für weitere zwei Jahre auszusprechen. Der Vertrag des Übungsleiters wurde bis 2019 verlängert. Damit beugt man natürlich möglichen Gerüchten vor, die bei auslaufenden Verträgen immer aufkommen und gibt den Weg für die Zukunft vor."
+    },
+    {
+      "id": "1802491",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:14:57",
+      "content": "Sein Gegenüber Şenol Güneş bezeichnete die Ukrainer als harte Arbeiter, die sicherlich kein ordinärer Gegner seien, den man im Spaziergang erledigen könnte. Personell gibt es beim Gastgeber wenig Überraschungen. Allein dass Vincent Aboubakar im 4-2-3-1 als Speerspitze den Vorzug vor Goalgetter Cenk Tosun erhielt, sorgt für ein wenig Wirbel."
+    },
+    {
+      "id": "1802492",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:14:59",
+      "content": "Nach einem holprigen Saisonstart mit jeweils einem Unentschieden gegen die Aufsteiger Alavés (1:1) und Leganés (0:0) hat sich Atlético inzwischen längst gefangen und mischt wieder unter den Top-Teams der Liga mit. Im Anschluss daran gab es klare Siege gegen Vigo (4:0) und Gijón (5:0) sowie ein starkes 1:1 im Camp Nou beim FC Barcelona. Zuletzt gegen La Coruña musste man ebenfalls hart arbeiten. Am Ende aber sprang ein 1:0-Erfolg für die Colchoneros heraus. Das bedeutet, dass Atlético zwar keine so blütenreine Weste wie die Bayern hat, doch ist die Mannschaft von Diego Simeone ebenfalls noch ungeschlagen. Das erste Gruppenspiel bei der PSV Eindhoven gewann man knapp mit 1:0."
+    },
+    {
+      "id": "1802493",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:15:54",
+      "content": "Die Mannschaft der Gastgeber hat neben einem soliden, osteuropäischen Kern um Torwart Stoyanov und Stürmer Claudiu Keseru viel südamerikanischen Flair zu bieten. Gleich acht Brasilianer stehen im Kader der Bulgaren, dazu kommt in José Luis Palomino ein argentinischer Neuzugang. Bester Torjäger ist in dieser Saison ein Kicker von Zuckerhut: Marcelinho konnte in sieben Ligaspielen bereits vier Mal treffen und bildet mit Jonathan Cafú im letzten Spiel das Sturmzentrum des Serienmeisters."
+    },
+    {
+      "id": "1802496",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:17:53",
+      "content": "Der Weg der Zukunft bedeutet im Falle der Borussia auch, mit jungen Spielern zu arbeiten. Auch heute bekommen wieder einige Youngster die Chance, sich auf der ganz großen Bühne zu beweisen. In der Defensive sollen beispielsweise Andreas Christensen und Nico Elvedi für Sicherheit sorgen, während in der Offensive Thorgan Harzard und Mahmoud Dahoud für Ideen sorgen sollen."
+    },
+    {
+      "id": "1802498",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:18:51",
+      "content": "Die Bhoys haben sich am vergangenen Samstag beim 6:1 gegen den FC Kilmarnock warmgeschossen. Stürmer Moussa Dembelé traf doppelt. Tore verhindern soll heute zwischen den Pfosten wieder Craig Gordon, der für Dorus de Vries zurück ins Team rutscht."
+    },
+    {
+      "id": "1802501",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:21:13",
+      "content": "Im Vorfeld der Partie sprachen bei Trainer sehr respektvoll über den heutigen Gegner. Neapels Maurizio Sarri lobte die gute Technik und Organisation, erinnerte zudem nochmals daran, dass Benfica in der letzten Saison fast den FC Bayern aus dem Wettbewerb gekegelt hätte. Er erwarte eine \"härteres Spiel\" als in Kiew, betonte aber, dass seine bei seiner Mannschaft auch noch bislang ungenutztes Potenzial schlummere."
+    },
+    {
+      "id": "1802502",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:21:24",
+      "content": "Die Gäste dürfen derweil aufatmen, denn Andriy Yarmolenko wurde rechtzeitig fit und startet im 4-3-3. Zudem erhält Derlis González im Sturm den Vorzug vor dem noch unerfahrenen Viktor Tsyganko. Verwundernd ist jedoch, dass Artur Rudko heute den Kasten hütet. Bislang war Routinier Oleksandr Shovkovskiy die etatmäßige Nummer eins, Rudko erhielt allerdings schon am Wochenende in der Liga den Vorzug."
+    },
+    {
+      "id": "1802503",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:21:27",
+      "content": "Nimmt man den Saisonauftakt der Bayern im Supercup gegen Dortmund mal heraus, als sich der BVB zugegebenermaßen noch in der Findungsphase befand, so ist dieses Spiel für den Rekordmeister der erste richtige Gradmesser in dieser Spielzeit. Das sah auch Kapitän Philipp Lahm auf der Pressekonferenz vor der Partie so. Und auch wenn es noch sehr früh in der Saison ist, so kann sich Carlo Ancelotti an den Eindrücken dieses Spiels schon mal messen lassen. Das Stadion kennt er als ehemaliger Coach von Erzrivale Real Madrid ja ohnehin bereits. Er und sein zehn Jahre jüngeres Gegenüber Diego Simeone stehen für zwei völlig konträre Spielstile. Während Ancelotti den gepflegten Offensivfußball liebt, geht Simeone so richtig in engmaschigen Defensivtaktiken auf. Auch heute wird es kein leichter Gang für den FCB."
+    },
+    {
+      "id": "1802505",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:21:59",
+      "content": "Mit Blick auf die heutige Aufgabe gegen den FC Basel bremste Wenger die überschwängliche Euphorie nach dem 3:0 gegen Chelsea jedoch etwas. \"Sie haben alle geschlagen: Manchester United, Chelsea und Liverpool.\", warnte der 66-Jährige seine Mannschaft vor dem Gegner aus der Schweiz. \"Ich erwarte nicht, dass sie eingeschüchtert sind. Aber dennoch haben sie nichts zu verlieren, und das ist gefährlich.\", weiß Wenger. Denn natürlich ist dem Trainer-Urgestein noch aus dem letzten Jahr bewusst, wie schnell die Stimmung nach einem berauschenden Sieg kippen kann. Letztes Jahr bezwang Arsenal den späteren Meister Leicester City mit 5:2, ehe die \"Gunners\" nur drei Tage später in der Champions League mit 2:3 gegen Olympiakos Piräus baden gingen."
+    },
+    {
+      "id": "1802506",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:22:13",
+      "content": "Seit Sommer ist auch der ehemalige Bundesligaprofi Daniel Schwaab in Eindhoven unter Vertrag und gehört auch heute zum Aufgebot. Der Ex-Stuttgarter ist bei seinem Klub jedoch nicht immer erste Wahl und wird eher gegen starke Offensiv-Reihen als zusätzlicher Verteidiger ins Team geholt. Vor dem heutigen Duell nahm Schwaab zu seiner Rolle Stellung und untermauerte seine eigentlichen Ambitionen deutlich: „Ich bin nicht hergekommen, um mich auf die Bank zu setzen. Ich muss einfach mehr spielen.“ Trainer Cocu ist dem Aufruf sogleich gefolgt und bietet Schwaab heute als Sechser auf."
+    },
+    {
+      "id": "1802507",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:22:23",
+      "content": "Coach Brendan Rogers setzt vor allem auf den Heimvorteil für seine Elf: „Im Celtic Park ist es traditionell schwer zu spielen für die Gegner. Über 60.000 fanatische Anhänger werden uns unterstützen“, baut der Trainer auf die Fans und verspricht ihnen eine andere Vorstellung seiner Mannschaft, als zuletzt im Camp Nou. „Eines ist klar, wir werden nicht so passiv auftreten, wie in Barcelona“, gab Rogers die Devise des schottischen Serienmeisters aus."
+    },
+    {
+      "id": "1802508",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:22:34",
+      "content": "Wir dürfen also gespannt sein, die die Punkte heute verteilt werden. Neben Andreas Beck auf türkischer Seite kommt auch das Schiedsrichtergespann aus Deutschland. Felix Zwayer leitet zusammen mit Thorsten Schiffner sowie Marco Achmüller die Partie."
+    },
+    {
+      "id": "1802510",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:23:09",
+      "content": "Für einen Barca-Akteur ist dieses Spiel ein ganz besonderes. Gemeint ist natürlich Marc-Andre ter Stegen. Der Nationaltorwart spielt bereits sein drittes Jahr bei den Katalanen und ist nach zwei Spielzeiten Job-Sharing nun endlich die Nummer eins bei den Gästen. Der Schlussmann verbrachte seine Jugend und seine ersten Gehversuche als Profi bei den Fohlen und ging 2014 unter Tränen, um einen weiteren Karriereschritt zu vollziehen. Der Keeper kann sich heute allerdings nicht auf die Tore von Lionel Messi verlassen. Der argentinische Superstar muss auf Grund von Leistenproblemen leider passen. Mit Neymar, Suarez und Paco Alcácer haben die Spanier aber natürlich immer noch eine brandgefährliche Offensive auf dem Rasen."
+    },
+    {
+      "id": "1802512",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:25:18",
+      "content": "Paris-Saint-Germain hat nach dem Abgang von Zlatan Ibrahimović keine spektakuläre Neuverpflichtung für das Sturmzentrum getätigt und setzt stattdessen voll auf Edison Cavani. Der zahlt das in ihn gesetzte Vertrauen bis jetzt mit Toren am Fließband zurück. In sieben Ligaspielen konnte er sechs Buden erzielen,traf zudem gegen Arsenal zur Führung. In gilt es heute zu stoppen. Kevin Trapp muss dagegen erneut auf der Bank Platz nehmen. Trainer Unai Emery schenkt erneut Alphonse Aréola das Vertrauen."
+    },
+    {
+      "id": "1802513",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:25:20",
+      "content": "Rui Vitória stellte indes gleich einmal klar, dass es seine Mannschaft gewohnt sei, in großen Stadien mit recht feindseliger Atmosphäre zu spielen. Der SSC spiele ein \"vielseitiges 4-3-3\" in einer sehr dynamischen Weise und das \"sehr gute Pressing\" mache es jedem Gegner schwer. Benfica müsse auf seine \"eigenen Qualitäten\" vertrauen und konzentriert arbeiten. Das Team, das die \"wenigsten Fehler macht\", wird schließlich seiner Ansicht nach siegen."
+    },
+    {
+      "id": "1802516",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:26:38",
+      "content": "Atlético Madrid wird für immer auch mit dem ersten Bayern-Gewinn des Pokals der Landesmeister, der heutigen Champions League, zusammenhängen. 1974 triumphierten die Münchener in Brüssel nach einem 1:1 im ersten Spiel mit 4:0 im Entscheidungsspiel. Uli Hoeneß, der heute aufgrund einer Erkältung nicht mit nach Madrid gereist ist, und Gerd Müller trafen jeweils zweimal. Ein Meilenstein in der Vereinsgeschichte des FCB. Ein solch unvergesslicher Moment wird die Partie heute mit großer Wahrscheinlichkeit nicht werden, doch hat sie natürlich das Zeug dazu, ein absoluter Hingucker zu werden. Auch, wenn Atlético nicht für Offensivfeuerwerke bekannt ist."
+    },
+    {
+      "id": "1802517",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:27:37",
+      "content": "In der Liga läuft es für die beiden erfolgsverwöhnten Vereine noch nicht rund. Ludogorets steht mit einem Nachholspiel in der Hinterhand auf Rang vier mit vier Punkten Rückstand auf Levski Sofia. Ähnlich sieht die Situation für die Pariser aus. Mit vier Punkten Rückstand auf Nizza rangieren sie ebenfalls auf dem vierten Tabellenplatz."
+    },
+    {
+      "id": "1802518",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:27:44",
+      "content": "Ganz ohne deutsche Beteiligung kommt auch das Duell zwischen dem SSC Neapel und SL Benfica nicht aus. Felix Brych ist der Schiedsrichter der Partie. Mark Borsch und Stefan Lupp sind seine Assistenten. Marco Fritz und Bastian Dankert fungieren als Torrichter und Guido Kleve ist der vierte Offizielle."
+    },
+    {
+      "id": "1802519",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:28:15",
+      "content": "Die jüngste Bilanz des FC Basel liest sich nahezu märchenhaft. In der Meisterschaft hat der FCB von den ersten neuen Begegnungen alle neun für sich entschieden und grüßt den Rest der Liga damit unangefochten und mit einem riesigen Abstand von der Spitze. Am Samstagabend gewann der Meister mit 3:1 beim FC St. Gallen und stellte mit dem neunten Sieg im neunten Spiel einen neuen Startrekord auf. Mit Arsenal London erwartet die Eidgenossen aber ein anderes Kaliber, als man es aus der Super League gewohnt ist."
+    },
+    {
+      "id": "1802520",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:29:02",
+      "content": "Schiedsrichter der Partie im natürlich ausverkauften Vicente Calderón ist der Pole Szymon Marciniak. Seine Assistenten an den Seitenlinien heißen Tomasz Listkiewicz und Paweł Sokolnicki. Vierter Offizieller ist Radosław Siejka. Als zusätzliche Torraumrichter werden Paweł Raczkowski und Tomasz Musiał eingesetzt. Bei 24 Grad und wolkenlosem Himmel herrschen perfekte Bedingungen für einen tollen Fußballabend. In einer guten Viertelstunde geht's los!"
+    },
+    {
+      "id": "1802524",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:30:12",
+      "content": "Bei den Gästen fehlt vor allem ein großer Name. Der Belgier Kevin de Bruyne musste bei Manchesters 3:1-Sieg in Swansea verletzt raus und wird den Citizens wegen einer Oberschenkelblessur ca. vier Wochen fehlen. Auch Kompany, Delph und Gunn stehen Guardiola in Glasgow nicht zur Verfügung."
+    },
+    {
+      "id": "1802525",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:30:28",
+      "content": "Schiedsrichter der Partie ist Pavel Královec. Der Tscheche ist ein erfahrener Mann, was die Leitung von Spielen der Champions League angeht. Seit 2011 leitet er Begegnungen der Königsklasse, heute zum 19. Mal in seiner Laufbahn. Dabei werden ihm Roman Slyško und Ivo Nádvorník assistieren."
+    },
+    {
+      "id": "1802526",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:31:19",
+      "content": "Das Unparteiischen-Gespann kommt heute aus Slowenien und wird angeführt von Damir Skomina. Der 40-Jährige bringt eine Menge Erfahrung aus großen Spielen und Turnieren, sowie seine Assistenten Jure Praprotnik und Robert Vukan mit nach Mönchengladbach."
+    },
+    {
+      "id": "1802527",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:33:05",
+      "content": "Angesichts der hohen Kader-Qualität der Gruppengegner Atlético Madrid und Bayern München, sind die heutigen Teams im direkten Vergleich gefordert. Wie agiert Eindhoven gegen die Heim-Macht Rostov? Hoffen wir auf ein interessantes und offensives Spiel! In wenigen Minuten führt das Schiedsrichtergespann um Clément Turpin (Frankreich) die Mannscahften auf den Rasen."
+    },
+    {
+      "id": "1802528",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:34:33",
+      "content": "Trotz der brillianten Offensivabteilung und des temporeichen Angriffsspiels der \"Gunners\" fahre der FC Basel nicht nach London, \"um sich abschlachten zu lassen\", wie Verteidiger Michael Lang klarstellte. Trainer Urs Fischer appellierte vor allem an die Einstellung seiner Mannschaft und will sich auf eigene Stärken besinnen. \"Wir müssen die Einstellung, die Überzeugung und den Mut haben, nicht nur zu verteidigen, sondern auch den Ball zirkulieren zu lassen und nach vorne zu spielen.\", gibt der Trainer die Richtung vor. Michael Lang hingegen ist sich sicher: \"Wenn wir etwas holen wollen, müssen wir sehr, sehr effizient sein.\" - das trifft den Nagel wohl auf den Kopf."
+    },
+    {
+      "id": "1802529",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:35:46",
+      "content": "Für den Manchester-Coach ist es der erste Auftritt im Celtic Park überhaupt. „Jeder erzählt mir von der Atmosphäre hier und ich freue mich schon auf dieses Erlebnis“, sagte Guardiola vor dem Spiel. Dass die Gastgeber noch einmal so schwach auftreten, wie in Barcelona, glaubt er nicht. „Ich habe das Spiel gegen die Rangers gesehen und das war viel intensiver. Da wurde hohes Pressing gespielt und früh attackiert und genau das erwarte ich auch für das heutige Match.“"
+    },
+    {
+      "id": "1802533",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:41:26",
+      "content": "Geleitet wird die Partie vom italienischen Schiedsrichter Nicola Rizzoli und seinen Assistenten Elenito di Liberatore und Mauro Tonolini. Die Stimmung ist bereits prächtig im Celtic Park, gleich geht’s los!"
+    },
+    {
+      "id": "1802535",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:42:55",
+      "content": "Die Mannschaften haben sich bereits im Spielertunnell versammelt und warten auf den Einlass. Die Stimmung im weiten Rund ist natürlich prächtig!"
+    },
+    {
+      "id": "1802537",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:43:30",
+      "content": "Die Mannschaften sind bereit und kommen hinaus auf den Rasen! Die Hausherren tragen traditionell rot-weiße Trikots und blaue Hosen. Die Gäste sind in Grau-Schwarz gekleidet. Freuen wir uns auf eine hoffentlich hochspannende Partie! Doch zunächst erst einmal die Champions-League-Hymne."
+    },
+    {
+      "id": "1802538",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:43:47",
+      "content": "Kurz vor Anpfiff wirkt das Olimp-2 nicht unbedingt als unbezwingbarer Hexenkessel: Zum Einlaufen der Fans gibt es nur ganz zarten und leisen Beifall."
+    },
+    {
+      "id": "1802539",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:44:50",
+      "content": "Die Champions-League-Hymne hat erneut ihren Zauber versprüht und für Gänsehaut gesorgt, gleich geht es los!"
+    },
+    {
+      "id": "1802540",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "0",
+      "tickertime": "28.09.2016 20:45:05",
+      "content": "Thiago Silva unterliegt bei der Seitenwahl, was bedeutet das PSG antoßen wird. Ludogorets wird in der ersten Halbzeit von rechts nach links spielen."
+    },
+    {
+      "id": "1802541",
+      "match_id": "8305371",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367457",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:45",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:45:23",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802543",
+      "match_id": "8305389",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367458",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:45",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:45:34",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802544",
+      "match_id": "8305383",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367459",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:45",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:45:50",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802545",
+      "match_id": "8305360",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367460",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:45",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:45:51",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802546",
+      "match_id": "8305404",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367461",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:45",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:45:53",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802548",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:46:01",
+      "content": "Die Partei läuft! Freuen wir uns auf beste Fußball-Unterhaltung."
+    },
+    {
+      "id": "1802550",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:46:06",
+      "content": "Der Ball im Emirates Stadium rollt. Los geht's!"
+    },
+    {
+      "id": "1802551",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:46:19",
+      "content": "Und los! Das Duell der beiden Underdogs in Gruppe D läuft! Rostov spielt in blauen Trikots, Eindhoven hat sich der Rasenfarbe angepasst und leuchtet Grün auf."
+    },
+    {
+      "id": "1802552",
+      "match_id": "8305385",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367515",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:46",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:46:20",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802554",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:46:32",
+      "content": "Der Ball rollt!"
+    },
+    {
+      "id": "1802555",
+      "match_id": "8305372",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367518",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:46",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:46:48",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802556",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "2",
+      "tickertime": "28.09.2016 20:47:03",
+      "content": "Arsenal weicht auf den gelben Dress auf und agiert in der ersten Hälfte von links nach rechts, die Gäste aus der Schweiz laufen ganz in weiß gekleidet auf."
+    },
+    {
+      "id": "1802557",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:47:10",
+      "content": "Auf gehts!"
+    },
+    {
+      "id": "1802558",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:47:19",
+      "content": "Die Hymne ist gespielt, die Seiten gewählt. Ab jetzt zählt es für die Borussia, die heute ganz in Schwarz auftritt. Die Gäste aus Barcelona weichen auf türkis-blaue Jerseys aus."
+    },
+    {
+      "id": "1802559",
+      "match_id": "8305396",
+      "headline": "",
+      "event": {
+        "kind": "game-start",
+        "id": "21367519",
+        "action": "match",
+        "person_id": "0",
+        "minute": "1",
+        "team_id": "0",
+        "additional_person_id": "0",
+        "created": "28.09.2016 20:47",
+        "content": ""
+      },
+      "minute": "1",
+      "tickertime": "28.09.2016 20:47:19",
+      "content": "<b>Spielbeginn</b>"
+    },
+    {
+      "id": "1802563",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:48:09",
+      "content": "Das geht ja schon gut los hier im Stadio San Paolo! Nach sechzehn Sekunden schließt Arkadiusz Milik erstmals im gegnerischen Strafraum ab, scheitert aber an Torhüter Júlio César. Ein schöner langer Ball von der linken Seite hat den Stürmer da mustergültig in Szene gesetzt."
+    },
+    {
+      "id": "1802564",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "3",
+      "tickertime": "28.09.2016 20:48:14",
+      "content": "Die Fans der Gastgeber sind sich der Favoritenrolle der Pariser bewusst. Kaum überquert ihre Mannschaft die Mittellinie, bricht sofort Jubel auf den Rängen aus. Auf die Unterstützung ihrer Supporter werden die Bulgaren heute auf jeden Fall bauen können."
+    },
+    {
+      "id": "1802572",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "3",
+      "tickertime": "28.09.2016 20:48:19",
+      "content": "Sardar Azmoun packt zu Beginn sofort die Hacke aus und prästentiert einen Trick: Einen Pass auf Hüfthöhe leitet der Iraner elegant via Hacke am Körper vorbei. Danach kann Mitspieler Dmitriy Poloz die Kugel jedoch nicht mehr verarbeiten. Der Ball geht an den Trainerbänken ins Aus."
+    },
+    {
+      "id": "1802565",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "1",
+      "tickertime": "28.09.2016 20:48:23",
+      "content": "Der Ball rollt! Schiedsrichter Szymon Marciniak hat die Partie freigegeben. Und sofort geht es schnell in Richtung Bayern-Strafraum. Carrasco kommt aus 20 Metern zum Schuss, doch kann Boateng die Kugel abblocken. Da wollten die Hausherren die Gäste sofort überraschen. Letztlich herrschte da aber keine Gefahr."
+    },
+    {
+      "id": "1802566",
+      "match_id": "8305389",
+      "headline": "Tooor für Celtic FC, 1:0 durch Moussa Dembélé",
+      "event": {
+        "person": {
+          "firstname": "Moussa",
+          "fullname": "Moussa Dembélé",
+          "id": "340368",
+          "name": "Moussa Dembélé",
+          "birthday": "12.07.1996",
+          "weight": "74",
+          "surname": "Dembélé",
+          "height": "183",
+          "country": [
+            {
+              "id": "61"
+            }
+          ],
+          "person_detail": {
+            "position_2": "10",
+            "id": "264012",
+            "birth_place": "Pontoise",
+            "died": "no",
+            "position_1": "11",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "id": "21367522",
+        "action": "goal",
+        "created": "28.09.2016 20:48",
+        "kind": "head",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "additional_person": {
+          "firstname": "Erik",
+          "fullname": "Erik Sviatchenko",
+          "id": "152081",
+          "name": "Erik Sviatchenko",
+          "birthday": "04.10.1991",
+          "weight": "82",
+          "surname": "Sviatchenko",
+          "height": "184",
+          "country": [
+            {
+              "id": "45"
+            }
+          ],
+          "person_detail": {
+            "position_2": "7",
+            "id": "141429",
+            "birth_place": "Viborg",
+            "died": "no",
+            "position_1": "4",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "1:0",
+        "minute": "3"
+      },
+      "minute": "3",
+      "tickertime": "28.09.2016 20:48:49",
+      "content": "Was für ein Auftakt! Die engagierten Gastgeber kriegen einen Freistoß gut 30 Meter vor dem Tor zugesprochen. Mit einer kleinen Finte hebeln die Schotten die Abseitsfalle von City aus. sodass Forrest den Flankenball am zweiten Pfosten erreicht und in Ruhe in die Mitte ablegen kann, wo Sviatchenko heranfliegt und das Leder Richtung langes Eck köpft. Auf dem Weg in die Maschen wird der Ball noch von Moussa Dembélé abgefälscht. Der Celtic Park kocht!"
+    },
+    {
+      "id": "1802567",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "2",
+      "tickertime": "28.09.2016 20:48:52",
+      "content": "Die Stimmung ist wie erwartet bombastisch! Das Stadion hüpft zu Beginn geschlossen und die blauen Gäste werden konsequent ausgepfiffen."
+    },
+    {
+      "id": "1802569",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "4",
+      "tickertime": "28.09.2016 20:49:20",
+      "content": "In den ersten Minuten lassen die \"Gunners\" die Kugel durch die eigenen Reihen zirkulieren. Diesmal geht Walcott im Sprint über den rechten Flügel und leitet weiter auf Sánchez, der mit der Hacke zurück auf den in Richtung Grundlinie gestarteten Walcott geben will, aber Basel hat aufgepasst und fängt den Pass ab."
+    },
+    {
+      "id": "1802570",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "3",
+      "tickertime": "28.09.2016 20:49:24",
+      "content": "Die Fans treiben ihr Teams förmlich nach vorn und erneut ist es Arkadiusz Milik, der vor seinen Bewachern an den Ball kommt und auf das Tor schießt. Diesmal wird er aber aufgrund einer Abseitsstellung zurückgepfiffen."
+    },
+    {
+      "id": "1802577",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "3",
+      "tickertime": "28.09.2016 20:49:42",
+      "content": "Ein Aufschrei geht durch das Rund und wieder muss man sich mit dem leidigen Thema \"Handspiel oder kein Handspiel\" beschäftigen. Hazard geht über die rechte Seite und versucht das Leder an der Strafraumgrenze über den grätschenden Piquet in die Mitte zu flanken. Der spanische Innenverteidiger bekommt die Kugel an den Arm, eine Absicht oder unnatürliche Haltung war dort aber nicht zu erkennen. Dennoch gab es sicherlich schon für weniger einen Handelfmeter."
+    },
+    {
+      "id": "1802576",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "3",
+      "tickertime": "28.09.2016 20:50:42",
+      "content": "Die Bayern haben in den ersten Minuten mehr Ballbesitz, konnten sich auch bereits einen Eckball herausspielen. Die Hereingabe von Thiago konnte aber souverän von der Atlético-Defensive geklärt werden. Einen nennenswerten Abschluss gab es auf Seiten der Münchener noch nicht."
+    },
+    {
+      "id": "1802578",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "5",
+      "tickertime": "28.09.2016 20:51:01",
+      "content": "Kurz darauf marschiert Walcott durchs Zentrum und holt gegen Xhaka einen Freistoß heraus. Blitzartig wird die Standardsituation ausgeführt, sodass das Leder zu Sánchez gelangt, der bereits im Sechzehner ist, dort aber mit fairen Mitteln vom Ball getrennt wird."
+    },
+    {
+      "id": "1802579",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "4",
+      "tickertime": "28.09.2016 20:51:14",
+      "content": "Die erste Vorstöße gehören trotzdem den Gästen. Eine erste Standard segelt in die Hände von Fabricio."
+    },
+    {
+      "id": "1802580",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "5",
+      "tickertime": "28.09.2016 20:51:16",
+      "content": "Von Anfangsnervosität ist nichts u spüren bei Ludogorets. Virgil Misidjan tunnelt in der ersten Aktion des Spiels gleich mal frech Maxwell und zieht frech von der rechten Strafraumkante ab. Dem Schuss fehlt eindeutig die Stärke und Alphonse Aréola hat mit der halben Rückgabe überhaupt keine Probleme."
+    },
+    {
+      "id": "1802581",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "5",
+      "tickertime": "28.09.2016 20:51:53",
+      "content": "Die Gäste können sich nun auch mal befreien und Kostas Mitroglou auch mal abschließen. Da wird es gleich brandgefährlich! Der Schuss des griechischen Mittelstürmers wird vor der Linie abgeblockt, Pepe Reina im Tor war längst geschlagen!"
+    },
+    {
+      "id": "1802583",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "5",
+      "tickertime": "28.09.2016 20:52:41",
+      "content": "Wirklich temporeich ist die Partie noch nicht. Nach einem Foul von Vidal an Griezmann gibt es Freistoß aus dem Halbfeld für die Hausherren. Dieser wird dann aber aufgrund einer Abseitsposition abgepfiffen. Die Taktik dominiert das Geschehen bis jetzt doch noch sehr."
+    },
+    {
+      "id": "1802584",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "6",
+      "tickertime": "28.09.2016 20:52:44",
+      "content": "Auf der anderen Seite zeigt Cavani, wie man es richtig macht. Aus 20 Metern zentraler Position nimmt er eine flache Hereingabe von recht mit vollem Risiko und donnert die Kugel zwei Meter am Tor vorbei. Wenn er den Schuss auf den Kasten bringt, könnte Stoyanov gleich mit ins Netz fliegen."
+    },
+    {
+      "id": "1802585",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "5",
+      "tickertime": "28.09.2016 20:52:51",
+      "content": "Beşiktaş schaltet postwendend schnell um nach einem schönen Solo schließt Anderson Talisca ab. Doch dem Versuch fehlt aus 16 Metern noch die Genauigkeit."
+    },
+    {
+      "id": "1802586",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "6",
+      "tickertime": "28.09.2016 20:52:51",
+      "content": "Der erste Vorstoß der Gäste verendet. Nachdem Willems auf der linken Seite eine Flanke aufmerksam abstaubt und dann de Jong im Zentrum ablegt, misslingt an der Strafraum-Kante ein Doppelpass zwischen dem ehemaligen Gladbacher und Narsingh."
+    },
+    {
+      "id": "1802587",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "6",
+      "tickertime": "28.09.2016 20:52:58",
+      "content": "Die ersten Minuten zeigen, dass Gladbach absolut nicht gewillt ist, sich auf das Verteidigen zu beschränken. Bei Ballbesitz stellt sich die Fohlenelf sogar mit einer Dreierkette, bestehend aus Christensen, Elvedi und Korb auf, die Defensiv immer wieder von Wendt unterstützt wird."
+    },
+    {
+      "id": "1802589",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "6",
+      "tickertime": "28.09.2016 20:53:18",
+      "content": "Kurze Zeit später liegt der Brasilianer dann nach einem Zweikampf am Boden und muss behandelt werden."
+    },
+    {
+      "id": "1802590",
+      "match_id": "8305360",
+      "headline": "Tooor für Arsenal FC, 1:0 durch Theo Walcott",
+      "event": {
+        "person": {
+          "firstname": "Theo",
+          "fullname": "Theodore Walcott",
+          "id": "1970",
+          "name": "Theo Walcott",
+          "birthday": "16.03.1989",
+          "weight": "68",
+          "surname": "Walcott",
+          "height": "170",
+          "country": [
+            {
+              "id": "55"
+            }
+          ],
+          "person_detail": {
+            "position_2": "12",
+            "id": "42224",
+            "birth_place": "Newbury",
+            "died": "no",
+            "position_1": "11",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367583",
+        "action": "goal",
+        "created": "28.09.2016 20:53",
+        "kind": "head",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "additional_person": {
+          "firstname": "Alexis",
+          "fullname": "Alexis Alejandro Sánchez Sánchez",
+          "id": "22106",
+          "name": "Alexis Sánchez",
+          "birthday": "19.12.1988",
+          "weight": "73",
+          "surname": "Sánchez",
+          "height": "170",
+          "country": [
+            {
+              "id": "39"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "50214",
+            "birth_place": "Tocopilla",
+            "died": "no",
+            "position_1": "12",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "1:0",
+        "minute": "7"
+      },
+      "minute": "7",
+      "tickertime": "28.09.2016 20:53:25",
+      "content": "Nur sieben Minuten brauchen die \"Gunners\", um in Führung zu gehen! Santi Cazorla verschafft Sánchez mit einem feinen Pass auf dem linken Flügel viel Platz. Der Stürmer schlägt die Kugel hoch in den Sechzehner, wo Walcott sich freigelaufen hatte und mit dem Kopf aus kurzer Distanz zum 1:0 für die Gastgeber einnetzt. Blitzstart für Arsenal!"
+    },
+    {
+      "id": "1802591",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "8",
+      "tickertime": "28.09.2016 20:53:31",
+      "content": "Beide Teams beginnen die Partie verhalten und versuchen langsam ins Spiel zu kommen. Bislang kann kein Team große Feldvorteile bewirken."
+    },
+    {
+      "id": "1802592",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "6",
+      "tickertime": "28.09.2016 20:53:45",
+      "content": "Die Hausherren wollen gleich nachlegen und sind nur im Vorwärtsgang. Kolo Touré versucht es im Strafraum aus der Drehung, scheitert aber am gut reagierenden Keeper Bravo. Anschließend bleibt ein Freistoß von Sinclair aus 18 Metern in der Mauer hängen."
+    },
+    {
+      "id": "1802594",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "8",
+      "tickertime": "28.09.2016 20:54:20",
+      "content": "Benficas Trainer Rui Vitória scheint den Gegner sehr gut beobachtet zu haben. Das von ihm gelobte Pressing der Hausherren kann sich in der Tat sehen lassen und lässt sein Team kaum zur Entfaltung kommen."
+    },
+    {
+      "id": "1802595",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "7",
+      "tickertime": "28.09.2016 20:54:37",
+      "content": "Die Rojiblancos stehen sehr hoch und pressen die Bayern bereits an deren Strafraum. Noch aber unterläuft der Mannschaft von Carlo Ancelotti kein Abspielfehler. Beide Abwehrreihen agieren bislang sehr souverän. Torchancen weiterhin Fehlanzeige."
+    },
+    {
+      "id": "1802596",
+      "match_id": "8305404",
+      "headline": "Tooor für FK Rostov, 1:0 durch Dmitriy Poloz",
+      "event": {
+        "person": {
+          "firstname": "Dmitriy",
+          "fullname": "Dmitriy Dmitrievich Poloz",
+          "id": "242330",
+          "name": "Dmitriy Poloz",
+          "birthday": "12.07.1991",
+          "weight": "69",
+          "surname": "Poloz",
+          "height": "181",
+          "country": [
+            {
+              "id": "172"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "181343",
+            "birth_place": "",
+            "died": "no",
+            "position_1": "0",
+            "preferred_side": "unknown"
+          },
+          "gender": "male"
+        },
+        "id": "21367585",
+        "action": "goal",
+        "created": "28.09.2016 20:54",
+        "kind": "right-foot",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "additional_person": {
+          "firstname": "Aleksandr",
+          "fullname": "Aleksandr Erokhin",
+          "id": "130338",
+          "name": "Aleksandr Erokhin",
+          "birthday": "13.10.1989",
+          "weight": "79",
+          "surname": "Erokhin",
+          "height": "193",
+          "country": [
+            {
+              "id": "172"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "119696",
+            "birth_place": "Barnaul",
+            "died": "no",
+            "position_1": "0",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "content": "1:0",
+        "minute": "8"
+      },
+      "minute": "8",
+      "tickertime": "28.09.2016 20:54:42",
+      "content": "Und die erste Chance sitzt sofort! Aleksandr Erokhin behält nach einer schönen Kombination am Strafraum die Übersicht und chippt die Kugel auf Dmitriy Poloz zwischen die Innenverteidiger. Die PSV-Defensive ist zu langsam und kann das Tor nicht mehr verhinden. Poloz schiebt aus neun Metern ganz lässig an Zoet vorbei und sorgt für die frühe Führung!"
+    },
+    {
+      "id": "1802598",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "8",
+      "tickertime": "28.09.2016 20:54:47",
+      "content": "Es wird zum ersten Mal brenzlig im Strafraum der Borussia. Iniesta hat die Kugel in der Zentrale und wartet auf Alba, der links die Linie entlang marschiert. Der Spanier kommt auch an das Leder und legt den Ball in den Rückraum auf Neymar, dessen Linkschuss aber zu unplatziert ist, um Sommer in Verlegenheit zu bringen."
+    },
+    {
+      "id": "1802599",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "9",
+      "tickertime": "28.09.2016 20:54:54",
+      "content": "City wird hier von den Bhoys bisher geradezu überrannt. Die Mannen von Pep Guardiola wissen offenbar nicht wie ihnen geschieht und lassen eine Torchance nach der anderen zu."
+    },
+    {
+      "id": "1802601",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "9",
+      "tickertime": "28.09.2016 20:55:21",
+      "content": "Paris zieht sich in den Anfangsminuten weit in die gegnerische Hälfte zurück und lässt die Gastgeber das Spiel machen. Mit den pfeilschnellen Außen Lucas und Di María sind Konter natürlich ein probates Mittel gegen hoch stehende Bulgaren. Diese zeigen jedoch keinerlei Schwächen im Kombinationsspiel und bauen ruhig ihr Angriffsspiel auf."
+    },
+    {
+      "id": "1802619",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "11",
+      "tickertime": "28.09.2016 20:55:59",
+      "content": "Dieser frühe Schock war zugleich der erste CL-Heim-Treffer in der Historie von Rostov. Wie reagiert PSV? Aktuell sind die Hausherren vom Tor beflügelt und bleiben am Drücker."
+    },
+    {
+      "id": "1802603",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "10",
+      "tickertime": "28.09.2016 20:56:16",
+      "content": "Genau das wollte man bei den Eidgenossen eigentlich tunlichst vermeiden: den Gastgebern Platz lassen und sie zu temporeichen Gegenstößen einladen. Nach sieben Minuten ist es aber bereits um die Schweizer geschehen."
+    },
+    {
+      "id": "1802604",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "10",
+      "tickertime": "28.09.2016 20:56:28",
+      "content": "Kostas Mitroglou zum Zweiten! Er findet seinen Meister mit seinem Schuss aus elf Metern im stark reagierenden Schlussmann Pepe Reina und vergibt damit bereits seine zweite Chance des Spiels."
+    },
+    {
+      "id": "1802607",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "11",
+      "tickertime": "28.09.2016 20:56:51",
+      "content": "Ein erster kontrsuktiver Vorstoß der Citizens wird von Erik Sviatchenko im letzten Moment zur Ecke geklärt."
+    },
+    {
+      "id": "1802606",
+      "match_id": "8305383",
+      "headline": "",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Raúl Albiol Tortajada",
+          "id": "24303",
+          "name": "Raúl Albiol",
+          "birthday": "04.09.1985",
+          "weight": "82",
+          "surname": "Raúl Albiol",
+          "height": "190",
+          "country": [
+            {
+              "id": "193"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "16842",
+            "birth_place": "Vilamarxant",
+            "died": "no",
+            "position_1": "4",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367639",
+        "action": "playing",
+        "created": "28.09.2016 20:56",
+        "kind": "substitute",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "additional_person_id": "158365",
+        "additional_person": {
+          "firstname": "Nikola",
+          "fullname": "Nikola Maksimović",
+          "id": "158365",
+          "name": "Nikola Maksimović",
+          "birthday": "25.11.1991",
+          "weight": "84",
+          "surname": "Maksimović",
+          "height": "193",
+          "country": [
+            {
+              "id": "185"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "147713",
+            "birth_place": "Bajina Bašta",
+            "died": "no",
+            "position_1": "4",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "",
+        "minute": "11"
+      },
+      "minute": "11",
+      "tickertime": "28.09.2016 20:56:43",
+      "content": "<span>Auswechslung bei FC Augsburg: Nikola Maksimović für Raúl Albiol</span>"
+    },
+    {
+      "id": "1802611",
+      "match_id": "8305389",
+      "headline": "Tooor für Manchester City, 1:1 durch Fernandinho",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Fernando Luis Roza",
+          "id": "23593",
+          "name": "Fernandinho",
+          "birthday": "04.05.1985",
+          "weight": "67",
+          "surname": "Fernandinho",
+          "height": "176",
+          "country": [
+            {
+              "id": "34"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "36827",
+            "birth_place": "Londrina",
+            "died": "no",
+            "position_1": "13",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "id": "21367643",
+        "action": "goal",
+        "created": "28.09.2016 20:57",
+        "kind": "left-foot",
+        "team": {
+          "id": "1267",
+          "name": "Manchester City"
+        },
+        "additional_person": {
+          "firstname": "Aleksandar",
+          "fullname": "Aleksandar Kolarov",
+          "id": "17383",
+          "name": "Aleksandar Kolarov",
+          "birthday": "10.11.1985",
+          "weight": "80",
+          "surname": "Kolarov",
+          "height": "187",
+          "country": [
+            {
+              "id": "185"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "47302",
+            "birth_place": "Beograd",
+            "died": "no",
+            "position_1": "3",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "content": "1:1",
+        "minute": "12"
+      },
+      "minute": "12",
+      "tickertime": "28.09.2016 20:57:33",
+      "content": "Nach der Ecke kann Glasgow sich zunächst befreien, doch ein missglückter Distanzschuss der Gäste landet eher zufällig im Fuß von Fernandinho, der sich die Kugel an der Strafraumkante auf links legt und ins rechte untere Eck zum zu diesem Zeitpunkt schmeichelhaften Ausgleich vollstreckt."
+    },
+    {
+      "id": "1802612",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "8",
+      "tickertime": "28.09.2016 20:57:42",
+      "content": "Der Gastgeber wird so langsam ein wenig spielfreudiger, aber auch Kiev sucht durchaus den Weg nach vorne."
+    },
+    {
+      "id": "1802614",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "12",
+      "tickertime": "28.09.2016 20:57:50",
+      "content": "Eine Muskelverletzung verhindert eine weitere Teilnahme des spanischen Verteidigers Raúl Albiol. Nikola Maksimović übernimmt seinen Posten nach etwas mehr als zehn Minuten Spielzeit."
+    },
+    {
+      "id": "1802615",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "10",
+      "tickertime": "28.09.2016 20:57:56",
+      "content": "Thiago flankt nun mal vom rechten Strafraumeck an den langen Pfosten. Dort versucht Vidal noch irgendwie an den Ball zu kommen, kann ihn auch äußerst artistisch im Spiel halten. Allerdings können die Hausherren daraufhin klären. Das defensive Uhrwerk von Atlético läuft mal wieder geschmiert."
+    },
+    {
+      "id": "1802616",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "12",
+      "tickertime": "28.09.2016 20:58:04",
+      "content": "Bei Ballbesitz der Hausherren ziehen sich die beiden Außenspieler weit zurück und bilden dadurch eine Fünferkette. Beim Gegentreffer hat dies aber gar nicht funktioniert, Sánchez war auf der linken Seite völlig unbewacht und konnte in aller Ruhe flanken."
+    },
+    {
+      "id": "1802617",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "12",
+      "tickertime": "28.09.2016 20:58:36",
+      "content": "Ángel Di María wird das erste Mal tief geschickt und kommt frei vor dem Tor an den Ball. Dabei ist er jedoch in die Abseitsfalle der Verteidigung geraten, die passend herausrückt und den Argentinier so um eine gute Torchance bringt."
+    },
+    {
+      "id": "1802618",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "9",
+      "tickertime": "28.09.2016 20:58:40",
+      "content": "Erneut im Mittelpunkt bei den Türken ist Anderson Talisca, der die leichte Blessur von eben gut überstanden hat. Hier versucht er den Seitfallzieher, aber er erwischt das Leder nicht recht und der Versuch geht weit daneben."
+    },
+    {
+      "id": "1802621",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "11",
+      "tickertime": "28.09.2016 20:58:58",
+      "content": "Nach Neymar hat auch Suarez die Möglichkeit zum 1:0. Bei einem langen Ball verschätzt sich zunächst Elvedi und dann Christensen. Für Suarez ist der Weg frei und der Angreifer nimmt die Kugel mit vollem Risiko aus der Luft. Das Spielgerät rutscht Suarez über den Spann und geht knapp am langen Pfosten vorbei."
+    },
+    {
+      "id": "1802624",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "12",
+      "tickertime": "28.09.2016 20:59:12",
+      "content": "Ein dicker Schnitzer von Javi Martínez bringt Atlético beinahe die erste Chance! Im Spielaufbau verliert der Verteidiger die Kugel an Fernando Torres. Rechts im Strafraum will dieser Martínez umspielen, doch bleibt der Münchener diesmal souverän und kann Torres vom Ball trennen. Das wiederum war ganz wichtig vom Spanier im Dress des FC Bayern."
+    },
+    {
+      "id": "1802625",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "14",
+      "tickertime": "28.09.2016 20:59:51",
+      "content": "Und wieder geht's auf der anderen Seite weiter. Tom Rogić zieht einen Freistoß aus 18 Metern halbrechter Position mit links an der Mauer vorbei flach auf den linken Pfosten und der Ball streicht nur hauchdünn am Gehäuse von Bravo vorbei."
+    },
+    {
+      "id": "1802626",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "14",
+      "tickertime": "28.09.2016 20:59:56",
+      "content": "Defensiv ist Arsenal bislang noch nicht gefordert worden. Ab und an versucht es der FC Basel mit langen Bällen aus der eigenen Hälfte auf Doumbia, aber der Angreifer ist meist auf sich alleine gestellt und damit gegen Koscielny und Mustafi ohne Chance."
+    },
+    {
+      "id": "1802629",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "13",
+      "tickertime": "28.09.2016 21:00:12",
+      "content": "<b>Müller vergibt die Riesenchance!</b> Über die rechte Seite spielen sich die Münchener am gegnerischen Strafraum fest. Thiago hat das Auge für Müller am rechten Pfosten und diesen per elegantem Chippass. Aus fünf Metern zieht der Angreifer aus der Drehung ab, schießt aber nur Oblak an! Das hätte die Führung für die Gäste sein können, wenn nicht sogar müssen!"
+    },
+    {
+      "id": "1802641",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "15",
+      "tickertime": "28.09.2016 21:00:30",
+      "content": "Die Gastgeber kontern nach einer Ecke für PSG! Marcelinho treibt den Ball durch das Mittelfeld und spielt vor dem Strafraum nach rechts auf Jonathan Cafú. Der verhaspelt sich zunächst in Maxwell, kann dann im Dribbling am Brasilianer vorbeiziehen und holt so einen Freistoß in guter Position heraus."
+    },
+    {
+      "id": "1802630",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "11",
+      "tickertime": "28.09.2016 21:00:38",
+      "content": "Kiev sieht sich beim Aufbau weiterhin einem gellenden Pfeifkonzert ausgesetzt. Das muss man auf Dauer auch erst einmal bewältigen, bislang zeigen sich die Ukrainer davon aber eher unbeeindruckt."
+    },
+    {
+      "id": "1802631",
+      "match_id": "8305371",
+      "headline": "Tooor für PFC Ludogorets Razgrad, 1:0 durch Wanderson",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Natanael Batista Pimenta",
+          "id": "345837",
+          "name": "Natanael Pimienta",
+          "birthday": "25.12.1990",
+          "weight": "64",
+          "surname": "Natanael Pimienta",
+          "height": "166",
+          "country": [
+            {
+              "id": "34"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "268373",
+            "birth_place": "Cuiabá",
+            "died": "no",
+            "position_1": "3",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "id": "21367646",
+        "action": "goal",
+        "created": "28.09.2016 21:00",
+        "kind": "left-foot",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "additional_person_id": "0",
+        "content": "1:0",
+        "minute": "16"
+      },
+      "minute": "16",
+      "tickertime": "28.09.2016 21:00:41",
+      "content": "Natanael Pimienta bringt Ludogorets mit 1:0 in Führung! Der Linksverteidiger hebt den fälligen Freistoß mit links über die Mauer. Aréola sieht den Ball spät, kommt dann zu spät mit dem gestreckten Arm in die untere Ecke und muss zusehen, wie der Ball vom Innenpfosten ins Tor springt. Eine Führung, die gar nicht mal unverdient ist."
+    },
+    {
+      "id": "1802633",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "15",
+      "tickertime": "28.09.2016 21:01:05",
+      "content": "Die erste Viertelstunde des Spiels macht definitiv Lust auf mehr! Die beiden Mannschaften liefern sich ein Duell auf Augenhöhe und suchen stets den direkten Weg gen gegnerisches Tor. Weitermachen, Jungs!"
+    },
+    {
+      "id": "1802634",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "13",
+      "tickertime": "28.09.2016 21:01:06",
+      "content": "So lassen die Gäste auch hier über viele Minuten den Ball hinten um laufen, bis dann ein Abschlag von Artur Rudko im Aus landet und Istanbul seinerseits aufbauen kann."
+    },
+    {
+      "id": "1802635",
+      "match_id": "8305404",
+      "headline": "Tooor für PSV Eindhoven, 1:1 durch Davy Pröpper",
+      "event": {
+        "person": {
+          "firstname": "Davy",
+          "fullname": "Davy Pröpper",
+          "id": "159794",
+          "name": "Davy Pröpper",
+          "birthday": "02.09.1991",
+          "weight": "72",
+          "surname": "Pröpper",
+          "height": "189",
+          "country": [
+            {
+              "id": "149"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "149142",
+            "birth_place": "Arnhem",
+            "died": "no",
+            "position_1": "8",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367648",
+        "action": "goal",
+        "created": "28.09.2016 21:01",
+        "kind": "right-foot",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "additional_person": {
+          "firstname": "Luuk",
+          "fullname": "Luuk de Jong",
+          "id": "7127",
+          "name": "Luuk de Jong",
+          "birthday": "27.08.1990",
+          "weight": "87",
+          "surname": "de Jong",
+          "height": "189",
+          "country": [
+            {
+              "id": "149"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "114015",
+            "birth_place": "Aigle",
+            "died": "no",
+            "position_1": "11",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "1:1",
+        "minute": "14"
+      },
+      "minute": "14",
+      "tickertime": "28.09.2016 21:01:18",
+      "content": "Pröpper sorgt für Stille im Rund! Nach einer ganz langen Flanke von Willems aus der eigenen Hälfe, legt de Jong am Sechzehner direkt weiter auf Pröpper. Der fackelt nicht lang, zieht sofort ab und hat dann Glück, dass Granat den Schuss abfälscht. Vom Rostov-Verteidiger kullert das Leder unhalbarr in die rechte Ecke."
+    },
+    {
+      "id": "1802639",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "14",
+      "tickertime": "28.09.2016 21:01:56",
+      "content": "Nach starkem Auftakt der Gladbacher übernimmt Barca so allmählich das Kommando. Die Spanier haben erwartungsgemäß mehr Ballbesitz, doch die Borussia kann immer wieder für Entlastung sorgen."
+    },
+    {
+      "id": "1802642",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "16",
+      "tickertime": "28.09.2016 21:02:18",
+      "content": "Die Gäste bekommen einen ersten Eckstoß zugesprochen. Zuffi führt aus und findet Suchy im Sechzehner, dessen Kopfball jedoch deutlich am rechten Pfosten vorbei geht. Noch läuft nicht viel zusammen in der Offensive des FCB."
+    },
+    {
+      "id": "1802643",
+      "match_id": "8305396",
+      "headline": "Gelbe Karte für Saúl (Atlético Madrid)",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Saúl Ñíguez Esclapez",
+          "id": "233829",
+          "name": "Saúl",
+          "birthday": "21.11.1994",
+          "weight": "70",
+          "surname": "Saúl",
+          "height": "181",
+          "country": [
+            {
+              "id": "193"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "176000",
+            "birth_place": "Elche",
+            "died": "no",
+            "position_1": "7",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "id": "21367703",
+        "action": "card",
+        "created": "28.09.2016 21:02",
+        "kind": "yellow",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "15"
+      },
+      "minute": "15",
+      "tickertime": "28.09.2016 21:02:21",
+      "content": "Saúl nietet Vidal 30 Meter vor dem eigenen Tor resolut um. Klare Gelbe Karte für den Mittelfeldmann."
+    },
+    {
+      "id": "1802661",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "17",
+      "tickertime": "28.09.2016 21:02:46",
+      "content": "Sardar Azmoun probiert es aus der Distanz: Aus 16 Metern und freier Position versucht es der Angreifer mit einem gefühlvollen Schuss aus der Ferne. Er trifft den Ball gut, kurz vor der Linie hechtet Zoet nach rechts und lenkt das Spielgerät über die Latte. Die Ecke danach bringt nichts ein."
+    },
+    {
+      "id": "1802647",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "15",
+      "tickertime": "28.09.2016 21:02:51",
+      "content": "Nach einigen dynamischen Szenen zu Beginn baut die Partie leider aktuell ein wenig ab. Kiev ist auf Spielkontrolle aus und die weißen Hausherren lassen sich nicht locken."
+    },
+    {
+      "id": "1802648",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "17",
+      "tickertime": "28.09.2016 21:03:12",
+      "content": "Und auch bei eigenem Ballbesitz können die Türken das ukrainische Bollwerk im Moment nicht recht gefährden."
+    },
+    {
+      "id": "1802649",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "16",
+      "tickertime": "28.09.2016 21:03:47",
+      "content": "Trotz der großen Entfernung versucht sich Alaba beim fälligen Freistoß mit einem Direktschuss. Die Mauer fälscht diesen zur Ecke ab. Diese bringt allerdings nichts ein."
+    },
+    {
+      "id": "1802650",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "17",
+      "tickertime": "28.09.2016 21:03:50",
+      "content": "Da war mehr drin! Die Fohlen kommen über die rechte Seite, wo Traore den herausgerückten Piquet ausspielen kann. Der Ivorer versucht mit einem Seitenwechsel den völlig freien Wendt in Szene zu setzen, doch der Pass ist nicht gut und so ist eine tolle Gelegenheit dahin."
+    },
+    {
+      "id": "1802651",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "17",
+      "tickertime": "28.09.2016 21:03:59",
+      "content": "Oh, wie schön war das! Marek Hamšík nimmt den Ball mit der Brust an, tunnelt dann seinen Gegenspieler und spielt einen butterweichen Diagonalpass in den Lauf von José Callejon. Leider kann der Spanier die Kugel nicht kontrollieren."
+    },
+    {
+      "id": "1802652",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "18",
+      "tickertime": "28.09.2016 21:04:03",
+      "content": "Nun kann sich Doumbia im Rücken der Abwehr bis zur Grundlinie davonstehlen, seine Hereingabe wird geblockt und es gibt erneut einen Eckstoß für die Schweizer. Auch dieser bedeutet jedoch keine Gefahr für den Kasten von Ospina."
+    },
+    {
+      "id": "1802655",
+      "match_id": "8305383",
+      "headline": "Tooor für SSC Napoli, 1:0 durch Marek Hamšík",
+      "event": {
+        "person": {
+          "firstname": "Marek",
+          "fullname": "Marek Hamšík",
+          "id": "24826",
+          "name": "Marek Hamšík",
+          "birthday": "27.07.1987",
+          "weight": "79",
+          "surname": "Hamšík",
+          "height": "183",
+          "country": [
+            {
+              "id": "190"
+            }
+          ],
+          "person_detail": {
+            "position_2": "8",
+            "id": "30849",
+            "birth_place": "Banska Bystrica",
+            "died": "no",
+            "position_1": "13",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "id": "21367709",
+        "action": "goal",
+        "created": "28.09.2016 21:04",
+        "kind": "head",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "additional_person": {
+          "firstname": "Faouzi",
+          "fullname": "Faouzi Ghoulam",
+          "id": "229375",
+          "name": "Faouzi Ghoulam",
+          "birthday": "01.02.1991",
+          "weight": "80",
+          "surname": "Ghoulam",
+          "height": "186",
+          "country": [
+            {
+              "id": "4"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "171972",
+            "birth_place": "Saint-Priest-en-Jarez",
+            "died": "no",
+            "position_1": "3",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "content": "1:0",
+        "minute": "20"
+      },
+      "minute": "20",
+      "tickertime": "28.09.2016 21:04:55",
+      "content": "Riesenjubel im Stadio San Paolo! Marek Hamšík bringt die Hausherren in Führung! Faouzi Ghoulam serviert eine Ecke von der rechten Seite in die Nähe des kurzen Pfosten und der dort postierte Slowene köpfte ein ins kurze Eck zum 1:0 für den SSC Napoli. Die Verteidigung war in dieser Situation nicht nah genug dran..."
+    },
+    {
+      "id": "1802658",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "17",
+      "tickertime": "28.09.2016 21:05:27",
+      "content": "Was für ein rasanter Auftakt im Celtic Park. Die Hausherren legen los wie die Feuerwehr und dann schlägt City mit der ersten echten Chanve gleich zurück. So kann es doch weiter gehen."
+    },
+    {
+      "id": "1802659",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "18",
+      "tickertime": "28.09.2016 21:05:28",
+      "content": "Es war allerdings ohnehin vor der Partie klar, dass die Attraktivität von Beşiktaş abhängen wird. Derweil ist nach einem Zweikampf Vitaliy Buyalskiy liegen geblieben und hält sich den Rücken."
+    },
+    {
+      "id": "1802663",
+      "match_id": "8305389",
+      "headline": "Tooor für Celtic FC, 2:1 durch Raheem Sterling (Eigentor)",
+      "event": {
+        "person": {
+          "firstname": "Raheem",
+          "fullname": "Raheem Shaquille Sterling",
+          "id": "240532",
+          "name": "Raheem Sterling",
+          "birthday": "08.12.1994",
+          "weight": "69",
+          "surname": "Sterling",
+          "height": "170",
+          "country": [
+            {
+              "id": "55"
+            }
+          ],
+          "person_detail": {
+            "position_2": "12",
+            "id": "180055",
+            "birth_place": "Kingston",
+            "died": "no",
+            "position_1": "9",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "id": "21367711",
+        "action": "goal",
+        "created": "28.09.2016 21:06",
+        "kind": "own-goal",
+        "team": {
+          "id": "1267",
+          "name": "Manchester City"
+        },
+        "additional_person": {
+          "firstname": "Tom",
+          "fullname": "Tomas Petar Rogić",
+          "id": "271294",
+          "name": "Tom Rogić",
+          "birthday": "16.12.1992",
+          "weight": "89",
+          "surname": "Rogić",
+          "height": "188",
+          "country": [
+            {
+              "id": "17"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "205564",
+            "birth_place": "Griffith",
+            "died": "no",
+            "position_1": "8",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "content": "2:1",
+        "minute": "20"
+      },
+      "minute": "20",
+      "tickertime": "28.09.2016 21:06:14",
+      "content": "Und so geht es auch tatsächlich weiter. Celtic spielt einen schnellen Angriff durch die Mitte, wo Rogić wartet, bis Tierney links in Position gelaufen ist und dann raus legt. Tierney zieht im Sechzehner aus spitzem Winkel mit links ab und sein Schuss wird von Sterling abgefälscht und schlägt unhaltbar für den Keeper im kurzen Eck zur erneuten Celtic-Führung ein."
+    },
+    {
+      "id": "1802665",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "20",
+      "tickertime": "28.09.2016 21:06:33",
+      "content": "Mit der Führung im Rücken stehen die \"Gunners\" etwas tiefer und lauern auf Kontersituationen - so wie in diesem Moment. Alexis Sánchez luchst den Gästen die Kugel auf Höhe des Mittelkreises ab, lässt im Zentrum zwei Gegenspieler aussteigen und spielt dann herrlich in den freien Raum auf Özil. Der deutsche Nationalspieler geht auf Vaclík zu, wird dann aber zurückgepfiffen, weil er im Abseits stand."
+    },
+    {
+      "id": "1802666",
+      "match_id": "8305360",
+      "headline": "Gelbe Karte für Marek Suchý (FC Basel)",
+      "event": {
+        "person": {
+          "firstname": "Marek",
+          "fullname": "Marek Suchý",
+          "id": "24083",
+          "name": "Marek Suchý",
+          "birthday": "29.03.1988",
+          "weight": "76",
+          "surname": "Suchý",
+          "height": "183",
+          "country": [
+            {
+              "id": "217"
+            }
+          ],
+          "person_detail": {
+            "position_2": "5",
+            "id": "33065",
+            "birth_place": "Praha",
+            "died": "no",
+            "position_1": "4",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367712",
+        "action": "card",
+        "created": "28.09.2016 21:06",
+        "kind": "yellow",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "21"
+      },
+      "minute": "21",
+      "tickertime": "28.09.2016 21:06:59",
+      "content": "Suchy begeht ein taktisches Foul gegen Sánchez und holt sich die erste Gelbe Karte der Partie ab."
+    },
+    {
+      "id": "1802668",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "20",
+      "tickertime": "28.09.2016 21:07:04",
+      "content": "Das hatte sich in den letzten Minuten angedeutet. Paris investierte zu wenig, ließ einige kleine Chancen zu und agierte vor dem Gegentor ungestüm am eigenen Strafraum. Aréola machte beim Führungstreffer ebenfalls keine gute Figur. Jetzt ist die Startruppe gefordert und muss mehr Präsenz, vor allem im Offensivspiel, zeigen,"
+    },
+    {
+      "id": "1802667",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "20",
+      "tickertime": "28.09.2016 21:07:04",
+      "content": "Der Mittelfeldmann kommt kurz zurück in die Partie, aber muss sich dann erneut auf den Rasen fallen lassen. Das dürfte es wohl gewesen sein."
+    },
+    {
+      "id": "1802669",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "19",
+      "tickertime": "28.09.2016 21:07:15",
+      "content": "Starke Aktion von Carrasco! Die Hausherren spielen sich am Bayern-Sechzehner fest. Godín bedient Carrasco neben sich, welcher ins Dribbling mit Martínez geht und aus 15 Metern halbrechter Position abzieht. Neuer ist rechtzeitig unten und kann den wuchtigen Versuch des Belgiers gut abwehren! Erste gute Chance nun auch für \"Atleti\"!"
+    },
+    {
+      "id": "1802670",
+      "match_id": "8305372",
+      "headline": "",
+      "event": {
+        "person": {
+          "firstname": "Vitaliy",
+          "fullname": "Vitaliy Buyalskiy",
+          "id": "267388",
+          "name": "Vitaliy Buyalskiy",
+          "birthday": "06.01.1993",
+          "weight": "61",
+          "surname": "Buyalskiy",
+          "height": "170",
+          "country": [
+            {
+              "id": "225"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "202608",
+            "birth_place": "",
+            "died": "no",
+            "position_1": "0",
+            "preferred_side": "unknown"
+          },
+          "gender": "male"
+        },
+        "id": "21367713",
+        "action": "playing",
+        "created": "28.09.2016 21:07",
+        "kind": "substitute",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "additional_person_id": "297324",
+        "additional_person": {
+          "firstname": "Nikita",
+          "fullname": "Nikita Korzun",
+          "id": "297324",
+          "name": "Nikita Korzun",
+          "birthday": "06.03.1995",
+          "weight": "0",
+          "surname": "Korzun",
+          "height": "174",
+          "country": [
+            {
+              "id": "22"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "225304",
+            "birth_place": "Minsk",
+            "died": "no",
+            "position_1": "7",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "",
+        "minute": "22"
+      },
+      "minute": "22",
+      "tickertime": "28.09.2016 21:07:22",
+      "content": "<span>Auswechslung bei FC Augsburg: Nikita Korzun für Vitaliy Buyalskiy</span>"
+    },
+    {
+      "id": "1802672",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "20",
+      "tickertime": "28.09.2016 21:07:53",
+      "content": "Rostov-Wirbelwind Azmoun sorgt in den Anfangsphase für viel Betrieb, aber auch Diskussionen. Nach einem Freistoß aus 40 Metern, fordert der Angreifer nach einer minimalen Berührung sofort Elfmeter. Der Schiedsrichter bleibt cool und zeigt Abstoß an."
+    },
+    {
+      "id": "1802673",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "20",
+      "tickertime": "28.09.2016 21:08:01",
+      "content": "Gladbach wird wieder stärker. Die Hausherren scheinen kurzzeitig beeindruckt gewesen zu sein, von den beiden guten Gelegenheiten für die Gäste. Mit der großen Geschwindigkeit auf den Außen und einem strukturierten Angriffsfußball halten sie die Katalanen gut in Schach."
+    },
+    {
+      "id": "1802676",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "22",
+      "tickertime": "28.09.2016 21:08:44",
+      "content": "Bei einem Eckball für die Hausherren von der linken Seite verpasst erst Mustafi mit dem Kopf. Walcott kann das Leder jedoch aufnehmen, aber säbelt beim Schussversuch aus gut zwölf Metern über die Kugel und die Chance ist dahin."
+    },
+    {
+      "id": "1802677",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "22",
+      "tickertime": "28.09.2016 21:08:54",
+      "content": "Sergiy Rebrov ist also zu einem frühen Wechsel gezwungen und der junger Weißrusse Korzun kommt in die Partie."
+    },
+    {
+      "id": "1802692",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "23",
+      "tickertime": "28.09.2016 21:08:54",
+      "content": "Azmoun zum dritten Mal: Nach einer Hereingabe von rechts und Kalachev verliert der Iraner nach einem Kopfball die Orietierung. Azmoun dreht sich in alle Richtungen und sucht den Ball vergeblich, ehe Zoet die Suchaktion beendet und das Leder ohne Probleme vom Fünfer einsackt."
+    },
+    {
+      "id": "1802685",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "22",
+      "tickertime": "28.09.2016 21:08:56",
+      "content": "Dennoch lag hier für einen kurzen Moment das 1:0 in der Luft. Nach einem tollen Pass von Neymar steht Suarez auf Halbrechts alleine vor Sommer. Anstatt selber zu schießen wählt der Uruguayer den Pass in die Mitte, den Korb gerade so vor dem einschussbereiten Paco Alcácer klären kann."
+    },
+    {
+      "id": "1802678",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "21",
+      "tickertime": "28.09.2016 21:09:03",
+      "content": "Angepeitscht vom eigenen Publikum geben die Hausherren nun den Ton an und finden dabei immer wieder Lücken. Filie Luís zieht nun über links an Lahm vorbei und dringt in den Strafraum ein. Xabi Alonso klärt zur Ecke."
+    },
+    {
+      "id": "1802680",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "22",
+      "tickertime": "28.09.2016 21:09:27",
+      "content": "<b>Torres an den Pfosten!</b> Riesenglück für die Bayern! Der fällige Eckball kommt scharf an den kurzen Pfosten, wo Lewandowski unglücklich an den langen Pfosten verlängert. Dort kommt Torres aus einem Meter zum Kopfball, setzt ihn aber ans Aluminium! Nach einigem Gestochere kann Neuer die Kugel schließlich sicher aufnehmen. Durchatmen."
+    },
+    {
+      "id": "1802681",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "23",
+      "tickertime": "28.09.2016 21:09:41",
+      "content": "Die Partie bleibt überschaubar. Eine Ecke von Ricardo Quaresma findet keinen Abnehmer. Danach macht es Kiev hinten mit einem technischen Fehler fast selbst spannend, aber am Ende kann der Keeper den Ball noch aus der Gefahrenzone schlagen."
+    },
+    {
+      "id": "1802684",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "23",
+      "tickertime": "28.09.2016 21:10:06",
+      "content": "Die Brasilianer der Gastgeber bringen die Hintermannschaft der Franzosen gan schön ins Schwitzen. Mit frechen Dribblings und einem gelegentlichen Trick lassen sie Thiago Silva und Co. immer wieder ins Leere laufen. Besonders Linksaußen Wanderson macht mit Aurier, was er will."
+    },
+    {
+      "id": "1802686",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "23",
+      "tickertime": "28.09.2016 21:10:14",
+      "content": "Otamendi versucht es für die Gäste mal aus der zweiten Reihe, sein Rechtsschuss aus knapp 30 Metern ist aber kein Problem für Gordon im Kasten der Schotten."
+    },
+    {
+      "id": "1802687",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "23",
+      "tickertime": "28.09.2016 21:10:16",
+      "content": "Die Italiener scheinen nun noch einen Treffer nachlegen zu wollen und drücken daher weiter kräftig auf die Tube. Bis zum Gegentreffer hatte Benfica in Person von Kostas Mitroglou zwar die beiden besten Chancen der Partie, Napolis Führung ist aber keineswegs unverdient!"
+    },
+    {
+      "id": "1802688",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "24",
+      "tickertime": "28.09.2016 21:10:20",
+      "content": "Derweil erhöht Arsenal wieder seine Offensivbemühungen und setzt sich in der Hälfte der Gäste fest. Immer wieder versuchen es die \"Gunners\" über Walcott auf dem rechten Flügel, der mit seinen Tempo-Dribblings die Eidgenossen ein ums andere Mal mächtig schwindelig spielt."
+    },
+    {
+      "id": "1802704",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "26",
+      "tickertime": "28.09.2016 21:11:08",
+      "content": "Poloz steigt in einem Zweikampf mit Schwaab hoch und geht dann einem Kontakt zu Boden. Glücklicheweise war der Schock größer als die Verletzung. Nach ein paar Sekunden kann der Torschütze weitermachen."
+    },
+    {
+      "id": "1802693",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "25",
+      "tickertime": "28.09.2016 21:11:19",
+      "content": "Gündogan nagelt das Leder nach einer Ablage von Agüero an die Latte, doch der Treffer hätte auch nicht gezählt, da der Argentinier zuvor bei seiner Ablage die Hand zur Hilfe genommen hatte."
+    },
+    {
+      "id": "1802694",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "23",
+      "tickertime": "28.09.2016 21:11:45",
+      "content": "Und wieder die Rojiblancos! Griezmann hat auf links zu viel Platz und gibt flach in die Mitte. Dort rutschen sowohl Boateng als auch Torres hinter ihm an der Kugel vorbei! Kommt der Spanier da ran, wird es erneut brandgefährlich. Die Münchener offenbaren jetzt doch sehr viele große Lücken in der Defensive. Das kann Carlo Ancelotti nicht gefallen."
+    },
+    {
+      "id": "1802696",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "26",
+      "tickertime": "28.09.2016 21:11:58",
+      "content": "Ángel Di María versucht jetzt, das Spiel an sich zu reißen. Der Argentinier ist bei jedem Aufbauverusch am Ball, viel geht über seine linke Seite. Häufig verzettelt er sich allerdings im Dribbling, anstatt den besser postierten Teamkollegen anzuspielen."
+    },
+    {
+      "id": "1802697",
+      "match_id": "8305360",
+      "headline": "Tooor für Arsenal FC, 2:0 durch Theo Walcott",
+      "event": {
+        "person": {
+          "firstname": "Theo",
+          "fullname": "Theodore Walcott",
+          "id": "1970",
+          "name": "Theo Walcott",
+          "birthday": "16.03.1989",
+          "weight": "68",
+          "surname": "Walcott",
+          "height": "170",
+          "country": [
+            {
+              "id": "55"
+            }
+          ],
+          "person_detail": {
+            "position_2": "12",
+            "id": "42224",
+            "birth_place": "Newbury",
+            "died": "no",
+            "position_1": "11",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367804",
+        "action": "goal",
+        "created": "28.09.2016 21:11",
+        "kind": "right-foot",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "additional_person": {
+          "firstname": "Alexis",
+          "fullname": "Alexis Alejandro Sánchez Sánchez",
+          "id": "22106",
+          "name": "Alexis Sánchez",
+          "birthday": "19.12.1988",
+          "weight": "73",
+          "surname": "Sánchez",
+          "height": "170",
+          "country": [
+            {
+              "id": "39"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "50214",
+            "birth_place": "Tocopilla",
+            "died": "no",
+            "position_1": "12",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "2:0",
+        "minute": "26"
+      },
+      "minute": "26",
+      "tickertime": "28.09.2016 21:11:59",
+      "content": "Walcott erhöht auf 2:0! Den \"Gunners\" genügt ein einfacher Doppelpass, um gegen den FC Basel nachzulegen. Walcott leitet seinen Treffer selbst ein, indem er auf Sánchez im Zentrum passt, der umgehend für den durchgestarteten Walcott durchsteckt. Der Flügelflitzer taucht halbrechts vor Vaclík auf und verwandelt im langen Eck."
+    },
+    {
+      "id": "1802698",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "25",
+      "tickertime": "28.09.2016 21:12:03",
+      "content": "Da war mehr drin! Kiev kontert über links und beim klugen Pass in den Rücken der Abwehr behindern sich Moraes sowie Yarmolenko gegenseitig. Dadurch kommt aus elf Metern kein Schuss zustande und beim folgenden Gestocher steht der Brasilianer dann im Abseits."
+    },
+    {
+      "id": "1802700",
+      "match_id": "8305396",
+      "headline": "Gelbe Karte für Philipp Lahm (Bayern München)",
+      "event": {
+        "person": {
+          "firstname": "Philipp",
+          "fullname": "Philipp Lahm",
+          "id": "3190",
+          "name": "Philipp Lahm",
+          "birthday": "11.11.1983",
+          "weight": "66",
+          "surname": "Lahm",
+          "height": "170",
+          "country": [
+            {
+              "id": "47"
+            }
+          ],
+          "person_detail": {
+            "position_2": "7",
+            "id": "5940",
+            "birth_place": "München",
+            "died": "no",
+            "position_1": "5",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367806",
+        "action": "card",
+        "created": "28.09.2016 21:12",
+        "kind": "yellow",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "26"
+      },
+      "minute": "26",
+      "tickertime": "28.09.2016 21:12:44",
+      "content": "Philipp Lahm trifft Filipe Luís mit dem hohen Bein unabsichtlich im Gesicht. Trotzdem gibt es dafür die Gelbe Karte."
+    },
+    {
+      "id": "1802703",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "25",
+      "tickertime": "28.09.2016 21:12:53",
+      "content": "Wieder kontern die Borussen stark. Raffael lässt in der Zentralen gleich zwei Gegner aussteigen und bringt somit einen guten Angriff ins Rollen. Auf der rechten Seite kommt Traore an die Kugel, der paralell zum Strafraum in die Mitte zieht und es mit einem Schlenzer in die lange Ecke versucht. Der Abschluss geht allerdings deutlich am Tor vorbei."
+    },
+    {
+      "id": "1802706",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "27",
+      "tickertime": "28.09.2016 21:13:34",
+      "content": "City hat längst in die Partie gefunden und drückt jetzt auf den Ausgleich. Eine Flanke von links findet am zweiten Pfosten Agüero, der per Kopf in die Mitte ablegt. Dort trudelt die Kugel an Freund und Feind vorbei ins Toraus."
+    },
+    {
+      "id": "1802707",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "26",
+      "tickertime": "28.09.2016 21:13:51",
+      "content": "Zwayer hat bislang zwar keinen schwierigen Nachmittag, muss aber doch hier und da mahnende Worte an die Akteure richten."
+    },
+    {
+      "id": "1802708",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "27",
+      "tickertime": "28.09.2016 21:14:14",
+      "content": "Nachdem die Portugiesen in Rückstand geraten sind, konnten sie sich dem gegnerischen Tor auch nicht mehr gefährlich annähern. Stattdessen scheinen die Hausherren nun immer sicherer zu werden und so nähert sich ihre Passquote auch starken neunzig Prozent an."
+    },
+    {
+      "id": "1802709",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "29",
+      "tickertime": "28.09.2016 21:14:18",
+      "content": "Die russischen Fans sehen in Rostov ein unterhaltsames Spiel. Beide Mannschaften sind gewillt, für Tore zu sorgen und lassen dem Gegner mitunter viel Platz in der Defensive."
+    },
+    {
+      "id": "1802711",
+      "match_id": "8305389",
+      "headline": "Tooor für Manchester City, 2:2 durch Raheem Sterling",
+      "event": {
+        "person": {
+          "firstname": "Raheem",
+          "fullname": "Raheem Shaquille Sterling",
+          "id": "240532",
+          "name": "Raheem Sterling",
+          "birthday": "08.12.1994",
+          "weight": "69",
+          "surname": "Sterling",
+          "height": "170",
+          "country": [
+            {
+              "id": "55"
+            }
+          ],
+          "person_detail": {
+            "position_2": "12",
+            "id": "180055",
+            "birth_place": "Kingston",
+            "died": "no",
+            "position_1": "9",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "id": "21367893",
+        "action": "goal",
+        "created": "28.09.2016 21:14",
+        "kind": "right-foot",
+        "team": {
+          "id": "1267",
+          "name": "Manchester City"
+        },
+        "additional_person": {
+          "firstname": "",
+          "fullname": "David Jiménez Silva",
+          "id": "24305",
+          "name": "David Silva",
+          "birthday": "08.01.1986",
+          "weight": "67",
+          "surname": "David Silva",
+          "height": "170",
+          "country": [
+            {
+              "id": "193"
+            }
+          ],
+          "person_detail": {
+            "position_2": "6",
+            "id": "24491",
+            "birth_place": "Arguineguín",
+            "died": "no",
+            "position_1": "8",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "content": "2:2",
+        "minute": "28"
+      },
+      "minute": "28",
+      "tickertime": "28.09.2016 21:14:24",
+      "content": "Da ist der erneute Ausgleich für City! Nach einem Ballgewinn im Mittelfeld schickt Silva Sterling steil, der mit einem schnellen Haken einen Verteidiger und auch den herausstürmenden Keeper narrt und aus 15 Metern vorbei an Gordon ins verlassene Tor einschiebt."
+    },
+    {
+      "id": "1802712",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "27",
+      "tickertime": "28.09.2016 21:14:24",
+      "content": "Nach einer ordentlichen Anfangsphase wirken die Bayern jetzt nicht mehr wirklich griffig. Atlético hat die Spielkontrolle übernommen und könnte bereits in Führung liegen. Noch aber meint es der Fußballgott gut mit dem deutschen Rekordmeister."
+    },
+    {
+      "id": "1802713",
+      "match_id": "8305372",
+      "headline": "Gelbe Karte für Nikita Korzun (Dinamo Kiev)",
+      "event": {
+        "person": {
+          "firstname": "Nikita",
+          "fullname": "Nikita Korzun",
+          "id": "297324",
+          "name": "Nikita Korzun",
+          "birthday": "06.03.1995",
+          "weight": "0",
+          "surname": "Korzun",
+          "height": "174",
+          "country": [
+            {
+              "id": "22"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "225304",
+            "birth_place": "Minsk",
+            "died": "no",
+            "position_1": "7",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367897",
+        "action": "card",
+        "created": "28.09.2016 21:14",
+        "kind": "yellow",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "27"
+      },
+      "minute": "27",
+      "tickertime": "28.09.2016 21:14:39",
+      "content": "Kurze Zeit später muss der Deutsche dann aber das erste Mal in die Tasche langen. Vincent Aboubakar war vorne durchgestartet und taktisch vor dem Sechzehner zu Fall gebracht worden."
+    },
+    {
+      "id": "1802715",
+      "match_id": "8305372",
+      "headline": "Tooor für Beşiktaş, 1:0 durch Ricardo Quaresma",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Ricardo Andrade Quaresma Bernardo",
+          "id": "10389",
+          "name": "Ricardo Quaresma",
+          "birthday": "26.09.1983",
+          "weight": "67",
+          "surname": "Ricardo Quaresma",
+          "height": "173",
+          "country": [
+            {
+              "id": "167"
+            }
+          ],
+          "person_detail": {
+            "position_2": "12",
+            "id": "11488",
+            "birth_place": "Lisboa",
+            "died": "no",
+            "position_1": "10",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "id": "21367901",
+        "action": "goal",
+        "created": "28.09.2016 21:14",
+        "kind": "direct-free-kick",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "additional_person_id": "0",
+        "content": "1:0",
+        "minute": "29"
+      },
+      "minute": "29",
+      "tickertime": "28.09.2016 21:14:54",
+      "content": "Der Portugiese holt aus dem ruhenden Ball aus 20 Metern das Maximale heraus! Wunderbar zirkelt er das Leder über die Mauer in den rechten Giebel. Artur Rudko fliegt vergeblich, das Ding war zu gut geschossen!"
+    },
+    {
+      "id": "1802716",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "28",
+      "tickertime": "28.09.2016 21:15:05",
+      "content": "Das war allerdings viel zu einfach für Arsenal. Die Gäste haben beim zweiten Gegentreffer schlicht geschlafen, sodass sich Walcott unbehelligt im Rücken der Abwehr davonstehlen konnte. So kann man gegen eine Mannschaft von internationaler Klasse nicht verteidigen."
+    },
+    {
+      "id": "1802717",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "28",
+      "tickertime": "28.09.2016 21:15:15",
+      "content": "Die Partie hat ein mäßiges Niveau. Durch den kompakten Defensivverband der Gastgeber kommen die Bälle nicht an Edison Cavani, der in der Sturmspitze kaum Anschluss an das Spiel findet. Lucas kann auch nicht seine gewohnten Flügelläufe an den Tag legen, stattdessen prägen lange Bälle, meist direkt in die Hände von Keeper Stoyanov, das Spiel der Pariser."
+    },
+    {
+      "id": "1802720",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "28",
+      "tickertime": "28.09.2016 21:15:50",
+      "content": "Lewandowski mit dem Kopf! Lahm hat auf rechts ganz viel Platz und gibt aus dem Halbfeld hoch an den Elfmeterpunkt. Dort kommt Lewandowski per Kopfball zum Abschluss, bekommt aber keinen Druck mehr dahinter und setzt ihn relativ unplatziert in die Hände von Oblak. Da war mehr drin!"
+    },
+    {
+      "id": "1802721",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "30",
+      "tickertime": "28.09.2016 21:15:53",
+      "content": "Davy Pröpper will zur Ecke von links ansetzen, wird aber bereits bei der Ausführung abgepfiffen: In der Gefahrenzone verhielt sich Alexandru Gaţcan nicht korrekt und stützte sich auf."
+    },
+    {
+      "id": "1802723",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "28",
+      "tickertime": "28.09.2016 21:16:20",
+      "content": "Eine gute halbe Stunde ist gespielt und man muss Borussia Mönchengladbach großes Lob aussprechen. Die Gastgeber treten hier wirklich ganz anders auf, als noch in Manchester. Die Mannen von Andre Schubert stehen hinten größtenteils sicher und sorgen mit tollen Gegenangriffen immer wieder für Entlastung. Was noch fehlt, ist der letzte Pass, um vielleicht auch mal eine gute Tormöglichkeit verbuchen zu können."
+    },
+    {
+      "id": "1802724",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "30",
+      "tickertime": "28.09.2016 21:16:51",
+      "content": "Die Hausherren scheinen noch lange nicht genug zu haben und schnüren Basel in deren Hälfte ein. Die Gäste kommen gar nicht mehr zur Entfaltung und laufen in dieser Phase nur hinterher. Der dritte Treffer für die Gastgeber liegt gewissermaßen in der Luft."
+    },
+    {
+      "id": "1802725",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "31",
+      "tickertime": "28.09.2016 21:16:51",
+      "content": "Lucas kann das erste Mal den Ball behaupten und nimmt ihn eng am Fuß mit in den Strafraum. Seine Flanke kann jedoch zur Ecke abgewehrt werden. Diese findet den Kopf von Kapitän Thiago Silva, sein Kopfball fliegt jedoch weit am Kasten vorbei. Immerhin war das Mal ein Lebenszeichen der PSG-Offensive."
+    },
+    {
+      "id": "1802727",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "29",
+      "tickertime": "28.09.2016 21:17:43",
+      "content": "Faouzi Ghoulam wird unweit vom linken Strafraumeck von seinem Gegenspieler Andre Carrillo zu Fall gebracht. Der folgende Freistoß von Marek Hamšík landet aber in den aufnahmebereiten Fängen von Torhüter Júlio César. Ganz ungefährlich war die Nummer aber auch nicht, vor dem Tor hätte Arkadiusz Milik der Hereingabe fast die entscheidende Wendung gegeben, verpasste aber knapp."
+    },
+    {
+      "id": "1802729",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "30",
+      "tickertime": "28.09.2016 21:18:08",
+      "content": "Jetzt ist die Stimmung im Rund natürlich erst recht ausgelassen. Der Treffer hatte sich zwar nicht wirklich angedeutet, geht aufgrund der Spielanteile aber in Ordnung."
+    },
+    {
+      "id": "1802730",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "31",
+      "tickertime": "28.09.2016 21:18:36",
+      "content": "Wir erleben hier einen offenen Schlagabtausch auf hohem Niveau und in einem atemberaubenden Tempo! Die Gäste sind nach dem erneuten Ausgleich nun um etwas mehr Spielkontrolle bemüht."
+    },
+    {
+      "id": "1802731",
+      "match_id": "8305404",
+      "headline": "",
+      "minute": "33",
+      "tickertime": "28.09.2016 21:18:37",
+      "content": "Kommen hohe Bälle in den Strafraum der Boeren, droht oft Gefahr. Azmoun und Poloz verarbeiten viele Flankenbälle und können ihre Kopfball-Duelle fast immer gewinnen."
+    },
+    {
+      "id": "1802733",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "31",
+      "tickertime": "28.09.2016 21:18:41",
+      "content": "Eine halbe Stunde ist um. Die Bayern dominierten die erste Viertelstunde, die Madrilenen die zweiten 15 Minuten. Das Remis zu diesem Zeitpunkt geht in Ordnung. Derzeit spielt sich vieles wieder im Mittelfeld ab. Atlético zieht sich wieder mehr und mehr zurück."
+    },
+    {
+      "id": "1802734",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "32",
+      "tickertime": "28.09.2016 21:18:48",
+      "content": "Das Geschehen spielt sich momentan eher zwischen den Strafräumen ab, da Barca bei eigenem Ballbesitz nicht das ganz große Feuerwerk abbrennt und Gladbach froh ist, in der Defensive eine ruhige Phase zu haben."
+    },
+    {
+      "id": "1802735",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "32",
+      "tickertime": "28.09.2016 21:18:51",
+      "content": "Hoppla! Fabricio fliegt an einer Hereingabe vorbei und hat Glück, dass hinter ihm niemand mehr an den Ball kommt."
+    },
+    {
+      "id": "1802736",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "32",
+      "tickertime": "28.09.2016 21:19:03",
+      "content": "José Callejon legt vom rechten Flügel etwas weiter in die Mitte ab zu Marek Hamšík. Der Slowake schließt aus spitzem Winkel ab und trifft nur das Außennetz."
+    },
+    {
+      "id": "1802737",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "32",
+      "tickertime": "28.09.2016 21:19:09",
+      "content": "Hoppla, Tomáš Vaclík! Bei einem Rückpass legt sich der Keeper die Kugel versehentlich etwas zu weit vor und muss zum beherzten Sprint ansetzen, weil Sánchez die Situation vorausgeahnt hatte und sich zum Ball hin bewehgt. Glück für den FCB, dass Vaclík den Tick schneller ist."
+    },
+    {
+      "id": "1802739",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "33",
+      "tickertime": "28.09.2016 21:19:20",
+      "content": "Jetzt müssen die Gäste ihre Passivität natürlich aufgeben und in den ersten Aktionen nach dem Rückstand wirkt Dinamo wirklich ein wenig aktiver."
+    },
+    {
+      "id": "1802741",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:19:58",
+      "content": "Andriy Yarmolenko wird vorne gesucht, doch der Zehner stand minimal im Abseits und konnte den zu steilen Pass ohnehin nicht erreichen."
+    },
+    {
+      "id": "1802742",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:20:01",
+      "content": "Es geht weiter mit einem Eckball für die Hausherren. José Callejon nimmt sich der Ausführung an..."
+    },
+    {
+      "id": "1802743",
+      "match_id": "8305385",
+      "headline": "Tooor für Bor. Mönchengladbach, 1:0 durch Thorgan Hazard",
+      "event": {
+        "person": {
+          "firstname": "Thorgan",
+          "fullname": "Thorgan Hazard",
+          "id": "249977",
+          "name": "Thorgan Hazard",
+          "birthday": "29.03.1993",
+          "weight": "69",
+          "surname": "Hazard",
+          "height": "174",
+          "country": [
+            {
+              "id": "23"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "187858",
+            "birth_place": "La Louvière",
+            "died": "no",
+            "position_1": "8",
+            "preferred_side": "unknown"
+          },
+          "gender": "male"
+        },
+        "id": "21367962",
+        "action": "goal",
+        "created": "28.09.2016 21:20",
+        "kind": "right-foot",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "additional_person": {
+          "firstname": "Mahmoud",
+          "fullname": "Mahmoud Dahoud",
+          "id": "262027",
+          "name": "Mahmoud Dahoud",
+          "birthday": "01.01.1996",
+          "weight": "69",
+          "surname": "Dahoud",
+          "height": "176",
+          "country": [
+            {
+              "id": "47"
+            }
+          ],
+          "person_detail": {
+            "position_2": "13",
+            "id": "197701",
+            "birth_place": "Amouda",
+            "died": "no",
+            "position_1": "7",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "content": "1:0",
+        "minute": "34"
+      },
+      "minute": "34",
+      "tickertime": "28.09.2016 21:20:06",
+      "content": "Gladbach belohnt sich für eine tolle erste Halbzeit! Dahoud erobert den Ball im Mittelkreis und sofort rollt der Gladbacher Konterzug auf ter Stegen zu. Raffael nimmt Tempo auf und setzt erneut Dahoud ein, der das Leder im richtigen Moment quer legt auf Hazard, der aus wenigen Metern einnetzt und den Borussia-Park beben lässt."
+    },
+    {
+      "id": "1802745",
+      "match_id": "8305396",
+      "headline": "Gelbe Karte für Thiago (Bayern München)",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Thiago Alcântara do Nascimento",
+          "id": "152471",
+          "name": "Thiago",
+          "birthday": "11.04.1991",
+          "weight": "71",
+          "surname": "Thiago",
+          "height": "174",
+          "country": [
+            {
+              "id": "193"
+            }
+          ],
+          "person_detail": {
+            "position_2": "7",
+            "id": "141819",
+            "birth_place": "San Pietro Vernotico",
+            "died": "no",
+            "position_1": "8",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367964",
+        "action": "card",
+        "created": "28.09.2016 21:20",
+        "kind": "yellow",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "33"
+      },
+      "minute": "33",
+      "tickertime": "28.09.2016 21:20:19",
+      "content": "Thiago mit dem taktischen Foul an Filipe Luís. Gelb für den Edeltechniker der Bayern."
+    },
+    {
+      "id": "1802749",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:20:52",
+      "content": "Das war eng! Wieder sind es Sánchez und Walcott, die die Schweizer in Bedrängnis bringen. Sánchez gibt auf die rechte Seite zu Walcott, der den Ball scharf vors Tor passt, wo seine Mitspieler aber verpassen. So segelt das Leder an Freund und Feind vorbei ins Toraus."
+    },
+    {
+      "id": "1802751",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:21:25",
+      "content": "... und führt sie kurz aus. In der Folge wird es aber nicht brenzlig für die portugiesische Hintermannschaft. Kalidou Koulibaly leistet sich ein Foul tief in des Gegners Hälfte und Benfica hat kurz Zeit zum Luft holen."
+    },
+    {
+      "id": "1802752",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:21:28",
+      "content": "Ludogorets hat sich jetzt ganz weit in die eigene Hälfte zurückgezogen. Der Spielaufbau über die Innenverteidiger startet bereits im eigenen Strafraum. Meist schlägt Palomino den Ball dann hoch und weit auf Jonathan Cafú, der als einziger Akteur der Grünen in der gegnerischen Hälfte lauert. Gegen diese Form des Angriffspiels haben die breit gebauten Innenverteidiger Marquinhos und Thiago Silva überhaupt keine Probleme, sodass das Spiel gerade ein wenig einschläft."
+    },
+    {
+      "id": "1802753",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:21:31",
+      "content": "Rogić bringt eine Ecke der Hausherren auf den zweiten Pfosten, wo Lustig das Kopfballduell gewinnt. Sein Kopfball landet knapp hinter der Latte auf dem Gehäuse der Gäste und es gibt Abstoß."
+    },
+    {
+      "id": "1802756",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "34",
+      "tickertime": "28.09.2016 21:22:08",
+      "content": "Fernando Torres ans Außennetz! Starker Steilpass von Koke nach links in den Strafraum zum sträflich freistehenden Stürmer. Torres zieht sofort ab, trifft aber nur die äußere Seite des Tornetzes! Neuer muss nicht eingreifen."
+    },
+    {
+      "id": "1802757",
+      "match_id": "8305396",
+      "headline": "Tooor für Atlético Madrid, 1:0 durch Yannick Ferreira-Carrasco",
+      "event": {
+        "person": {
+          "firstname": "Yannick",
+          "fullname": "Yannick Ferreira-Carrasco",
+          "id": "209542",
+          "name": "Yannick Ferreira-Carrasco",
+          "birthday": "04.09.1993",
+          "weight": "66",
+          "surname": "Ferreira-Carrasco",
+          "height": "180",
+          "country": [
+            {
+              "id": "23"
+            }
+          ],
+          "person_detail": {
+            "position_2": "10",
+            "id": "200868",
+            "birth_place": "Elsene",
+            "died": "no",
+            "position_1": "6",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21367967",
+        "action": "goal",
+        "created": "28.09.2016 21:22",
+        "kind": "left-foot",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "additional_person": {
+          "firstname": "Antoine",
+          "fullname": "Antoine Griezmann",
+          "id": "163477",
+          "name": "Antoine Griezmann",
+          "birthday": "21.03.1991",
+          "weight": "67",
+          "surname": "Griezmann",
+          "height": "176",
+          "country": [
+            {
+              "id": "61"
+            }
+          ],
+          "person_detail": {
+            "position_2": "11",
+            "id": "152822",
+            "birth_place": "Mâcon",
+            "died": "no",
+            "position_1": "12",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "content": "1:0",
+        "minute": "35"
+      },
+      "minute": "35",
+      "tickertime": "28.09.2016 21:22:13",
+      "content": "Jetzt ist der Ball drin und das ist auch verdient! Griezmann behauptet den Ball im Mittelfeld gegen Thiago und Alonso und steckt durch zum gestarteten Carrasco. Vom linken Strafraumeck zieht der Belgier flach ab und trifft mit Hilfe des Innenpfostens zum 1:0 für Atlético! Neuer kann da nichts mehr ausrichten. Starker Treffer der Hausherren."
+    },
+    {
+      "id": "1802761",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "37",
+      "tickertime": "28.09.2016 21:22:22",
+      "content": "José Callejon bekommt nun die Möglichkeit, es besser zu machen als zuvor. Diesmal scheint er den Ball auch in den Strafraum servieren zu wollen..."
+    },
+    {
+      "id": "1802762",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "35",
+      "tickertime": "28.09.2016 21:22:34",
+      "content": "<b>Vincent Aboubakar rennt allen davon!</b> Anderson Talisca schickt seinen Kollegen steil, der rechts in den Strafraum eindringt und den herausstürmenden Keeper umkurvt. Aber in letzter Sekunde grätscht Evgen Khacheridi dazwischen und verhindert den Einschlag."
+    },
+    {
+      "id": "1802763",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "36",
+      "tickertime": "28.09.2016 21:22:45",
+      "content": "Héctor Bellerín hat das 3:0 auf dem Fuß! Özil spielt aus dem Zentrum auf die rechte Seite zu Walcott (zu wem auch sonst?), der in die Schnittstelle zu Bellerín weiterleitet. Vaclík kann den Schuss des Angreifers aus kurzer Distanz aber parieren und verhindert eine mögliche Vorentscheidung."
+    },
+    {
+      "id": "1802764",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "37",
+      "tickertime": "28.09.2016 21:23:37",
+      "content": "... und findet zwar ad-hoc keinen Abnehmer, ein Abpraller flippert aber vor die Füße von Allan. Der Schuss des Brasilianers aus zwanzig Metern zentraler Position verfehlt das Ziel knapp."
+    },
+    {
+      "id": "1802765",
+      "match_id": "8305404",
+      "headline": "Tooor für FK Rostov, 2:1 durch Dmitriy Poloz",
+      "event": {
+        "person": {
+          "firstname": "Dmitriy",
+          "fullname": "Dmitriy Dmitrievich Poloz",
+          "id": "242330",
+          "name": "Dmitriy Poloz",
+          "birthday": "12.07.1991",
+          "weight": "69",
+          "surname": "Poloz",
+          "height": "181",
+          "country": [
+            {
+              "id": "172"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "181343",
+            "birth_place": "",
+            "died": "no",
+            "position_1": "0",
+            "preferred_side": "unknown"
+          },
+          "gender": "male"
+        },
+        "id": "21367970",
+        "action": "goal",
+        "created": "28.09.2016 21:24",
+        "kind": "right-foot",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "additional_person": {
+          "firstname": "Sardar",
+          "fullname": "Sardar Azmoun",
+          "id": "241479",
+          "name": "Sardar Azmoun",
+          "birthday": "01.01.1995",
+          "weight": "0",
+          "surname": "Azmoun",
+          "height": "183",
+          "country": [
+            {
+              "id": "85"
+            }
+          ],
+          "person_detail": {
+            "position_2": "0",
+            "id": "180809",
+            "birth_place": "Gonbad",
+            "died": "no",
+            "position_1": "0",
+            "preferred_side": "unknown"
+          },
+          "gender": "male"
+        },
+        "content": "2:1",
+        "minute": "37"
+      },
+      "minute": "37",
+      "tickertime": "28.09.2016 21:24:10",
+      "content": ""
+    },
+    {
+      "id": "1802767",
+      "match_id": "8305371",
+      "headline": "",
+      "minute": "38",
+      "tickertime": "28.09.2016 21:24:13",
+      "content": "Ganz enttäuschende Vorstellung des französischen Starensembles. Die Mannschaft zeigt nichts, was hier nach dem Ausgleichstreffer riechen würde. So liegt man mittlerweile vollkommen zu Recht hinten und wird sich für die zweite Halbzeit viel überlegen müssen, um hier noch ins Spiel zu finden."
+    },
+    {
+      "id": "1802769",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "38",
+      "tickertime": "28.09.2016 21:24:31",
+      "content": "Arsenal erspielt sich Großchancen im Minutentakt! Erst scheitert Sánchez aus zehn Metern mit einem Linksschuss an Vaclík, der Nachschuss von Walcott bleibt in der Abwehr hängen. Das kann nicht lange gut gehen für den FCB."
+    },
+    {
+      "id": "1802770",
+      "match_id": "8305372",
+      "headline": "",
+      "minute": "37",
+      "tickertime": "28.09.2016 21:24:45",
+      "content": "Die Türken drücken auf das 2:0! Kiev bekommt das Leder nach einer Flanke von Ricardo Quaresma nicht recht klären und so kommt der Portugiese nochmal an den Ball und zieht den Ball in seiner unnachahmlichen Art und Weise mit dem Außenrist knapp drüber."
+    },
+    {
+      "id": "1802779",
+      "match_id": "8305396",
+      "headline": "",
+      "minute": "38",
+      "tickertime": "28.09.2016 21:24:45",
+      "content": "Ribéry verpasst den Ausgleich nur haarscharf! Das hätte bereits das schnelle 1:1 sein können! Nach einer Hereingabe von Alaba über links schirmt Lewandowski die Kugel gut gegen Godín ab. Ribéry kommt aus sieben Metern linker Position zum Schuss, setzt sie aber nur um Zentimeter vorbei! In einem solchen Spiel muss so ein Ball dann auch mal sitzen."
+    },
+    {
+      "id": "1802771",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "37",
+      "tickertime": "28.09.2016 21:25:15",
+      "content": "Mit der Euphorie und der Führung im Rücken sind die Fohlen noch entschlossener im Zweikampf und bringen damit vor Allem Neymar an den Rande der Verzweiflung. Der Brasilianer muss sich sichtbar zügeln, nicht die Nerven zu verlieren."
+    },
+    {
+      "id": "1802772",
+      "match_id": "8305389",
+      "headline": "",
+      "minute": "37",
+      "tickertime": "28.09.2016 21:25:25",
+      "content": "City übernimmt langsam aber merklich das Kommando. Sterling wird auf rechts con Silva freigespielt, kann seine Hereingabe aber nicht an den Mann bringen. Anschließend versucht es Kolarov aus der Distanz und hämmert das Leder mit links in den Glasgower Abendhimmel."
+    },
+    {
+      "id": "1802773",
+      "match_id": "8305360",
+      "headline": "",
+      "minute": "40",
+      "tickertime": "28.09.2016 21:25:41",
+      "content": "Fünf Minuten sind im ersten Durchgang noch zu absolvieren. Bleibt es beim 2:0 oder kann Arsenal noch vor dem Seitenwechsel nachlegen?"
+    },
+    {
+      "id": "1802776",
+      "match_id": "8305372",
+      "headline": "Gelbe Karte für Adriano (Beşiktaş)",
+      "event": {
+        "person": {
+          "firstname": "",
+          "fullname": "Adriano Correia Claro",
+          "id": "23461",
+          "name": "Adriano",
+          "birthday": "26.10.1984",
+          "weight": "67",
+          "surname": "Adriano",
+          "height": "172",
+          "country": [
+            {
+              "id": "34"
+            }
+          ],
+          "person_detail": {
+            "position_2": "3",
+            "id": "22686",
+            "birth_place": "Curitiba",
+            "died": "no",
+            "position_1": "6",
+            "preferred_side": "both"
+          },
+          "gender": "male"
+        },
+        "id": "21368029",
+        "action": "card",
+        "created": "28.09.2016 21:26",
+        "kind": "yellow",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "40"
+      },
+      "minute": "40",
+      "tickertime": "28.09.2016 21:26:08",
+      "content": "Der Brasilianer kommt im Mittelfeld zu spät und steigt seinem Gegenspieler auf den Fuß."
+    },
+    {
+      "id": "1802777",
+      "match_id": "8305371",
+      "headline": "Tooor für Paris Saint-Germain, 1:1 durch Blaise Matuidi",
+      "event": {
+        "person": {
+          "firstname": "Blaise",
+          "fullname": "Blaise Matuidi",
+          "id": "2204",
+          "name": "Blaise Matuidi",
+          "birthday": "09.04.1987",
+          "weight": "70",
+          "surname": "Matuidi",
+          "height": "175",
+          "country": [
+            {
+              "id": "61"
+            }
+          ],
+          "person_detail": {
+            "position_2": "7",
+            "id": "34914",
+            "birth_place": "Toulouse",
+            "died": "no",
+            "position_1": "13",
+            "preferred_side": "left"
+          },
+          "gender": "male"
+        },
+        "id": "21368030",
+        "action": "goal",
+        "created": "28.09.2016 21:26",
+        "kind": "left-foot",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "additional_person": {
+          "firstname": "Marco",
+          "fullname": "Marco Verratti",
+          "id": "227596",
+          "name": "Marco Verratti",
+          "birthday": "05.11.1992",
+          "weight": "60",
+          "surname": "Verratti",
+          "height": "165",
+          "country": [
+            {
+              "id": "89"
+            }
+          ],
+          "person_detail": {
+            "position_2": "7",
+            "id": "170367",
+            "birth_place": "Pescara",
+            "died": "no",
+            "position_1": "13",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "content": "1:1",
+        "minute": "41"
+      },
+      "minute": "41",
+      "tickertime": "28.09.2016 21:26:09",
+      "content": ""
+    },
+    {
+      "id": "1802780",
+      "match_id": "8305383",
+      "headline": "",
+      "minute": "40",
+      "tickertime": "28.09.2016 21:26:43",
+      "content": "Benfica wird mal wieder in der Nähe des gegnerischen Tores vorstellig und André Horta schließt ab von der Strafraumkante. Sein Schuss wird aber von der aufmerksamen Hintermannschaft abgeblockt."
+    },
+    {
+      "id": "1802781",
+      "match_id": "8305385",
+      "headline": "",
+      "minute": "39",
+      "tickertime": "28.09.2016 21:26:50",
+      "content": "Starke Aktion von Sommer! Bei einer Flanke aus dem Halbfeld verliert Korb Gegenspieler Suarez am langen Pfosten aus den Augen. Der Goalgetter nimmt das Leder volley, doch der Schweizer im Kasten der Gastgeber ist schnell unten und pariert auch diese Torchance."
+    },
+    {
+      "id": "1802783",
+      "match_id": "8305396",
+      "headline": "Gelbe Karte für Jérôme Boateng (Bayern München)",
+      "event": {
+        "person": {
+          "firstname": "Jérôme",
+          "fullname": "Jérôme Agyenim Boateng",
+          "id": "14431",
+          "name": "Jérôme Boateng",
+          "birthday": "03.09.1988",
+          "weight": "90",
+          "surname": "Boateng",
+          "height": "192",
+          "country": [
+            {
+              "id": "47"
+            }
+          ],
+          "person_detail": {
+            "position_2": "5",
+            "id": "44336",
+            "birth_place": "Berlin",
+            "died": "no",
+            "position_1": "4",
+            "preferred_side": "right"
+          },
+          "gender": "male"
+        },
+        "id": "21368032",
+        "action": "card",
+        "created": "28.09.2016 21:26",
+        "kind": "yellow",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "additional_person_id": "0",
+        "content": "",
+        "minute": "40"
+      },
+      "minute": "40",
+      "tickertime": "28.09.2016 21:26:58",
+      "content": ""
+    }
+  ]
+}
