@@ -45,9 +45,9 @@
       "round_id": "67540",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:45:50",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:34:21",
       "current_minute": "90",
       "home": {
         "id": "37760",
@@ -223,9 +223,9 @@
       "round_id": "67542",
       "match_date": "28.09.2016",
       "match_time": "20:45",
-      "finished": "no",
-      "current_period": "second-half-start",
-      "current_period_start": "2016-09-28 21:46:45",
+      "finished": "yes",
+      "current_period": "game-end",
+      "current_period_start": "2016-09-28 22:34:54",
       "current_minute": "90",
       "home": {
         "id": "356",
@@ -10064,7 +10064,7 @@
       },
       "tickertime": "28.09.2016 22:33:18",
       "minute": "90",
-      "content": "<b>Gelbe Karte für Neymar (FC Barcelona)</b> <br/>",
+      "content": "<b>Gelbe Karte für Neymar (FC Barcelona)</b> <br/>Neymar ist mit einer Schiedsrichterentscheidung gar nicht zufrieden und macht seinem Ärger Luft. Dafür gibt es die Gelbe Karte!",
       "match_id": "8305385"
     },
     {
@@ -10182,6 +10182,188 @@
       "minute": "90",
       "content": "<span class=\"rottext\">Auswechslung bei FK Rostov -> Dmitriy Poloz</span>",
       "match_id": "8305404"
+    },
+    {
+      "id": "1803253",
+      "tickertime": "28.09.2016 22:34:16",
+      "minute": "90",
+      "content": "Jody Lukoki setzt in der Nachspielzeit zum Solo an und marschiert die linke Seitenauslinie hinunter. Vor dem Strafraum zieht er nach innen, seinen Abschluss kann Alphonse Aréola jedoch ohne Probleme mit beiden Händen fängen.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803255",
+      "event": {
+        "id": "21368908",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:34"
+      },
+      "tickertime": "28.09.2016 22:34:21",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803256",
+      "tickertime": "28.09.2016 22:34:34",
+      "minute": "90",
+      "content": "Gaitán ans Außennetz! Der Eckball landet rechts im Strafraum beim ebenfalls sträflich freistehenden Gaitán, welcher sofort abzieht, aber nur das Außennetz trifft. Es gibt fünf Minuten Nachspielzeit! Davon ist aber bereits eine Minute verstrichen.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803257",
+      "event": {
+        "id": "21368909",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "163477",
+          "name": "Antoine Griezmann",
+          "firstname": "Antoine",
+          "surname": "Griezmann",
+          "fullname": "Antoine Griezmann",
+          "gender": "male",
+          "birthday": "21.03.1991",
+          "height": "176",
+          "weight": "67",
+          "person_detail": {
+            "id": "152822",
+            "position_1": "12",
+            "position_2": "11",
+            "preferred_side": "left",
+            "birth_place": "Mâcon",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "61"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:34"
+      },
+      "tickertime": "28.09.2016 22:34:40",
+      "minute": "90",
+      "content": "<span class=\"rottext\">Auswechslung bei Atlético Madrid -> Antoine Griezmann</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803260",
+      "event": {
+        "id": "21368910",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "person": {
+          "id": "27545",
+          "name": "Andrei Prepelită",
+          "firstname": "Andrei",
+          "surname": "Prepelită",
+          "fullname": "Andrei Prepelită",
+          "gender": "male",
+          "birthday": "08.12.1985",
+          "height": "178",
+          "weight": "70",
+          "person_detail": {
+            "id": "44428",
+            "position_1": "13",
+            "position_2": "8",
+            "preferred_side": "right",
+            "birth_place": "Slatina",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "171"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:34"
+      },
+      "tickertime": "28.09.2016 22:34:46",
+      "minute": "90",
+      "content": "<span class=\"gruentext\">Einwechslung bei FK Rostov -> Andrei Prepelită</span>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803262",
+      "event": {
+        "id": "21368911",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "309149",
+          "name": "Thomas Partey",
+          "firstname": "Thomas",
+          "surname": "Partey",
+          "fullname": "Thomas Teye Partey",
+          "gender": "male",
+          "birthday": "13.06.1993",
+          "height": "185",
+          "weight": "75",
+          "person_detail": {
+            "id": "235638",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Odumase Krobo",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "66"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:34"
+      },
+      "tickertime": "28.09.2016 22:34:48",
+      "minute": "90",
+      "content": "<span class=\"gruentext\">Einwechslung bei Atlético Madrid -> Thomas Partey</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803266",
+      "event": {
+        "id": "21368912",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "game-end",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:34"
+      },
+      "tickertime": "28.09.2016 22:34:54",
+      "minute": "90",
+      "content": "<b>Spielende</b>",
+      "match_id": "8305389"
     }
   ]
 }
