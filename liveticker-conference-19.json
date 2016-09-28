@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "80",
+      "current_minute": "81",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "75",
+      "current_minute": "76",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "78",
+      "current_minute": "79",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "79",
+      "current_minute": "80",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "77",
+      "current_minute": "78",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -8012,6 +8012,180 @@
       "minute": "79",
       "content": "<span class=\"rottext\">Auswechslung bei FC Basel -> Birkir Bjarnason</span>",
       "match_id": "8305360"
+    },
+    {
+      "id": "1803115",
+      "tickertime": "28.09.2016 22:19:37",
+      "minute": "76",
+      "content": "Ribéry mit ganz viel Platz! Nach einem zunächst vergebenen Eckball springt die Kugel wieder genau vor die Füße des Franzosen. Aus 20 Metern kann Ribéry völlig freistehend abziehen, doch hält Saúl das Bein in die Schussbahn und kann damit klären! Ganz wichtige Aktion des Madrilenen, die wieder einmal beweist, dass es da kaum ein Durchkommen gibt.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803116",
+      "event": {
+        "id": "21368704",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "3381",
+          "name": "Matías Delgado",
+          "firstname": "Matías",
+          "surname": "Delgado",
+          "fullname": "Matías Emilio Delgado",
+          "gender": "male",
+          "birthday": "15.12.1982",
+          "height": "183",
+          "weight": "67",
+          "person_detail": {
+            "id": "14647",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Rosario",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "79",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:19"
+      },
+      "tickertime": "28.09.2016 22:19:41",
+      "minute": "79",
+      "content": "<span class=\"gruentext\">Einwechslung bei FC Basel -> Matías Delgado</span>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803117",
+      "event": {
+        "id": "21368705",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "111800",
+          "name": "Tolgay Arslan",
+          "firstname": "Tolgay",
+          "surname": "Arslan",
+          "fullname": "Tolgay Ali Arslan",
+          "gender": "male",
+          "birthday": "16.08.1990",
+          "height": "180",
+          "weight": "77",
+          "person_detail": {
+            "id": "97215",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Paderborn",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "77",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:19"
+      },
+      "tickertime": "28.09.2016 22:19:44",
+      "minute": "77",
+      "content": "<span class=\"rottext\">Auswechslung bei Beşiktaş -> Tolgay Arslan</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803120",
+      "event": {
+        "id": "21368706",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "23307",
+          "name": "Gökhan Inler",
+          "firstname": "Gökhan",
+          "surname": "Inler",
+          "fullname": "Gökhan Inler",
+          "gender": "male",
+          "birthday": "27.06.1984",
+          "height": "183",
+          "weight": "80",
+          "person_detail": {
+            "id": "23216",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Olten",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "183"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "77",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:19"
+      },
+      "tickertime": "28.09.2016 22:19:51",
+      "minute": "77",
+      "content": "<span class=\"gruentext\">Einwechslung bei Beşiktaş -> Gökhan Inler</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803119",
+      "tickertime": "28.09.2016 22:19:51",
+      "minute": "77",
+      "content": "Bei Gladbach lassen die Kräfte nach. Natürlich spielt der Rückstand auch eine Rolle, doch die Hausherren sind schlicht deutlich mehr gelaufen als die Katalanen. Können die Fohlen trotzdem nochmal alle Kräfte mobilisieren?",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803121",
+      "tickertime": "28.09.2016 22:19:59",
+      "minute": "74",
+      "content": "Ein weiteres Ei scheinen sich die Hausherren nicht mehr ins Nest legen zu wollen. Sie nehmen etwas Tempo raus und wollen ihren Vorsprung wohl verwalten.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803122",
+      "tickertime": "28.09.2016 22:20:11",
+      "minute": "79",
+      "content": "...der direkt auf das Tor von Vladislav Stoyanov geht. Der Keeper streckt sich und kann den gute getretenen Standard zur Seite abwehren. Gute Aktion von beiden Spielern!",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803123",
+      "tickertime": "28.09.2016 22:20:20",
+      "minute": "80",
+      "content": "Auch Urs Fischer zieht seine letzte Option von der Bank und bringt Delgado für Birkir Bjarnason in die Begegnung.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803124",
+      "tickertime": "28.09.2016 22:20:25",
+      "minute": "78",
+      "content": "Der ausgewechselte Arslan war lange Zeit ein Stabilisator, konnte in den letzten Minuten aber nicht mehr so glänzen.",
+      "match_id": "8305372"
     }
   ]
 }
