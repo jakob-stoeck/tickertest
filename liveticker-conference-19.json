@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "88",
+      "current_minute": "89",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "83",
+      "current_minute": "84",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -9219,6 +9219,159 @@
       "tickertime": "28.09.2016 22:27:19",
       "minute": "82",
       "content": "<span class=\"rottext\">Auswechslung bei SSC Napoli -> Dries Mertens</span>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803192",
+      "tickertime": "28.09.2016 22:27:30",
+      "minute": "86",
+      "content": "Der anschließende Freistoß aus 16 Metern ist eine Sache für Santi Cazorla. Der Mittelfeldmann versucht es mit einem Flachschuss, bleibt aber in der Mauer hängen. Da war eigentlich mehr drin, aber das interessiert bei den Gastgebern wohl niemanden mehr.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803193",
+      "event": {
+        "id": "21368832",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "person": {
+          "id": "162478",
+          "name": "Emanuele Giaccherini",
+          "firstname": "Emanuele",
+          "surname": "Giaccherini",
+          "fullname": "Emanuele Giaccherini",
+          "gender": "male",
+          "birthday": "05.05.1985",
+          "height": "167",
+          "weight": "60",
+          "person_detail": {
+            "id": "151825",
+            "position_1": "13",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Talla",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "89"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "82",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:27"
+      },
+      "tickertime": "28.09.2016 22:27:31",
+      "minute": "82",
+      "content": "<span class=\"gruentext\">Einwechslung bei SSC Napoli -> Emanuele Giaccherini</span>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803194",
+      "tickertime": "28.09.2016 22:27:33",
+      "minute": "86",
+      "content": "Die Partie bewegt wieder auf durchschnittlichem Niveau. Ludogorets kann nicht, Paris will nicht mehr in die Begegnung investieren, sodass Torchancen momentan Mangelware sind. Das Match taumelt ganz ruhig dem Ende entgegen.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803195",
+      "event": {
+        "id": "21368833",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "14299",
+          "name": "Ljubomir Fejsa",
+          "firstname": "Ljubomir",
+          "surname": "Fejsa",
+          "fullname": "Ljubomir Fejsa",
+          "gender": "male",
+          "birthday": "14.08.1988",
+          "height": "185",
+          "weight": "80",
+          "person_detail": {
+            "id": "57228",
+            "position_1": "7",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Kula",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "185"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "82",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:27"
+      },
+      "tickertime": "28.09.2016 22:27:58",
+      "minute": "82",
+      "content": "<span class=\"rottext\">Auswechslung bei SL Benfica -> Ljubomir Fejsa</span>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803196",
+      "tickertime": "28.09.2016 22:28:06",
+      "minute": "83",
+      "content": "Passiert hier noch etwas? Kiev ist weiterhin optisch überlegen, aber der ganz große Druck hat ein wenig nachgelassen.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803197",
+      "event": {
+        "id": "21368834",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "385025",
+          "name": "José Gomes",
+          "firstname": "",
+          "surname": "José Gomes",
+          "fullname": "José Gomes",
+          "gender": "male",
+          "birthday": "08.04.1999",
+          "height": "177",
+          "weight": "0",
+          "person_detail": {
+            "id": "304260",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Bissau",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "167"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "82",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:28"
+      },
+      "tickertime": "28.09.2016 22:28:07",
+      "minute": "82",
+      "content": "<span class=\"gruentext\">Einwechslung bei SL Benfica -> José Gomes</span>",
       "match_id": "8305383"
     }
   ]
