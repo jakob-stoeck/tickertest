@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "55",
+      "current_minute": "56",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "53",
+      "current_minute": "54",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "56",
+      "current_minute": "57",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "55",
+      "current_minute": "56",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "55",
+      "current_minute": "56",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4508,7 +4508,7 @@
       },
       "tickertime": "28.09.2016 21:56:14",
       "minute": "55",
-      "content": "<b>Tooor für Paris Saint-Germain, 1:2 durch Edinson Cavani</b> <br/>",
+      "content": "<b>Tooor für Paris Saint-Germain, 1:2 durch Edinson Cavani</b> <br/> Der Ball kommt mit viel Effet in den Strafraum, wo Cavani den Kopf an die Flanke bekommt und entscheidend abfälscht.",
       "match_id": "8305371"
     },
     {
@@ -4603,7 +4603,7 @@
       },
       "tickertime": "28.09.2016 21:56:37",
       "minute": "51",
-      "content": "<b>Tooor für SSC Napoli, 2:0 durch Dries Mertens</b> <br/>",
+      "content": "<b>Tooor für SSC Napoli, 2:0 durch Dries Mertens</b> <br/>Der Gefoulte höchstselbst legt sich den Ball in leicht halblinker Position unweit der Strafraumkante zurecht. Er läuft an, bugsiert seinen Freistoß über die Mauer und unhaltbar für Júlio César in die Maschen!",
       "match_id": "8305383"
     },
     {
@@ -4626,6 +4626,189 @@
       "minute": "53",
       "content": "Die Bayern haben in diesen Minuten viel Ballbesitz, können aber nur wenig damit anfangen. Die Hausherren stehen tief und verlassen sich auf ihre bewährte Defensive. Können sie ja auch, nachdem man in den letzten Jahren durch die Bank äußerst wenige Gegentore hinnehmen musste.",
       "match_id": "8305396"
+    },
+    {
+      "id": "1802919",
+      "event": {
+        "id": "21368391",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "111800",
+          "name": "Tolgay Arslan",
+          "firstname": "Tolgay",
+          "surname": "Arslan",
+          "fullname": "Tolgay Ali Arslan",
+          "gender": "male",
+          "birthday": "16.08.1990",
+          "height": "180",
+          "weight": "77",
+          "person_detail": {
+            "id": "97215",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "both",
+            "birth_place": "Paderborn",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "54",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:57"
+      },
+      "tickertime": "28.09.2016 21:57:38",
+      "minute": "54",
+      "content": "<b>Gelbe Karte für Tolgay Arslan (Beşiktaş)</b> <br/>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802921",
+      "event": {
+        "id": "21368392",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "2204",
+          "name": "Blaise Matuidi",
+          "firstname": "Blaise",
+          "surname": "Matuidi",
+          "fullname": "Blaise Matuidi",
+          "gender": "male",
+          "birthday": "09.04.1987",
+          "height": "175",
+          "weight": "70",
+          "person_detail": {
+            "id": "34914",
+            "position_1": "13",
+            "position_2": "7",
+            "preferred_side": "left",
+            "birth_place": "Toulouse",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "61"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "56",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:57"
+      },
+      "tickertime": "28.09.2016 21:57:59",
+      "minute": "56",
+      "content": "<b>Gelbe Karte für Blaise Matuidi (Paris Saint-Germain)</b> <br/>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802922",
+      "tickertime": "28.09.2016 21:58:05",
+      "minute": "57",
+      "content": "Gefährlich wird es dann wieder nur vorm Gäste-Tor: Bei einem Konter der \"Gunners\"",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802923",
+      "event": {
+        "id": "21368394",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "4154",
+          "name": "Júlio César",
+          "firstname": "",
+          "surname": "Júlio César",
+          "fullname": "Júlio César Soares Espíndola",
+          "gender": "male",
+          "birthday": "03.09.1979",
+          "height": "186",
+          "weight": "79",
+          "person_detail": {
+            "id": "22684",
+            "position_1": "1",
+            "position_2": "0",
+            "preferred_side": "left",
+            "birth_place": "Rio de Janeiro",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "53",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:58"
+      },
+      "tickertime": "28.09.2016 21:58:15",
+      "minute": "53",
+      "content": "<b>Gelbe Karte für Júlio César (SL Benfica)</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802924",
+      "event": {
+        "id": "21368395",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "4400",
+          "name": "Seydou Doumbia",
+          "firstname": "Seydou",
+          "surname": "Doumbia",
+          "fullname": "Seydou Doumbia",
+          "gender": "male",
+          "birthday": "31.12.1987",
+          "height": "178",
+          "weight": "74",
+          "person_detail": {
+            "id": "77585",
+            "position_1": "12",
+            "position_2": "11",
+            "preferred_side": "right",
+            "birth_place": "Yamoussoukro",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "54"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "57",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:58"
+      },
+      "tickertime": "28.09.2016 21:58:20",
+      "minute": "57",
+      "content": "<span class=\"rottext\">Auswechslung bei FC Basel -> Seydou Doumbia</span>",
+      "match_id": "8305360"
     }
   ]
 }
