@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "46",
+      "current_minute": "47",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -224,9 +224,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:31:05",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:46:45",
+      "current_minute": "47",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -3780,6 +3780,31 @@
       "minute": "46",
       "content": "Der Ball rollt wieder! Beide Mannschaften kommen unverändert aus der Kabine.",
       "match_id": "8305371"
+    },
+    {
+      "id": "1802844",
+      "event": {
+        "id": "21368235",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:46"
+      },
+      "tickertime": "28.09.2016 21:46:45",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802845",
+      "tickertime": "28.09.2016 21:46:46",
+      "minute": "46",
+      "content": "Weiter geht's im Emirates Stadium, wo der FC Basel eine deutliche Leistungssteigerung braucht, um zumindest einen Punkt aus der englischen Hauptstadt mitzunehmen.",
+      "match_id": "8305360"
     }
   ]
 }
