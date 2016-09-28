@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "83",
+      "current_minute": "84",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "81",
+      "current_minute": "82",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "83",
+      "current_minute": "84",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "83",
+      "current_minute": "84",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -8875,7 +8875,7 @@
       "id": "1803171",
       "tickertime": "28.09.2016 22:25:21",
       "minute": "83",
-      "content": "<b>Elfmeter für Atlético!</b>",
+      "content": "<b>Elfmeter für Atlético!</b> Dummes Foul von Vidal. Mit voller Wucht räumt der Chilene Filipe Luís um. Keine Diskussionen. Griezmann nun mit der Chance zur Entscheidung.",
       "match_id": "8305396"
     },
     {
@@ -8884,6 +8884,284 @@
       "minute": "83",
       "content": "Das war knapp! Fernandinho versucht es für City aus der Distanz und jagt einen echten Strahl aus gut 20 Metern ganz knapp über die Querlatte. Da wäre Gordon geschlagen gewesen.",
       "match_id": "8305389"
+    },
+    {
+      "id": "1803173",
+      "tickertime": "28.09.2016 22:25:32",
+      "minute": "79",
+      "content": "Maurizio Sarri ist sich wohl als einziger Neapolitaner im Stadion des Sieges noch nicht sicher und gibt weiterhin laute Anweisungen von der Seitenlinie aus.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803175",
+      "event": {
+        "id": "21368825",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "222005",
+          "name": "Nir Bitton",
+          "firstname": "Nir",
+          "surname": "Bitton",
+          "fullname": "Nir Bitton",
+          "gender": "male",
+          "birthday": "30.10.1991",
+          "height": "196",
+          "weight": "80",
+          "person_detail": {
+            "id": "165254",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Ashdod",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "88"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "84",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:25"
+      },
+      "tickertime": "28.09.2016 22:25:44",
+      "minute": "84",
+      "content": "<span class=\"rottext\">Auswechslung bei Celtic FC -> Nir Bitton</span>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803176",
+      "event": {
+        "id": "21368827",
+        "team": {
+          "id": "598",
+          "name": "FC Basel"
+        },
+        "person": {
+          "id": "247418",
+          "name": "Mohamed Elyounoussi",
+          "firstname": "Mohamed",
+          "surname": "Elyounoussi",
+          "fullname": "Mohamed Elyounoussi",
+          "gender": "male",
+          "birthday": "04.08.1994",
+          "height": "178",
+          "weight": "70",
+          "person_detail": {
+            "id": "185451",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Al Hoceima",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "156"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "85",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:25"
+      },
+      "tickertime": "28.09.2016 22:25:54",
+      "minute": "85",
+      "content": "<b>Gelbe Karte für Mohamed Elyounoussi (FC Basel)</b> <br/>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803177",
+      "event": {
+        "id": "21368826",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "137855",
+          "name": "Leigh Griffiths",
+          "firstname": "Leigh",
+          "surname": "Griffiths",
+          "fullname": "Leigh Griffiths",
+          "gender": "male",
+          "birthday": "20.08.1990",
+          "height": "173",
+          "weight": "64",
+          "person_detail": {
+            "id": "127213",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Edinburgh",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "181"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "84",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:25"
+      },
+      "tickertime": "28.09.2016 22:25:54",
+      "minute": "84",
+      "content": "<span class=\"gruentext\">Einwechslung bei Celtic FC -> Leigh Griffiths</span>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803178",
+      "tickertime": "28.09.2016 22:25:59",
+      "minute": "83",
+      "content": "Es geht in die absolute Schlussphase und Barca spielt das Ganze jetzt natürlich sehr souverän herunter. Kann Gladbach vielleicht noch den Lucky Punch landen und sich mit einem Punkt belohnen?",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803180",
+      "event": {
+        "id": "21368828",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "person": {
+          "id": "16487",
+          "name": "Lars Stindl",
+          "firstname": "Lars",
+          "surname": "Stindl",
+          "fullname": "Lars Stindl",
+          "gender": "male",
+          "birthday": "26.08.1988",
+          "height": "180",
+          "weight": "80",
+          "person_detail": {
+            "id": "77248",
+            "position_1": "8",
+            "position_2": "9",
+            "preferred_side": "right",
+            "birth_place": "Speyer",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "84",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:26"
+      },
+      "tickertime": "28.09.2016 22:26:11",
+      "minute": "84",
+      "content": "<span class=\"rottext\">Auswechslung bei Bor. Mönchengladbach -> Lars Stindl</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803182",
+      "event": {
+        "id": "21368829",
+        "team": {
+          "id": "253",
+          "name": "Bor. Mönchengladbach"
+        },
+        "person": {
+          "id": "14473",
+          "name": "André Hahn",
+          "firstname": "André",
+          "surname": "Hahn",
+          "fullname": "André Hahn",
+          "gender": "male",
+          "birthday": "13.08.1990",
+          "height": "185",
+          "weight": "80",
+          "person_detail": {
+            "id": "119003",
+            "position_1": "9",
+            "position_2": "6",
+            "preferred_side": "both",
+            "birth_place": "Otterndorf",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "84",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:26"
+      },
+      "tickertime": "28.09.2016 22:26:19",
+      "minute": "84",
+      "content": "<span class=\"gruentext\">Einwechslung bei Bor. Mönchengladbach -> André Hahn</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1803184",
+      "event": {
+        "id": "21368830",
+        "team": {
+          "id": "162",
+          "name": "Atlético Madrid"
+        },
+        "person": {
+          "id": "163477",
+          "name": "Antoine Griezmann",
+          "firstname": "Antoine",
+          "surname": "Griezmann",
+          "fullname": "Antoine Griezmann",
+          "gender": "male",
+          "birthday": "21.03.1991",
+          "height": "176",
+          "weight": "67",
+          "person_detail": {
+            "id": "152822",
+            "position_1": "12",
+            "position_2": "11",
+            "preferred_side": "left",
+            "birth_place": "Mâcon",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "61"
+            }
+          ]
+        },
+        "action": "special",
+        "content": "",
+        "kind": "missed-penalty",
+        "minute": "84",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:26"
+      },
+      "tickertime": "28.09.2016 22:26:26",
+      "minute": "84",
+      "content": "<b>Elfmeter verschossen von Antoine Griezmann, Atlético Madrid</b> <br/>",
+      "match_id": "8305396"
     }
   ]
 }
