@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "61",
+      "current_minute": "62",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "61",
+      "current_minute": "62",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -64,7 +64,7 @@
           "place": "home"
         },
         {
-          "match_result": "2",
+          "match_result": "3",
           "match_result_at": "0",
           "place": "away"
         },
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4913,10 +4913,17 @@
       "match_id": "8305360"
     },
     {
+      "id": "1802945",
+      "tickertime": "28.09.2016 21:59:09",
+      "minute": "57",
+      "content": "Gladbach muss ein bisschen aufpassen, dass sich die Partie hier nicht in die falsche Richtung entwickelt. Die Hausherren lassen sich mehr und mehr hinten hereindrängen. Zwar gibt es immer wieder Entlastung, man überlässt den Gästen aber schon weite Teile der eigenen Hälfte.",
+      "match_id": "8305385"
+    },
+    {
       "id": "1802931",
       "tickertime": "28.09.2016 21:59:09",
       "minute": "55",
-      "content": "<b>Elfmeter für PSV!</b>",
+      "content": "<b>Elfmeter für PSV!</b> Terentyev kommt sieben Meter vor dem Tor Granat beim Zweikampf mit de Jong zur Hilfe. Kurz nachdem der Russe am Holländer dran ist, sinkt de Jong sofort ohne Foulspiel zu Boden. Zweifelhafter Elfmeter!",
       "match_id": "8305404"
     },
     {
@@ -5129,7 +5136,7 @@
       },
       "tickertime": "28.09.2016 22:00:12",
       "minute": "54",
-      "content": "<b>Tooor für SSC Napoli, 3:0 durch Arkadiusz Milik</b> <br/>",
+      "content": "<b>Tooor für SSC Napoli, 3:0 durch Arkadiusz Milik</b> <br/>Der polnische Mittelstürmer versenkt seinen Elfmeter ganz souverän. Júlio César hat keine Chance.",
       "match_id": "8305383"
     },
     {
@@ -5151,6 +5158,270 @@
       "tickertime": "28.09.2016 22:00:56",
       "minute": "57",
       "content": "<b>Was macht der Gastgeber denn da?!</b> Tolgay Arslan schenkt das Leder vor dem eigenen Sechzehner her und eröffnet Denys Garmash die Schusschance. Doch der Schuss kommt aus 16 Metern zu zentral und gemessen an der Distanz hätte man raus durchaus mehr machen können.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802946",
+      "event": {
+        "id": "21368404",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "10452",
+          "name": "Ivan Rakitić",
+          "firstname": "Ivan",
+          "surname": "Rakitić",
+          "fullname": "Ivan Rakitić",
+          "gender": "male",
+          "birthday": "10.03.1988",
+          "height": "184",
+          "weight": "75",
+          "person_detail": {
+            "id": "34960",
+            "position_1": "8",
+            "position_2": "13",
+            "preferred_side": "right",
+            "birth_place": "Möhlin",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "109"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "59",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:01"
+      },
+      "tickertime": "28.09.2016 22:01:24",
+      "minute": "59",
+      "content": "<span class=\"rottext\">Auswechslung bei FC Barcelona -> Ivan Rakitić</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802948",
+      "event": {
+        "id": "21368405",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "372954",
+          "name": "André Horta",
+          "firstname": "",
+          "surname": "André Horta",
+          "fullname": "André Filip Luz Horta",
+          "gender": "male",
+          "birthday": "07.11.1996",
+          "height": "174",
+          "weight": "55",
+          "person_detail": {
+            "id": "293587",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Almada",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "167"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "56",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:01"
+      },
+      "tickertime": "28.09.2016 22:01:28",
+      "minute": "56",
+      "content": "<span class=\"rottext\">Auswechslung bei SL Benfica -> André Horta</span>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802950",
+      "tickertime": "28.09.2016 22:01:32",
+      "minute": "57",
+      "content": "Robert Lewandowski wird am gegnerischen Strafraum klar von Stefan Savić gefoult, bekommt aber keinen Freistoß für sich gepfiffen. Daraufhin ruft er seinem polnischen Landsmann Szymon Marciniak ein paar deutliche Worte zu. Das wäre eine exzellente Freistoßposition gewesen.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802951",
+      "event": {
+        "id": "21368406",
+        "team": {
+          "id": "597",
+          "name": "FC Barcelona"
+        },
+        "person": {
+          "id": "13081",
+          "name": "Arda Turan",
+          "firstname": "Arda",
+          "surname": "Turan",
+          "fullname": "Arda Turan",
+          "gender": "male",
+          "birthday": "30.01.1987",
+          "height": "177",
+          "weight": "76",
+          "person_detail": {
+            "id": "13082",
+            "position_1": "8",
+            "position_2": "6",
+            "preferred_side": "both",
+            "birth_place": "Fatih",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "219"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "59",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:01"
+      },
+      "tickertime": "28.09.2016 22:01:33",
+      "minute": "59",
+      "content": "<span class=\"gruentext\">Einwechslung bei FC Barcelona -> Arda Turan</span>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802953",
+      "event": {
+        "id": "21368407",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "27721",
+          "name": "Edinson Cavani",
+          "firstname": "Edinson",
+          "surname": "Cavani",
+          "fullname": "Edison Roberto Gómez Cavani",
+          "gender": "male",
+          "birthday": "14.02.1987",
+          "height": "184",
+          "weight": "71",
+          "person_detail": {
+            "id": "73128",
+            "position_1": "11",
+            "position_2": "10",
+            "preferred_side": "right",
+            "birth_place": "Salto",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "227"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "1:3",
+        "kind": "right-foot",
+        "minute": "60",
+        "additional_person": {
+          "id": "230049",
+          "name": "Lucas",
+          "firstname": "",
+          "surname": "Lucas",
+          "fullname": "Lucas Rodrigues Moura da Silva",
+          "gender": "male",
+          "birthday": "13.08.1992",
+          "height": "172",
+          "weight": "72",
+          "person_detail": {
+            "id": "172617",
+            "position_1": "9",
+            "position_2": "6",
+            "preferred_side": "right",
+            "birth_place": "São Paulo",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "created": "28.09.2016 22:01"
+      },
+      "tickertime": "28.09.2016 22:01:37",
+      "minute": "60",
+      "content": "<b>Tooor für Paris Saint-Germain, 1:3 durch Edinson Cavani</b> <br/>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802954",
+      "event": {
+        "id": "21368408",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "133537",
+          "name": "Eduardo Salvio",
+          "firstname": "Eduardo",
+          "surname": "Salvio",
+          "fullname": "Eduardo Antonio Salvio",
+          "gender": "male",
+          "birthday": "13.07.1990",
+          "height": "173",
+          "weight": "75",
+          "person_detail": {
+            "id": "122895",
+            "position_1": "9",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Avellaneda",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "56",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:01"
+      },
+      "tickertime": "28.09.2016 22:01:37",
+      "minute": "56",
+      "content": "<span class=\"gruentext\">Einwechslung bei SL Benfica -> Eduardo Salvio</span>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802955",
+      "tickertime": "28.09.2016 22:01:38",
+      "minute": "60",
+      "content": "Genau eine halbe Stunde bleibt den Schweizern noch, um am Spielstand etwas zu ändern und hier in London doch noch zu punkten. Offensiv bringen die Gäste aber noch immer nichts zustande. Dass Basel insgesamt nur zwei Schüsse abgegeben hat, spricht hierbei für sich.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802956",
+      "tickertime": "28.09.2016 22:01:53",
+      "minute": "58",
+      "content": "Die Szene bleibt im Verlauf heiß, aber Fabricio wehrt auch einen zweiten Schuss ab und die folgende Ecke bleibt dann ereignislos.",
       "match_id": "8305372"
     }
   ]
