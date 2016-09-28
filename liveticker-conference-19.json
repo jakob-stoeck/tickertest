@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "88",
+      "current_minute": "89",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "88",
+      "current_minute": "89",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -9373,6 +9373,356 @@
       "minute": "82",
       "content": "<span class=\"gruentext\">Einwechslung bei SL Benfica -> José Gomes</span>",
       "match_id": "8305383"
+    },
+    {
+      "id": "1803198",
+      "tickertime": "28.09.2016 22:28:23",
+      "minute": "85",
+      "content": "Direkt nach dem vergebenen Strafstoß rauschen Vidal und Saúl im Mittelfeld in vollem Tempo zusammen. Das Foul ging klar vom Münchener aus, der dafür auch Gelb sehen wird, nun aber erst einmal behandelt werden muss.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803199",
+      "event": {
+        "id": "21368835",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "221508",
+          "name": "Vincent Aboubakar",
+          "firstname": "Vincent",
+          "surname": "Aboubakar",
+          "fullname": "Vincent Aboubakar",
+          "gender": "male",
+          "birthday": "22.01.1992",
+          "height": "184",
+          "weight": "82",
+          "person_detail": {
+            "id": "164777",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Yaoundé",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "97"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "85",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:28"
+      },
+      "tickertime": "28.09.2016 22:28:27",
+      "minute": "85",
+      "content": "<span class=\"rottext\">Auswechslung bei Beşiktaş -> Vincent Aboubakar</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803200",
+      "tickertime": "28.09.2016 22:28:29",
+      "minute": "85",
+      "content": "Bei Rostov häufen sich die einfachen Fehler und Ballverluste. Eindhoven kontrolliert das Mittelfeld und sucht die Lücke. Noch fünf Minuten!",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1803201",
+      "event": {
+        "id": "21368836",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "24043",
+          "name": "Ángel Di María",
+          "firstname": "Ángel",
+          "surname": "Di María",
+          "fullname": "Ángel Fabián Di María",
+          "gender": "male",
+          "birthday": "14.02.1988",
+          "height": "180",
+          "weight": "75",
+          "person_detail": {
+            "id": "43478",
+            "position_1": "9",
+            "position_2": "8",
+            "preferred_side": "left",
+            "birth_place": "Rosario",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "88",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:28"
+      },
+      "tickertime": "28.09.2016 22:28:33",
+      "minute": "88",
+      "content": "<span class=\"rottext\">Auswechslung bei Paris Saint-Germain -> Ángel Di María</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803202",
+      "event": {
+        "id": "21368837",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "3122",
+          "name": "Arturo Vidal",
+          "firstname": "Arturo",
+          "surname": "Vidal",
+          "fullname": "Arturo Erasmo Vidal Pardo",
+          "gender": "male",
+          "birthday": "22.05.1987",
+          "height": "180",
+          "weight": "75",
+          "person_detail": {
+            "id": "43120",
+            "position_1": "7",
+            "position_2": "8",
+            "preferred_side": "right",
+            "birth_place": "Santiago de Chile",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "39"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "86",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:28"
+      },
+      "tickertime": "28.09.2016 22:28:33",
+      "minute": "86",
+      "content": "<b>Gelbe Karte für Arturo Vidal (Bayern München)</b> <br/>Jetzt sieht Vidal doch noch den Karton. Freistoß für die Hausherren aus 30 Metern rechter Position...",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803205",
+      "event": {
+        "id": "21368838",
+        "team": {
+          "id": "221",
+          "name": "Beşiktaş"
+        },
+        "person": {
+          "id": "254551",
+          "name": "Kerim Frei",
+          "firstname": "Kerim",
+          "surname": "Frei",
+          "fullname": "Kerim Frei Koyunlu",
+          "gender": "male",
+          "birthday": "19.11.1993",
+          "height": "171",
+          "weight": "69",
+          "person_detail": {
+            "id": "191438",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Feldkirch",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "219"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "85",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:28"
+      },
+      "tickertime": "28.09.2016 22:28:34",
+      "minute": "85",
+      "content": "<span class=\"gruentext\">Einwechslung bei Beşiktaş -> Kerim Frei</span>",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803206",
+      "tickertime": "28.09.2016 22:28:42",
+      "minute": "86",
+      "content": "Celtic wirkt langsam platt. Die Schotten spielen ihre Kontermöglichkeiten kaum noch vernünftig zuende und befinden sich fast dauerhaft unter Druck. Echte Torgefahr erzeugt City aber derzeit auch selten.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803207",
+      "event": {
+        "id": "21368839",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "367711",
+          "name": "Nanitamo Ikoné",
+          "firstname": "Nanitamo",
+          "surname": "Ikoné",
+          "fullname": "Nanitamo Jonathan Ikoné",
+          "gender": "male",
+          "birthday": "02.05.1998",
+          "height": "0",
+          "weight": "0",
+          "person_detail": {
+            "id": "288985",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Bondy",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "61"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "88",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:28"
+      },
+      "tickertime": "28.09.2016 22:28:53",
+      "minute": "88",
+      "content": "<span class=\"gruentext\">Einwechslung bei Paris Saint-Germain -> Nanitamo Ikoné</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803208",
+      "tickertime": "28.09.2016 22:28:59",
+      "minute": "86",
+      "content": "Der ausgewechselte Stürmer hatte heute durchaus seine Momente, konnte aber nicht über die gesamte Distanz überzeugen.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803209",
+      "event": {
+        "id": "21368840",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "330156",
+          "name": "Wanderson",
+          "firstname": "",
+          "surname": "Wanderson",
+          "fullname": "Wanderson Cristaldo Farias",
+          "gender": "male",
+          "birthday": "02.01.1988",
+          "height": "167",
+          "weight": "67",
+          "person_detail": {
+            "id": "254163",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Cruzeiro do Oeste",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "34"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "88",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:29"
+      },
+      "tickertime": "28.09.2016 22:29:03",
+      "minute": "88",
+      "content": "<span class=\"rottext\">Auswechslung bei PFC Ludogorets Razgrad -> Wanderson</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803210",
+      "tickertime": "28.09.2016 22:29:04",
+      "minute": "84",
+      "content": "Doppeltorschütze Dries Mertens wird bei seiner Auswechslung mit stehenden Ovationen bedacht. Die hat er sich auch redlich verdient, der Belgier hat ein richtig gutes Spiel abgeliefert!",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803211",
+      "tickertime": "28.09.2016 22:29:11",
+      "minute": "88",
+      "content": "Zwei Minuten sind regulär noch zu absolvieren. Viel Grund zum Nachspielen gibt es eigentlich nicht, auf dem Rasen passiert auch nicht mehr viel.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803212",
+      "event": {
+        "id": "21368841",
+        "team": {
+          "id": "37760",
+          "name": "Ludogorez Rasgrad"
+        },
+        "person": {
+          "id": "10225",
+          "name": "Claudiu Keșerü",
+          "firstname": "Claudiu",
+          "surname": "Keșerü",
+          "fullname": "Claudiu Andrei Keșerü",
+          "gender": "male",
+          "birthday": "02.12.1986",
+          "height": "178",
+          "weight": "81",
+          "person_detail": {
+            "id": "14582",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "Oradea",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "171"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "88",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:29"
+      },
+      "tickertime": "28.09.2016 22:29:12",
+      "minute": "88",
+      "content": "<span class=\"gruentext\">Einwechslung bei PFC Ludogorets Razgrad -> Claudiu Keșerü</span>",
+      "match_id": "8305371"
     }
   ]
 }
