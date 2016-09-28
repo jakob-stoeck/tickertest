@@ -2,7 +2,7 @@
   "meta": {
     "competitionId": "5",
     "seasonId": "1699",
-    "matchdayId": "5669739",
+    "matchdayId": "0",
     "matchId": "504221",
     "provider": "goal",
     "teamHomeIds": [
@@ -1253,6 +1253,23 @@
       "matchId": "504221",
       "matchdayId": "5669739",
       "eventTime": "2016-09-28T20:33:26Z",
+      "eventTeam": "0",
+      "player1PhotoSrc": "",
+      "player1Id": "0",
+      "player2PhotoSrc": "",
+      "player2Id": "0",
+      "provider": "goal"
+    },
+    {
+      "commentId": "54974392",
+      "type": "other",
+      "lastmodified": 1475094844,
+      "minute": 89,
+      "comment": "Bayern are bossing possession at the moment but just can't seem to do anything with the ball in advanced areas. Atletico have every available player camped behind the ball and are doing incredibly well to keep the visitors at bay and hold on to their slender lead.",
+      "sortId": 73,
+      "matchId": "504221",
+      "matchdayId": "5669739",
+      "eventTime": "2016-09-28T20:34:05Z",
       "eventTeam": "0",
       "player1PhotoSrc": "",
       "player1Id": "0",
