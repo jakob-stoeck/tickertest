@@ -918,8 +918,8 @@
                 "match_time": "20:45",
                 "finished": "no",
                 "live_status": "full",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-28 20:47:19",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-28 21:32:26",
                 "current_minute": "45",
                 "attendance": "54000",
                 "winner_team_id": "162",
@@ -982,6 +982,28 @@
                   {
                     "match_result": "0",
                     "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "209",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "162",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
@@ -1057,7 +1079,7 @@
                 "current_period_start": "2016-09-28 20:45:52",
                 "current_minute": "45",
                 "attendance": "",
-                "winner_team_id": "791",
+                "winner_team_id": "0",
                 "home": {
                   "id": "791",
                   "name": "FK Rostov",
@@ -1115,7 +1137,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "1",
+                    "match_result": "2",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
