@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -104,7 +104,7 @@
           "place": "home"
         },
         {
-          "match_result": "0",
+          "match_result": "1",
           "match_result_at": "0",
           "place": "away"
         },
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -6158,7 +6158,7 @@
       },
       "tickertime": "28.09.2016 22:07:26",
       "minute": "65",
-      "content": "<b>Tooor für FC Barcelona, 1:1 durch Arda Turan</b> <br/>",
+      "content": "<b>Tooor für FC Barcelona, 1:1 durch Arda Turan</b> <br/>Da ist es passiert! Gladbach verliert die Ordnung in der Hintermannschaft und wird umgehend bestraft. Neymar hatte das Leder über die gesamte Abwehrkette hinweg in den Lauf von Turan gehoben, der das Leder wenigen Metern unter die Latte knallt.",
       "match_id": "8305385"
     },
     {
@@ -6290,6 +6290,94 @@
       "minute": "66",
       "content": "<span class=\"gruentext\">Einwechslung bei Bayern München -> Joshua Kimmich</span>",
       "match_id": "8305396"
+    },
+    {
+      "id": "1803025",
+      "event": {
+        "id": "21368433",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "314202",
+          "name": "Viktor Tsygankov",
+          "firstname": "Viktor",
+          "surname": "Tsygankov",
+          "fullname": "Viktor Tsygankov",
+          "gender": "male",
+          "birthday": "15.11.1997",
+          "height": "0",
+          "weight": "0",
+          "person_detail": {
+            "id": "239945",
+            "position_1": "0",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "225"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "1:1",
+        "kind": "left-foot",
+        "minute": "65",
+        "additional_person": {
+          "id": "158681",
+          "name": "Serhiy Rybalka",
+          "firstname": "Serhiy",
+          "surname": "Rybalka",
+          "fullname": "Serhiy Rybalka",
+          "gender": "male",
+          "birthday": "01.04.1990",
+          "height": "176",
+          "weight": "70",
+          "person_detail": {
+            "id": "148029",
+            "position_1": "7",
+            "position_2": "13",
+            "preferred_side": "right",
+            "birth_place": "Yamnoe, Sumy Region",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "225"
+            }
+          ]
+        },
+        "created": "28.09.2016 22:08"
+      },
+      "tickertime": "28.09.2016 22:08:57",
+      "minute": "65",
+      "content": "<b>Tooor für Dinamo Kiev, 1:1 durch Viktor Tsygankov</b> <br/>Das nennt man dann wohl goldenes Händchen! Eine Standard von rechts fliegt weit auf den langen Pfosten und der Eingewechselte steht völlig unmarkiert und schiebt aus spitzem Winkel ein.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803028",
+      "tickertime": "28.09.2016 22:09:29",
+      "minute": "68",
+      "content": "<b>Fast das 3:0!</b> Walcott wird im Strafraum mustergültig bedient, beweist ein gutes Auge und legt von rechts in den Rückraum der Abwehr für Sánchez auf, der die Kugel aufs lange Eck spitzelt und den Pfosten nur um wenige Zentimeter verfehlt.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803029",
+      "tickertime": "28.09.2016 22:09:33",
+      "minute": "66",
+      "content": "Der stark gelb-rot-gefährdete Thiago wird von Carlo Ancelotti sicherheitshalber vom Platz genommen. Joshua Kimmich kommt neu herein und erschöpft damit das Wechselkontingent der Münchener. Atlético hingegen darf noch dreimal wechseln.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803030",
+      "tickertime": "28.09.2016 22:09:44",
+      "minute": "66",
+      "content": "Eindhoven rennt nach dem Fehlschuss an und will unbedingt für das nächste Tor sorgen. Durch diese Haltung entstehen aber auch Räume für Gastgeber. Das Spiel ist in einer entscheidenen Phase.",
+      "match_id": "8305404"
     }
   ]
 }
