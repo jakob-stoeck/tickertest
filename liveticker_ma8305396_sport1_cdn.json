@@ -1047,5 +1047,103 @@
     "headline": "",
     "content": "Lewandowski fehlen nur Zentimeter! Es ist wie verhext. Der Ball will einfach nicht rein! Glänzend bedient von Xabi Alonso kommt Robert Lewandowski aus zehn Metern zum Kopfball, setzt ihn aber denkbar knapp links vorbei! Fraglich, ob Jan Oblak da noch rangekommen wäre. Die Münchener wollen es jetzt nochmal wissen!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803145",
+    "event": {
+      "id": "21368717",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "17989",
+        "name": "Fernando Torres",
+        "firstname": "",
+        "surname": "Fernando Torres",
+        "fullname": "Fernando José Torres Sanz",
+        "gender": "male",
+        "birthday": "20.03.1984",
+        "height": "183",
+        "weight": "70",
+        "person_detail": {
+          "id": "12065",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Madrid",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "193"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:21"
+    },
+    "tickertime": "28.09.2016 22:21:53",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Atlético Madrid -> Fernando Torres</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803149",
+    "event": {
+      "id": "21368719",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "3691",
+        "name": "Nicolás Gaitán",
+        "firstname": "Nicolás",
+        "surname": "Gaitán",
+        "fullname": "Osvaldo Nicolás Fabián Gaitán",
+        "gender": "male",
+        "birthday": "23.02.1988",
+        "height": "173",
+        "weight": "67",
+        "person_detail": {
+          "id": "94295",
+          "position_1": "8",
+          "position_2": "10",
+          "preferred_side": "left",
+          "birth_place": "San Martín, Buenos Aires",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "12"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "79",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:22"
+    },
+    "tickertime": "28.09.2016 22:22:00",
+    "minute": "79",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Atlético Madrid -> Nicolás Gaitán</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803157",
+    "tickertime": "28.09.2016 22:22:42",
+    "minute": "79",
+    "headline": "",
+    "content": "Fernando Torres, der Liebling der Atlético-Fans, wird mit stehenden Ovationen verabschiedet. Für ihn kommt Nicolás Gaitán auf den Platz.",
+    "syndicate": "heimspiel"
   }
 ]
