@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "81",
+      "current_minute": "82",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "83",
+      "current_minute": "84",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -8835,6 +8835,13 @@
       "minute": "82",
       "content": "Rodgers bringt noch einmal frische Kräfte für die letzten zehn Minuten und ersetzt Forrest durch Roberts.",
       "match_id": "8305389"
+    },
+    {
+      "id": "1803166",
+      "tickertime": "28.09.2016 22:24:16",
+      "minute": "81",
+      "content": "Ein Unentschieden nützt hier übrigens niemandem so richtig. Klar geht es am Ende auch um die Europa-League-Teilnahme, aber hinsichtlich der CL-Gruppe müsste man dieses Spiel schon gewinnen.",
+      "match_id": "8305372"
     }
   ]
 }
