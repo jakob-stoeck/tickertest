@@ -1,2595 +1,2595 @@
 [
   {
+    "id": "21935",
+    "current_date": "2016-09-27T20:45:00Z",
+    "name": "2016/2017",
+    "has_tables": "yes",
+    "start": "01.07.2016",
+    "competition_label": "Champions League",
     "competition": {
-      "gender": "male",
-      "sport": {
-        "name": "Fußball",
-        "id": "1"
-      },
+      "id": "19",
+      "age_id": "1",
+      "name": "Champions League",
       "current_season_id": "21935",
       "shortname": "Ch. League",
+      "current_round_id": "67540",
+      "microname": "CL",
+      "gender": "male",
       "age": {
-        "name": "",
-        "id": "1"
+        "id": "1",
+        "name": ""
       },
       "type": "club",
-      "current_round_id": "67540",
       "current_matchday": "0",
-      "name": "Champions League",
-      "age_id": "1",
-      "microname": "CL",
-      "id": "19"
+      "sport": {
+        "id": "1",
+        "name": "Fußball"
+      }
     },
-    "end": "30.06.2017",
-    "start": "01.07.2016",
-    "sport": {
-      "name": "Fußball",
-      "id": "1"
-    },
-    "current_matchday": "0",
+    "current_round_id": "67540",
     "current_group_matchday": "2",
     "competition_id": "19",
-    "current_date": "2016-09-27T20:45:00Z",
-    "has_tables": "yes",
-    "current_round_id": "67540",
-    "name": "2016/2017",
-    "competition_label": "Champions League",
     "round": [
       {
-        "current_matchday": "0",
-        "table_mode": {
-          "explanation": "Das klassische 3-Punkte System",
-          "show_draw": "yes",
-          "show_percentage": "no",
-          "show_points": "yes",
-          "name": "Fußball - Standard",
-          "show_minuspoints": "no",
-          "id": "1"
-        },
-        "round_order": "1",
-        "season_id": "21935",
-        "name": "Gruppenphase",
+        "id": 0,
         "match": [
           {
+            "id": "8305408",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "136",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "205",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "136",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "205",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "yes",
-            "matchday": "0",
-            "attendance": "8100",
-            "match_date": "27.09.2016",
-            "bottom_title": "Bayer Leverkusen",
-            "current_period": "game-end",
+            "current_period_start": "2016-09-27 22:39:54",
+            "live_status": "full",
+            "group_matchday": "2",
             "venue": {
-              "country": {
-                "name": "Frankreich",
-                "code": "FRA",
-                "iso": "FR",
-                "id": "61"
-              },
-              "kind": "Stadion",
-              "name": "Louis II",
               "id": "1059",
-              "venue_detail": {
-                "built": "1985",
-                "capacity": "18524",
-                "length": "0",
-                "width": "0",
-                "id": "1059"
+              "kind": "Stadion",
+              "country": {
+                "id": "61",
+                "iso": "FR",
+                "name": "Frankreich",
+                "code": "FRA"
               },
+              "name": "Louis II",
               "town": {
-                "postcode_start": "",
+                "id": "978",
                 "name": "Monaco",
                 "postcode_end": "",
-                "id": "978"
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "1059",
+                "length": "0",
+                "width": "0",
+                "built": "1985",
+                "capacity": "18524"
               }
             },
-            "referee": {
-              "surname": "Fernández Borbalán",
-              "gender": "male",
-              "country": [
-                {
-                  "id": "193"
-                }
-              ],
-              "height": "183",
-              "weight": "80",
-              "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
-                "id": "25379",
-                "birth_place": "Almería",
-                "preferred_side": "unknown"
-              },
-              "firstname": "David",
-              "name": "David Fernández Borbalán",
-              "fullname": "David Fernández Borbalán",
-              "birthday": "30.05.1973",
-              "id": "57958"
-            },
-            "live_status": "full",
-            "top_title": "AS Monaco",
-            "match_result": [
-              {
-                "match_result": "1",
-                "team_id": "136",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "205",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "136",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "205",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
+            "match_date": "27.09.2016",
+            "current_period": "game-end",
             "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Frankreich",
-                "code": "FRA",
-                "iso": "FR",
-                "id": "61"
-              },
+              "id": "136",
               "shortname": "AS Monaco",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Association Sportive de Monaco Football Club",
-                "foundation": "1919-08-01",
-                "colours": "rot-weiß",
-                "id": "136"
+              "country": {
+                "id": "61",
+                "iso": "FR",
+                "name": "Frankreich",
+                "code": "FRA"
               },
               "name": "AS Monaco",
-              "show_team": "yes",
-              "microname": "MON",
-              "id": "136"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Deutschland",
-                "code": "GER",
-                "iso": "DE",
-                "id": "47"
-              },
-              "shortname": "Leverkusen",
               "team_detail": {
-                "members": "28000",
-                "fullname": "Bayer 04 Leverkusen",
-                "foundation": "1904-07-01",
-                "colours": "rot-schwarz",
-                "id": "205"
+                "id": "136",
+                "foundation": "1919-08-01",
+                "fullname": "Association Sportive de Monaco Football Club",
+                "members": "0",
+                "colours": "rot-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "MON",
+              "gender": "male"
+            },
+            "bottom_title": "Bayer Leverkusen",
+            "winner_team_id": "0",
+            "away": {
+              "id": "205",
+              "shortname": "Leverkusen",
+              "country": {
+                "id": "47",
+                "iso": "DE",
+                "name": "Deutschland",
+                "code": "GER"
               },
               "name": "Bayer Leverkusen",
+              "team_detail": {
+                "id": "205",
+                "foundation": "1904-07-01",
+                "fullname": "Bayer 04 Leverkusen",
+                "members": "28000",
+                "colours": "rot-schwarz"
+              },
               "show_team": "yes",
+              "type": "club",
               "microname": "LEV",
-              "id": "205"
+              "gender": "male"
             },
+            "current_minute": "90",
             "match_meta": [
               {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls",
-                "kind": "sport1.fm-conference-url"
+                "kind": "sport1.fm-conference-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
               },
               {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3",
-                "kind": "sport1.fm-conference-url.mp3"
+                "kind": "sport1.fm-conference-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
               },
               {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls",
-                "kind": "sport1.fm-single-url"
+                "kind": "sport1.fm-single-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls"
               },
               {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3",
-                "kind": "sport1.fm-single-url.mp3"
+                "kind": "sport1.fm-single-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3"
               }
             ],
-            "winner_team_id": "0",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:39:54",
-            "group_matchday": "2",
-            "id": "8305408"
-          },
-          {
-            "match_time": "20:45",
-            "finished": "yes",
-            "matchday": "0",
-            "attendance": "26153",
-            "match_date": "27.09.2016",
-            "current_period": "game-end",
-            "top_title": "ZSKA Moskau",
+            "attendance": "8100",
             "referee": {
-              "surname": "Mateu Lahoz",
-              "gender": "male",
+              "id": "57958",
+              "birthday": "30.05.1973",
               "country": [
                 {
                   "id": "193"
                 }
               ],
-              "height": "0",
-              "weight": "0",
+              "name": "David Fernández Borbalán",
+              "weight": "80",
+              "gender": "male",
+              "surname": "Fernández Borbalán",
+              "fullname": "David Fernández Borbalán",
+              "height": "183",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
+                "id": "25379",
                 "died": "no",
-                "id": "124228",
-                "birth_place": "Algimia de Alfara",
+                "position_2": "0",
+                "birth_place": "Almería",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Antonio",
-              "name": "Antonio Mateu Lahoz",
-              "fullname": "Antonio Miguel Mateu Lahoz",
-              "birthday": "12.03.1977",
-              "id": "134870"
+              "firstname": "David"
             },
-            "live_status": "full",
-            "bottom_title": "Tottenham Hotspur",
+            "matchday": "0",
+            "top_title": "AS Monaco"
+          },
+          {
+            "id": "8305416",
             "match_result": [
               {
-                "match_result": "0",
-                "team_id": "439",
-                "points": "0.000",
-                "rounds": "0",
                 "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
+                "rounds": "0",
+                "team_id": "439",
                 "place": "home",
-                "person_id": "0"
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
               },
               {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1924",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
                 "match_result": "1",
-                "team_id": "1924",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
+                "rank": "0"
               },
               {
-                "match_result": "0",
+                "comment": "",
+                "rounds": "0",
                 "team_id": "439",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
                 "place": "home",
-                "person_id": "0"
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
               },
               {
-                "match_result": "0",
-                "team_id": "1924",
-                "points": "0.000",
-                "rounds": "0",
                 "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
+                "rounds": "0",
+                "team_id": "1924",
                 "place": "away",
-                "person_id": "0"
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
               }
             ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Russland",
-                "code": "RUS",
-                "iso": "RU",
-                "id": "172"
-              },
-              "shortname": "ZSKA",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Centralniy Sportivniy Klub Armiy Moskva",
-                "foundation": "1911-08-27",
-                "colours": "rot-blau",
-                "id": "439"
-              },
-              "name": "ZSKA Moskau",
-              "show_team": "yes",
-              "microname": "ZSKA",
-              "id": "439"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "England",
-                "code": "ENG",
-                "iso": "GB",
-                "id": "55"
-              },
-              "shortname": "Tottenham",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Tottenham Hotspur Football Club",
-                "foundation": "1882-09-05",
-                "colours": "blau-weiß",
-                "id": "1924"
-              },
-              "name": "Tottenham Hotspur",
-              "show_team": "yes",
-              "microname": "TOT",
-              "id": "1924"
-            },
+            "match_time": "20:45",
+            "finished": "yes",
+            "current_period_start": "2016-09-27 22:33:11",
+            "live_status": "full",
+            "group_matchday": "2",
             "venue": {
-              "country": {
-                "name": "Russland",
-                "code": "RUS",
-                "iso": "RU",
-                "id": "172"
-              },
-              "kind": "Stadion",
-              "name": "Arena Khimki",
               "id": "2369",
-              "venue_detail": {
-                "built": "2008",
-                "capacity": "18636",
-                "length": "0",
-                "width": "0",
-                "id": "2366"
+              "kind": "Stadion",
+              "country": {
+                "id": "172",
+                "iso": "RU",
+                "name": "Russland",
+                "code": "RUS"
               },
+              "name": "Arena Khimki",
               "town": {
-                "postcode_start": "",
+                "id": "732",
                 "name": "Khimki",
                 "postcode_end": "",
-                "id": "732"
-              }
-            },
-            "winner_team_id": "1924",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:33:11",
-            "group_matchday": "2",
-            "id": "8305416"
-          },
-          {
-            "match_time": "20:45",
-            "finished": "yes",
-            "matchday": "0",
-            "attendance": "65851",
-            "match_date": "27.09.2016",
-            "bottom_title": "Real Madrid",
-            "current_period": "game-end",
-            "venue": {
-              "country": {
-                "name": "Deutschland",
-                "code": "GER",
-                "iso": "DE",
-                "id": "47"
+                "postcode_start": ""
               },
-              "kind": "Stadion",
-              "name": "Signal Iduna Park",
-              "id": "1666",
               "venue_detail": {
-                "built": "1974",
-                "capacity": "81359",
+                "id": "2366",
                 "length": "0",
                 "width": "0",
-                "id": "1666"
+                "built": "2008",
+                "capacity": "18636"
+              }
+            },
+            "match_date": "27.09.2016",
+            "current_period": "game-end",
+            "home": {
+              "id": "439",
+              "shortname": "ZSKA",
+              "country": {
+                "id": "172",
+                "iso": "RU",
+                "name": "Russland",
+                "code": "RUS"
               },
+              "name": "ZSKA Moskau",
+              "team_detail": {
+                "id": "439",
+                "foundation": "1911-08-27",
+                "fullname": "Centralniy Sportivniy Klub Armiy Moskva",
+                "members": "0",
+                "colours": "rot-blau"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "ZSKA",
+              "gender": "male"
+            },
+            "bottom_title": "Tottenham Hotspur",
+            "winner_team_id": "1924",
+            "away": {
+              "id": "1924",
+              "shortname": "Tottenham",
+              "country": {
+                "id": "55",
+                "iso": "GB",
+                "name": "England",
+                "code": "ENG"
+              },
+              "name": "Tottenham Hotspur",
+              "team_detail": {
+                "id": "1924",
+                "foundation": "1882-09-05",
+                "fullname": "Tottenham Hotspur Football Club",
+                "members": "0",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "TOT",
+              "gender": "male"
+            },
+            "current_minute": "90",
+            "top_title": "ZSKA Moskau",
+            "attendance": "26153",
+            "referee": {
+              "id": "134870",
+              "birthday": "12.03.1977",
+              "country": [
+                {
+                  "id": "193"
+                }
+              ],
+              "name": "Antonio Mateu Lahoz",
+              "weight": "0",
+              "gender": "male",
+              "surname": "Mateu Lahoz",
+              "fullname": "Antonio Miguel Mateu Lahoz",
+              "height": "0",
+              "person_detail": {
+                "id": "124228",
+                "died": "no",
+                "position_2": "0",
+                "birth_place": "Algimia de Alfara",
+                "position_1": "0",
+                "preferred_side": "unknown"
+              },
+              "firstname": "Antonio"
+            },
+            "matchday": "0"
+          },
+          {
+            "id": "8305421",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "258",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1545",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "258",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1545",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              }
+            ],
+            "match_time": "20:45",
+            "finished": "yes",
+            "current_period_start": "2016-09-27 22:36:11",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "1666",
+              "kind": "Stadion",
+              "country": {
+                "id": "47",
+                "iso": "DE",
+                "name": "Deutschland",
+                "code": "GER"
+              },
+              "name": "Signal Iduna Park",
               "town": {
-                "postcode_start": "",
+                "id": "421",
                 "name": "Dortmund",
                 "postcode_end": "",
-                "id": "421"
-              }
-            },
-            "referee": {
-              "surname": "Clattenburg",
-              "gender": "male",
-              "country": [
-                {
-                  "id": "55"
-                }
-              ],
-              "height": "186",
-              "weight": "78",
-              "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
-                "id": "24775",
-                "birth_place": "Consett",
-                "preferred_side": "unknown"
+                "postcode_start": ""
               },
-              "firstname": "Mark",
-              "name": "Mark Clattenburg",
-              "fullname": "Mark Clattenburg",
-              "birthday": "13.03.1975",
-              "id": "57614"
-            },
-            "live_status": "full",
-            "top_title": "Borussia Dortmund",
-            "match_result": [
-              {
-                "match_result": "2",
-                "team_id": "258",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "1545",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "258",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "1545",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Deutschland",
-                "code": "GER",
-                "iso": "DE",
-                "id": "47"
-              },
-              "shortname": "Dortmund",
-              "team_detail": {
-                "members": "139088",
-                "fullname": "Ballspielverein Borussia 09 Dortmund",
-                "foundation": "1909-12-19",
-                "colours": "schwarz-gelb",
-                "id": "258"
-              },
-              "name": "Borussia Dortmund",
-              "show_team": "yes",
-              "microname": "BVB",
-              "id": "258"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Spanien",
-                "code": "ESP",
-                "iso": "ES",
-                "id": "193"
-              },
-              "shortname": "Real Madrid",
-              "team_detail": {
-                "members": "90699",
-                "fullname": "Real Madrid Club de Fútbol",
-                "foundation": "1902-03-06",
-                "colours": "weiß-blau",
-                "id": "1545"
-              },
-              "name": "Real Madrid",
-              "show_team": "yes",
-              "microname": "RMA",
-              "id": "1545"
-            },
-            "match_meta": [
-              {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls",
-                "kind": "sport1.fm-conference-url"
-              },
-              {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3",
-                "kind": "sport1.fm-conference-url.mp3"
-              },
-              {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel2.pls",
-                "kind": "sport1.fm-single-url"
-              },
-              {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel2.mp3",
-                "kind": "sport1.fm-single-url.mp3"
-              }
-            ],
-            "winner_team_id": "0",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:36:11",
-            "group_matchday": "2",
-            "id": "8305421"
-          },
-          {
-            "match_time": "20:45",
-            "finished": "yes",
-            "matchday": "0",
-            "attendance": "40094",
-            "match_date": "27.09.2016",
-            "current_period": "game-end",
-            "top_title": "Sporting Lissabon",
-            "referee": {
-              "surname": "Oliver",
-              "gender": "male",
-              "country": [
-                {
-                  "id": "55"
-                }
-              ],
-              "height": "0",
-              "weight": "0",
-              "person_detail": {
-                "position_2": "",
-                "position_1": "",
-                "died": "no",
-                "id": "91019",
-                "birth_place": "Northumberland",
-                "preferred_side": "unknown"
-              },
-              "firstname": "Michael",
-              "name": "Michael Oliver",
-              "fullname": "Michael Oliver",
-              "birthday": "20.02.1985",
-              "id": "107215"
-            },
-            "live_status": "full",
-            "bottom_title": "Legia Warschau",
-            "match_result": [
-              {
-                "match_result": "2",
-                "team_id": "1776",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1198",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "1776",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1198",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Portugal",
-                "code": "POR",
-                "iso": "PT",
-                "id": "167"
-              },
-              "shortname": "Sp. Lissabon",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Sporting Clube de Portugal",
-                "foundation": "1906-07-01",
-                "colours": "grün-weiß",
-                "id": "1776"
-              },
-              "name": "Sporting Lissabon",
-              "show_team": "yes",
-              "microname": "SCP",
-              "id": "1776"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Polen",
-                "code": "POL",
-                "iso": "PL",
-                "id": "166"
-              },
-              "shortname": "Legia",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Centralny Wojskowy Klub Sportowy Legia Warszawa",
-                "foundation": "1916-00-00",
-                "colours": "rot-weiß-grün-schwarz",
-                "id": "1198"
-              },
-              "name": "Legia Warschau",
-              "show_team": "yes",
-              "microname": "WAR",
-              "id": "1198"
-            },
-            "venue": {
-              "country": {
-                "name": "Portugal",
-                "code": "POR",
-                "iso": "PT",
-                "id": "167"
-              },
-              "kind": "Stadion",
-              "name": "Estádio José Alvalade",
-              "id": "891",
               "venue_detail": {
-                "built": "2003",
-                "capacity": "52000",
+                "id": "1666",
                 "length": "0",
                 "width": "0",
-                "id": "891"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Lisboa",
-                "postcode_end": "",
-                "id": "855"
+                "built": "1974",
+                "capacity": "81359"
               }
             },
-            "winner_team_id": "1776",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:37:30",
-            "group_matchday": "2",
-            "id": "8305430"
-          },
-          {
-            "match_time": "20:45",
-            "finished": "yes",
-            "matchday": "0",
-            "attendance": "25605",
             "match_date": "27.09.2016",
             "current_period": "game-end",
-            "top_title": "FC Kopenhagen",
+            "home": {
+              "id": "258",
+              "shortname": "Dortmund",
+              "country": {
+                "id": "47",
+                "iso": "DE",
+                "name": "Deutschland",
+                "code": "GER"
+              },
+              "name": "Borussia Dortmund",
+              "team_detail": {
+                "id": "258",
+                "foundation": "1909-12-19",
+                "fullname": "Ballspielverein Borussia 09 Dortmund",
+                "members": "139088",
+                "colours": "schwarz-gelb"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "BVB",
+              "gender": "male"
+            },
+            "bottom_title": "Real Madrid",
+            "winner_team_id": "0",
+            "away": {
+              "id": "1545",
+              "shortname": "Real Madrid",
+              "country": {
+                "id": "193",
+                "iso": "ES",
+                "name": "Spanien",
+                "code": "ESP"
+              },
+              "name": "Real Madrid",
+              "team_detail": {
+                "id": "1545",
+                "foundation": "1902-03-06",
+                "fullname": "Real Madrid Club de Fútbol",
+                "members": "90699",
+                "colours": "weiß-blau"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "RMA",
+              "gender": "male"
+            },
+            "current_minute": "90",
+            "match_meta": [
+              {
+                "kind": "sport1.fm-conference-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+              },
+              {
+                "kind": "sport1.fm-conference-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+              },
+              {
+                "kind": "sport1.fm-single-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel2.pls"
+              },
+              {
+                "kind": "sport1.fm-single-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel2.mp3"
+              }
+            ],
+            "attendance": "65851",
             "referee": {
-              "surname": "Thomson",
+              "id": "57614",
+              "birthday": "13.03.1975",
+              "country": [
+                {
+                  "id": "55"
+                }
+              ],
+              "name": "Mark Clattenburg",
+              "weight": "78",
               "gender": "male",
+              "surname": "Clattenburg",
+              "fullname": "Mark Clattenburg",
+              "height": "186",
+              "person_detail": {
+                "id": "24775",
+                "died": "no",
+                "position_2": "0",
+                "birth_place": "Consett",
+                "position_1": "0",
+                "preferred_side": "unknown"
+              },
+              "firstname": "Mark"
+            },
+            "matchday": "0",
+            "top_title": "Borussia Dortmund"
+          },
+          {
+            "id": "8305430",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1776",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1198",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1776",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1198",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
+            "match_time": "20:45",
+            "finished": "yes",
+            "current_period_start": "2016-09-27 22:37:30",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "891",
+              "kind": "Stadion",
+              "country": {
+                "id": "167",
+                "iso": "PT",
+                "name": "Portugal",
+                "code": "POR"
+              },
+              "name": "Estádio José Alvalade",
+              "town": {
+                "id": "855",
+                "name": "Lisboa",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "891",
+                "length": "0",
+                "width": "0",
+                "built": "2003",
+                "capacity": "52000"
+              }
+            },
+            "match_date": "27.09.2016",
+            "current_period": "game-end",
+            "home": {
+              "id": "1776",
+              "shortname": "Sp. Lissabon",
+              "country": {
+                "id": "167",
+                "iso": "PT",
+                "name": "Portugal",
+                "code": "POR"
+              },
+              "name": "Sporting Lissabon",
+              "team_detail": {
+                "id": "1776",
+                "foundation": "1906-07-01",
+                "fullname": "Sporting Clube de Portugal",
+                "members": "0",
+                "colours": "grün-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "SCP",
+              "gender": "male"
+            },
+            "bottom_title": "Legia Warschau",
+            "winner_team_id": "1776",
+            "away": {
+              "id": "1198",
+              "shortname": "Legia",
+              "country": {
+                "id": "166",
+                "iso": "PL",
+                "name": "Polen",
+                "code": "POL"
+              },
+              "name": "Legia Warschau",
+              "team_detail": {
+                "id": "1198",
+                "foundation": "1916-00-00",
+                "fullname": "Centralny Wojskowy Klub Sportowy Legia Warszawa",
+                "members": "0",
+                "colours": "rot-weiß-grün-schwarz"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "WAR",
+              "gender": "male"
+            },
+            "current_minute": "90",
+            "top_title": "Sporting Lissabon",
+            "attendance": "40094",
+            "referee": {
+              "id": "107215",
+              "birthday": "20.02.1985",
+              "country": [
+                {
+                  "id": "55"
+                }
+              ],
+              "name": "Michael Oliver",
+              "weight": "0",
+              "gender": "male",
+              "surname": "Oliver",
+              "fullname": "Michael Oliver",
+              "height": "0",
+              "person_detail": {
+                "id": "91019",
+                "died": "no",
+                "position_2": "",
+                "birth_place": "Northumberland",
+                "position_1": "",
+                "preferred_side": "unknown"
+              },
+              "firstname": "Michael"
+            },
+            "matchday": "0"
+          },
+          {
+            "id": "8305435",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "651",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "4",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "396",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "651",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "396",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
+            "match_time": "20:45",
+            "finished": "yes",
+            "current_period_start": "2016-09-27 22:36:20",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "1411",
+              "kind": "Stadion",
+              "country": {
+                "id": "45",
+                "iso": "DK",
+                "name": "Dänemark",
+                "code": "DEN"
+              },
+              "name": "Telia Parken",
+              "town": {
+                "id": "765",
+                "name": "København",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "1411",
+                "length": "105",
+                "width": "68",
+                "built": "1992",
+                "capacity": "38076"
+              }
+            },
+            "match_date": "27.09.2016",
+            "current_period": "game-end",
+            "home": {
+              "id": "651",
+              "shortname": "Kopenhagen",
+              "country": {
+                "id": "45",
+                "iso": "DK",
+                "name": "Dänemark",
+                "code": "DEN"
+              },
+              "name": "FC Kopenhagen",
+              "team_detail": {
+                "id": "651",
+                "foundation": "1992-07-01",
+                "fullname": "Football Club København",
+                "members": "0",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "FCK",
+              "gender": "male"
+            },
+            "bottom_title": "FC Brügge",
+            "winner_team_id": "651",
+            "away": {
+              "id": "396",
+              "shortname": "FC Brügge",
+              "country": {
+                "id": "23",
+                "iso": "BE",
+                "name": "Belgien",
+                "code": "BEL"
+              },
+              "name": "FC Brügge",
+              "team_detail": {
+                "id": "396",
+                "foundation": "1891-11-01",
+                "fullname": "Club Brugge Koninklijke Voetbalvereniging",
+                "members": "0",
+                "colours": "blau-schwarz"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "BRU",
+              "gender": "male"
+            },
+            "current_minute": "90",
+            "top_title": "FC Kopenhagen",
+            "attendance": "25605",
+            "referee": {
+              "id": "54215",
+              "birthday": "20.06.1972",
               "country": [
                 {
                   "id": "181"
                 }
               ],
-              "height": "191",
+              "name": "Craig Thomson",
               "weight": "80",
+              "gender": "male",
+              "surname": "Thomson",
+              "fullname": "Craig Thomson",
+              "height": "191",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
                 "id": "19482",
+                "died": "no",
+                "position_2": "0",
                 "birth_place": "Paisley",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Craig",
-              "name": "Craig Thomson",
-              "fullname": "Craig Thomson",
-              "birthday": "20.06.1972",
-              "id": "54215"
+              "firstname": "Craig"
             },
-            "live_status": "full",
-            "bottom_title": "FC Brügge",
-            "match_result": [
-              {
-                "match_result": "4",
-                "team_id": "651",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "396",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "651",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "396",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Dänemark",
-                "code": "DEN",
-                "iso": "DK",
-                "id": "45"
-              },
-              "shortname": "Kopenhagen",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Football Club København",
-                "foundation": "1992-07-01",
-                "colours": "blau-weiß",
-                "id": "651"
-              },
-              "name": "FC Kopenhagen",
-              "show_team": "yes",
-              "microname": "FCK",
-              "id": "651"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Belgien",
-                "code": "BEL",
-                "iso": "BE",
-                "id": "23"
-              },
-              "shortname": "FC Brügge",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Club Brugge Koninklijke Voetbalvereniging",
-                "foundation": "1891-11-01",
-                "colours": "blau-schwarz",
-                "id": "396"
-              },
-              "name": "FC Brügge",
-              "show_team": "yes",
-              "microname": "BRU",
-              "id": "396"
-            },
-            "venue": {
-              "country": {
-                "name": "Dänemark",
-                "code": "DEN",
-                "iso": "DK",
-                "id": "45"
-              },
-              "kind": "Stadion",
-              "name": "Telia Parken",
-              "id": "1411",
-              "venue_detail": {
-                "built": "1992",
-                "capacity": "38076",
-                "length": "105",
-                "width": "68",
-                "id": "1411"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "København",
-                "postcode_end": "",
-                "id": "765"
-              }
-            },
-            "winner_team_id": "651",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:36:20",
-            "group_matchday": "2",
-            "id": "8305435"
+            "matchday": "0"
           },
           {
+            "id": "8305443",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1199",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "686",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1199",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "686",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "yes",
-            "matchday": "0",
-            "attendance": "31805",
+            "current_period_start": "2016-09-27 22:36:23",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "2182",
+              "kind": "Stadion",
+              "country": {
+                "id": "55",
+                "iso": "GB",
+                "name": "England",
+                "code": "ENG"
+              },
+              "name": "King Power Stadium",
+              "town": {
+                "id": "826",
+                "name": "Leicester",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "2182",
+                "length": "110",
+                "width": "76",
+                "built": "2002",
+                "capacity": "32500"
+              }
+            },
             "match_date": "27.09.2016",
             "current_period": "game-end",
+            "home": {
+              "id": "1199",
+              "shortname": "Leicester",
+              "country": {
+                "id": "55",
+                "iso": "GB",
+                "name": "England",
+                "code": "ENG"
+              },
+              "name": "Leicester City",
+              "team_detail": {
+                "id": "1199",
+                "foundation": "1884-01-01",
+                "fullname": "Leicester City Football Club",
+                "members": "0",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "LEI",
+              "gender": "male"
+            },
+            "bottom_title": "FC Porto",
+            "winner_team_id": "1199",
+            "away": {
+              "id": "686",
+              "shortname": "FC Porto",
+              "country": {
+                "id": "167",
+                "iso": "PT",
+                "name": "Portugal",
+                "code": "POR"
+              },
+              "name": "FC Porto",
+              "team_detail": {
+                "id": "686",
+                "foundation": "1893-09-28",
+                "fullname": "Futebol Clube Do Porto",
+                "members": "92000",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "FCP",
+              "gender": "male"
+            },
+            "current_minute": "90",
             "top_title": "Leicester City",
+            "attendance": "31805",
             "referee": {
-              "surname": "Çakır",
-              "gender": "male",
+              "id": "57254",
+              "birthday": "23.11.1976",
               "country": [
                 {
                   "id": "219"
                 }
               ],
-              "height": "176",
+              "name": "Cüneyt Çakır",
               "weight": "66",
+              "gender": "male",
+              "surname": "Çakır",
+              "fullname": "Cüneyt Çakır",
+              "height": "176",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
                 "id": "24113",
+                "died": "no",
+                "position_2": "0",
                 "birth_place": "Istanbul",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Cüneyt",
-              "name": "Cüneyt Çakır",
-              "fullname": "Cüneyt Çakır",
-              "birthday": "23.11.1976",
-              "id": "57254"
+              "firstname": "Cüneyt"
             },
-            "live_status": "full",
-            "bottom_title": "FC Porto",
-            "match_result": [
-              {
-                "match_result": "1",
-                "team_id": "1199",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "686",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "1199",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "686",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "England",
-                "code": "ENG",
-                "iso": "GB",
-                "id": "55"
-              },
-              "shortname": "Leicester",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Leicester City Football Club",
-                "foundation": "1884-01-01",
-                "colours": "blau-weiß",
-                "id": "1199"
-              },
-              "name": "Leicester City",
-              "show_team": "yes",
-              "microname": "LEI",
-              "id": "1199"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Portugal",
-                "code": "POR",
-                "iso": "PT",
-                "id": "167"
-              },
-              "shortname": "FC Porto",
-              "team_detail": {
-                "members": "92000",
-                "fullname": "Futebol Clube Do Porto",
-                "foundation": "1893-09-28",
-                "colours": "blau-weiß",
-                "id": "686"
-              },
-              "name": "FC Porto",
-              "show_team": "yes",
-              "microname": "FCP",
-              "id": "686"
-            },
-            "venue": {
-              "country": {
-                "name": "England",
-                "code": "ENG",
-                "iso": "GB",
-                "id": "55"
-              },
-              "kind": "Stadion",
-              "name": "King Power Stadium",
-              "id": "2182",
-              "venue_detail": {
-                "built": "2002",
-                "capacity": "32500",
-                "length": "110",
-                "width": "76",
-                "id": "2182"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Leicester",
-                "postcode_end": "",
-                "id": "826"
-              }
-            },
-            "winner_team_id": "1199",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:36:23",
-            "group_matchday": "2",
-            "id": "8305443"
+            "matchday": "0"
           },
           {
+            "id": "8305444",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "489",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1094",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "4",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "489",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1094",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "yes",
-            "matchday": "0",
-            "attendance": "23875",
+            "current_period_start": "2016-09-27 22:35:22",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "1083",
+              "kind": "Stadion",
+              "country": {
+                "id": "109",
+                "iso": "HR",
+                "name": "Kroatien",
+                "code": "CRO"
+              },
+              "name": "Maksimir",
+              "town": {
+                "id": "1687",
+                "name": "Zagreb",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "1083",
+                "length": "105",
+                "width": "68",
+                "built": "1912",
+                "capacity": "38079"
+              }
+            },
             "match_date": "27.09.2016",
             "current_period": "game-end",
+            "home": {
+              "id": "489",
+              "shortname": "Din. Zagreb",
+              "country": {
+                "id": "109",
+                "iso": "HR",
+                "name": "Kroatien",
+                "code": "CRO"
+              },
+              "name": "Dinamo Zagreb",
+              "team_detail": {
+                "id": "489",
+                "foundation": "1911-04-26",
+                "fullname": "Građanski nogometni klub Dinamo Zagreb",
+                "members": "0",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "ZAG",
+              "gender": "male"
+            },
+            "bottom_title": "Juventus Turin",
+            "winner_team_id": "1094",
+            "away": {
+              "id": "1094",
+              "shortname": "Juventus",
+              "country": {
+                "id": "89",
+                "iso": "IT",
+                "name": "Italien",
+                "code": "ITA"
+              },
+              "name": "Juventus Turin",
+              "team_detail": {
+                "id": "1094",
+                "foundation": "1897-11-01",
+                "fullname": "Juventus Torino Football Club",
+                "members": "0",
+                "colours": "weiß-schwarz"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "JUV",
+              "gender": "male"
+            },
+            "current_minute": "90",
             "top_title": "Dinamo Zagreb",
+            "attendance": "23875",
             "referee": {
-              "surname": "Sousa",
-              "gender": "male",
+              "id": "54496",
+              "birthday": "18.09.1975",
               "country": [
                 {
                   "id": "167"
                 }
               ],
-              "height": "0",
+              "name": "Jorge Sousa",
               "weight": "0",
+              "gender": "male",
+              "surname": "Sousa",
+              "fullname": "Manuel Jorge Neves Moreira de Sousa",
+              "height": "0",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
                 "id": "19986",
+                "died": "no",
+                "position_2": "0",
                 "birth_place": "Lordelo do Douro",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Jorge",
-              "name": "Jorge Sousa",
-              "fullname": "Manuel Jorge Neves Moreira de Sousa",
-              "birthday": "18.09.1975",
-              "id": "54496"
+              "firstname": "Jorge"
             },
-            "live_status": "full",
-            "bottom_title": "Juventus Turin",
-            "match_result": [
-              {
-                "match_result": "0",
-                "team_id": "489",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "4",
-                "team_id": "1094",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "489",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "1094",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Kroatien",
-                "code": "CRO",
-                "iso": "HR",
-                "id": "109"
-              },
-              "shortname": "Din. Zagreb",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Građanski nogometni klub Dinamo Zagreb",
-                "foundation": "1911-04-26",
-                "colours": "blau-weiß",
-                "id": "489"
-              },
-              "name": "Dinamo Zagreb",
-              "show_team": "yes",
-              "microname": "ZAG",
-              "id": "489"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Italien",
-                "code": "ITA",
-                "iso": "IT",
-                "id": "89"
-              },
-              "shortname": "Juventus",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Juventus Torino Football Club",
-                "foundation": "1897-11-01",
-                "colours": "weiß-schwarz",
-                "id": "1094"
-              },
-              "name": "Juventus Turin",
-              "show_team": "yes",
-              "microname": "JUV",
-              "id": "1094"
-            },
-            "venue": {
-              "country": {
-                "name": "Kroatien",
-                "code": "CRO",
-                "iso": "HR",
-                "id": "109"
-              },
-              "kind": "Stadion",
-              "name": "Maksimir",
-              "id": "1083",
-              "venue_detail": {
-                "built": "1912",
-                "capacity": "38079",
-                "length": "105",
-                "width": "68",
-                "id": "1083"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Zagreb",
-                "postcode_end": "",
-                "id": "1687"
-              }
-            },
-            "winner_team_id": "1094",
-            "current_minute": "90",
-            "current_period_start": "2016-09-27 22:35:22",
-            "group_matchday": "2",
-            "id": "8305444"
+            "matchday": "0"
           },
           {
+            "id": "8305455",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1681",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1420",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1681",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1420",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "yes",
-            "matchday": "0",
-            "attendance": "36741",
-            "match_date": "27.09.2016",
-            "current_period": "game-end",
-            "top_title": "Sevilla FC",
-            "referee": {
-              "surname": "Nijhuis",
-              "gender": "male",
-              "country": [
-                {
-                  "id": "149"
-                }
-              ],
-              "height": "193",
-              "weight": "80",
-              "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
-                "id": "30681",
-                "birth_place": "Enschede",
-                "preferred_side": "unknown"
-              },
-              "firstname": "Bas",
-              "name": "Bas Nijhuis",
-              "fullname": "Bas Nijhuis",
-              "birthday": "12.01.1977",
-              "id": "61735"
-            },
+            "current_period_start": "2016-09-27 22:35:47",
             "live_status": "full",
-            "bottom_title": "Olympique Lyon",
-            "match_result": [
-              {
-                "match_result": "1",
-                "team_id": "1681",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1420",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1681",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1420",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Spanien",
-                "code": "ESP",
-                "iso": "ES",
-                "id": "193"
-              },
-              "shortname": "Sevilla",
-              "team_detail": {
-                "members": "42309",
-                "fullname": "Sevilla Fútbol Club, S.A.D.",
-                "foundation": "1905-10-14",
-                "colours": "rot-weiß",
-                "id": "1681"
-              },
-              "name": "Sevilla FC",
-              "show_team": "yes",
-              "microname": "SEV",
-              "id": "1681"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Frankreich",
-                "code": "FRA",
-                "iso": "FR",
-                "id": "61"
-              },
-              "shortname": "Lyon",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Olympique Lyonnais",
-                "foundation": "1950-08-03",
-                "colours": "blau-rot",
-                "id": "1420"
-              },
-              "name": "Olympique Lyon",
-              "show_team": "yes",
-              "microname": "LYO",
-              "id": "1420"
-            },
+            "group_matchday": "2",
             "venue": {
-              "country": {
-                "name": "Spanien",
-                "code": "ESP",
-                "iso": "ES",
-                "id": "193"
-              },
-              "kind": "Stadion",
-              "name": "Ramón Sánchez Pizjuán",
               "id": "1510",
-              "venue_detail": {
-                "built": "1958",
-                "capacity": "45500",
-                "length": "105",
-                "width": "70",
-                "id": "1510"
+              "kind": "Stadion",
+              "country": {
+                "id": "193",
+                "iso": "ES",
+                "name": "Spanien",
+                "code": "ESP"
               },
+              "name": "Ramón Sánchez Pizjuán",
               "town": {
-                "postcode_start": "",
+                "id": "1372",
                 "name": "Sevilla",
                 "postcode_end": "",
-                "id": "1372"
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "1510",
+                "length": "105",
+                "width": "70",
+                "built": "1958",
+                "capacity": "45500"
               }
             },
+            "match_date": "27.09.2016",
+            "current_period": "game-end",
+            "home": {
+              "id": "1681",
+              "shortname": "Sevilla",
+              "country": {
+                "id": "193",
+                "iso": "ES",
+                "name": "Spanien",
+                "code": "ESP"
+              },
+              "name": "Sevilla FC",
+              "team_detail": {
+                "id": "1681",
+                "foundation": "1905-10-14",
+                "fullname": "Sevilla Fútbol Club, S.A.D.",
+                "members": "42309",
+                "colours": "rot-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "SEV",
+              "gender": "male"
+            },
+            "bottom_title": "Olympique Lyon",
             "winner_team_id": "1681",
+            "away": {
+              "id": "1420",
+              "shortname": "Lyon",
+              "country": {
+                "id": "61",
+                "iso": "FR",
+                "name": "Frankreich",
+                "code": "FRA"
+              },
+              "name": "Olympique Lyon",
+              "team_detail": {
+                "id": "1420",
+                "foundation": "1950-08-03",
+                "fullname": "Olympique Lyonnais",
+                "members": "0",
+                "colours": "blau-rot"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "LYO",
+              "gender": "male"
+            },
             "current_minute": "90",
-            "current_period_start": "2016-09-27 22:35:47",
-            "group_matchday": "2",
-            "id": "8305455"
-          },
-          {
-            "match_time": "20:45",
-            "finished": "no",
-            "matchday": "0",
-            "attendance": "",
-            "match_date": "28.09.2016",
-            "current_period": "second-half-start",
-            "top_title": "Arsenal FC",
+            "top_title": "Sevilla FC",
+            "attendance": "36741",
             "referee": {
-              "surname": "Makkelie",
-              "gender": "male",
+              "id": "61735",
+              "birthday": "12.01.1977",
               "country": [
                 {
                   "id": "149"
                 }
               ],
-              "height": "0",
-              "weight": "0",
+              "name": "Bas Nijhuis",
+              "weight": "80",
+              "gender": "male",
+              "surname": "Nijhuis",
+              "fullname": "Bas Nijhuis",
+              "height": "193",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
+                "id": "30681",
                 "died": "no",
-                "id": "153649",
-                "birth_place": "Willemstad",
+                "position_2": "0",
+                "birth_place": "Enschede",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Danny",
-              "name": "Danny Makkelie",
-              "fullname": "Danny Desmond Makkelie",
-              "birthday": "18.01.1983",
-              "id": "164304"
+              "firstname": "Bas"
             },
-            "live_status": "full",
-            "bottom_title": "FC Basel",
-            "match_result": [
-              {
-                "match_result": "2",
-                "team_id": "127",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "598",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "127",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "598",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "England",
-                "code": "ENG",
-                "iso": "GB",
-                "id": "55"
-              },
-              "shortname": "Arsenal",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Arsenal Football Club",
-                "foundation": "1886-10-01",
-                "colours": "rot-weiß",
-                "id": "127"
-              },
-              "name": "Arsenal FC",
-              "show_team": "yes",
-              "microname": "ARS",
-              "id": "127"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Schweiz",
-                "code": "SUI",
-                "iso": "CH",
-                "id": "183"
-              },
-              "shortname": "FC Basel",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Fußball Club Basel 1893",
-                "foundation": "1893-11-15",
-                "colours": "rot-blau",
-                "id": "598"
-              },
-              "name": "FC Basel",
-              "show_team": "yes",
-              "microname": "BAS",
-              "id": "598"
-            },
-            "venue": {
-              "country": {
-                "name": "England",
-                "code": "ENG",
-                "iso": "GB",
-                "id": "55"
-              },
-              "kind": "Stadion",
-              "name": "Emirates Stadium",
-              "id": "508",
-              "venue_detail": {
-                "built": "2006",
-                "capacity": "60362",
-                "length": "113",
-                "width": "76",
-                "id": "508"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "London",
-                "postcode_end": "",
-                "id": "873"
-              }
-            },
-            "winner_team_id": "127",
-            "current_minute": "67",
-            "current_period_start": "2016-09-28 21:46:01",
-            "group_matchday": "2",
-            "id": "8305360"
+            "matchday": "0"
           },
           {
+            "id": "8305360",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "127",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "598",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "127",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "598",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "no",
-            "matchday": "0",
-            "attendance": "",
+            "current_period_start": "2016-09-28 21:46:01",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "508",
+              "kind": "Stadion",
+              "country": {
+                "id": "55",
+                "iso": "GB",
+                "name": "England",
+                "code": "ENG"
+              },
+              "name": "Emirates Stadium",
+              "town": {
+                "id": "873",
+                "name": "London",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "508",
+                "length": "113",
+                "width": "76",
+                "built": "2006",
+                "capacity": "60362"
+              }
+            },
             "match_date": "28.09.2016",
             "current_period": "second-half-start",
-            "top_title": "Ludogorez Rasgrad",
+            "home": {
+              "id": "127",
+              "shortname": "Arsenal",
+              "country": {
+                "id": "55",
+                "iso": "GB",
+                "name": "England",
+                "code": "ENG"
+              },
+              "name": "Arsenal FC",
+              "team_detail": {
+                "id": "127",
+                "foundation": "1886-10-01",
+                "fullname": "Arsenal Football Club",
+                "members": "0",
+                "colours": "rot-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "ARS",
+              "gender": "male"
+            },
+            "bottom_title": "FC Basel",
+            "winner_team_id": "127",
+            "away": {
+              "id": "598",
+              "shortname": "FC Basel",
+              "country": {
+                "id": "183",
+                "iso": "CH",
+                "name": "Schweiz",
+                "code": "SUI"
+              },
+              "name": "FC Basel",
+              "team_detail": {
+                "id": "598",
+                "foundation": "1893-11-15",
+                "fullname": "Fußball Club Basel 1893",
+                "members": "0",
+                "colours": "rot-blau"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "BAS",
+              "gender": "male"
+            },
+            "current_minute": "70",
+            "top_title": "Arsenal FC",
+            "attendance": "59993",
             "referee": {
-              "surname": "Královec",
+              "id": "164304",
+              "birthday": "18.01.1983",
+              "country": [
+                {
+                  "id": "149"
+                }
+              ],
+              "name": "Danny Makkelie",
+              "weight": "0",
               "gender": "male",
+              "surname": "Makkelie",
+              "fullname": "Danny Desmond Makkelie",
+              "height": "0",
+              "person_detail": {
+                "id": "153649",
+                "died": "no",
+                "position_2": "0",
+                "birth_place": "Willemstad",
+                "position_1": "0",
+                "preferred_side": "unknown"
+              },
+              "firstname": "Danny"
+            },
+            "matchday": "0"
+          },
+          {
+            "id": "8305371",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "37760",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1457",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "3",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "37760",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1457",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              }
+            ],
+            "match_time": "20:45",
+            "finished": "no",
+            "current_period_start": "2016-09-28 21:45:50",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "2114",
+              "kind": "Stadion",
+              "country": {
+                "id": "36",
+                "iso": "BG",
+                "name": "Bulgarien",
+                "code": "BUL"
+              },
+              "name": "Vasil Levski",
+              "town": {
+                "id": "1410",
+                "name": "Sofia",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "2114",
+                "length": "0",
+                "width": "0",
+                "built": "0",
+                "capacity": "43340"
+              }
+            },
+            "match_date": "28.09.2016",
+            "current_period": "second-half-start",
+            "home": {
+              "id": "37760",
+              "shortname": "Rasgrad",
+              "country": {
+                "id": "36",
+                "iso": "BG",
+                "name": "Bulgarien",
+                "code": "BUL"
+              },
+              "name": "Ludogorez Rasgrad",
+              "team_detail": {
+                "id": "17255",
+                "foundation": "2000-07-27",
+                "fullname": "Професионален футболен клуб Лудогорец Разград",
+                "members": "0",
+                "colours": ""
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "PFC",
+              "gender": "male"
+            },
+            "bottom_title": "Paris Saint-Germain",
+            "winner_team_id": "1457",
+            "away": {
+              "id": "1457",
+              "shortname": "Paris SG",
+              "country": {
+                "id": "61",
+                "iso": "FR",
+                "name": "Frankreich",
+                "code": "FRA"
+              },
+              "name": "Paris Saint-Germain",
+              "team_detail": {
+                "id": "1457",
+                "foundation": "1970-08-12",
+                "fullname": "Paris Saint-Germain Football Club",
+                "members": "0",
+                "colours": "blau-rot"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "PSG",
+              "gender": "male"
+            },
+            "current_minute": "70",
+            "top_title": "Ludogorez Rasgrad",
+            "attendance": "17155",
+            "referee": {
+              "id": "65846",
+              "birthday": "16.08.1977",
               "country": [
                 {
                   "id": "217"
                 }
               ],
-              "height": "186",
+              "name": "Pavel Královec",
               "weight": "84",
+              "gender": "male",
+              "surname": "Královec",
+              "fullname": "Pavel Královec",
+              "height": "186",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
                 "id": "36548",
+                "died": "no",
+                "position_2": "0",
                 "birth_place": "Domazlice",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Pavel",
-              "name": "Pavel Královec",
-              "fullname": "Pavel Královec",
-              "birthday": "16.08.1977",
-              "id": "65846"
+              "firstname": "Pavel"
             },
-            "live_status": "full",
-            "bottom_title": "Paris Saint-Germain",
-            "match_result": [
-              {
-                "match_result": "1",
-                "team_id": "37760",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "3",
-                "team_id": "1457",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "37760",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "1457",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Bulgarien",
-                "code": "BUL",
-                "iso": "BG",
-                "id": "36"
-              },
-              "shortname": "Rasgrad",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Професионален футболен клуб Лудогорец Разград",
-                "foundation": "2000-07-27",
-                "colours": "",
-                "id": "17255"
-              },
-              "name": "Ludogorez Rasgrad",
-              "show_team": "yes",
-              "microname": "PFC",
-              "id": "37760"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Frankreich",
-                "code": "FRA",
-                "iso": "FR",
-                "id": "61"
-              },
-              "shortname": "Paris SG",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Paris Saint-Germain Football Club",
-                "foundation": "1970-08-12",
-                "colours": "blau-rot",
-                "id": "1457"
-              },
-              "name": "Paris Saint-Germain",
-              "show_team": "yes",
-              "microname": "PSG",
-              "id": "1457"
-            },
-            "venue": {
-              "country": {
-                "name": "Bulgarien",
-                "code": "BUL",
-                "iso": "BG",
-                "id": "36"
-              },
-              "kind": "Stadion",
-              "name": "Vasil Levski",
-              "id": "2114",
-              "venue_detail": {
-                "built": "0",
-                "capacity": "43340",
-                "length": "0",
-                "width": "0",
-                "id": "2114"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Sofia",
-                "postcode_end": "",
-                "id": "1410"
-              }
-            },
-            "winner_team_id": "1457",
-            "current_minute": "67",
-            "current_period_start": "2016-09-28 21:45:50",
-            "group_matchday": "2",
-            "id": "8305371"
+            "matchday": "0"
           },
           {
-            "match_time": "20:45",
-            "finished": "no",
-            "matchday": "0",
-            "attendance": "",
-            "match_date": "28.09.2016",
-            "current_period": "second-half-start",
-            "top_title": "Beşiktaş",
-            "referee": {
-              "surname": "Zwayer",
-              "gender": "male",
-              "country": [
-                {
-                  "id": "47"
-                }
-              ],
-              "height": "183",
-              "weight": "75",
-              "person_detail": {
-                "position_2": "",
-                "position_1": "",
-                "died": "no",
-                "id": "12560",
-                "birth_place": "Berlin",
-                "preferred_side": "unknown"
-              },
-              "firstname": "Felix",
-              "name": "Felix Zwayer",
-              "fullname": "Felix Zwayer",
-              "birthday": "19.05.1981",
-              "id": "49243"
-            },
-            "live_status": "full",
-            "bottom_title": "Dynamo Kiew ",
+            "id": "8305372",
             "match_result": [
               {
-                "match_result": "1",
+                "comment": "",
+                "rounds": "0",
                 "team_id": "221",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
                 "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "486",
                 "points": "0.000",
-                "rounds": "0",
-                "comment": "",
+                "person_id": "0",
                 "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
                 "match_result": "1",
-                "team_id": "221",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
+                "rank": "0"
               },
               {
-                "match_result": "0",
-                "team_id": "486",
-                "points": "0.000",
-                "rounds": "0",
                 "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
+                "rounds": "0",
+                "team_id": "486",
                 "place": "away",
-                "person_id": "0"
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "221",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "486",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
               }
             ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Türkei",
-                "code": "TUR",
-                "iso": "TR",
-                "id": "219"
-              },
-              "shortname": "Beşiktaş",
-              "team_detail": {
-                "members": "104000",
-                "fullname": "Beşiktaş Jimnastik Kulübü",
-                "foundation": "1903-03-03",
-                "colours": "schwarz-weiß",
-                "id": "221"
-              },
-              "name": "Beşiktaş",
-              "show_team": "yes",
-              "microname": "BES",
-              "id": "221"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Ukraine",
-                "code": "UKR",
-                "iso": "UA",
-                "id": "225"
-              },
-              "shortname": "Dyn. Kiew ",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Dinamo Kiev",
-                "foundation": "1927-11-01",
-                "colours": "blau-weiß",
-                "id": "486"
-              },
-              "name": "Dynamo Kiew ",
-              "show_team": "yes",
-              "microname": "KIE",
-              "id": "486"
-            },
+            "match_time": "20:45",
+            "finished": "no",
+            "current_period_start": "2016-09-28 21:48:44",
+            "live_status": "full",
+            "group_matchday": "2",
             "venue": {
-              "country": {
-                "name": "Türkei",
-                "code": "TUR",
-                "iso": "TR",
-                "id": "219"
-              },
-              "kind": "Stadion",
-              "name": "Atatürk Olimpiyat",
               "id": "160",
-              "venue_detail": {
-                "built": "2001",
-                "capacity": "76092",
-                "length": "105",
-                "width": "88",
-                "id": "160"
+              "kind": "Stadion",
+              "country": {
+                "id": "219",
+                "iso": "TR",
+                "name": "Türkei",
+                "code": "TUR"
               },
+              "name": "Atatürk Olimpiyat",
               "town": {
-                "postcode_start": "",
+                "id": "674",
                 "name": "Istanbul",
                 "postcode_end": "",
-                "id": "674"
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "160",
+                "length": "105",
+                "width": "88",
+                "built": "2001",
+                "capacity": "76092"
               }
             },
-            "winner_team_id": "221",
-            "current_minute": "64",
-            "current_period_start": "2016-09-28 21:48:44",
-            "group_matchday": "2",
-            "id": "8305372"
-          },
-          {
-            "match_time": "20:45",
-            "finished": "no",
-            "matchday": "0",
-            "attendance": "",
             "match_date": "28.09.2016",
             "current_period": "second-half-start",
-            "top_title": "SSC Neapel",
+            "home": {
+              "id": "221",
+              "shortname": "Beşiktaş",
+              "country": {
+                "id": "219",
+                "iso": "TR",
+                "name": "Türkei",
+                "code": "TUR"
+              },
+              "name": "Beşiktaş",
+              "team_detail": {
+                "id": "221",
+                "foundation": "1903-03-03",
+                "fullname": "Beşiktaş Jimnastik Kulübü",
+                "members": "104000",
+                "colours": "schwarz-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "BES",
+              "gender": "male"
+            },
+            "bottom_title": "Dynamo Kiew ",
+            "winner_team_id": "221",
+            "away": {
+              "id": "486",
+              "shortname": "Dyn. Kiew ",
+              "country": {
+                "id": "225",
+                "iso": "UA",
+                "name": "Ukraine",
+                "code": "UKR"
+              },
+              "name": "Dynamo Kiew ",
+              "team_detail": {
+                "id": "486",
+                "foundation": "1927-11-01",
+                "fullname": "Dinamo Kiev",
+                "members": "0",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "KIE",
+              "gender": "male"
+            },
+            "current_minute": "67",
+            "top_title": "Beşiktaş",
+            "attendance": "33938",
             "referee": {
-              "surname": "Brych",
-              "gender": "male",
+              "id": "49243",
+              "birthday": "19.05.1981",
               "country": [
                 {
                   "id": "47"
                 }
               ],
-              "height": "185",
-              "weight": "77",
+              "name": "Felix Zwayer",
+              "weight": "75",
+              "gender": "male",
+              "surname": "Zwayer",
+              "fullname": "Felix Zwayer",
+              "height": "183",
               "person_detail": {
-                "position_2": "",
-                "position_1": "",
+                "id": "12560",
                 "died": "no",
-                "id": "2266",
-                "birth_place": "München",
+                "position_2": "",
+                "birth_place": "Berlin",
+                "position_1": "",
                 "preferred_side": "unknown"
               },
-              "firstname": "Dr. Felix",
-              "name": "Dr. Felix Brych",
-              "fullname": "Dr. Felix Brych",
-              "birthday": "03.08.1975",
-              "id": "41867"
+              "firstname": "Felix"
             },
-            "live_status": "full",
-            "bottom_title": "Benfica Lissabon",
-            "match_result": [
-              {
-                "match_result": "4",
-                "team_id": "1794",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1731",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "1794",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "1731",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Italien",
-                "code": "ITA",
-                "iso": "IT",
-                "id": "89"
-              },
-              "shortname": "SSC Neapel",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Societa Sportiva Calcio Napoli s.p.a",
-                "foundation": "1926-08-01",
-                "colours": "blau-weiß",
-                "id": "1794"
-              },
-              "name": "SSC Neapel",
-              "show_team": "yes",
-              "microname": "SSC",
-              "id": "1794"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Portugal",
-                "code": "POR",
-                "iso": "PT",
-                "id": "167"
-              },
-              "shortname": "B. Lissabon",
-              "team_detail": {
-                "members": "235000",
-                "fullname": "Sport Lisboa e Benfica",
-                "foundation": "1904-02-28",
-                "colours": "rot-weiß",
-                "id": "1731"
-              },
-              "name": "Benfica Lissabon",
-              "show_team": "yes",
-              "microname": "BLI",
-              "id": "1731"
-            },
-            "venue": {
-              "country": {
-                "name": "Italien",
-                "code": "ITA",
-                "iso": "IT",
-                "id": "89"
-              },
-              "kind": "Stadion",
-              "name": "San Paolo",
-              "id": "1611",
-              "venue_detail": {
-                "built": "1959",
-                "capacity": "60240",
-                "length": "110",
-                "width": "68",
-                "id": "1611"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Napoli",
-                "postcode_end": "",
-                "id": "1021"
-              }
-            },
-            "winner_team_id": "1794",
-            "current_minute": "63",
-            "current_period_start": "2016-09-28 21:50:10",
-            "group_matchday": "2",
-            "id": "8305383"
+            "matchday": "0"
           },
           {
+            "id": "8305383",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1794",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "4",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1731",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1794",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1731",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "no",
-            "matchday": "0",
-            "attendance": "46279",
-            "match_date": "28.09.2016",
-            "bottom_title": "FC Barcelona",
-            "current_period": "second-half-start",
+            "current_period_start": "2016-09-28 21:50:10",
+            "live_status": "full",
+            "group_matchday": "2",
             "venue": {
-              "country": {
-                "name": "Deutschland",
-                "code": "GER",
-                "iso": "DE",
-                "id": "47"
-              },
+              "id": "1611",
               "kind": "Stadion",
-              "name": "Borussia-Park",
-              "id": "252",
-              "venue_detail": {
-                "built": "2004",
-                "capacity": "54067",
-                "length": "105",
-                "width": "68",
-                "id": "252"
+              "country": {
+                "id": "89",
+                "iso": "IT",
+                "name": "Italien",
+                "code": "ITA"
               },
+              "name": "San Paolo",
               "town": {
-                "postcode_start": "",
-                "name": "Mönchengladbach",
+                "id": "1021",
+                "name": "Napoli",
                 "postcode_end": "",
-                "id": "980"
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "1611",
+                "length": "110",
+                "width": "68",
+                "built": "1959",
+                "capacity": "60240"
               }
             },
+            "match_date": "28.09.2016",
+            "current_period": "second-half-start",
+            "home": {
+              "id": "1794",
+              "shortname": "SSC Neapel",
+              "country": {
+                "id": "89",
+                "iso": "IT",
+                "name": "Italien",
+                "code": "ITA"
+              },
+              "name": "SSC Neapel",
+              "team_detail": {
+                "id": "1794",
+                "foundation": "1926-08-01",
+                "fullname": "Societa Sportiva Calcio Napoli s.p.a",
+                "members": "0",
+                "colours": "blau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "SSC",
+              "gender": "male"
+            },
+            "bottom_title": "Benfica Lissabon",
+            "winner_team_id": "1794",
+            "away": {
+              "id": "1731",
+              "shortname": "B. Lissabon",
+              "country": {
+                "id": "167",
+                "iso": "PT",
+                "name": "Portugal",
+                "code": "POR"
+              },
+              "name": "Benfica Lissabon",
+              "team_detail": {
+                "id": "1731",
+                "foundation": "1904-02-28",
+                "fullname": "Sport Lisboa e Benfica",
+                "members": "235000",
+                "colours": "rot-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "BLI",
+              "gender": "male"
+            },
+            "current_minute": "66",
+            "top_title": "SSC Neapel",
+            "attendance": "",
             "referee": {
-              "surname": "Skomina",
+              "id": "41867",
+              "birthday": "03.08.1975",
+              "country": [
+                {
+                  "id": "47"
+                }
+              ],
+              "name": "Dr. Felix Brych",
+              "weight": "77",
               "gender": "male",
+              "surname": "Brych",
+              "fullname": "Dr. Felix Brych",
+              "height": "185",
+              "person_detail": {
+                "id": "2266",
+                "died": "no",
+                "position_2": "",
+                "birth_place": "München",
+                "position_1": "",
+                "preferred_side": "unknown"
+              },
+              "firstname": "Dr. Felix"
+            },
+            "matchday": "0"
+          },
+          {
+            "id": "8305385",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "253",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "597",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "253",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "597",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
+            "match_time": "20:45",
+            "finished": "no",
+            "current_period_start": "2016-09-28 21:47:21",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "252",
+              "kind": "Stadion",
+              "country": {
+                "id": "47",
+                "iso": "DE",
+                "name": "Deutschland",
+                "code": "GER"
+              },
+              "name": "Borussia-Park",
+              "town": {
+                "id": "980",
+                "name": "Mönchengladbach",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "252",
+                "length": "105",
+                "width": "68",
+                "built": "2004",
+                "capacity": "54067"
+              }
+            },
+            "match_date": "28.09.2016",
+            "current_period": "second-half-start",
+            "home": {
+              "id": "253",
+              "shortname": "Gladbach",
+              "country": {
+                "id": "47",
+                "iso": "DE",
+                "name": "Deutschland",
+                "code": "GER"
+              },
+              "name": "Bor. Mönchengladbach",
+              "team_detail": {
+                "id": "253",
+                "foundation": "1900-08-01",
+                "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+                "members": "77300",
+                "colours": "grün-weiß-schwarz"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "BMG",
+              "gender": "male"
+            },
+            "bottom_title": "FC Barcelona",
+            "winner_team_id": "0",
+            "away": {
+              "id": "597",
+              "shortname": "Barcelona",
+              "country": {
+                "id": "193",
+                "iso": "ES",
+                "name": "Spanien",
+                "code": "ESP"
+              },
+              "name": "FC Barcelona",
+              "team_detail": {
+                "id": "597",
+                "foundation": "1899-11-29",
+                "fullname": "Fútbol Club Barcelona",
+                "members": "173000",
+                "colours": "blau-rot"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "FCB",
+              "gender": "male"
+            },
+            "current_minute": "69",
+            "match_meta": [
+              {
+                "kind": "sport1.fm-conference-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+              },
+              {
+                "kind": "sport1.fm-conference-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+              },
+              {
+                "kind": "sport1.fm-single-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel2.pls"
+              },
+              {
+                "kind": "sport1.fm-single-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel2.mp3"
+              }
+            ],
+            "attendance": "46283",
+            "referee": {
+              "id": "52462",
+              "birthday": "05.08.1976",
               "country": [
                 {
                   "id": "191"
                 }
               ],
-              "height": "185",
+              "name": "Damir Skomina",
               "weight": "83",
+              "gender": "male",
+              "surname": "Skomina",
+              "fullname": "Damir Skomina",
+              "height": "185",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
                 "id": "17179",
+                "died": "no",
+                "position_2": "0",
                 "birth_place": "Koper",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Damir",
-              "name": "Damir Skomina",
-              "fullname": "Damir Skomina",
-              "birthday": "05.08.1976",
-              "id": "52462"
+              "firstname": "Damir"
             },
-            "live_status": "full",
-            "top_title": "Bor. Mönchengladbach",
-            "match_result": [
-              {
-                "match_result": "1",
-                "team_id": "253",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "597",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "253",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "597",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Deutschland",
-                "code": "GER",
-                "iso": "DE",
-                "id": "47"
-              },
-              "shortname": "Gladbach",
-              "team_detail": {
-                "members": "77300",
-                "fullname": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
-                "foundation": "1900-08-01",
-                "colours": "grün-weiß-schwarz",
-                "id": "253"
-              },
-              "name": "Bor. Mönchengladbach",
-              "show_team": "yes",
-              "microname": "BMG",
-              "id": "253"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Spanien",
-                "code": "ESP",
-                "iso": "ES",
-                "id": "193"
-              },
-              "shortname": "Barcelona",
-              "team_detail": {
-                "members": "173000",
-                "fullname": "Fútbol Club Barcelona",
-                "foundation": "1899-11-29",
-                "colours": "blau-rot",
-                "id": "597"
-              },
-              "name": "FC Barcelona",
-              "show_team": "yes",
-              "microname": "FCB",
-              "id": "597"
-            },
-            "match_meta": [
-              {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls",
-                "kind": "sport1.fm-conference-url"
-              },
-              {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3",
-                "kind": "sport1.fm-conference-url.mp3"
-              },
-              {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel2.pls",
-                "kind": "sport1.fm-single-url"
-              },
-              {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel2.mp3",
-                "kind": "sport1.fm-single-url.mp3"
-              }
-            ],
-            "winner_team_id": "253",
-            "current_minute": "66",
-            "current_period_start": "2016-09-28 21:47:21",
-            "group_matchday": "2",
-            "id": "8305385"
+            "matchday": "0",
+            "top_title": "Bor. Mönchengladbach"
           },
           {
+            "id": "8305389",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "356",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "3",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1267",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "3",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "356",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1267",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "no",
-            "matchday": "0",
-            "attendance": "",
+            "current_period_start": "2016-09-28 21:46:45",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "328",
+              "kind": "Stadion",
+              "country": {
+                "id": "181",
+                "iso": "",
+                "name": "Schottland",
+                "code": "SCO"
+              },
+              "name": "Celtic Park",
+              "town": {
+                "id": "540",
+                "name": "Glasgow",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "328",
+                "length": "125",
+                "width": "80",
+                "built": "1892",
+                "capacity": "60832"
+              }
+            },
             "match_date": "28.09.2016",
             "current_period": "second-half-start",
+            "home": {
+              "id": "356",
+              "shortname": "C. Glasgow",
+              "country": {
+                "id": "181",
+                "iso": "",
+                "name": "Schottland",
+                "code": "SCO"
+              },
+              "name": "Celtic Glasgow",
+              "team_detail": {
+                "id": "356",
+                "foundation": "1887-11-06",
+                "fullname": "The Celtic Football Club",
+                "members": "0",
+                "colours": "grün-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "CGL",
+              "gender": "male"
+            },
+            "bottom_title": "Manchester City",
+            "winner_team_id": "0",
+            "away": {
+              "id": "1267",
+              "shortname": "Man City",
+              "country": {
+                "id": "55",
+                "iso": "GB",
+                "name": "England",
+                "code": "ENG"
+              },
+              "name": "Manchester City",
+              "team_detail": {
+                "id": "1267",
+                "foundation": "1880-01-01",
+                "fullname": "Manchester City Football Club",
+                "members": "0",
+                "colours": "hellblau-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "MCI",
+              "gender": "male"
+            },
+            "current_minute": "69",
             "top_title": "Celtic Glasgow",
+            "attendance": "",
             "referee": {
-              "surname": "Rizzoli",
-              "gender": "male",
+              "id": "52698",
+              "birthday": "05.10.1971",
               "country": [
                 {
                   "id": "89"
                 }
               ],
-              "height": "180",
+              "name": "Nicola Rizzoli",
               "weight": "70",
+              "gender": "male",
+              "surname": "Rizzoli",
+              "fullname": "Nicola Rizzoli",
+              "height": "180",
               "person_detail": {
-                "position_2": "0",
-                "position_1": "0",
-                "died": "no",
                 "id": "17475",
+                "died": "no",
+                "position_2": "0",
                 "birth_place": "Mirandola",
+                "position_1": "0",
                 "preferred_side": "unknown"
               },
-              "firstname": "Nicola",
-              "name": "Nicola Rizzoli",
-              "fullname": "Nicola Rizzoli",
-              "birthday": "05.10.1971",
-              "id": "52698"
+              "firstname": "Nicola"
             },
-            "live_status": "full",
-            "bottom_title": "Manchester City",
-            "match_result": [
-              {
-                "match_result": "3",
-                "team_id": "356",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "3",
-                "team_id": "1267",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "356",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "1267",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Schottland",
-                "code": "SCO",
-                "iso": "",
-                "id": "181"
-              },
-              "shortname": "C. Glasgow",
-              "team_detail": {
-                "members": "0",
-                "fullname": "The Celtic Football Club",
-                "foundation": "1887-11-06",
-                "colours": "grün-weiß",
-                "id": "356"
-              },
-              "name": "Celtic Glasgow",
-              "show_team": "yes",
-              "microname": "CGL",
-              "id": "356"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "England",
-                "code": "ENG",
-                "iso": "GB",
-                "id": "55"
-              },
-              "shortname": "Man City",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Manchester City Football Club",
-                "foundation": "1880-01-01",
-                "colours": "hellblau-weiß",
-                "id": "1267"
-              },
-              "name": "Manchester City",
-              "show_team": "yes",
-              "microname": "MCI",
-              "id": "1267"
-            },
-            "venue": {
-              "country": {
-                "name": "Schottland",
-                "code": "SCO",
-                "iso": "",
-                "id": "181"
-              },
-              "kind": "Stadion",
-              "name": "Celtic Park",
-              "id": "328",
-              "venue_detail": {
-                "built": "1892",
-                "capacity": "60832",
-                "length": "125",
-                "width": "80",
-                "id": "328"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Glasgow",
-                "postcode_end": "",
-                "id": "540"
-              }
-            },
-            "winner_team_id": "0",
-            "current_minute": "66",
-            "current_period_start": "2016-09-28 21:46:45",
-            "group_matchday": "2",
-            "id": "8305389"
+            "matchday": "0"
           },
           {
+            "id": "8305396",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "162",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "209",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "0",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "162",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "1",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "209",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "0",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "no",
-            "matchday": "0",
-            "attendance": "54000",
-            "match_date": "28.09.2016",
-            "bottom_title": "Bayern München",
-            "current_period": "second-half-start",
+            "current_period_start": "2016-09-28 21:48:09",
+            "live_status": "full",
+            "group_matchday": "2",
             "venue": {
-              "country": {
-                "name": "Spanien",
-                "code": "ESP",
-                "iso": "ES",
-                "id": "193"
-              },
-              "kind": "Stadion",
-              "name": "Vicente Calderón",
               "id": "2135",
-              "venue_detail": {
-                "built": "1966",
-                "capacity": "54851",
-                "length": "105",
-                "width": "70",
-                "id": "2135"
+              "kind": "Stadion",
+              "country": {
+                "id": "193",
+                "iso": "ES",
+                "name": "Spanien",
+                "code": "ESP"
               },
+              "name": "Vicente Calderón",
               "town": {
-                "postcode_start": "",
+                "id": "909",
                 "name": "Madrid",
                 "postcode_end": "",
-                "id": "909"
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "2135",
+                "length": "105",
+                "width": "70",
+                "built": "1966",
+                "capacity": "54851"
               }
             },
+            "match_date": "28.09.2016",
+            "current_period": "second-half-start",
+            "home": {
+              "id": "162",
+              "shortname": "Atlético",
+              "country": {
+                "id": "193",
+                "iso": "ES",
+                "name": "Spanien",
+                "code": "ESP"
+              },
+              "name": "Atlético Madrid",
+              "team_detail": {
+                "id": "162",
+                "foundation": "1903-04-26",
+                "fullname": "Club Atlético de Madrid, S.A.D.",
+                "members": "42000",
+                "colours": "rot-weiß-blau"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "ATL",
+              "gender": "male"
+            },
+            "bottom_title": "Bayern München",
+            "winner_team_id": "162",
+            "away": {
+              "id": "209",
+              "shortname": "FC Bayern",
+              "country": {
+                "id": "47",
+                "iso": "DE",
+                "name": "Deutschland",
+                "code": "GER"
+              },
+              "name": "Bayern München",
+              "team_detail": {
+                "id": "209",
+                "foundation": "1900-02-27",
+                "fullname": "Fußball-Club Bayern München",
+                "members": "277000",
+                "colours": "rot-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "FCB",
+              "gender": "male"
+            },
+            "current_minute": "68",
+            "match_meta": [
+              {
+                "kind": "sport1.fm-conference-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+              },
+              {
+                "kind": "sport1.fm-conference-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+              },
+              {
+                "kind": "sport1.fm-single-url",
+                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls"
+              },
+              {
+                "kind": "sport1.fm-single-url.mp3",
+                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3"
+              }
+            ],
+            "attendance": "48242",
             "referee": {
-              "surname": "Marciniak",
-              "gender": "male",
+              "id": "150728",
+              "birthday": "07.01.1981",
               "country": [
                 {
                   "id": "166"
                 }
               ],
-              "height": "0",
+              "name": "Szymon Marciniak",
               "weight": "0",
+              "gender": "male",
+              "surname": "Marciniak",
+              "fullname": "Szymon Marciniak",
+              "height": "0",
               "person_detail": {
-                "position_2": "",
-                "position_1": "",
-                "died": "no",
                 "id": "140077",
+                "died": "no",
+                "position_2": "",
                 "birth_place": "",
+                "position_1": "",
                 "preferred_side": "unknown"
               },
-              "firstname": "Szymon",
-              "name": "Szymon Marciniak",
-              "fullname": "Szymon Marciniak",
-              "birthday": "07.01.1981",
-              "id": "150728"
+              "firstname": "Szymon"
             },
-            "live_status": "full",
-            "top_title": "Atlético Madrid",
-            "match_result": [
-              {
-                "match_result": "1",
-                "team_id": "162",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "209",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "1",
-                "team_id": "162",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "0",
-                "team_id": "209",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Spanien",
-                "code": "ESP",
-                "iso": "ES",
-                "id": "193"
-              },
-              "shortname": "Atlético",
-              "team_detail": {
-                "members": "42000",
-                "fullname": "Club Atlético de Madrid, S.A.D.",
-                "foundation": "1903-04-26",
-                "colours": "rot-weiß-blau",
-                "id": "162"
-              },
-              "name": "Atlético Madrid",
-              "show_team": "yes",
-              "microname": "ATL",
-              "id": "162"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Deutschland",
-                "code": "GER",
-                "iso": "DE",
-                "id": "47"
-              },
-              "shortname": "FC Bayern",
-              "team_detail": {
-                "members": "277000",
-                "fullname": "Fußball-Club Bayern München",
-                "foundation": "1900-02-27",
-                "colours": "rot-weiß",
-                "id": "209"
-              },
-              "name": "Bayern München",
-              "show_team": "yes",
-              "microname": "FCB",
-              "id": "209"
-            },
-            "match_meta": [
-              {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls",
-                "kind": "sport1.fm-conference-url"
-              },
-              {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3",
-                "kind": "sport1.fm-conference-url.mp3"
-              },
-              {
-                "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls",
-                "kind": "sport1.fm-single-url"
-              },
-              {
-                "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3",
-                "kind": "sport1.fm-single-url.mp3"
-              }
-            ],
-            "winner_team_id": "162",
-            "current_minute": "65",
-            "current_period_start": "2016-09-28 21:48:09",
-            "group_matchday": "2",
-            "id": "8305396"
+            "matchday": "0",
+            "top_title": "Atlético Madrid"
           },
           {
+            "id": "8305404",
+            "match_result": [
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "791",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1502",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "0",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "791",
+                "place": "home",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              },
+              {
+                "comment": "",
+                "rounds": "0",
+                "team_id": "1502",
+                "place": "away",
+                "points": "0.000",
+                "person_id": "0",
+                "match_result_at": "1",
+                "match_result": "2",
+                "rank": "0"
+              }
+            ],
             "match_time": "20:45",
             "finished": "no",
-            "matchday": "0",
-            "attendance": "",
+            "current_period_start": "2016-09-28 21:48:12",
+            "live_status": "full",
+            "group_matchday": "2",
+            "venue": {
+              "id": "1336",
+              "kind": "Stadion",
+              "country": {
+                "id": "172",
+                "iso": "RU",
+                "name": "Russland",
+                "code": "RUS"
+              },
+              "name": "Olimp – 2",
+              "town": {
+                "id": "1281",
+                "name": "Rostov",
+                "postcode_end": "",
+                "postcode_start": ""
+              },
+              "venue_detail": {
+                "id": "1336",
+                "length": "105",
+                "width": "68",
+                "built": "1930",
+                "capacity": "15840"
+              }
+            },
             "match_date": "28.09.2016",
             "current_period": "second-half-start",
+            "home": {
+              "id": "791",
+              "shortname": "FK Rostov",
+              "country": {
+                "id": "172",
+                "iso": "RU",
+                "name": "Russland",
+                "code": "RUS"
+              },
+              "name": "FK Rostov",
+              "team_detail": {
+                "id": "791",
+                "foundation": "1930-05-01",
+                "fullname": "Futbolniy Klub Rostov",
+                "members": "0",
+                "colours": "gelb-blau"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "FKR",
+              "gender": "male"
+            },
+            "bottom_title": "PSV Eindhoven",
+            "winner_team_id": "0",
+            "away": {
+              "id": "1502",
+              "shortname": "Eindhoven",
+              "country": {
+                "id": "149",
+                "iso": "NL",
+                "name": "Niederlande",
+                "code": "NED"
+              },
+              "name": "PSV Eindhoven",
+              "team_detail": {
+                "id": "1502",
+                "foundation": "1913-08-31",
+                "fullname": "Philips Sport Vereniging Eindhoven",
+                "members": "0",
+                "colours": "rot-weiß"
+              },
+              "show_team": "yes",
+              "type": "club",
+              "microname": "PSV",
+              "gender": "male"
+            },
+            "current_minute": "68",
             "top_title": "FK Rostov",
+            "attendance": "",
             "referee": {
-              "surname": "Turpin",
-              "gender": "male",
+              "id": "132903",
+              "birthday": "16.05.1982",
               "country": [
                 {
                   "id": "61"
                 }
               ],
-              "height": "176",
+              "name": "Clément Turpin",
               "weight": "65",
+              "gender": "male",
+              "surname": "Turpin",
+              "fullname": "Clément Turpin",
+              "height": "176",
               "person_detail": {
-                "position_2": "",
-                "position_1": "",
-                "died": "no",
                 "id": "122261",
+                "died": "no",
+                "position_2": "",
                 "birth_place": "",
+                "position_1": "",
                 "preferred_side": "unknown"
               },
-              "firstname": "Clément",
-              "name": "Clément Turpin",
-              "fullname": "Clément Turpin",
-              "birthday": "16.05.1982",
-              "id": "132903"
+              "firstname": "Clément"
             },
-            "live_status": "full",
-            "bottom_title": "PSV Eindhoven",
-            "match_result": [
-              {
-                "match_result": "2",
-                "team_id": "791",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "1502",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "0",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "791",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "home",
-                "person_id": "0"
-              },
-              {
-                "match_result": "2",
-                "team_id": "1502",
-                "points": "0.000",
-                "rounds": "0",
-                "comment": "",
-                "match_result_at": "1",
-                "rank": "0",
-                "place": "away",
-                "person_id": "0"
-              }
-            ],
-            "home": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Russland",
-                "code": "RUS",
-                "iso": "RU",
-                "id": "172"
-              },
-              "shortname": "FK Rostov",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Futbolniy Klub Rostov",
-                "foundation": "1930-05-01",
-                "colours": "gelb-blau",
-                "id": "791"
-              },
-              "name": "FK Rostov",
-              "show_team": "yes",
-              "microname": "FKR",
-              "id": "791"
-            },
-            "away": {
-              "type": "club",
-              "gender": "male",
-              "country": {
-                "name": "Niederlande",
-                "code": "NED",
-                "iso": "NL",
-                "id": "149"
-              },
-              "shortname": "Eindhoven",
-              "team_detail": {
-                "members": "0",
-                "fullname": "Philips Sport Vereniging Eindhoven",
-                "foundation": "1913-08-31",
-                "colours": "rot-weiß",
-                "id": "1502"
-              },
-              "name": "PSV Eindhoven",
-              "show_team": "yes",
-              "microname": "PSV",
-              "id": "1502"
-            },
-            "venue": {
-              "country": {
-                "name": "Russland",
-                "code": "RUS",
-                "iso": "RU",
-                "id": "172"
-              },
-              "kind": "Stadion",
-              "name": "Olimp – 2",
-              "id": "1336",
-              "venue_detail": {
-                "built": "1930",
-                "capacity": "15840",
-                "length": "105",
-                "width": "68",
-                "id": "1336"
-              },
-              "town": {
-                "postcode_start": "",
-                "name": "Rostov",
-                "postcode_end": "",
-                "id": "1281"
-              }
-            },
-            "winner_team_id": "0",
-            "current_minute": "65",
-            "current_period_start": "2016-09-28 21:48:12",
-            "group_matchday": "2",
-            "id": "8305404"
+            "matchday": "0"
           }
         ],
-        "id": 0
+        "name": "Gruppenphase",
+        "season_id": "21935",
+        "table_mode": {
+          "id": "1",
+          "show_percentage": "no",
+          "name": "Fußball - Standard",
+          "show_draw": "yes",
+          "show_minuspoints": "no",
+          "explanation": "Das klassische 3-Punkte System",
+          "show_points": "yes"
+        },
+        "round_order": "1",
+        "current_matchday": "0"
       }
     ],
-    "id": "21935"
+    "sport": {
+      "id": "1",
+      "name": "Fußball"
+    },
+    "end": "30.06.2017",
+    "current_matchday": "0"
   }
 ]
