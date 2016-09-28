@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "55",
+      "current_minute": "56",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "57",
+      "current_minute": "58",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4719,7 +4719,7 @@
       "id": "1802922",
       "tickertime": "28.09.2016 21:58:05",
       "minute": "57",
-      "content": "Gefährlich wird es dann wieder nur vorm Gäste-Tor: Bei einem Konter der \"Gunners\"",
+      "content": "Gefährlich wird es dann wieder nur vorm Gäste-Tor: Bei einem Konter der \"Gunners\" kann Iwobi unbehelligt durch die Hälfte des FCB marschieren. Auch kurz vor der Strafraumkante wird der Offensivmann nicht angegriffen und knallt das Leder aufs linke Eck. Nur um Zentimeter zischt die Kugel am Pfosten vorbei.",
       "match_id": "8305360"
     },
     {
@@ -4763,7 +4763,7 @@
       },
       "tickertime": "28.09.2016 21:58:15",
       "minute": "53",
-      "content": "<b>Gelbe Karte für Júlio César (SL Benfica)</b> <br/>",
+      "content": "<b>Gelbe Karte für Júlio César (SL Benfica)</b> <br/>José Callejon bekommt den Ball auf der rechten Seite im Strarfraum, dann kommt Julio Cèsar angerauscht und bringt den Angreifer zu Fall. Die gelbe Karte für den Torhüter und der <b>Elfmeter</B> für Neapel lässt nicht lang auf sich warten.",
       "match_id": "8305383"
     },
     {
@@ -4962,6 +4962,108 @@
       "minute": "58",
       "content": "<span class=\"rottext\">Auswechslung bei Celtic FC -> Tom Rogić</span>",
       "match_id": "8305389"
+    },
+    {
+      "id": "1802934",
+      "tickertime": "28.09.2016 21:59:24",
+      "minute": "56",
+      "content": "Der kommt immerhin mal aufs Tor! Ribéry und Alaba kombinieren sich stark über links durch. Links im Strafraum kommt der aufgerückte Linksverteidiger der Bayern zum Schuss, scheitert aber mit dem unplatzierten Versuch an Oblak. Der Torhüter von Atlético kann zur Ecke abwehren, welche schließlich nichts einbringt.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802935",
+      "event": {
+        "id": "21368399",
+        "team": {
+          "id": "356",
+          "name": "Celtic Glasgow"
+        },
+        "person": {
+          "id": "233686",
+          "name": "Stuart Armstrong",
+          "firstname": "Stuart",
+          "surname": "Armstrong",
+          "fullname": "Stuart Armstrong",
+          "gender": "male",
+          "birthday": "30.03.1992",
+          "height": "183",
+          "weight": "75",
+          "person_detail": {
+            "id": "175877",
+            "position_1": "13",
+            "position_2": "8",
+            "preferred_side": "unknown",
+            "birth_place": "Inverness",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "181"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "58",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:59"
+      },
+      "tickertime": "28.09.2016 21:59:30",
+      "minute": "58",
+      "content": "<span class=\"gruentext\">Einwechslung bei Celtic FC -> Stuart Armstrong</span>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802936",
+      "tickertime": "28.09.2016 21:59:36",
+      "minute": "56",
+      "content": "Aktuell ist das Spiel durch viele Pfiffe zersetzt.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802938",
+      "event": {
+        "id": "21368400",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "159794",
+          "name": "Davy Pröpper",
+          "firstname": "Davy",
+          "surname": "Pröpper",
+          "fullname": "Davy Pröpper",
+          "gender": "male",
+          "birthday": "02.09.1991",
+          "height": "189",
+          "weight": "72",
+          "person_detail": {
+            "id": "149142",
+            "position_1": "8",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Arnhem",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "special",
+        "content": "",
+        "kind": "missed-penalty",
+        "minute": "57",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:59"
+      },
+      "tickertime": "28.09.2016 21:59:53",
+      "minute": "57",
+      "content": "<b>Elfmeter verschossen von Davy Pröpper, PSV Eindhoven</b> <br/>",
+      "match_id": "8305404"
     }
   ]
 }
