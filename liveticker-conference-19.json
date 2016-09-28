@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "72",
+      "current_minute": "73",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "73",
+      "current_minute": "74",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "71",
+      "current_minute": "72",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "72",
+      "current_minute": "73",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -6763,7 +6763,7 @@
       },
       "tickertime": "28.09.2016 22:11:32",
       "minute": "70",
-      "content": "<b>Gelbe Karte für Piqué (FC Barcelona)</b> <br/>",
+      "content": "<b>Gelbe Karte für Piqué (FC Barcelona)</b> <br/>Wichtiges Foul vom Spanier! Der Innenverteidiger wird von Hazard überlaufen und sieht, dass in der Mitte kaum eine Absicherung ist. Das taktische Foul muss kommen und es kommt auch. Klar, dass es dafür ein Ticket gibt.",
       "match_id": "8305385"
     },
     {
@@ -6955,6 +6955,57 @@
       "minute": "71",
       "content": "Paris dominiert jetzt die Partie und lässt die Gastgeber viel laufen. Die kommen jetzt kaum noch an den Ball und müssen viele Meter machen. Cavani ist jetzt die Anspielstation im Zentrum, die Matuidi und Verratti brauchen und ist bis jetzt stärster Mann der zweiten Hälfte.",
       "match_id": "8305371"
+    },
+    {
+      "id": "1803057",
+      "tickertime": "28.09.2016 22:12:47",
+      "minute": "69",
+      "content": "Şenol Güneş reagiert auf den Ausgleich und wechselt offensiv.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803059",
+      "event": {
+        "id": "21368516",
+        "team": {
+          "id": "486",
+          "name": "Dynamo Kiew "
+        },
+        "person": {
+          "id": "108000",
+          "name": "Domagoj Vida",
+          "firstname": "Domagoj",
+          "surname": "Vida",
+          "fullname": "Domagoj Vida",
+          "gender": "male",
+          "birthday": "29.04.1989",
+          "height": "182",
+          "weight": "70",
+          "person_detail": {
+            "id": "92417",
+            "position_1": "4",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Osijek",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "109"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "70",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:12"
+      },
+      "tickertime": "28.09.2016 22:12:59",
+      "minute": "70",
+      "content": "<b>Gelbe Karte für Domagoj Vida (Dinamo Kiev)</b> <br/>",
+      "match_id": "8305372"
     }
   ]
 }
