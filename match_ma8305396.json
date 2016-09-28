@@ -1,0 +1,151 @@
+{
+  "match": {
+    "id": "8305396",
+    "round_id": "67543",
+    "round": {
+      "id": "67543",
+      "season_id": "21935",
+      "name": "Gruppe D",
+      "current_matchday": "0",
+      "round_order": "1",
+      "table_mode": {
+        "id": "1",
+        "name": "Fußball - Standard",
+        "explanation": "Das klassische 3-Punkte System",
+        "show_draw": "yes",
+        "show_percentage": "no",
+        "show_points": "yes",
+        "show_minuspoints": "no"
+      }
+    },
+    "matchday": "0",
+    "group_matchday": "2",
+    "match_date": "28.09.2016",
+    "match_time": "20:45",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "game-start",
+    "current_period_start": "2016-09-28 20:47:19",
+    "current_minute": "21",
+    "attendance": "54000",
+    "home": {
+      "id": "162",
+      "name": "Atlético Madrid",
+      "shortname": "Atlético",
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "away": {
+      "id": "209",
+      "name": "Bayern München",
+      "shortname": "FC Bayern",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "match_result": [
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-conference-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-conference-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      },
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_Einzel1.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_Einzel1.mp3"
+      }
+    ],
+    "venue": {
+      "id": "2135",
+      "name": "Vicente Calderón",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "2135",
+        "capacity": "54851",
+        "built": "1966"
+      },
+      "town": {
+        "id": "909",
+        "name": "Madrid"
+      },
+      "country": {
+        "id": "193",
+        "name": "Spanien",
+        "code": "ESP",
+        "iso": "ES"
+      }
+    },
+    "referee": {
+      "id": "150728",
+      "name": "Szymon Marciniak",
+      "firstname": "Szymon",
+      "surname": "Marciniak",
+      "fullname": "Szymon Marciniak",
+      "gender": "male",
+      "birthday": "07.01.1981",
+      "height": "0",
+      "weight": "0",
+      "person_detail": {
+        "id": "140077",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "166",
+          "name": "Polen"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}

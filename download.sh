@@ -1,12 +1,16 @@
 #!/bin/bash
 watch -n5 '\
-for i in 2415952 2415961 2415968 2415972 2415987 2415944; do \
+for i in 8305396; do \
 curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}.json" \
 && curl --compressed -s "http://sportsapi.sport1.de/match/ma${i}" | jq '.' > "match_ma${i}.json" \
-&& curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json"; \
+&& curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json" \
+&& curl --compressed -s "https://api.sport1.de/api/sports/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}_sport1_cdn.json" \
+&& curl --compressed -s "https://api.sport1.de/api/sports/match/ma${i}" | jq '.' > "match_ma${i}_sport1_cdn.json" \
+&& curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json"; \
 done; \
-curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-02-06" | jq '.' > "matches-by-date2016-02-05.json"; \
-curl --compressed -s http://mobile.ipnm.sport1.de/v8/media/live.xml | xmllint --format - > live.xml; \
+curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
+curl --compressed -s "http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2016-17/2/3685876/livematch_madrid-atletico_bayern-muenchen-14.html" > "kicker-8305396.html"; \
 git add . && git commit -m "update"'
 
 
