@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "70",
+      "current_minute": "71",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "69",
+      "current_minute": "70",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -6378,6 +6378,64 @@
       "minute": "66",
       "content": "Eindhoven rennt nach dem Fehlschuss an und will unbedingt für das nächste Tor sorgen. Durch diese Haltung entstehen aber auch Räume für Gastgeber. Das Spiel ist in einer entscheidenen Phase.",
       "match_id": "8305404"
+    },
+    {
+      "id": "1803032",
+      "tickertime": "28.09.2016 22:10:13",
+      "minute": "67",
+      "content": "Matuidi verpasst die Vorentscheidung! Der nächste Konter der Gäste läuft über den in der zweiten Halbzeit stark verbesserten Cavani. Über links geht er nach vorn und sieht in der Miite Matuidi, den er mit einem Außenrist-Pass wunderschön in Szene setzt. Doch der Mittelfeld-Akteur zieht überhastet mit links ab und scheitert so vollkommen frei an der eigenen Ungenauigkeit. Der Schuss fliegt zwei Meter am Tor vorbei.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803033",
+      "tickertime": "28.09.2016 22:10:38",
+      "minute": "67",
+      "content": "Carrasco zwingt Neuer zur Parade! 25 Meter vor dem Tor wird der Schütze des bislang einzigen Tores nicht angegriffen und zieht einfach mal ab. Der Schuss aufs lange Eck kann aber von Neuer stark abgewehrt werden! Schöne Parade des Welttorhüters.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803034",
+      "event": {
+        "id": "21368490",
+        "team": {
+          "id": "127",
+          "name": "Arsenal FC"
+        },
+        "person": {
+          "id": "301304",
+          "name": "Alex Iwobi",
+          "firstname": "Alex",
+          "surname": "Iwobi",
+          "fullname": "Alex Iwobi",
+          "gender": "male",
+          "birthday": "03.05.1996",
+          "height": "180",
+          "weight": "75",
+          "person_detail": {
+            "id": "229154",
+            "position_1": "12",
+            "position_2": "10",
+            "preferred_side": "unknown",
+            "birth_place": "Lagos",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "151"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "70",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:10"
+      },
+      "tickertime": "28.09.2016 22:10:40",
+      "minute": "70",
+      "content": "<span class=\"rottext\">Auswechslung bei Arsenal FC -> Alex Iwobi</span>",
+      "match_id": "8305360"
     }
   ]
 }
