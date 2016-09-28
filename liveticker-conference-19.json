@@ -86,8 +86,8 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:46:48",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:33:44",
       "current_minute": "45",
       "home": {
         "id": "221",
@@ -106,6 +106,16 @@
         {
           "match_result": "0",
           "match_result_at": "0",
+          "place": "away"
+        },
+        {
+          "match_result": "1",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "0",
+          "match_result_at": "1",
           "place": "away"
         }
       ]
@@ -3654,6 +3664,31 @@
       "tickertime": "28.09.2016 21:33:25",
       "minute": "45",
       "content": "Hui, das war nochmal kribbelig. Das Leder rutscht auf den zweiten Pfosten durch, wo Yarmolenko aber wohl ein wenig zu überrascht ist und nur noch eine Ecke herausspringt.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802825",
+      "tickertime": "28.09.2016 21:33:40",
+      "minute": "45",
+      "content": "Die ist dann weniger spannend und Zwayer bitter zum Pausentee.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802826",
+      "event": {
+        "id": "21368144",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:33"
+      },
+      "tickertime": "28.09.2016 21:33:44",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
       "match_id": "8305372"
     }
   ]
