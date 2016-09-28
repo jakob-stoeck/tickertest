@@ -312,8 +312,8 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:45:52",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:33:17",
       "current_minute": "45",
       "home": {
         "id": "791",
@@ -330,8 +330,18 @@
           "place": "home"
         },
         {
-          "match_result": "1",
+          "match_result": "2",
           "match_result_at": "0",
+          "place": "away"
+        },
+        {
+          "match_result": "2",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "2",
+          "match_result_at": "1",
           "place": "away"
         }
       ]
@@ -3569,6 +3579,82 @@
       "minute": "45",
       "content": "<b>Ende 1. Halbzeit</b>",
       "match_id": "8305396"
+    },
+    {
+      "id": "1802819",
+      "tickertime": "28.09.2016 21:32:32",
+      "minute": "45",
+      "content": "Und die Gäste bekommen noch einmal die Chance in Form einer Standard aus dem Halbfeld.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802820",
+      "event": {
+        "id": "21368140",
+        "team": {
+          "id": "1502",
+          "name": "PSV Eindhoven"
+        },
+        "person": {
+          "id": "7127",
+          "name": "Luuk de Jong",
+          "firstname": "Luuk",
+          "surname": "de Jong",
+          "fullname": "Luuk de Jong",
+          "gender": "male",
+          "birthday": "27.08.1990",
+          "height": "189",
+          "weight": "87",
+          "person_detail": {
+            "id": "114015",
+            "position_1": "11",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Aigle",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "2:2",
+        "kind": "head",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:32"
+      },
+      "tickertime": "28.09.2016 21:32:52",
+      "minute": "45",
+      "content": "<b>Tooor für PSV Eindhoven, 2:2 durch Luuk de Jong</b> <br/>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1802822",
+      "event": {
+        "id": "21368142",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:33"
+      },
+      "tickertime": "28.09.2016 21:33:17",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305404"
+    },
+    {
+      "id": "1802824",
+      "tickertime": "28.09.2016 21:33:25",
+      "minute": "45",
+      "content": "Hui, das war nochmal kribbelig. Das Leder rutscht auf den zweiten Pfosten durch, wo Yarmolenko aber wohl ein wenig zu überrascht ist und nur noch eine Ecke herausspringt.",
+      "match_id": "8305372"
     }
   ]
 }
