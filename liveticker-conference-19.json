@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "88",
+      "current_minute": "89",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -144,7 +144,7 @@
           "place": "home"
         },
         {
-          "match_result": "1",
+          "match_result": "2",
           "match_result_at": "0",
           "place": "away"
         },
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "89",
+      "current_minute": "90",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "89",
+      "current_minute": "90",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -9765,6 +9765,203 @@
       "minute": "87",
       "content": "<b>Andriy Yarmolenko muss es machen!</b> Ein Doppelpass mit Denys Garmash bringt den Zehner frei vor Fabricio, aber der Schlussmann bleibt Sieger. Das war noch einmal die Großchance!",
       "match_id": "8305372"
+    },
+    {
+      "id": "1803223",
+      "tickertime": "28.09.2016 22:31:06",
+      "minute": "88",
+      "content": "Sterling holt mit einem starken Antritt im Strafraum eine weitere Ecke für die Gäste raus. Gündogan bringt die Kugel im zweiten VErsuch nach innen, findet aber keinen Abnehmer. Die letzten zwei Minuten der regulären Spielzeit laufen.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803224",
+      "tickertime": "28.09.2016 22:31:22",
+      "minute": "90",
+      "content": "Es werden <b>zwei</b> Minuten nachgespielt.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1803225",
+      "event": {
+        "id": "21368843",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "27721",
+          "name": "Edinson Cavani",
+          "firstname": "Edinson",
+          "surname": "Cavani",
+          "fullname": "Edison Roberto Gómez Cavani",
+          "gender": "male",
+          "birthday": "14.02.1987",
+          "height": "184",
+          "weight": "71",
+          "person_detail": {
+            "id": "73128",
+            "position_1": "11",
+            "position_2": "10",
+            "preferred_side": "right",
+            "birth_place": "Salto",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "227"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:31"
+      },
+      "tickertime": "28.09.2016 22:31:23",
+      "minute": "90",
+      "content": "<span class=\"rottext\">Auswechslung bei Paris Saint-Germain -> Edinson Cavani</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803226",
+      "tickertime": "28.09.2016 22:31:24",
+      "minute": "88",
+      "content": "Eventuell müssen die Hausherren nun auch dem vergleichsweise hohen Aufwand Tribut zollen. Jedenfalls wirken die Türken physisch platter als der Gegner.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803227",
+      "event": {
+        "id": "21368844",
+        "team": {
+          "id": "1457",
+          "name": "Paris Saint-Germain"
+        },
+        "person": {
+          "id": "331244",
+          "name": "Jean-Kévin Augustin",
+          "firstname": "Jean-Kévin",
+          "surname": "Augustin",
+          "fullname": "Jean-Kévin Augustin",
+          "gender": "male",
+          "birthday": "16.06.1997",
+          "height": "177",
+          "weight": "69",
+          "person_detail": {
+            "id": "255224",
+            "position_1": "11",
+            "position_2": "10",
+            "preferred_side": "right",
+            "birth_place": "Paris",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "61"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "90",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:31"
+      },
+      "tickertime": "28.09.2016 22:31:34",
+      "minute": "90",
+      "content": "<span class=\"gruentext\">Einwechslung bei Paris Saint-Germain -> Jean-Kévin Augustin</span>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803228",
+      "event": {
+        "id": "21368845",
+        "team": {
+          "id": "1731",
+          "name": "Benfica Lissabon"
+        },
+        "person": {
+          "id": "133537",
+          "name": "Eduardo Salvio",
+          "firstname": "Eduardo",
+          "surname": "Salvio",
+          "fullname": "Eduardo Antonio Salvio",
+          "gender": "male",
+          "birthday": "13.07.1990",
+          "height": "173",
+          "weight": "75",
+          "person_detail": {
+            "id": "122895",
+            "position_1": "9",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Avellaneda",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "12"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "4:2",
+        "kind": "left-foot",
+        "minute": "86",
+        "additional_person": {
+          "id": "130356",
+          "name": "André Almeida",
+          "firstname": "",
+          "surname": "André Almeida",
+          "fullname": "André Gomes Magalhães de Almeida",
+          "gender": "male",
+          "birthday": "10.09.1990",
+          "height": "186",
+          "weight": "75",
+          "person_detail": {
+            "id": "119714",
+            "position_1": "5",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Lisboa",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "167"
+            }
+          ]
+        },
+        "created": "28.09.2016 22:31"
+      },
+      "tickertime": "28.09.2016 22:31:35",
+      "minute": "86",
+      "content": "<b>Tooor für SL Benfica, 4:2 durch Eduardo Salvio</b> <br/>",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803229",
+      "tickertime": "28.09.2016 22:32:01",
+      "minute": "89",
+      "content": "Sicherlich wird es eine üppige Nachspielzeit geben. Doch wartet man noch immer vergeblich auf die nächste Druckwelle der Bayern. So langsam braucht der FCB eine Lösung.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803231",
+      "tickertime": "28.09.2016 22:32:05",
+      "minute": "89",
+      "content": "Standards gehen natürlich immer. Anderson Talisca probiert es aus 25 Metern, aber abgefälscht fliegt das Leder über den Kasten.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1803232",
+      "tickertime": "28.09.2016 22:32:06",
+      "minute": "88",
+      "content": "César Navas stützt sich 30 Meter vor dem Tor auf Luuk de Jong auf und verursacht einen Freistoß aus halbrechter Position. Jetzt folgt Ware für die großen Jungs von PSV!",
+      "match_id": "8305404"
     }
   ]
 }
