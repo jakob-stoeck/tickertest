@@ -1161,5 +1161,50 @@
     "headline": "",
     "content": "<b>Elfmeter für Atlético!</b> Dummes Foul von Vidal. Mit voller Wucht räumt der Chilene Filipe Luís um. Keine Diskussionen. Griezmann nun mit der Chance zur Entscheidung.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803184",
+    "event": {
+      "id": "21368830",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "163477",
+        "name": "Antoine Griezmann",
+        "firstname": "Antoine",
+        "surname": "Griezmann",
+        "fullname": "Antoine Griezmann",
+        "gender": "male",
+        "birthday": "21.03.1991",
+        "height": "176",
+        "weight": "67",
+        "person_detail": {
+          "id": "152822",
+          "position_1": "12",
+          "position_2": "11",
+          "preferred_side": "left",
+          "birth_place": "Mâcon",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
+      "action": "special",
+      "content": "",
+      "kind": "missed-penalty",
+      "minute": "84",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:26"
+    },
+    "tickertime": "28.09.2016 22:26:26",
+    "minute": "84",
+    "headline": "",
+    "content": "<b>Elfmeter verschossen von Antoine Griezmann, Atlético Madrid</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
