@@ -2,7 +2,7 @@
   "match": [
     {
       "match_date": "28.09.2016",
-      "current_minute": "69",
+      "current_minute": "71",
       "id": "8305360",
       "home": {
         "name": "Arsenal FC",
@@ -42,7 +42,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "69",
+      "current_minute": "72",
       "id": "8305371",
       "home": {
         "name": "Ludogorez Rasgrad",
@@ -82,7 +82,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "66",
+      "current_minute": "69",
       "id": "8305372",
       "home": {
         "name": "Beşiktaş",
@@ -106,7 +106,7 @@
         {
           "match_result_at": "0",
           "place": "away",
-          "match_result": "0"
+          "match_result": "1"
         },
         {
           "match_result_at": "1",
@@ -122,7 +122,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "65",
+      "current_minute": "67",
       "id": "8305383",
       "home": {
         "name": "SSC Neapel",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "current_minute": "68",
+      "current_minute": "70",
       "id": "8305385",
       "current_period": "second-half-start",
       "finished": "no",
@@ -220,7 +220,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "68",
+      "current_minute": "71",
       "id": "8305389",
       "home": {
         "name": "Celtic Glasgow",
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "current_minute": "67",
+      "current_minute": "69",
       "id": "8305396",
       "current_period": "second-half-start",
       "finished": "no",
@@ -318,7 +318,7 @@
     },
     {
       "match_date": "28.09.2016",
-      "current_minute": "67",
+      "current_minute": "69",
       "id": "8305404",
       "home": {
         "name": "FK Rostov",
@@ -6218,7 +6218,7 @@
       "minute": "63"
     },
     {
-      "content": "",
+      "content": "Da ist es passiert! Gladbach verliert die Ordnung in der Hintermannschaft und wird umgehend bestraft. Neymar hatte das Leder über die gesamte Abwehrkette hinweg in den Lauf von Turan gehoben, der das Leder wenigen Metern unter die Latte knallt.",
       "id": "1803009",
       "event": {
         "kind": "right-foot",
@@ -6400,6 +6400,350 @@
       "match_id": "8305396",
       "tickertime": "28.09.2016 22:08:40",
       "minute": "66",
+      "headline": ""
+    },
+    {
+      "content": "Das nennt man dann wohl goldenes Händchen! Eine Standard von rechts fliegt weit auf den langen Pfosten und der Eingewechselte steht völlig unmarkiert und schiebt aus spitzem Winkel ein.",
+      "id": "1803025",
+      "event": {
+        "kind": "left-foot",
+        "content": "1:1",
+        "id": "21368433",
+        "action": "goal",
+        "team": {
+          "name": "Dynamo Kiew ",
+          "id": "486"
+        },
+        "person": {
+          "surname": "Tsygankov",
+          "fullname": "Viktor Tsygankov",
+          "name": "Viktor Tsygankov",
+          "id": "314202",
+          "height": "0",
+          "weight": "0",
+          "firstname": "Viktor",
+          "birthday": "15.11.1997",
+          "gender": "male",
+          "country": [
+            {
+              "id": "225"
+            }
+          ],
+          "person_detail": {
+            "id": "239945",
+            "position_2": "0",
+            "preferred_side": "unknown",
+            "birth_place": "",
+            "position_1": "0",
+            "died": "no"
+          }
+        },
+        "minute": "65",
+        "additional_person": {
+          "surname": "Rybalka",
+          "fullname": "Serhiy Rybalka",
+          "name": "Serhiy Rybalka",
+          "id": "158681",
+          "height": "176",
+          "weight": "70",
+          "firstname": "Serhiy",
+          "birthday": "01.04.1990",
+          "gender": "male",
+          "country": [
+            {
+              "id": "225"
+            }
+          ],
+          "person_detail": {
+            "id": "148029",
+            "position_2": "13",
+            "preferred_side": "right",
+            "birth_place": "Yamnoe, Sumy Region",
+            "position_1": "7",
+            "died": "no"
+          }
+        },
+        "created": "28.09.2016 22:08"
+      },
+      "match_id": "8305372",
+      "tickertime": "28.09.2016 22:08:57",
+      "minute": "65",
+      "headline": "Tooor für Dinamo Kiev, 1:1 durch Viktor Tsygankov"
+    },
+    {
+      "content": "<b>Fast das 3:0!</b> Walcott wird im Strafraum mustergültig bedient, beweist ein gutes Auge und legt von rechts in den Rückraum der Abwehr für Sánchez auf, der die Kugel aufs lange Eck spitzelt und den Pfosten nur um wenige Zentimeter verfehlt.",
+      "id": "1803028",
+      "headline": "",
+      "match_id": "8305360",
+      "tickertime": "28.09.2016 22:09:29",
+      "minute": "68"
+    },
+    {
+      "content": "Der stark gelb-rot-gefährdete Thiago wird von Carlo Ancelotti sicherheitshalber vom Platz genommen. Joshua Kimmich kommt neu herein und erschöpft damit das Wechselkontingent der Münchener. Atlético hingegen darf noch dreimal wechseln.",
+      "id": "1803029",
+      "headline": "",
+      "match_id": "8305396",
+      "tickertime": "28.09.2016 22:09:33",
+      "minute": "66"
+    },
+    {
+      "content": "",
+      "id": "1803043",
+      "event": {
+        "kind": "yellow",
+        "content": "",
+        "id": "21368508",
+        "action": "card",
+        "team": {
+          "name": "Dynamo Kiew ",
+          "id": "486"
+        },
+        "person": {
+          "surname": "Garmash",
+          "fullname": "Denys Viktorovych Garmash",
+          "name": "Denys Garmash",
+          "id": "158679",
+          "height": "186",
+          "weight": "75",
+          "firstname": "Denys",
+          "birthday": "19.04.1990",
+          "gender": "male",
+          "country": [
+            {
+              "id": "225"
+            }
+          ],
+          "person_detail": {
+            "id": "148027",
+            "position_2": "7",
+            "preferred_side": "right",
+            "birth_place": "Milove",
+            "position_1": "13",
+            "died": "no"
+          }
+        },
+        "minute": "65",
+        "created": "28.09.2016 22:09",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305372",
+      "tickertime": "28.09.2016 22:09:42",
+      "minute": "65",
+      "headline": "Gelbe Karte für Denys Garmash (Dinamo Kiev)"
+    },
+    {
+      "content": "Eindhoven rennt nach dem Fehlschuss an und will unbedingt für das nächste Tor sorgen. Durch diese Haltung entstehen aber auch Räume für Gastgeber. Das Spiel ist in einer entscheidenen Phase.",
+      "id": "1803030",
+      "headline": "",
+      "match_id": "8305404",
+      "tickertime": "28.09.2016 22:09:44",
+      "minute": "66"
+    },
+    {
+      "content": "Matuidi verpasst die Vorentscheidung! Der nächste Konter der Gäste läuft über den in der zweiten Halbzeit stark verbesserten Cavani. Über links geht er nach vorn und sieht in der Miite Matuidi, den er mit einem Außenrist-Pass wunderschön in Szene setzt. Doch der Mittelfeld-Akteur zieht überhastet mit links ab und scheitert so vollkommen frei an der eigenen Ungenauigkeit. Der Schuss fliegt zwei Meter am Tor vorbei.",
+      "id": "1803032",
+      "headline": "",
+      "match_id": "8305371",
+      "tickertime": "28.09.2016 22:10:13",
+      "minute": "67"
+    },
+    {
+      "content": "Carrasco zwingt Neuer zur Parade! 25 Meter vor dem Tor wird der Schütze des bislang einzigen Tores nicht angegriffen und zieht einfach mal ab. Der Schuss aufs lange Eck kann aber von Neuer stark abgewehrt werden! Schöne Parade des Welttorhüters.",
+      "id": "1803033",
+      "headline": "",
+      "match_id": "8305396",
+      "tickertime": "28.09.2016 22:10:38",
+      "minute": "67"
+    },
+    {
+      "content": "Tja und so kann es gehen! Eben haben wir noch darüber gesprochen, dass ein 1:0 immer ein gefährliches Resultat ist und nun haben die Türken den Salat. Verdient ist das sicherlich eher nicht, aber das wird den Gästen ziemlich egal sein.",
+      "id": "1803035",
+      "headline": "",
+      "match_id": "8305372",
+      "tickertime": "28.09.2016 22:10:42",
+      "minute": "66"
+    },
+    {
+      "content": "<span>Auswechslung bei FC Augsburg: Mohamed Elneny für Alex Iwobi</span>",
+      "id": "1803034",
+      "event": {
+        "kind": "substitute",
+        "content": "",
+        "id": "21368490",
+        "action": "playing",
+        "team": {
+          "name": "Arsenal FC",
+          "id": "127"
+        },
+        "person": {
+          "surname": "Iwobi",
+          "fullname": "Alex Iwobi",
+          "name": "Alex Iwobi",
+          "id": "301304",
+          "height": "180",
+          "weight": "75",
+          "firstname": "Alex",
+          "birthday": "03.05.1996",
+          "gender": "male",
+          "country": [
+            {
+              "id": "151"
+            }
+          ],
+          "person_detail": {
+            "id": "229154",
+            "position_2": "10",
+            "preferred_side": "unknown",
+            "birth_place": "Lagos",
+            "position_1": "12",
+            "died": "no"
+          }
+        },
+        "additional_person_id": "305316",
+        "minute": "70",
+        "created": "28.09.2016 22:10",
+        "additional_person": {
+          "surname": "Elneny",
+          "fullname": "Mohamed Naser Elsayed Elneny",
+          "name": "Mohamed Elneny",
+          "id": "305316",
+          "height": "180",
+          "weight": "70",
+          "firstname": "Mohamed",
+          "birthday": "11.07.1992",
+          "gender": "male",
+          "country": [
+            {
+              "id": "2"
+            }
+          ],
+          "person_detail": {
+            "id": "232941",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "al-Mahalla al-Kubra",
+            "position_1": "7",
+            "died": "no"
+          }
+        }
+      },
+      "match_id": "8305360",
+      "tickertime": "28.09.2016 22:10:40",
+      "minute": "70",
+      "headline": ""
+    },
+    {
+      "content": "Neapel hat nun richtig Spaß am Spiel. Die zaghaften Angriffsbemühungen des demoralisierten Gegners pariert der Tabellenzweite der Serie A sehr gekonnt.",
+      "id": "1803038",
+      "headline": "",
+      "match_id": "8305383",
+      "tickertime": "28.09.2016 22:11:04",
+      "minute": "65"
+    },
+    {
+      "content": "Sterling dringt auf rechts mit dem Ball am Fuß in den Strafraum ein und bringt das Leder in die Mitte. Mit vereinten Kräften können drei Celtic-Verteidiger klären, bevor es gefährlich wird.",
+      "id": "1803039",
+      "headline": "",
+      "match_id": "8305389",
+      "tickertime": "28.09.2016 22:11:04",
+      "minute": "68"
+    },
+    {
+      "content": "",
+      "id": "1803040",
+      "event": {
+        "kind": "yellow",
+        "content": "",
+        "id": "21368506",
+        "action": "card",
+        "team": {
+          "name": "Benfica Lissabon",
+          "id": "1731"
+        },
+        "person": {
+          "surname": "Carrillo",
+          "fullname": "André Martín Carrillo Díaz",
+          "name": "André Carrillo",
+          "id": "221064",
+          "height": "181",
+          "weight": "69",
+          "firstname": "André",
+          "birthday": "14.06.1991",
+          "gender": "male",
+          "country": [
+            {
+              "id": "164"
+            }
+          ],
+          "person_detail": {
+            "id": "164350",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Lima",
+            "position_1": "8",
+            "died": "no"
+          }
+        },
+        "minute": "65",
+        "created": "28.09.2016 22:11",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305383",
+      "tickertime": "28.09.2016 22:11:12",
+      "minute": "65",
+      "headline": "Gelbe Karte für André Carrillo (SL Benfica)"
+    },
+    {
+      "content": "Gladbach darf sich von dem Gegentreffer jetzt nicht aus der Ruhe bringen lassen und muss weiter den Weg nach vorne suchen, denn so ist Barca verwundbar, das hat die erste Hälfte gezeigt.",
+      "id": "1803041",
+      "headline": "",
+      "match_id": "8305385",
+      "tickertime": "28.09.2016 22:11:15",
+      "minute": "68"
+    },
+    {
+      "content": "<span class=\"rottext\">Auswechslung bei Arsenal FC -> Theo Walcott</span>",
+      "id": "1803042",
+      "event": {
+        "kind": "substitute-out",
+        "content": "",
+        "id": "21368507",
+        "action": "playing",
+        "team": {
+          "name": "Arsenal FC",
+          "id": "127"
+        },
+        "person": {
+          "surname": "Walcott",
+          "fullname": "Theodore Walcott",
+          "name": "Theo Walcott",
+          "id": "1970",
+          "height": "170",
+          "weight": "68",
+          "firstname": "Theo",
+          "birthday": "16.03.1989",
+          "gender": "male",
+          "country": [
+            {
+              "id": "55"
+            }
+          ],
+          "person_detail": {
+            "id": "42224",
+            "position_2": "12",
+            "preferred_side": "right",
+            "birth_place": "Newbury",
+            "position_1": "11",
+            "died": "no"
+          }
+        },
+        "minute": "70",
+        "created": "28.09.2016 22:11",
+        "additional_person_id": "0"
+      },
+      "match_id": "8305360",
+      "tickertime": "28.09.2016 22:11:16",
+      "minute": "70",
       "headline": ""
     }
   ]
