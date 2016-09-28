@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "62",
+      "current_minute": "63",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "62",
+      "current_minute": "63",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "59",
+      "current_minute": "60",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "58",
+      "current_minute": "59",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -139,7 +139,7 @@
       },
       "match_result": [
         {
-          "match_result": "3",
+          "match_result": "4",
           "match_result_at": "0",
           "place": "home"
         },
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "61",
+      "current_minute": "62",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "61",
+      "current_minute": "62",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "60",
+      "current_minute": "61",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -5022,6 +5022,50 @@
       "match_id": "8305389"
     },
     {
+      "id": "1802963",
+      "event": {
+        "id": "21368415",
+        "team": {
+          "id": "791",
+          "name": "FK Rostov"
+        },
+        "person": {
+          "id": "21375",
+          "name": "César Navas",
+          "firstname": "",
+          "surname": "César Navas",
+          "fullname": "César González Navas",
+          "gender": "male",
+          "birthday": "14.02.1980",
+          "height": "196",
+          "weight": "92",
+          "person_detail": {
+            "id": "27567",
+            "position_1": "4",
+            "position_2": "0",
+            "preferred_side": "right",
+            "birth_place": "Madrid",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "card",
+        "content": "",
+        "kind": "yellow",
+        "minute": "57",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:59"
+      },
+      "tickertime": "28.09.2016 21:59:31",
+      "minute": "57",
+      "content": "<b>Gelbe Karte für César Navas (FK Rostov)</b> <br/>",
+      "match_id": "8305404"
+    },
+    {
       "id": "1802936",
       "tickertime": "28.09.2016 21:59:36",
       "minute": "56",
@@ -5423,6 +5467,159 @@
       "minute": "58",
       "content": "Die Szene bleibt im Verlauf heiß, aber Fabricio wehrt auch einen zweiten Schuss ab und die folgende Ecke bleibt dann ereignislos.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1802957",
+      "event": {
+        "id": "21368413",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "3249",
+          "name": "Thomas Müller",
+          "firstname": "Thomas",
+          "surname": "Müller",
+          "fullname": "Thomas Müller",
+          "gender": "male",
+          "birthday": "13.09.1989",
+          "height": "186",
+          "weight": "74",
+          "person_detail": {
+            "id": "96744",
+            "position_1": "8",
+            "position_2": "11",
+            "preferred_side": "right",
+            "birth_place": "Weilheim",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "59",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:02"
+      },
+      "tickertime": "28.09.2016 22:02:04",
+      "minute": "59",
+      "content": "<span class=\"rottext\">Auswechslung bei Bayern München -> Thomas Müller</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802960",
+      "event": {
+        "id": "21368414",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "19538",
+          "name": "Arjen Robben",
+          "firstname": "Arjen",
+          "surname": "Robben",
+          "fullname": "Arjen Robben",
+          "gender": "male",
+          "birthday": "23.01.1984",
+          "height": "180",
+          "weight": "80",
+          "person_detail": {
+            "id": "3819",
+            "position_1": "12",
+            "position_2": "9",
+            "preferred_side": "left",
+            "birth_place": "Bedum",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "149"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "59",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:02"
+      },
+      "tickertime": "28.09.2016 22:02:12",
+      "minute": "59",
+      "content": "<span class=\"gruentext\">Einwechslung bei Bayern München -> Arjen Robben</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802965",
+      "tickertime": "28.09.2016 22:02:35",
+      "minute": "57",
+      "content": "Kommt der Argentinier Eduardo Salvio nur noch zur Schadensbegrenzung? Kaum vorstellbar, dass sich die Neapolitaner sich den Sieg hier noch nehmen lassen.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802967",
+      "tickertime": "28.09.2016 22:02:47",
+      "minute": "59",
+      "content": "Carlo Ancelotti reagiert und bringt Arjen Robben für den unglücklich agierenden Thomas Müller. Der Niederländer kann sicherlich für den ein oder anderen Überraschungsmoment sorgen.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802969",
+      "tickertime": "28.09.2016 22:02:58",
+      "minute": "59",
+      "content": "Das sollte den Türken aber vielleicht nun eine Warnung sein, dass ein 1:0 ein ziemlich dünnes Resultat sein kann. Da muss man nur mal gestern auf Leverkusen schauen, die ja ebenfalls nach großer Überlegenheit noch den Last-Minute-Ausgleich hinnehmen mussten.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802968",
+      "event": {
+        "id": "21368416",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "person": {
+          "id": "1250",
+          "name": "Dries Mertens",
+          "firstname": "Dries",
+          "surname": "Mertens",
+          "fullname": "Dries Mertens",
+          "gender": "male",
+          "birthday": "06.05.1987",
+          "height": "168",
+          "weight": "60",
+          "person_detail": {
+            "id": "75418",
+            "position_1": "10",
+            "position_2": "8",
+            "preferred_side": "right",
+            "birth_place": "Leuven",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "23"
+            }
+          ]
+        },
+        "action": "goal",
+        "content": "4:0",
+        "kind": "left-foot",
+        "minute": "58",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:02"
+      },
+      "tickertime": "28.09.2016 22:02:58",
+      "minute": "58",
+      "content": "<b>Tooor für SSC Napoli, 4:0 durch Dries Mertens</b> <br/>",
+      "match_id": "8305383"
     }
   ]
 }
