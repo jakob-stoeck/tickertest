@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -166,9 +166,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "first-half-end",
-      "current_period_start": "2016-09-28 21:31:28",
-      "current_minute": "45",
+      "current_period": "second-half-start",
+      "current_period_start": "2016-09-28 21:47:21",
+      "current_minute": "47",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -3615,7 +3615,7 @@
       },
       "tickertime": "28.09.2016 21:32:52",
       "minute": "45",
-      "content": "<b>Tooor für PSV Eindhoven, 2:2 durch Luuk de Jong</b> <br/>Kurz vor der Pause besorgt de Jong das 2:2! Eine scharfe Hereingabe findet Arias auf der rechten Strafraum-Seite. Aus spitzem Winkel zieht der Kolumbianer kurz vor der Grundlinie ab und lässt nach Leder nach einer Gegnerberührung an die Latten knallen. De Jong steht drei Meter daneben dort, wo ein Stürmer stehen muss und nickt aus zwei Metern zum Ausgleich ein!",
+      "content": "<b>Tooor für PSV Eindhoven, 2:2 durch Luuk de Jong</b> <br/>Kurz vor der Pause besorgt de Jong das 2:2! Eine scharfe Hereingabe findet Arias auf der rechten Strafraum-Seite. Aus spitzem Winkel zieht der Kolumbianer kurz vor der Grundlinie ab und lässt das Leder nach einer Gegnerberührung an die Latte knallen. De Jong steht drei Meter daneben dort, wo ein Stürmer stehen muss und nickt aus zwei Metern zum Ausgleich ein!",
       "match_id": "8305404"
     },
     {
@@ -3805,6 +3805,38 @@
       "minute": "46",
       "content": "Weiter geht's im Emirates Stadium, wo der FC Basel eine deutliche Leistungssteigerung braucht, um zumindest einen Punkt aus der englischen Hauptstadt mitzunehmen.",
       "match_id": "8305360"
+    },
+    {
+      "id": "1802846",
+      "event": {
+        "id": "21368236",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "second-half-start",
+        "minute": "46",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:47"
+      },
+      "tickertime": "28.09.2016 21:47:21",
+      "minute": "46",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802848",
+      "tickertime": "28.09.2016 21:47:56",
+      "minute": "46",
+      "content": "Ohne personelle Veränderungen gehts weiter im Celtic Park!",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802849",
+      "tickertime": "28.09.2016 21:47:58",
+      "minute": "48",
+      "content": "PSG kommt mit Druck aus der Kabine. Cavani kommt vor dem Strafraum an den Ball und wird dann von Moţi umgeholzt, doch der Schiedsrichter lässt weiterlaufen. Das war eine Fehlentscheidung und bringt die Pariser um eine gute Torchance.",
+      "match_id": "8305371"
     }
   ]
 }
