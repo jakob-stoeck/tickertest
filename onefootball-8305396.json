@@ -2,7 +2,7 @@
   "meta": {
     "competitionId": "5",
     "seasonId": "1699",
-    "matchdayId": "5669739",
+    "matchdayId": "0",
     "matchId": "504221",
     "provider": "goal",
     "teamHomeIds": [
@@ -1151,6 +1151,23 @@
       "matchId": "504221",
       "matchdayId": "5669739",
       "eventTime": "2016-09-28T20:23:49Z",
+      "eventTeam": "0",
+      "player1PhotoSrc": "",
+      "player1Id": "0",
+      "player2PhotoSrc": "",
+      "player2Id": "0",
+      "provider": "goal"
+    },
+    {
+      "commentId": "54971905",
+      "type": "other",
+      "lastmodified": 1475094304,
+      "minute": 81,
+      "comment": "Fantastic opportunity for Robben! Bayern move the ball around really nicely before Vidal and Robben link up brilliantly on the edge of the Atletico penalty area, but the Dutchman's curling strike ends up flying just past the far post. That was far better from the Bavarians!",
+      "sortId": 67,
+      "matchId": "504221",
+      "matchdayId": "5669739",
+      "eventTime": "2016-09-28T20:25:04Z",
       "eventTeam": "0",
       "player1PhotoSrc": "",
       "player1Id": "0",
