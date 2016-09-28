@@ -6,9 +6,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:45:51",
-      "current_minute": "44",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:31:00",
+      "current_minute": "45",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -27,6 +27,16 @@
           "match_result": "0",
           "match_result_at": "0",
           "place": "away"
+        },
+        {
+          "match_result": "2",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "0",
+          "match_result_at": "1",
+          "place": "away"
         }
       ]
     },
@@ -36,8 +46,8 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:45:23",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:30:48",
       "current_minute": "45",
       "home": {
         "id": "37760",
@@ -57,6 +67,16 @@
           "match_result": "1",
           "match_result_at": "0",
           "place": "away"
+        },
+        {
+          "match_result": "1",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "1",
+          "match_result_at": "1",
+          "place": "away"
         }
       ]
     },
@@ -68,7 +88,7 @@
       "finished": "no",
       "current_period": "game-start",
       "current_period_start": "2016-09-28 20:46:48",
-      "current_minute": "44",
+      "current_minute": "45",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -126,9 +146,9 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:46:19",
-      "current_minute": "44",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:31:28",
+      "current_minute": "45",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -146,6 +166,16 @@
         {
           "match_result": "0",
           "match_result_at": "0",
+          "place": "away"
+        },
+        {
+          "match_result": "1",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "0",
+          "match_result_at": "1",
           "place": "away"
         }
       ],
@@ -174,8 +204,8 @@
       "match_date": "28.09.2016",
       "match_time": "20:45",
       "finished": "no",
-      "current_period": "game-start",
-      "current_period_start": "2016-09-28 20:45:34",
+      "current_period": "first-half-end",
+      "current_period_start": "2016-09-28 21:31:05",
       "current_minute": "45",
       "home": {
         "id": "356",
@@ -195,6 +225,16 @@
           "match_result": "2",
           "match_result_at": "0",
           "place": "away"
+        },
+        {
+          "match_result": "2",
+          "match_result_at": "1",
+          "place": "home"
+        },
+        {
+          "match_result": "2",
+          "match_result_at": "1",
+          "place": "away"
         }
       ]
     },
@@ -206,7 +246,7 @@
       "finished": "no",
       "current_period": "game-start",
       "current_period_start": "2016-09-28 20:47:19",
-      "current_minute": "43",
+      "current_minute": "44",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -254,7 +294,7 @@
       "finished": "no",
       "current_period": "game-start",
       "current_period_start": "2016-09-28 20:45:52",
-      "current_minute": "44",
+      "current_minute": "45",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -3041,6 +3081,13 @@
       "match_id": "8305385"
     },
     {
+      "id": "1802805",
+      "tickertime": "28.09.2016 21:25:20",
+      "minute": "40",
+      "content": "Eindhoven versucht den erneuten Rückstand früh zu egalisieren, trifft aber nur in Abseitsposition. Hendrix schickt Narsingh hinter die Viererkette, winkt aber bereits kurz nach dem Abspiel ab. Narsingh steht einen Meter im Abseits. Danach versenkt er zwar die Kugel, wird aber abgepfiffen.",
+      "match_id": "8305404"
+    },
+    {
       "id": "1802772",
       "tickertime": "28.09.2016 21:25:25",
       "minute": "37",
@@ -3285,7 +3332,7 @@
       },
       "tickertime": "28.09.2016 21:29:16",
       "minute": "44",
-      "content": "<b>Gelbe Karte für Svetoslav Dyakov (PFC Ludogorets Razgrad)</b> <br/>",
+      "content": "<b>Gelbe Karte für Svetoslav Dyakov (PFC Ludogorets Razgrad)</b> <br/> Der Kapitän der Bulgaren erhält die erste Verwarnung des Spiels! Verratti muss im Mittelfeld für seinen Assist büßen, der PSG-Akteur wird von einer Grätsche mit beiden Füßen niedergestreckt. Zwar ist da auch der Ball im Spiel, Dyakov ist mit der gelben Karte aber gut bedient.",
       "match_id": "8305371"
     },
     {
@@ -3322,6 +3369,99 @@
       "minute": "43",
       "content": "Auf der anderen Seite schaltet der Gastgeber schnell um und sucht sein Glück im Konterspiel.",
       "match_id": "8305372"
+    },
+    {
+      "id": "1802801",
+      "event": {
+        "id": "21368096",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:30"
+      },
+      "tickertime": "28.09.2016 21:30:48",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1802803",
+      "event": {
+        "id": "21368098",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:31"
+      },
+      "tickertime": "28.09.2016 21:31:00",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802802",
+      "tickertime": "28.09.2016 21:31:00",
+      "minute": "45",
+      "content": "Die Rodgers-Elf steht jetzt ganz schön unter druck. Nach einer Agüero-Flanke klären zwei Celtic-Verteidiger gemeinsam am langen Pfosten.",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802804",
+      "tickertime": "28.09.2016 21:31:02",
+      "minute": "43",
+      "content": "Guter Ansatz nun über Alabas linke Seite, der von Ribéry steil geschickt wird. Von der Torauslinie gibt der Österreicher flach an den kurzen Pfosten, aber dort wird Lewandowski von Godín abgekocht. Oblak fängt sicher ab.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802806",
+      "tickertime": "28.09.2016 21:31:05",
+      "minute": "44",
+      "content": "In Kürze wird der gute Schiedsrichter Felix Brych die erste Halbzeit abpfeifen. Benfica scheint zwar bemüht zu sein um den Anschlusstreffer, die Defensivstärke des Gegners macht es den Gästen aber nicht leicht.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1802807",
+      "event": {
+        "id": "21368099",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:31"
+      },
+      "tickertime": "28.09.2016 21:31:05",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1802809",
+      "event": {
+        "id": "21368133",
+        "team_id": "0",
+        "person_id": "0",
+        "action": "match",
+        "content": "",
+        "kind": "first-half-end",
+        "minute": "45",
+        "additional_person_id": "0",
+        "created": "28.09.2016 21:31"
+      },
+      "tickertime": "28.09.2016 21:31:28",
+      "minute": "45",
+      "content": "<b>Ende 1. Halbzeit</b>",
+      "match_id": "8305385"
     }
   ]
 }

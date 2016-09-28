@@ -40,8 +40,8 @@
                 "match_time": "20:45",
                 "finished": "no",
                 "live_status": "full",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-28 20:45:51",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-28 21:31:00",
                 "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "127",
@@ -111,6 +111,28 @@
                     "comment": "",
                     "team_id": "598",
                     "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "127",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "598",
+                    "person_id": "0"
                   }
                 ],
                 "venue": {
@@ -157,8 +179,8 @@
                 "match_time": "20:45",
                 "finished": "no",
                 "live_status": "full",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-28 20:45:23",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-28 21:30:48",
                 "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "0",
@@ -228,6 +250,28 @@
                     "comment": "",
                     "team_id": "1457",
                     "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "37760",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1457",
+                    "person_id": "0"
                   }
                 ],
                 "venue": {
@@ -288,7 +332,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-28 20:46:48",
-                "current_minute": "44",
+                "current_minute": "45",
                 "attendance": "",
                 "winner_team_id": "221",
                 "home": {
@@ -538,9 +582,9 @@
                 "match_time": "20:45",
                 "finished": "no",
                 "live_status": "full",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-28 20:46:19",
-                "current_minute": "44",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-28 21:31:28",
+                "current_minute": "45",
                 "attendance": "46279",
                 "winner_team_id": "253",
                 "home": {
@@ -602,6 +646,28 @@
                   {
                     "match_result": "0",
                     "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "597",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "1",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "253",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "0",
+                    "match_result_at": "1",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
@@ -673,11 +739,11 @@
                 "match_time": "20:45",
                 "finished": "no",
                 "live_status": "full",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-28 20:45:34",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-28 21:31:05",
                 "current_minute": "45",
                 "attendance": "",
-                "winner_team_id": "356",
+                "winner_team_id": "0",
                 "home": {
                   "id": "356",
                   "name": "Celtic Glasgow",
@@ -737,6 +803,28 @@
                   {
                     "match_result": "2",
                     "match_result_at": "0",
+                    "place": "away",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "1267",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "1",
+                    "place": "home",
+                    "rounds": "0",
+                    "points": "0.000",
+                    "rank": "0",
+                    "comment": "",
+                    "team_id": "356",
+                    "person_id": "0"
+                  },
+                  {
+                    "match_result": "2",
+                    "match_result_at": "1",
                     "place": "away",
                     "rounds": "0",
                     "points": "0.000",
@@ -810,7 +898,7 @@
                 "live_status": "full",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-28 20:47:19",
-                "current_minute": "43",
+                "current_minute": "44",
                 "attendance": "54000",
                 "winner_team_id": "162",
                 "home": {
@@ -1217,7 +1305,7 @@
                 "live_status": "full",
                 "current_period": "second-half-start",
                 "current_period_start": "2016-09-28 21:10:03",
-                "current_minute": "46",
+                "current_minute": "47",
                 "attendance": "",
                 "winner_team_id": "0",
                 "home": {
@@ -1277,7 +1365,7 @@
                     "person_id": "0"
                   },
                   {
-                    "match_result": "18",
+                    "match_result": "19",
                     "match_result_at": "0",
                     "place": "away",
                     "rounds": "0",
