@@ -909,5 +909,103 @@
     "headline": "",
     "content": "Carrasco zwingt Neuer zur Parade! 25 Meter vor dem Tor wird der Schütze des bislang einzigen Tores nicht angegriffen und zieht einfach mal ab. Der Schuss aufs lange Eck kann aber von Neuer stark abgewehrt werden! Schöne Parade des Welttorhüters.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803062",
+    "tickertime": "28.09.2016 22:13:49",
+    "minute": "70",
+    "headline": "",
+    "content": "Die Bayern bekommen weiterhin kein Tempo in ihr Spiel und sind zudem zu ungenau in den Pässen. So macht man es Atlético nicht sonderlich schwer, den knappen Vorsprung zu verteidigen. Robert Lewandowski hängt da ganz vorne völlig in der Luft und konnte kaum mal zeigen, was er kann.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803067",
+    "event": {
+      "id": "21368522",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "209542",
+        "name": "Yannick Ferreira-Carrasco",
+        "firstname": "Yannick",
+        "surname": "Ferreira-Carrasco",
+        "fullname": "Yannick Ferreira-Carrasco",
+        "gender": "male",
+        "birthday": "04.09.1993",
+        "height": "180",
+        "weight": "66",
+        "person_detail": {
+          "id": "200868",
+          "position_1": "6",
+          "position_2": "10",
+          "preferred_side": "right",
+          "birth_place": "Elsene",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "23"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:14"
+    },
+    "tickertime": "28.09.2016 22:14:20",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Atlético Madrid -> Yannick Ferreira-Carrasco</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803071",
+    "event": {
+      "id": "21368523",
+      "team": {
+        "id": "162",
+        "name": "Atlético Madrid"
+      },
+      "person": {
+        "id": "9955",
+        "name": "Kevin Gameiro",
+        "firstname": "Kevin",
+        "surname": "Gameiro",
+        "fullname": "Kevin Gameiro",
+        "gender": "male",
+        "birthday": "09.05.1987",
+        "height": "170",
+        "weight": "64",
+        "person_detail": {
+          "id": "36496",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Senlis",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:14"
+    },
+    "tickertime": "28.09.2016 22:14:27",
+    "minute": "72",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Atlético Madrid -> Kevin Gameiro</span>",
+    "syndicate": "heimspiel"
   }
 ]
