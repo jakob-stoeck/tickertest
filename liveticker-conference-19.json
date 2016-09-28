@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "49",
+      "current_minute": "50",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "49",
+      "current_minute": "50",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "46",
+      "current_minute": "47",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "48",
+      "current_minute": "49",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "47",
+      "current_minute": "48",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -3821,7 +3821,7 @@
       },
       "tickertime": "28.09.2016 21:47:21",
       "minute": "46",
-      "content": "<b>Anpfiff 2. Halbzeit</b>Auf geht's! 45 spannende Minuten trennen Borussia Mönchengladbach noch von der Sensation. Diese soll vorerst mit unverändertem Personal erreicht werden. Auch die Gäste haben nicht gewecheselt.",
+      "content": "<b>Anpfiff 2. Halbzeit</b>",
       "match_id": "8305385"
     },
     {
@@ -3942,6 +3942,41 @@
       "minute": "46",
       "content": "<b>Anpfiff 2. Halbzeit</b>",
       "match_id": "8305372"
+    },
+    {
+      "id": "1802860",
+      "tickertime": "28.09.2016 21:49:19",
+      "minute": "48",
+      "content": "Der zweite Abschnitt beginnt jedoch so, wie der erste aufgehört hat. Arsenal kommt erneut druckvoll aus der Kabine und drängt auf den dritten Treffer. Diesmal flankt Monreal in die Mitte, wo dann aber Sánchez und Vaclík zusammenrasseln. Der Keeper bleibt kurz auf dem Rasen liegen, kann aber weitermachen.",
+      "match_id": "8305360"
+    },
+    {
+      "id": "1802861",
+      "tickertime": "28.09.2016 21:49:31",
+      "minute": "46",
+      "content": "Wir gehen ohne Wechsel in den zweiten Durchgang.",
+      "match_id": "8305372"
+    },
+    {
+      "id": "1802862",
+      "tickertime": "28.09.2016 21:49:31",
+      "minute": "46",
+      "content": "Weiter geht's! Keine Wechsel auf beiden Seiten. In der Halbzeitpause hat man eine Situation begutachten dürfen, die aus dem Spielverlauf heraus kaum aufgefallen wäre. Kurz vor Thomas Müllers Großchance in der 13. Minute wehrte Filipe Luís eine Flanke von Philipp Lahm klar mit der Hand ab! Da hätte es eigentlich Strafstoß für die Münchener geben müssen. Bitter für den FCB.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1802863",
+      "tickertime": "28.09.2016 21:49:48",
+      "minute": "46",
+      "content": "Auf geht's! 45 spannende Minuten trennen Borussia Mönchengladbach noch von der Sensation. Diese soll vorerst mit unverändertem Personal erreicht werden. Auch die Gäste haben nicht gewechselt.",
+      "match_id": "8305385"
+    },
+    {
+      "id": "1802864",
+      "tickertime": "28.09.2016 21:49:51",
+      "minute": "45",
+      "content": "Das Tornetz hat sich zu einem Teil von der Querlatte gelöst. Die Verantwortlichen nehmen sich der Sache nun an und so kann es dann auch in wenigen Minuten losgehen.",
+      "match_id": "8305383"
     }
   ]
 }
