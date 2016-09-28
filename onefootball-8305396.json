@@ -2,7 +2,7 @@
   "meta": {
     "competitionId": "5",
     "seasonId": "1699",
-    "matchdayId": "5669739",
+    "matchdayId": "0",
     "matchId": "504221",
     "provider": "goal",
     "teamHomeIds": [
@@ -1134,6 +1134,23 @@
       "matchId": "504221",
       "matchdayId": "5669739",
       "eventTime": "2016-09-28T20:21:34Z",
+      "eventTeam": "0",
+      "player1PhotoSrc": "",
+      "player1Id": "0",
+      "player2PhotoSrc": "",
+      "player2Id": "0",
+      "provider": "goal"
+    },
+    {
+      "commentId": "54971695",
+      "type": "substitution",
+      "lastmodified": 1475094229,
+      "minute": 79,
+      "comment": "Atletico have made their second substitution of the night, with Gaitan coming on to replace Torres.",
+      "sortId": 66,
+      "matchId": "504221",
+      "matchdayId": "5669739",
+      "eventTime": "2016-09-28T20:23:49Z",
       "eventTeam": "0",
       "player1PhotoSrc": "",
       "player1Id": "0",
