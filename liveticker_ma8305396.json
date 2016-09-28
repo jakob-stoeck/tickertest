@@ -299,5 +299,50 @@
     "headline": "",
     "content": "Eine halbe Stunde ist um. Die Bayern dominierten die erste Viertelstunde, die Madrilenen die zweiten 15 Minuten. Das Remis zu diesem Zeitpunkt geht in Ordnung. Derzeit spielt sich vieles wieder im Mittelfeld ab. Atlético zieht sich wieder mehr und mehr zurück.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1802745",
+    "event": {
+      "id": "21367964",
+      "team": {
+        "id": "209",
+        "name": "Bayern München"
+      },
+      "person": {
+        "id": "152471",
+        "name": "Thiago",
+        "firstname": "",
+        "surname": "Thiago",
+        "fullname": "Thiago Alcântara do Nascimento",
+        "gender": "male",
+        "birthday": "11.04.1991",
+        "height": "174",
+        "weight": "71",
+        "person_detail": {
+          "id": "141819",
+          "position_1": "8",
+          "position_2": "7",
+          "preferred_side": "right",
+          "birth_place": "San Pietro Vernotico",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "193"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "33",
+      "additional_person_id": "0",
+      "created": "28.09.2016 21:20"
+    },
+    "tickertime": "28.09.2016 21:20:19",
+    "minute": "33",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Thiago (Bayern München)</b> <br/>Thiago mit dem taktischen Foul an Filipe Luís. Gelb für den Edeltechniker der Bayern.",
+    "syndicate": "heimspiel"
   }
 ]
