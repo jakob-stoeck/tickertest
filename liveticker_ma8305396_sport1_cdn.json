@@ -575,5 +575,103 @@
     "headline": "",
     "content": "Der kommt immerhin mal aufs Tor! Ribéry und Alaba kombinieren sich stark über links durch. Links im Strafraum kommt der aufgerückte Linksverteidiger der Bayern zum Schuss, scheitert aber mit dem unplatzierten Versuch an Oblak. Der Torhüter von Atlético kann zur Ecke abwehren, welche schließlich nichts einbringt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1802950",
+    "tickertime": "28.09.2016 22:01:32",
+    "minute": "57",
+    "headline": "",
+    "content": "Robert Lewandowski wird am gegnerischen Strafraum klar von Stefan Savić gefoult, bekommt aber keinen Freistoß für sich gepfiffen. Daraufhin ruft er seinem polnischen Landsmann Szymon Marciniak ein paar deutliche Worte zu. Das wäre eine exzellente Freistoßposition gewesen.",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1802957",
+    "event": {
+      "id": "21368413",
+      "team": {
+        "id": "209",
+        "name": "Bayern München"
+      },
+      "person": {
+        "id": "3249",
+        "name": "Thomas Müller",
+        "firstname": "Thomas",
+        "surname": "Müller",
+        "fullname": "Thomas Müller",
+        "gender": "male",
+        "birthday": "13.09.1989",
+        "height": "186",
+        "weight": "74",
+        "person_detail": {
+          "id": "96744",
+          "position_1": "8",
+          "position_2": "11",
+          "preferred_side": "right",
+          "birth_place": "Weilheim",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "59",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:02"
+    },
+    "tickertime": "28.09.2016 22:02:04",
+    "minute": "59",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei Bayern München -> Thomas Müller</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1802960",
+    "event": {
+      "id": "21368414",
+      "team": {
+        "id": "209",
+        "name": "Bayern München"
+      },
+      "person": {
+        "id": "19538",
+        "name": "Arjen Robben",
+        "firstname": "Arjen",
+        "surname": "Robben",
+        "fullname": "Arjen Robben",
+        "gender": "male",
+        "birthday": "23.01.1984",
+        "height": "180",
+        "weight": "80",
+        "person_detail": {
+          "id": "3819",
+          "position_1": "12",
+          "position_2": "9",
+          "preferred_side": "left",
+          "birth_place": "Bedum",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "149"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "59",
+      "additional_person_id": "0",
+      "created": "28.09.2016 22:02"
+    },
+    "tickertime": "28.09.2016 22:02:12",
+    "minute": "59",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei Bayern München -> Arjen Robben</span>",
+    "syndicate": "heimspiel"
   }
 ]
