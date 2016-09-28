@@ -2,7 +2,7 @@
   "meta": {
     "competitionId": "5",
     "seasonId": "1699",
-    "matchdayId": "5669739",
+    "matchdayId": "0",
     "matchId": "504221",
     "provider": "goal",
     "teamHomeIds": [
@@ -777,6 +777,23 @@
       "matchId": "504221",
       "matchdayId": "5669739",
       "eventTime": "2016-09-28T19:49:34Z",
+      "eventTeam": "0",
+      "player1PhotoSrc": "",
+      "player1Id": "0",
+      "player2PhotoSrc": "",
+      "player2Id": "0",
+      "provider": "goal"
+    },
+    {
+      "commentId": "54964639",
+      "type": "other",
+      "lastmodified": 1475092279,
+      "minute": 47,
+      "comment": "Atletico immediately win the ball and push forward on a patient attacking move deep down the left wing. Koke picks up possession in a pocket of space 30 yards away from the Bayern goal and quickly curls a cross into the heart of the penalty area, but there's nobody there to meet it and the ball ends up flying into the hands of Neuer.",
+      "sortId": 45,
+      "matchId": "504221",
+      "matchdayId": "5669739",
+      "eventTime": "2016-09-28T19:51:19Z",
       "eventTeam": "0",
       "player1PhotoSrc": "",
       "player1Id": "0",
