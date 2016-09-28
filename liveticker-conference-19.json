@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "68",
+      "current_minute": "69",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "65",
+      "current_minute": "66",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "64",
+      "current_minute": "65",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "66",
+      "current_minute": "68",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "67",
+      "current_minute": "68",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "66",
+      "current_minute": "67",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -4923,7 +4923,7 @@
       "id": "1802931",
       "tickertime": "28.09.2016 21:59:09",
       "minute": "55",
-      "content": "<b>Elfmeter für PSV!</b> Terentyev kommt sieben Meter vor dem Tor Granat beim Zweikampf mit de Jong zur Hilfe. Kurz nachdem der Russe am Holländer dran ist, sinkt de Jong sofort ohne Foulspiel zu Boden. Zweifelhafter Elfmeter!",
+      "content": "<b>Elfmeter für PSV!</b> Terentyev kommt sieben Meter vor dem Tor Granat beim Zweikampf mit de Jong zur Hilfe. Kurz nachdem der Russe am Holländer dran ist, sinkt de Jong sofort ohne Foulspiel zu Boden. Eher trifft der ehemalige Gladbacher eher seinen Gegenspieler. Zweifelhafter Elfmeter!",
       "match_id": "8305404"
     },
     {
@@ -6174,6 +6174,122 @@
       "minute": "66",
       "content": "Nach kurzer Pause schalten sich die Gastgeber dann doch wieder in der Offensive ein. Ein hoher Ball aus dem Mittelfeld wird lang und länger und kommt schließlich im Sechzehner herunter, wo Walcott dem Leder hinterher hechtet, aber dann doch ein bisschen zu langsam ist und verpasst.",
       "match_id": "8305360"
+    },
+    {
+      "id": "1803015",
+      "tickertime": "28.09.2016 22:08:04",
+      "minute": "64",
+      "content": "Wie beim Handball spielen sich die Bayern die Kugel in der Hälfte der Hausherren zu. Weiterhin finden sie dabei aber keine Lücke. Die Mannschaft von Diego Simeone rührt Beton an und bietet nichts an.",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803016",
+      "tickertime": "28.09.2016 22:08:17",
+      "minute": "63",
+      "content": "Die letzten Minuten haben den bisherigen Spielverlauf auf den Kopf gestellt. Auf einmal bietet die Partie alles, was ein Fußballspiel braucht: Tore, Kampf und Drama.",
+      "match_id": "8305371"
+    },
+    {
+      "id": "1803017",
+      "tickertime": "28.09.2016 22:08:22",
+      "minute": "63",
+      "content": "Arkadiusz Milik scheint schon etwas satt zu sein und semmelt aus aussichtsreicher Position drüber. Im Vorlauf dieser prächtigen Möglichkeit sah Torhüter Júlio César wieder nicht so gut aus.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803018",
+      "tickertime": "28.09.2016 22:08:27",
+      "minute": "64",
+      "content": "Die Gäste werden stärker. Celtic verlegt sich mehr und mehr aufs Kontern und überlässt City zunehmend das Mittelfeld. Ob das gut geht?",
+      "match_id": "8305389"
+    },
+    {
+      "id": "1803019",
+      "event": {
+        "id": "21368431",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "152471",
+          "name": "Thiago",
+          "firstname": "",
+          "surname": "Thiago",
+          "fullname": "Thiago Alcântara do Nascimento",
+          "gender": "male",
+          "birthday": "11.04.1991",
+          "height": "174",
+          "weight": "71",
+          "person_detail": {
+            "id": "141819",
+            "position_1": "8",
+            "position_2": "7",
+            "preferred_side": "right",
+            "birth_place": "San Pietro Vernotico",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "193"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "66",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:08"
+      },
+      "tickertime": "28.09.2016 22:08:40",
+      "minute": "66",
+      "content": "<span class=\"rottext\">Auswechslung bei Bayern München -> Thiago</span>",
+      "match_id": "8305396"
+    },
+    {
+      "id": "1803022",
+      "event": {
+        "id": "21368432",
+        "team": {
+          "id": "209",
+          "name": "Bayern München"
+        },
+        "person": {
+          "id": "234281",
+          "name": "Joshua Kimmich",
+          "firstname": "Joshua",
+          "surname": "Kimmich",
+          "fullname": "Joshua Kimmich",
+          "gender": "male",
+          "birthday": "08.02.1995",
+          "height": "176",
+          "weight": "70",
+          "person_detail": {
+            "id": "176403",
+            "position_1": "7",
+            "position_2": "4",
+            "preferred_side": "right",
+            "birth_place": "Rottweil",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "47"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-in",
+        "minute": "66",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:08"
+      },
+      "tickertime": "28.09.2016 22:08:48",
+      "minute": "66",
+      "content": "<span class=\"gruentext\">Einwechslung bei Bayern München -> Joshua Kimmich</span>",
+      "match_id": "8305396"
     }
   ]
 }
