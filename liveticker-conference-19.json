@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -88,7 +88,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:44",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "221",
         "name": "Beşiktaş"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "82",
+      "current_minute": "83",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -226,7 +226,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:45",
-      "current_minute": "86",
+      "current_minute": "87",
       "home": {
         "id": "356",
         "name": "Celtic Glasgow"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "84",
+      "current_minute": "85",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -8865,6 +8865,13 @@
       "match_id": "8305360"
     },
     {
+      "id": "1803187",
+      "tickertime": "28.09.2016 22:25:04",
+      "minute": "82",
+      "content": "Wenige Minuten vor dem Ende scheint es so, als ob PSV noch mehr im Tank hat. Die letzten Minuten und Aktionen gehörten klar den Holländern. Rostov kommt offensiv kaum noch zur Geltung.",
+      "match_id": "8305404"
+    },
+    {
       "id": "1803170",
       "tickertime": "28.09.2016 22:25:17",
       "minute": "84",
@@ -8977,7 +8984,7 @@
       },
       "tickertime": "28.09.2016 22:25:54",
       "minute": "85",
-      "content": "<b>Gelbe Karte für Mohamed Elyounoussi (FC Basel)</b> <br/>",
+      "content": "<b>Gelbe Karte für Mohamed Elyounoussi (FC Basel)</b> <br/>Elyounoussi bringt Sánchez ganz knapp vor der Strafraumgrenze zu Fall und bekommt die berechtige Gelbe Karte gezeigt.",
       "match_id": "8305360"
     },
     {
@@ -9160,8 +9167,59 @@
       },
       "tickertime": "28.09.2016 22:26:26",
       "minute": "84",
-      "content": "<b>Elfmeter verschossen von Antoine Griezmann, Atlético Madrid</b> <br/>",
+      "content": "<b>Elfmeter verschossen von Antoine Griezmann, Atlético Madrid</b> <br/>Das ist ja ein Ding! Mit voller Wucht zimmert Griezmann die Kugel an die Latte! Neuer war da bereits geschlagen. Bayern bleibt damit also am Leben!",
       "match_id": "8305396"
+    },
+    {
+      "id": "1803190",
+      "tickertime": "28.09.2016 22:27:05",
+      "minute": "82",
+      "content": "Die Portugiesen haben sich unterdessen bereits mit der Niederlage abgefunden und sind nun in erster Linie darauf erpicht, sich kein fünftes Gegentor zu fangen.",
+      "match_id": "8305383"
+    },
+    {
+      "id": "1803191",
+      "event": {
+        "id": "21368831",
+        "team": {
+          "id": "1794",
+          "name": "SSC Neapel"
+        },
+        "person": {
+          "id": "1250",
+          "name": "Dries Mertens",
+          "firstname": "Dries",
+          "surname": "Mertens",
+          "fullname": "Dries Mertens",
+          "gender": "male",
+          "birthday": "06.05.1987",
+          "height": "168",
+          "weight": "60",
+          "person_detail": {
+            "id": "75418",
+            "position_1": "10",
+            "position_2": "8",
+            "preferred_side": "right",
+            "birth_place": "Leuven",
+            "died": "no"
+          },
+          "country": [
+            {
+              "id": "23"
+            }
+          ]
+        },
+        "action": "playing",
+        "content": "",
+        "kind": "substitute-out",
+        "minute": "82",
+        "additional_person_id": "0",
+        "created": "28.09.2016 22:27"
+      },
+      "tickertime": "28.09.2016 22:27:19",
+      "minute": "82",
+      "content": "<span class=\"rottext\">Auswechslung bei SSC Napoli -> Dries Mertens</span>",
+      "match_id": "8305383"
     }
   ]
 }
