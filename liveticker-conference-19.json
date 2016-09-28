@@ -8,7 +8,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:46:01",
-      "current_minute": "89",
+      "current_minute": "90",
       "home": {
         "id": "127",
         "name": "Arsenal FC"
@@ -48,7 +48,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:45:50",
-      "current_minute": "89",
+      "current_minute": "90",
       "home": {
         "id": "37760",
         "name": "Ludogorez Rasgrad"
@@ -128,7 +128,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:50:10",
-      "current_minute": "85",
+      "current_minute": "86",
       "home": {
         "id": "1794",
         "name": "SSC Neapel"
@@ -168,7 +168,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:47:21",
-      "current_minute": "88",
+      "current_minute": "89",
       "home": {
         "id": "253",
         "name": "Bor. Mönchengladbach"
@@ -266,7 +266,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:09",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "162",
         "name": "Atlético Madrid"
@@ -324,7 +324,7 @@
       "finished": "no",
       "current_period": "second-half-start",
       "current_period_start": "2016-09-28 21:48:12",
-      "current_minute": "87",
+      "current_minute": "88",
       "home": {
         "id": "791",
         "name": "FK Rostov"
@@ -9723,6 +9723,13 @@
       "minute": "88",
       "content": "<span class=\"gruentext\">Einwechslung bei PFC Ludogorets Razgrad -> Claudiu Keșerü</span>",
       "match_id": "8305371"
+    },
+    {
+      "id": "1803215",
+      "tickertime": "28.09.2016 22:29:58",
+      "minute": "87",
+      "content": "Vom Publikum angepeitscht startet Gladbach die Schlussoffensive, ist in den entscheidenden Aktionen aber nicht mehr zielstrebig genug und kommt so nicht mehr in die Gefahrenzone.",
+      "match_id": "8305385"
     }
   ]
 }
