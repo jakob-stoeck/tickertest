@@ -625,7 +625,52 @@
     "tickertime": "29.09.2016 20:12:45",
     "minute": "55",
     "headline": "",
-    "content": "<b>Salzburg fast mit dem Anschlusstreffer!</b>",
+    "content": "<b>Salzburg fast mit dem Anschlusstreffer!</b> Plätzlich wackelt die Schalker Defensive! Stefan Lainer tanzt sich am rechten Strafaumrand in Eigenregie durch die Schalker Hintermannschaft und steht auf einmal frei vor Fährmann. Den Schuss aus spitzem Winkel holt der Torhüter mit dem ausgefahrenen Bein aus der Gefahrenzone. Das war knapp!",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803614",
+    "event": {
+      "id": "21375171",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "10439",
+        "name": "Benedikt Höwedes",
+        "firstname": "Benedikt",
+        "surname": "Höwedes",
+        "fullname": "Benedikt Höwedes",
+        "gender": "male",
+        "birthday": "29.02.1988",
+        "height": "187",
+        "weight": "82",
+        "person_detail": {
+          "id": "58935",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Haltern",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "3:0",
+      "kind": "goal",
+      "minute": "58",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:15"
+    },
+    "tickertime": "29.09.2016 20:15:02",
+    "minute": "58",
+    "headline": "",
+    "content": "<b>Tooor für FC Schalke 04, 3:0 durch Benedikt Höwedes</b> <br/>",
     "syndicate": "heimspiel"
   }
 ]
