@@ -1,21 +1,18 @@
 #!/bin/bash
 watch -n5 '\
-for i in 8305396; do \
-curl --compressed -s "http://sportsapi.sport1.de/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}.json" \
+for i in 8315073; do \
+curl --compressed -s "http://sportsapi.sport1.de/liveticker/co132/ma${i}" | jq '.' > "liveticker_ma${i}.json" \
 && curl --compressed -s "http://sportsapi.sport1.de/match/ma${i}" | jq '.' > "match_ma${i}.json" \
 && curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json" \
-&& curl --compressed -s "https://api.sport1.de/api/sports/liveticker/co19/ma${i}" | jq '.' > "liveticker_ma${i}_sport1_cdn.json" \
+&& curl --compressed -s "https://api.sport1.de/api/sports/liveticker/co132/ma${i}" | jq '.' > "liveticker_ma${i}_sport1_cdn.json" \
 && curl --compressed -s "https://api.sport1.de/api/sports/match/ma${i}" | jq '.' > "match_ma${i}_sport1_cdn.json" \
-&& curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json" \
-&& curl --compressed -s "https://feedmonster.onefootball.com/ticker/il/index.php?lang=en&do=match&competitionId=5&seasonId=1699&matchdayId=0&matchId=504221&format=json&gzip=0" | jq '.' > "onefootball-${i}.json"; \
+&& curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json"; \
 done; \
-curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28.json"; \
-curl --compressed -s "https://api.sport1.de/api/sports/complete-gameplan/co19/sp1" | jq '.' > "complete-gameplan-19_sport1_cdn.json"; \
-curl --compressed -s "http://sportsapi.sport1.de/liveticker-by-competition-date/co19/da2016-09-28" | jq '.' > "liveticker-conference-19.json"; \
-curl --compressed -s "https://api.sport1.de/api/sports/liveticker-by-competition-date/co19/da2016-09-28" | jq '.' > "liveticker-conference-19_sport1_cdn.json"; \
-curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-28" | jq '.' > "matches-by-date2016-09-28_sport1_cdn.json"; \
-curl --compressed -s "http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2016-17/2/3685876/livematch_madrid-atletico_bayern-muenchen-14.html" | lynx -dump -stdin -nolist > "kicker-8305396.txt"; \
-curl --compressed -s http://sport.bild.de/fussball/champions-league/konferenz-ticker | lynx -dump -stdin -nolist > "bild-8305396.txt"; \
+curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-29" | jq '.' > "matches-by-date2016-09-29.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/complete-gameplan/co132/sp1" | jq '.' > "complete-gameplan-19_sport1_cdn.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-29" | jq '.' > "matches-by-date2016-09-29_sport1_cdn.json"; \
+curl --compressed -s "http://www.kicker.de/news/fussball/uefa/spielrunde/europa-league/2016-17/2/3687230/livematch_fc-schalke-04-2_rb-salzburg-964.html" | lynx -dump -stdin -nolist > "kicker-8315073.txt"; \
+curl --compressed -s http://sport.bild.de/fussball/europa-league/ma8315073/direkter-vergleich/ | lynx -dump -stdin -nolist > "bild-8315073.txt"; \
 git add . && git commit -m "update"'
 
 

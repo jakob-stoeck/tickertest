@@ -1,0 +1,143 @@
+{
+  "match": {
+    "id": "8315073",
+    "round_id": "67561",
+    "round": {
+      "id": "67561",
+      "season_id": "21936",
+      "name": "Gruppe I",
+      "current_matchday": "0",
+      "round_order": "1",
+      "table_mode": {
+        "id": "1",
+        "name": "Fußball - Standard",
+        "explanation": "Das klassische 3-Punkte System",
+        "show_draw": "yes",
+        "show_percentage": "no",
+        "show_points": "yes",
+        "show_minuspoints": "no"
+      }
+    },
+    "matchday": "0",
+    "group_matchday": "2",
+    "match_date": "29.09.2016",
+    "match_time": "19:00",
+    "finished": "no",
+    "live_status": "full",
+    "current_period": "game-start",
+    "current_period_start": "2016-09-29 19:00:20",
+    "current_minute": "32",
+    "attendance": "",
+    "home": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "away": {
+      "id": "1536",
+      "name": "Salzburg",
+      "shortname": "Salzburg",
+      "country": {
+        "id": "158",
+        "name": "Österreich",
+        "code": "AUT",
+        "iso": "AT"
+      }
+    },
+    "match_result": [
+      {
+        "match_result": "1",
+        "match_result_at": "0",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "0",
+        "place": "away"
+      }
+    ],
+    "match_meta": [
+      {
+        "kind": "sport1.fm-single-url",
+        "content": "http://playerservices.streamtheworld.com/pls/SPORT1FM_24_7.pls"
+      },
+      {
+        "kind": "sport1.fm-single-url.mp3",
+        "content": "http://stream.sport1.fm/api/livestream-redirect/SPORT1FM_24_7.mp3"
+      }
+    ],
+    "venue": {
+      "id": "2120",
+      "name": "Veltins-Arena",
+      "kind": "Stadion",
+      "venue_detail": {
+        "id": "2120",
+        "capacity": "61973",
+        "built": "2001"
+      },
+      "town": {
+        "id": "526",
+        "name": "Gelsenkirchen"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      }
+    },
+    "referee": {
+      "id": "216627",
+      "name": "Serdar Gözübüyük",
+      "firstname": "Serdar",
+      "surname": "Gözübüyük",
+      "fullname": "Serdar Gözübüyük",
+      "gender": "male",
+      "birthday": "29.10.1985",
+      "height": "0",
+      "weight": "0",
+      "person_detail": {
+        "id": "164312",
+        "position_1": "",
+        "position_2": "",
+        "preferred_side": "unknown",
+        "birth_place": "Haarlem",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "149",
+          "name": "Niederlande"
+        }
+      ]
+    }
+  },
+  "match_result_at": [
+    {
+      "id": "0",
+      "name": "Endergebnis",
+      "shortname": "Ergebnis"
+    },
+    {
+      "id": "1",
+      "name": "nach 1. Halbzeit",
+      "shortname": "n. 1. HZ"
+    },
+    {
+      "id": "2",
+      "name": "nach 2. Halbzeit",
+      "shortname": "n. 2. HZ"
+    },
+    {
+      "id": "21",
+      "name": "nach Verlängerung",
+      "shortname": "n.V."
+    }
+  ]
+}
