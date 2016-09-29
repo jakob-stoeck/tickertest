@@ -1005,5 +1005,50 @@
     "headline": "",
     "content": "Die heutige Torflut wird der Schalker Fangemeinde sicherlich gut tun. In der Liga kommen die Knappen nur auf minimalistische zwei Tore.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803678",
+    "event": {
+      "id": "21375510",
+      "team": {
+        "id": "1536",
+        "name": "Salzburg"
+      },
+      "person": {
+        "id": "8568",
+        "name": "Jonatan Soriano",
+        "firstname": "",
+        "surname": "Jonatan Soriano",
+        "fullname": "Jonatan Soriano Casas",
+        "gender": "male",
+        "birthday": "24.09.1985",
+        "height": "180",
+        "weight": "70",
+        "person_detail": {
+          "id": "12207",
+          "position_1": "11",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Pont Vilomara",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "193"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "3:1",
+      "kind": "right-foot",
+      "minute": "72",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:29"
+    },
+    "tickertime": "29.09.2016 20:29:12",
+    "minute": "72",
+    "headline": "",
+    "content": "<b>Tooor für RB Salzburg, 3:1 durch Jonatan Soriano</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
