@@ -3257,6 +3257,318 @@
     "created": "29.09.2016 20:15:02"
   },
   {
+    "id": "21375481",
+    "team": {
+      "id": "1536",
+      "name": "Salzburg",
+      "shortname": "Salzburg",
+      "microname": "SAL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1536",
+        "members": "800",
+        "fullname": "Fußballclub Red Bull Salzburg",
+        "foundation": "1933-00-00",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "158",
+        "name": "Österreich",
+        "code": "AUT",
+        "iso": "AT"
+      },
+      "venue": {
+        "id": "1923",
+        "name": "Red Bull Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1923",
+          "capacity": "31895",
+          "built": "2003"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1293482",
+      "shirtnumber": "18",
+      "role": {
+        "id": "4",
+        "name": "Sturm",
+        "group": "Athletes",
+        "order": "4"
+      }
+    },
+    "person": {
+      "id": "253617",
+      "name": "Takumi Minamino",
+      "firstname": "Takumi",
+      "surname": "Minamino",
+      "fullname": "Takumi Minamino",
+      "gender": "male",
+      "birthday": "16.01.1995",
+      "height": "173",
+      "weight": "67",
+      "person_detail": {
+        "id": "190567",
+        "position_1": "10",
+        "position_2": "12",
+        "preferred_side": "unknown",
+        "birth_place": "",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "91",
+          "name": "Japan",
+          "code": "JPN",
+          "iso": "JP"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:23:00"
+  },
+  {
+    "id": "21375483",
+    "team": {
+      "id": "1536",
+      "name": "Salzburg",
+      "shortname": "Salzburg",
+      "microname": "SAL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1536",
+        "members": "800",
+        "fullname": "Fußballclub Red Bull Salzburg",
+        "foundation": "1933-00-00",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "158",
+        "name": "Österreich",
+        "code": "AUT",
+        "iso": "AT"
+      },
+      "venue": {
+        "id": "1923",
+        "name": "Red Bull Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1923",
+          "capacity": "31895",
+          "built": "2003"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1396616",
+      "shirtnumber": "27",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "319011",
+      "name": "Konrad Laimer",
+      "firstname": "Konrad",
+      "surname": "Laimer",
+      "fullname": "Konrad Laimer",
+      "gender": "male",
+      "birthday": "27.05.1997",
+      "height": "179",
+      "weight": "68",
+      "person_detail": {
+        "id": "244455",
+        "position_1": "7",
+        "position_2": "13",
+        "preferred_side": "right",
+        "birth_place": "Salzburg",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:23:00"
+  },
+  {
+    "id": "21375484",
+    "team": {
+      "id": "1536",
+      "name": "Salzburg",
+      "shortname": "Salzburg",
+      "microname": "SAL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1536",
+        "members": "800",
+        "fullname": "Fußballclub Red Bull Salzburg",
+        "foundation": "1933-00-00",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "158",
+        "name": "Österreich",
+        "code": "AUT",
+        "iso": "AT"
+      },
+      "venue": {
+        "id": "1923",
+        "name": "Red Bull Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1923",
+          "capacity": "31895",
+          "built": "2003"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1618831",
+      "shirtnumber": "25",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "268919",
+      "name": "Josip Radošević",
+      "firstname": "Josip",
+      "surname": "Radošević",
+      "fullname": "Josip Radošević",
+      "gender": "male",
+      "birthday": "03.04.1994",
+      "height": "180",
+      "weight": "74",
+      "person_detail": {
+        "id": "203861",
+        "position_1": "7",
+        "position_2": "0",
+        "preferred_side": "right",
+        "birth_place": "Split",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "109",
+          "name": "Kroatien",
+          "code": "CRO",
+          "iso": "HR"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:23:00"
+  },
+  {
+    "id": "21375478",
+    "team": {
+      "id": "1536",
+      "name": "Salzburg",
+      "shortname": "Salzburg",
+      "microname": "SAL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1536",
+        "members": "800",
+        "fullname": "Fußballclub Red Bull Salzburg",
+        "foundation": "1933-00-00",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "158",
+        "name": "Österreich",
+        "code": "AUT",
+        "iso": "AT"
+      },
+      "venue": {
+        "id": "1923",
+        "name": "Red Bull Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1923",
+          "capacity": "31895",
+          "built": "2003"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1407961",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "279390",
+      "name": "Valentino Lazaro",
+      "firstname": "Valentino",
+      "surname": "Lazaro",
+      "fullname": "Valentino Lazaro",
+      "gender": "male",
+      "birthday": "24.03.1996",
+      "height": "180",
+      "weight": "76",
+      "person_detail": {
+        "id": "213051",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "unknown",
+        "birth_place": "Graz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:23:57"
+  },
+  {
     "id": "1556265",
     "team": {
       "id": "694",
