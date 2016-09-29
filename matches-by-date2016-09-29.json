@@ -2806,8 +2806,8 @@
                   "type": "club"
                 },
                 "current_minute": "45",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-29 19:03:23",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-29 19:49:57",
                 "finished": "no",
                 "group_matchday": "2",
                 "home": {
@@ -2851,6 +2851,28 @@
                     "comment": "",
                     "match_result": "0",
                     "match_result_at": "0",
+                    "person_id": "0",
+                    "place": "away",
+                    "points": "0.000",
+                    "rank": "0",
+                    "rounds": "0",
+                    "team_id": "1753"
+                  },
+                  {
+                    "comment": "",
+                    "match_result": "0",
+                    "match_result_at": "1",
+                    "person_id": "0",
+                    "place": "home",
+                    "points": "0.000",
+                    "rank": "0",
+                    "rounds": "0",
+                    "team_id": "17757"
+                  },
+                  {
+                    "comment": "",
+                    "match_result": "0",
+                    "match_result_at": "1",
                     "person_id": "0",
                     "place": "away",
                     "points": "0.000",
