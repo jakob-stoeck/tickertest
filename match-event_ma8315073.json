@@ -4037,6 +4037,84 @@
     "created": "29.09.2016 20:37:58"
   },
   {
+    "id": "21375647",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "145000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1031398",
+      "shirtnumber": "7",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "231417",
+      "name": "Max Meyer",
+      "firstname": "Max",
+      "surname": "Meyer",
+      "fullname": "Maximilian Meyer",
+      "gender": "male",
+      "birthday": "18.09.1995",
+      "height": "172",
+      "weight": "67",
+      "person_detail": {
+        "id": "173867",
+        "position_1": "8",
+        "position_2": "0",
+        "preferred_side": "unknown",
+        "birth_place": "Oberhausen",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "89",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:45:47"
+  },
+  {
     "id": "1556265",
     "team": {
       "id": "694",
