@@ -803,6 +803,51 @@
     "syndicate": "heimspiel"
   },
   {
+    "id": "1803654",
+    "event": {
+      "id": "21375484",
+      "team": {
+        "id": "1536",
+        "name": "Salzburg"
+      },
+      "person": {
+        "id": "268919",
+        "name": "Josip Radošević",
+        "firstname": "Josip",
+        "surname": "Radošević",
+        "fullname": "Josip Radošević",
+        "gender": "male",
+        "birthday": "03.04.1994",
+        "height": "180",
+        "weight": "74",
+        "person_detail": {
+          "id": "203861",
+          "position_1": "7",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Split",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "109"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "65",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:23"
+    },
+    "tickertime": "29.09.2016 20:23:00",
+    "minute": "65",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei RB Salzburg -> Josip Radošević</span>",
+    "syndicate": "heimspiel"
+  },
+  {
     "id": "1803644",
     "tickertime": "29.09.2016 20:23:33",
     "minute": "65",
@@ -853,6 +898,51 @@
     "minute": "65",
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei RB Salzburg -> Valentino Lazaro</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803657",
+    "event": {
+      "id": "21375485",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "231656",
+        "name": "Leon Goretzka",
+        "firstname": "Leon",
+        "surname": "Goretzka",
+        "fullname": "Leon Goretzka",
+        "gender": "male",
+        "birthday": "06.02.1995",
+        "height": "189",
+        "weight": "79",
+        "person_detail": {
+          "id": "174106",
+          "position_1": "7",
+          "position_2": "13",
+          "preferred_side": "unknown",
+          "birth_place": "Bochum",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:24"
+    },
+    "tickertime": "29.09.2016 20:24:53",
+    "minute": "67",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Leon Goretzka</span>",
     "syndicate": "heimspiel"
   }
 ]
