@@ -1326,5 +1326,95 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Max Meyer</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803763",
+    "event": {
+      "id": "21375648",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "224697",
+        "name": "Benjamin Stambouli",
+        "firstname": "Benjamin",
+        "surname": "Stambouli",
+        "fullname": "Benjamin Stambouli",
+        "gender": "male",
+        "birthday": "13.08.1990",
+        "height": "180",
+        "weight": "82",
+        "person_detail": {
+          "id": "167681",
+          "position_1": "7",
+          "position_2": "4",
+          "preferred_side": "right",
+          "birth_place": "Marseille",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "61"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:46"
+    },
+    "tickertime": "29.09.2016 20:46:00",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Benjamin Stambouli</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803768",
+    "event": {
+      "id": "21375650",
+      "team": {
+        "id": "1536",
+        "name": "Salzburg"
+      },
+      "person": {
+        "id": "291202",
+        "name": "Wanderson",
+        "firstname": "",
+        "surname": "Wanderson",
+        "fullname": "Wanderson Maciel Sousa Campos",
+        "gender": "male",
+        "birthday": "07.10.1994",
+        "height": "175",
+        "weight": "71",
+        "person_detail": {
+          "id": "219294",
+          "position_1": "0",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "São Luís do Maranhão",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "34"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:46"
+    },
+    "tickertime": "29.09.2016 20:46:13",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei RB Salzburg -> Wanderson</span>",
+    "syndicate": "heimspiel"
   }
 ]
