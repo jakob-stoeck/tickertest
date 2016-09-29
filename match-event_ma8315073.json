@@ -3227,7 +3227,33 @@
     "content": "3:0",
     "kind": "right-foot",
     "minute": "58",
-    "additional_person_id": "0",
+    "additional_person": {
+      "id": "331158",
+      "name": "Breel Embolo",
+      "firstname": "Breel",
+      "surname": "Embolo",
+      "fullname": "Breel-Donald Embolo",
+      "gender": "male",
+      "birthday": "14.02.1997",
+      "height": "184",
+      "weight": "84",
+      "person_detail": {
+        "id": "255138",
+        "position_1": "11",
+        "position_2": "12",
+        "preferred_side": "unknown",
+        "birth_place": "Yaoundé",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "183",
+          "name": "Schweiz",
+          "code": "SUI",
+          "iso": "CH"
+        }
+      ]
+    },
     "created": "29.09.2016 20:15:02"
   },
   {
