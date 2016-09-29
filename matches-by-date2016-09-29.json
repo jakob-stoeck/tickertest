@@ -1544,7 +1544,7 @@
                   },
                   "type": "club"
                 },
-                "current_minute": "44",
+                "current_minute": "45",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-29 19:01:34",
                 "finished": "no",
@@ -1661,7 +1661,7 @@
                   },
                   "type": "club"
                 },
-                "current_minute": "44",
+                "current_minute": "45",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-29 19:01:14",
                 "finished": "no",
@@ -2262,7 +2262,7 @@
                   },
                   "type": "club"
                 },
-                "current_minute": "44",
+                "current_minute": "45",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-29 19:01:31",
                 "finished": "no",
@@ -2515,8 +2515,8 @@
                   "type": "club"
                 },
                 "current_minute": "45",
-                "current_period": "game-start",
-                "current_period_start": "2016-09-29 19:00:31",
+                "current_period": "first-half-end",
+                "current_period_start": "2016-09-29 19:45:50",
                 "finished": "no",
                 "group_matchday": "2",
                 "home": {
@@ -2566,6 +2566,28 @@
                     "rank": "0",
                     "rounds": "0",
                     "team_id": "1052"
+                  },
+                  {
+                    "comment": "",
+                    "match_result": "2",
+                    "match_result_at": "1",
+                    "person_id": "0",
+                    "place": "home",
+                    "points": "0.000",
+                    "rank": "0",
+                    "rounds": "0",
+                    "team_id": "1761"
+                  },
+                  {
+                    "comment": "",
+                    "match_result": "0",
+                    "match_result_at": "1",
+                    "person_id": "0",
+                    "place": "away",
+                    "points": "0.000",
+                    "rank": "0",
+                    "rounds": "0",
+                    "team_id": "1052"
                   }
                 ],
                 "match_time": "19:00",
@@ -2607,7 +2629,7 @@
                   },
                   "type": "club"
                 },
-                "current_minute": "42",
+                "current_minute": "43",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-29 19:03:23",
                 "finished": "no",
@@ -2718,7 +2740,7 @@
                   },
                   "type": "club"
                 },
-                "current_minute": "44",
+                "current_minute": "45",
                 "current_period": "game-start",
                 "current_period_start": "2016-09-29 19:01:22",
                 "finished": "no",
@@ -2844,7 +2866,7 @@
                 "match_result": [
                   {
                     "comment": "",
-                    "match_result": "0",
+                    "match_result": "1",
                     "match_result_at": "0",
                     "person_id": "0",
                     "place": "home",
@@ -2878,7 +2900,7 @@
                   "surname": "Eskov",
                   "weight": "0"
                 },
-                "winner_team_id": "0"
+                "winner_team_id": "728"
               }
             ],
             "name": "Gruppe L",
