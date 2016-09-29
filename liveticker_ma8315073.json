@@ -1066,5 +1066,50 @@
     "headline": "",
     "content": "Schalke wackelt gehörig! Der eingewechselte Minamino darf nach Belieben durch den Strafraum wuseln und legt zurück auf Wanderson, dessen Schuss aus dem Rückraum abgeblockt wird. Die Hausherren kriegen die Pille nicht weg, der folgende Abschluss von Minamino wird aber auch abgewehrt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803698",
+    "event": {
+      "id": "21375533",
+      "team": {
+        "id": "1536",
+        "name": "Salzburg"
+      },
+      "person": {
+        "id": "314171",
+        "name": "Duje Ćaleta-Car",
+        "firstname": "Duje",
+        "surname": "Ćaleta-Car",
+        "fullname": "Duje Ćaleta-Car",
+        "gender": "male",
+        "birthday": "17.09.1996",
+        "height": "192",
+        "weight": "87",
+        "person_detail": {
+          "id": "239914",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "unknown",
+          "birth_place": "Šibenik",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "109"
+          }
+        ]
+      },
+      "action": "card",
+      "content": "",
+      "kind": "yellow",
+      "minute": "76",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:33"
+    },
+    "tickertime": "29.09.2016 20:33:47",
+    "minute": "76",
+    "headline": "",
+    "content": "<b>Gelbe Karte für Duje Ćaleta-Car (RB Salzburg)</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
