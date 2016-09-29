@@ -1127,5 +1127,95 @@
     "headline": "",
     "content": "<b>Glück für Schalke!</b> Nach einem langen Abwurf von Walke landet die Kugel auf der rechten Seite. Die Salzburger Flanke von rechts landet bei Berisha, der aus herrlicher Position aber nur den mitgelaufenen Schöpf anköpft. Der Ball wäre drin gewesen!",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803722",
+    "event": {
+      "id": "21375552",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "229849",
+        "name": "Sead Kolašinac",
+        "firstname": "Sead",
+        "surname": "Kolašinac",
+        "fullname": "Sead Kolašinac",
+        "gender": "male",
+        "birthday": "20.06.1993",
+        "height": "183",
+        "weight": "85",
+        "person_detail": {
+          "id": "172422",
+          "position_1": "3",
+          "position_2": "7",
+          "preferred_side": "left",
+          "birth_place": "Karlsruhe",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "31"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-out",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:37"
+    },
+    "tickertime": "29.09.2016 20:37:47",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Sead Kolašinac</span>",
+    "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803724",
+    "event": {
+      "id": "21375553",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "280352",
+        "name": "Abdul Rahman Baba",
+        "firstname": "Abdul Rahman",
+        "surname": "Baba",
+        "fullname": "Abdul Rahman Baba",
+        "gender": "male",
+        "birthday": "02.07.1994",
+        "height": "179",
+        "weight": "70",
+        "person_detail": {
+          "id": "213920",
+          "position_1": "3",
+          "position_2": "0",
+          "preferred_side": "left",
+          "birth_place": "Tamale",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "66"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "80",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:37"
+    },
+    "tickertime": "29.09.2016 20:37:59",
+    "minute": "80",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Abdul Rahman Baba</span>",
+    "syndicate": "heimspiel"
   }
 ]
