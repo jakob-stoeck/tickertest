@@ -944,5 +944,50 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei FC Schalke 04 -> Leon Goretzka</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803660",
+    "event": {
+      "id": "21375488",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "7740",
+        "name": "Evgen Konoplyanka",
+        "firstname": "Evgen",
+        "surname": "Konoplyanka",
+        "fullname": "Evgen Konoplyanka",
+        "gender": "male",
+        "birthday": "29.09.1989",
+        "height": "176",
+        "weight": "69",
+        "person_detail": {
+          "id": "92668",
+          "position_1": "10",
+          "position_2": "8",
+          "preferred_side": "right",
+          "birth_place": "Kirovograd",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "225"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "67",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:25"
+    },
+    "tickertime": "29.09.2016 20:25:14",
+    "minute": "67",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei FC Schalke 04 -> Evgen Konoplyanka</span>",
+    "syndicate": "heimspiel"
   }
 ]
