@@ -3881,6 +3881,162 @@
     "created": "29.09.2016 20:33:47"
   },
   {
+    "id": "21375552",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "145000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1030263",
+      "shirtnumber": "6",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "229849",
+      "name": "Sead Kolašinac",
+      "firstname": "Sead",
+      "surname": "Kolašinac",
+      "fullname": "Sead Kolašinac",
+      "gender": "male",
+      "birthday": "20.06.1993",
+      "height": "183",
+      "weight": "85",
+      "person_detail": {
+        "id": "172422",
+        "position_1": "3",
+        "position_2": "7",
+        "preferred_side": "left",
+        "birth_place": "Karlsruhe",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "31",
+          "name": "Bosnien-Herzegowina",
+          "code": "BIH",
+          "iso": "BA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "80",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:37:47"
+  },
+  {
+    "id": "21375553",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "145000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1591237",
+      "shirtnumber": "14",
+      "role": {
+        "id": "2",
+        "name": "Abwehr",
+        "group": "Athletes",
+        "order": "2"
+      }
+    },
+    "person": {
+      "id": "280352",
+      "name": "Abdul Rahman Baba",
+      "firstname": "Abdul Rahman",
+      "surname": "Baba",
+      "fullname": "Abdul Rahman Baba",
+      "gender": "male",
+      "birthday": "02.07.1994",
+      "height": "179",
+      "weight": "70",
+      "person_detail": {
+        "id": "213920",
+        "position_1": "3",
+        "position_2": "0",
+        "preferred_side": "left",
+        "birth_place": "Tamale",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "66",
+          "name": "Ghana",
+          "code": "GHA",
+          "iso": "GH"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "80",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:37:58"
+  },
+  {
     "id": "1556265",
     "team": {
       "id": "694",
