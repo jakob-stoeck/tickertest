@@ -24,8 +24,8 @@
     "match_time": "19:00",
     "finished": "no",
     "live_status": "full",
-    "current_period": "game-start",
-    "current_period_start": "2016-09-29 19:00:20",
+    "current_period": "first-half-end",
+    "current_period_start": "2016-09-29 19:47:35",
     "current_minute": "45",
     "attendance": "",
     "home": {
@@ -59,6 +59,16 @@
       {
         "match_result": "0",
         "match_result_at": "0",
+        "place": "away"
+      },
+      {
+        "match_result": "1",
+        "match_result_at": "1",
+        "place": "home"
+      },
+      {
+        "match_result": "0",
+        "match_result_at": "1",
         "place": "away"
       }
     ],
