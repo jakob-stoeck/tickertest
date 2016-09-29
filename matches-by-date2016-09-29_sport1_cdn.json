@@ -3339,7 +3339,7 @@
             "id": "64131",
             "match": [
               {
-                "attendance": "4403",
+                "attendance": "",
                 "away": {
                   "country": {
                     "code": "GER",
@@ -3544,9 +3544,9 @@
                   "type": "club"
                 },
                 "current_minute": "90",
-                "current_period": "game-end",
-                "current_period_start": "2016-09-29 19:48:42",
-                "finished": "yes",
+                "current_period": "second-half-start",
+                "current_period_start": "2016-09-29 18:59:42",
+                "finished": "no",
                 "group_matchday": "0",
                 "home": {
                   "country": {
