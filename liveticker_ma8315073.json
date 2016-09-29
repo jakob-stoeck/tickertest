@@ -556,35 +556,35 @@
     "event": {
       "id": "21374947",
       "team": {
-        "id": "694",
-        "name": "FC Schalke 04"
+        "id": "1536",
+        "name": "Salzburg"
       },
       "person": {
-        "id": "10439",
-        "name": "Benedikt Höwedes",
-        "firstname": "Benedikt",
-        "surname": "Höwedes",
-        "fullname": "Benedikt Höwedes",
+        "id": "314171",
+        "name": "Duje Ćaleta-Car",
+        "firstname": "Duje",
+        "surname": "Ćaleta-Car",
+        "fullname": "Duje Ćaleta-Car",
         "gender": "male",
-        "birthday": "29.02.1988",
-        "height": "187",
-        "weight": "82",
+        "birthday": "17.09.1996",
+        "height": "192",
+        "weight": "87",
         "person_detail": {
-          "id": "58935",
+          "id": "239914",
           "position_1": "4",
           "position_2": "0",
-          "preferred_side": "right",
-          "birth_place": "Haltern",
+          "preferred_side": "unknown",
+          "birth_place": "Šibenik",
           "died": "no"
         },
         "country": [
           {
-            "id": "47"
+            "id": "109"
           }
         ]
       },
       "action": "goal",
-      "content": "2:0",
+      "content": "1:1",
       "kind": "right-foot",
       "minute": "47",
       "additional_person_id": "0",
@@ -593,7 +593,7 @@
     "tickertime": "29.09.2016 20:04:32",
     "minute": "47",
     "headline": "",
-    "content": "<b>Tooor für FC Schalke 04, 2:0 durch Benedikt Höwedes</b> <br/>",
+    "content": "<b>Tooor für FC Schalke 04, 2:0 durch Ćaleta-Car (Eigentor)</b> <br/>",
     "syndicate": "heimspiel"
   }
 ]
