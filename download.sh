@@ -9,8 +9,8 @@ curl --compressed -s "https://api.sport1.de/api/sports/match/ma${i}" | jq '.' > 
 curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json"; \
 done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-29" | jq '.' > "matches-by-date2016-09-29.json"; \
-curl --compressed -s "https://api.sport1.de/api/sports/complete-gameplan/co132/sp1" | jq '.' > "complete-gameplan-19_sport1_cdn.json"; \
-curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-29" | jq '.' > "matches-by-date2016-09-29_sport1_cdn.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/complete-gameplan/co132/sp1" | jq -S '.' > "complete-gameplan-19_sport1_cdn.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/matches-by-date/da2016-09-29" | jq -S '.' > "matches-by-date2016-09-29_sport1_cdn.json"; \
 curl --compressed -s "http://www.kicker.de/news/fussball/uefa/spielrunde/europa-league/2016-17/2/3687230/livematch_fc-schalke-04-2_rb-salzburg-964.html" | lynx -dump -stdin -nolist > "kicker-8315073.txt"; \
 curl --compressed -s http://sport.bild.de/fussball/europa-league/ma8315073/direkter-vergleich/ | lynx -dump -stdin -nolist > "bild-8315073.txt"; \
 git add . && git commit -m "update"'
