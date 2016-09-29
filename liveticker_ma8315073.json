@@ -550,5 +550,50 @@
     "headline": "",
     "content": "Weiter geht die wilde Fahrt! Schafft Schalke den zweiten Sieg in der laufenden Europa League oder setzt sich die Krise auch auf europäischer Bühne fort? Beide Teams gehen mit unverändertem Personal in den zweiten Spielabschnitt.",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803588",
+    "event": {
+      "id": "21374947",
+      "team": {
+        "id": "694",
+        "name": "FC Schalke 04"
+      },
+      "person": {
+        "id": "10439",
+        "name": "Benedikt Höwedes",
+        "firstname": "Benedikt",
+        "surname": "Höwedes",
+        "fullname": "Benedikt Höwedes",
+        "gender": "male",
+        "birthday": "29.02.1988",
+        "height": "187",
+        "weight": "82",
+        "person_detail": {
+          "id": "58935",
+          "position_1": "4",
+          "position_2": "0",
+          "preferred_side": "right",
+          "birth_place": "Haltern",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "goal",
+      "content": "2:0",
+      "kind": "right-foot",
+      "minute": "47",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:04"
+    },
+    "tickertime": "29.09.2016 20:04:32",
+    "minute": "47",
+    "headline": "",
+    "content": "<b>Tooor für FC Schalke 04, 2:0 durch Benedikt Höwedes</b> <br/>",
+    "syndicate": "heimspiel"
   }
 ]
