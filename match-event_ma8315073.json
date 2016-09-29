@@ -3569,6 +3569,162 @@
     "created": "29.09.2016 20:23:57"
   },
   {
+    "id": "21375485",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "145000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1033499",
+      "shirtnumber": "8",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "231656",
+      "name": "Leon Goretzka",
+      "firstname": "Leon",
+      "surname": "Goretzka",
+      "fullname": "Leon Goretzka",
+      "gender": "male",
+      "birthday": "06.02.1995",
+      "height": "189",
+      "weight": "79",
+      "person_detail": {
+        "id": "174106",
+        "position_1": "7",
+        "position_2": "13",
+        "preferred_side": "unknown",
+        "birth_place": "Bochum",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "47",
+          "name": "Deutschland",
+          "code": "GER",
+          "iso": "DE"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:24:53"
+  },
+  {
+    "id": "21375488",
+    "team": {
+      "id": "694",
+      "name": "FC Schalke 04",
+      "shortname": "Schalke",
+      "microname": "S04",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "694",
+        "members": "145000",
+        "fullname": "Fußball Club Gelsenkirchen-Schalke 04",
+        "foundation": "1904-05-04",
+        "colours": "blau-weiß"
+      },
+      "country": {
+        "id": "47",
+        "name": "Deutschland",
+        "code": "GER",
+        "iso": "DE"
+      },
+      "venue": {
+        "id": "2120",
+        "name": "Veltins-Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "2120",
+          "capacity": "61973",
+          "built": "2001"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1617907",
+      "shirtnumber": "11",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "7740",
+      "name": "Evgen Konoplyanka",
+      "firstname": "Evgen",
+      "surname": "Konoplyanka",
+      "fullname": "Evgen Konoplyanka",
+      "gender": "male",
+      "birthday": "29.09.1989",
+      "height": "176",
+      "weight": "69",
+      "person_detail": {
+        "id": "92668",
+        "position_1": "10",
+        "position_2": "8",
+        "preferred_side": "right",
+        "birth_place": "Kirovograd",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "225",
+          "name": "Ukraine",
+          "code": "UKR",
+          "iso": "UA"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-in",
+    "minute": "67",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:25:14"
+  },
+  {
     "id": "1556265",
     "team": {
       "id": "694",
