@@ -1416,5 +1416,50 @@
     "headline": "",
     "content": "<span class=\"rottext\">Auswechslung bei RB Salzburg -> Wanderson</span>",
     "syndicate": "heimspiel"
+  },
+  {
+    "id": "1803771",
+    "event": {
+      "id": "21375651",
+      "team": {
+        "id": "1536",
+        "name": "Salzburg"
+      },
+      "person": {
+        "id": "112341",
+        "name": "Marc Rzatkowski",
+        "firstname": "Marc",
+        "surname": "Rzatkowski",
+        "fullname": "Marc Rzatkowski",
+        "gender": "male",
+        "birthday": "02.03.1990",
+        "height": "171",
+        "weight": "65",
+        "person_detail": {
+          "id": "97805",
+          "position_1": "8",
+          "position_2": "6",
+          "preferred_side": "left",
+          "birth_place": "Bochum",
+          "died": "no"
+        },
+        "country": [
+          {
+            "id": "47"
+          }
+        ]
+      },
+      "action": "playing",
+      "content": "",
+      "kind": "substitute-in",
+      "minute": "89",
+      "additional_person_id": "0",
+      "created": "29.09.2016 20:46"
+    },
+    "tickertime": "29.09.2016 20:46:25",
+    "minute": "89",
+    "headline": "",
+    "content": "<span class=\"gruentext\">Einwechslung bei RB Salzburg -> Marc Rzatkowski</span>",
+    "syndicate": "heimspiel"
   }
 ]
