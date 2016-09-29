@@ -3257,6 +3257,84 @@
     "created": "29.09.2016 20:15:02"
   },
   {
+    "id": "21375478",
+    "team": {
+      "id": "1536",
+      "name": "Salzburg",
+      "shortname": "Salzburg",
+      "microname": "SAL",
+      "type": "club",
+      "gender": "male",
+      "show_team": "yes",
+      "team_detail": {
+        "id": "1536",
+        "members": "800",
+        "fullname": "Fußballclub Red Bull Salzburg",
+        "foundation": "1933-00-00",
+        "colours": "rot-weiß"
+      },
+      "country": {
+        "id": "158",
+        "name": "Österreich",
+        "code": "AUT",
+        "iso": "AT"
+      },
+      "venue": {
+        "id": "1923",
+        "name": "Red Bull Arena",
+        "kind": "Stadion",
+        "venue_detail": {
+          "id": "1923",
+          "capacity": "31895",
+          "built": "2003"
+        }
+      }
+    },
+    "team_person": {
+      "id": "1407961",
+      "shirtnumber": "10",
+      "role": {
+        "id": "3",
+        "name": "Mittelfeld",
+        "group": "Athletes",
+        "order": "3"
+      }
+    },
+    "person": {
+      "id": "279390",
+      "name": "Valentino Lazaro",
+      "firstname": "Valentino",
+      "surname": "Lazaro",
+      "fullname": "Valentino Lazaro",
+      "gender": "male",
+      "birthday": "24.03.1996",
+      "height": "180",
+      "weight": "76",
+      "person_detail": {
+        "id": "213051",
+        "position_1": "8",
+        "position_2": "10",
+        "preferred_side": "unknown",
+        "birth_place": "Graz",
+        "died": "no"
+      },
+      "country": [
+        {
+          "id": "158",
+          "name": "Österreich",
+          "code": "AUT",
+          "iso": "AT"
+        }
+      ]
+    },
+    "action": "playing",
+    "content": "",
+    "kind": "substitute-out",
+    "minute": "65",
+    "additional_person_id": "0",
+    "created": "29.09.2016 20:23:57"
+  },
+  {
     "id": "1556265",
     "team": {
       "id": "694",
