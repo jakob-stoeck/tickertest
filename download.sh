@@ -1,12 +1,12 @@
 #!/bin/bash
 watch -n5 '\
 for i in 8315073; do \
-curl --compressed -s "http://sportsapi.sport1.de/liveticker/co132/ma${i}" | jq '.' > "liveticker_ma${i}.json" \
-&& curl --compressed -s "http://sportsapi.sport1.de/match/ma${i}" | jq '.' > "match_ma${i}.json" \
-&& curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json" \
-&& curl --compressed -s "https://api.sport1.de/api/sports/liveticker/co132/ma${i}" | jq '.' > "liveticker_ma${i}_sport1_cdn.json" \
-&& curl --compressed -s "https://api.sport1.de/api/sports/match/ma${i}" | jq '.' > "match_ma${i}_sport1_cdn.json" \
-&& curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json"; \
+curl --compressed -s "http://sportsapi.sport1.de/liveticker/co132/ma${i}" | jq '.' > "liveticker_ma${i}.json"; \
+curl --compressed -s "http://sportsapi.sport1.de/match/ma${i}" | jq '.' > "match_ma${i}.json"; \
+curl --compressed -s "http://sportsapi.sport1.de/match-event/ma${i}" | jq '.' > "match-event_ma${i}.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/liveticker/co132/ma${i}" | jq '.' > "liveticker_ma${i}_sport1_cdn.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/match/ma${i}" | jq '.' > "match_ma${i}_sport1_cdn.json"; \
+curl --compressed -s "https://api.sport1.de/api/sports/match-event/ma${i}" | jq '.' > "match-event_ma${i}_sport1_cdn.json"; \
 done; \
 curl --compressed -s "http://sportsapi.sport1.de/matches-by-date/da2016-09-29" | jq '.' > "matches-by-date2016-09-29.json"; \
 curl --compressed -s "https://api.sport1.de/api/sports/complete-gameplan/co132/sp1" | jq '.' > "complete-gameplan-19_sport1_cdn.json"; \
